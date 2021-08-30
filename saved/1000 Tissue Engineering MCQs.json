@@ -1,0 +1,2598 @@
+[
+    {
+        "id": 1,
+        "Question": "Who discovered cells and when did they do that?",
+        "Options": [
+            "a) Matthias Schleiden and Theodor Schwann, 1839",
+            "b) Charles Darwin, 1859",
+            "c) Gregor Mendel, 1865",
+            "d) Robert Hooke, 1665"
+        ],
+        "Answer": "Answer: d\nExplanation: Robert Hooke was observing a slice of cork under the microscope and he remarked that he observed something which strangely resembled cellula (thus the name cells) or small rooms, however, what he was observing were actually dead plant cells.\n"
+    },
+    {
+        "id": 2,
+        "Question": "The development of __________ formed the basis of modern tissue engineering.",
+        "Options": [
+            "a) SK-OV-3 cell lines",
+            "b) Stem cell lines",
+            "c) A549 cell lines",
+            "d) OVCAR-3 cell lines"
+        ],
+        "Answer": "Answer: b\nExplanation: It was Rous and Jones, in 1916 discovered that trypsin is capable of degrading matrix proteins and thus separating cells to create cell suspensions.\n"
+    },
+    {
+        "id": 3,
+        "Question": "When was Tissue engineering conceptualized?",
+        "Options": [
+            "a) 1933",
+            "b) 1916",
+            "c) 1865",
+            "d) 1890"
+        ],
+        "Answer": "Answer: b\nExplanation: Since Tissue engineering aims at regenerating tissues and restoring cell functions, it will have to make use of stem cells to achieve this goal due to certain properties like self-renewal. The other options, SK-OV-3, A549 and OVCAR-3 are that of Cancer cell lines.\n"
+    },
+    {
+        "id": 4,
+        "Question": "When was the first neuronal tissue culture line developed?",
+        "Options": [
+            "a) 1907",
+            "b) 1936",
+            "c) 1885",
+            "d) 1880"
+        ],
+        "Answer": "Answer: a\nExplanation: In the year 1933, tissue engineering was conceptualized when mouse tumor cells demonstrated survival when encased in a biocompatible polymer membrane and implanted into the abdominal cavity of chick embryos.\n"
+    },
+    {
+        "id": 5,
+        "Question": "Karl Thiersch was a german surgeon in Munich. He attempted to grow skin cells into granulation wounds. While doing so, he discovered the importance of granulation tissue in the process of wound healing in 1874. In which stage of wound healing does granulation occur?",
+        "Options": [
+            "a) Hemostasis Phase",
+            "b) Proliferative Phase",
+            "c) Inflammatory Phase",
+            "d) Maturation Phase"
+        ],
+        "Answer": "Answer: a\nExplanation: Ross Harrison born in the year 1870, on the 13th day of January, after his schooling he went to John Hopkins University in the year 1886. In the year, he isolated neural tissue fragments from a frog’s embryo and grew the in vitro and thus he was the first to discover tissue culture and also the first one to develop neuronal tissue culture line.\n"
+    },
+    {
+        "id": 6,
+        "Question": "Who invented the technique of cell culture?",
+        "Options": [
+            "a) Alexis Carrel",
+            "b) Robert Hooke",
+            "c) Gregor Mendel",
+            "d) Charles Vacanti"
+        ],
+        "Answer": "Answer: c\nExplanation: There are four phases in wound healing namely Hemostasis (1st phase), Proliferative (2nd phase), Inflammatory (3rd phase) and Maturation (4th phase) phases. As soon as a person gets hurt, the emergency system of the body sends various signals to the immune system asking for help in stopping blood flow from increasing, this is done by forming a dam like blockage. In the 2nd phase neutrophils (a kind of WBCs) enter the wound in order to sanitize the wound by killing bacteria and eradicating debris. The in the 3rd phase actual wound healing process starts by formation of new connective tissue called granulation tissue, this is followed by covering of wound with epithelia. In the 4th phase the newly formed tissue gains strength and flexibility lost due to the wound.\n"
+    },
+    {
+        "id": 7,
+        "Question": "Thin split thickness skin grafts were first introduced in 1872 by ______ in France, and later by ______ in Germany in 1874.",
+        "Options": [
+            "a) Louis Léopold Ollier; Karl Thiersch",
+            "b) Charles Vacanti; Joseph Vacanti",
+            "c) Alfred Hershey; Martha Chase",
+            "d) Matthias Schleiden; Theodor Schwann"
+        ],
+        "Answer": "Answer: b\nExplanation: Following the development of neuronal cell lines in 1912, which was followed by Alexis Carrel who carried out an experiment where he placed tissue cultured from a chicken embryo in a stoppered Pyrex flask designed by him. He went on to maintain the living culture for about 20 years with a regular supply of nutrients. In the year 1998, the development of stem cell lines formed the basis of modern tissue engineering.\n"
+    },
+    {
+        "id": 8,
+        "Question": "When was the term “Tissue engineering” coined?",
+        "Options": [
+            "a) 1988",
+            "b) 1970",
+            "c) 2000",
+            "d) 1890"
+        ],
+        "Answer": "Answer: a\nExplanation: Alexis Carrel was the one who invented the technique of cell culture. Robert Hooke discovered and termed the term Cell. Gregor Mendel discovered the basic principles of heredity. Charles Vacanti was the first one to grow human cartilage in vitro on a biodegradable scaffold.\n"
+    },
+    {
+        "id": 9,
+        "Question": "What is the Goal of Tissue Engineering?",
+        "Options": [
+            "a) Providing biological substitutes to maintain and improve the function of damaged tissues",
+            "b) Cure or slow down a genetic disease by repairing the damaged gene responsible for the disease",
+            "c) Restore structure and function of damaged tissues and organs",
+            "d) Identifying basic genetic and molecular defects causing a disease, and developing molecular interventions to treat the same"
+        ],
+        "Answer": "Answer: a\nExplanation: The goal of Tissue Engineering is to provide biological substitutes to maintain and improve the function of damaged tissues. The goal of gene therapy is to cure or slow down a genetic disease by repairing the damaged gene responsible for the disease. Regenerative medicine aims to correct the damaged tissue’s structure and function. Molecular medicine aims to identify the basic genetic and molecular defects causing a disease, and developing molecular interventions to treat the same.\n"
+    },
+    {
+        "id": 10,
+        "Question": "Which is the Competent Authority for tissues and cells in the United Kingdom?",
+        "Options": [
+            "a) Human Tissue Authority",
+            "b) Health and Youth Care Inspectorate",
+            "c) Medical Products Agency",
+            "d) Slovenija-transplant"
+        ],
+        "Answer": "Answer: b\nExplanation: The possibility of replacing an entire organ with an organ from a donor, known today as organ transplantation. Although this is widely practiced today and is known to be the ultimate solution for organ failure, the need for organs always surpasses the number of available donated organs. The driving force behind the conceptualization of in vitro culturing of tissues was the limited number of donors available and graft-rejection by the immune system. The success in tissue engineering of skin grafts boosted the interest in applying similar concepts to other tissues and organs.\n"
+    },
+    {
+        "id": 11,
+        "Question": "Title ______________ constitutes of a comprehensive regulatory Framework for the producers of human cells, tissues, and cellular and tissue-based products (HCT/Ps).",
+        "Options": [
+            "a) 21 CFR Part 1271",
+            "b) 21 CFR Part 1308",
+            "c) 21 CFR Part 110",
+            "d) 21 CFR Part 111"
+        ],
+        "Answer": "Answer: b\nExplanation: Tissue Engineering is a better alternative to prosthetic devices as they cannot restore the normal and natural function of a tissue. Less number of donors is also a major problem faced with the usage of prosthetics. Tissue Engineering is the go-to solution for treating diseases which cannot be cured by regular means and ways such as pharmaceuticals, organ transplant, etc.\n"
+    },
+    {
+        "id": 12,
+        "Question": "Which Act governs the manufacture of HCT/Ps?",
+        "Options": [
+            "a) Public Health Service Act",
+            "b) Food, Drug, and Cosmetic Act",
+            "c) Food Adulteration Act",
+            "d) Meat Food Products Order"
+        ],
+        "Answer": "Answer: a\nExplanation: The Human Tissue Authority is one of the Competent Authorities for Tissue and Cells in The United Kingdom, Health and Youth Care Inspectorate is in the Netherlands, Medical Products Agency in Sweden and Slovenija-transplant in Slovenia.\n"
+    },
+    {
+        "id": 13,
+        "Question": " _____________ need to register with FDA under Title 21 of Code of Federal Regulations (CFR).",
+        "Options": [
+            "a) Laboratories doing speciation of microorganisms detected in HCT/P cultures",
+            "b) Companies collecting Blood samples from donors",
+            "c) School laboratories",
+            "d) Hospitals storing HTC/Ps"
+        ],
+        "Answer": "Answer: a\nExplanation: Title 21 of Code of Federal Regulations, part 1271 constitutes a comprehensive regulatory Framework for the producers of human cells, tissues, and cellular and tissue-based products (HCT/Ps). Part 1308 of the same title constitutes Schedules of controlled substances like narcotic substances and chemical formulations. Part 110 under Title 21 is relevant to “Current Good Manufacturing Practice in Manufacturing, Packing, or Holding Human Food” and Part 111 is relevant to “Current Good Manufacturing Practice in Manufacturing, Packaging, Labeling, or Holding Operations for Dietary Supplements”.\n"
+    },
+    {
+        "id": 14,
+        "Question": "Name one 361 HCT/P which cannot be imported.",
+        "Options": [
+            "a) Cartilage",
+            "b) Bone",
+            "c) Infected Peripheral Blood Stem Cells",
+            "d) Cornea"
+        ],
+        "Answer": "Answer: a\nExplanation: The HCT/Ps that meet the criteria mentioned in Title 21 CFR 1271.10(a) are subject only to the regulation under section 361, Public Health Service Act and the regulations mentioned in 21 CFR Part 1271.\n"
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following Tissue Engineering products has been approved by the European Medicines Agency (EMA) as an Advanced Therapy medicinal product (Drug)?",
+        "Options": [
+            "a) ChondroCelect®",
+            "b) CarticelTM",
+            "c) Provenge®",
+            "d) Laviv®"
+        ],
+        "Answer": "Answer: a\nExplanation: Umbilical cord blood stem cells are an example of 361 HCT/Ps that meet the criteria in Title 21 of CFR part 1271. Other examples include Ligament, Cornea, Cartilage, bone, Dura matter, Heart valves, etc.\n"
+    },
+    {
+        "id": 16,
+        "Question": "What is the main component of the tissues in our body?",
+        "Options": [
+            "a) Cells",
+            "b) Organs",
+            "c) Muscles",
+            "d) Cartilage"
+        ],
+        "Answer": "Answer: a\nExplanation: Tissues are made up of various specialized cells that are grouped together according to their function. Whereas organs consist of tissues as one of their main components along with stroma, muscles are a kind of tissue which consist of specialized cells which aid in our movement and cartilage is a type of flexible connective tissue which is found in certain regions of the respiratory tract as well as in the articulating surfaces of joints.\n"
+    },
+    {
+        "id": 17,
+        "Question": "What was a loose belief on which the miasma theory was based on?",
+        "Options": [
+            "a) The diseases like cholera and chlamydia were caused by pollution",
+            "b) Microorganisms known as pathogens can lead to disease",
+            "c) Pneumonia is caused by Streptococcus pneumoniae",
+            "d) Vericella zoster is the virus that causes Chickenpox"
+        ],
+        "Answer": "Answer: a\nExplanation: The miasma theory is an obsolete medical theory which believed that few of the diseases like cholera were caused by pollution, a noxious form of “bad air”. The theory suggested that the cause of epidemics arose from miasma, emanating from rotting organic matter.\n"
+    },
+    {
+        "id": 18,
+        "Question": "Tissue transplants usually give rise to a ______ response.",
+        "Options": [
+            "a) cold",
+            "b) immune",
+            "c) hot",
+            "d) no"
+        ],
+        "Answer": "Answer: b\nExplanation: The presence of foreign tissue after the transplant triggers something that is called an immune response, in which there are immune attacks (chronic rejection) on the donor’s tissue causing its degradation.\n"
+    },
+    {
+        "id": 19,
+        "Question": "_________ approach of tissue engineering facilitates the self-repair of tissues.",
+        "Options": [
+            "a) Substitutive",
+            "b) Histoconductive",
+            "c) Histioconductive",
+            "d) Analytical"
+        ],
+        "Answer": "Answer: a\nExplanation: Tissue Engineering is a field that fuels itself from the knowledge borrowed from other well-established fields like immunology, genetics, cell biology and biochemistry for the treatment of human disease.\n"
+    },
+    {
+        "id": 20,
+        "Question": "____________ is a very important component in tissue engineering, which incorporates the three important elements, cells, biomaterials, and growth factors.",
+        "Options": [
+            "a) Scaffolding Technique",
+            "b) Seeding",
+            "c) Cell culture technique",
+            "d) Cell isolation technique"
+        ],
+        "Answer": "Answer: b\nExplanation: Currently approaches to tissue engineering can be stratified as substitutive, histoconductive and histioconductive. The histoconductive approach facilitates self-repair which may involve gene therapy.\n"
+    },
+    {
+        "id": 21,
+        "Question": "___________ are the favorite cell type in tissue engineering as they don’t evoke an immune response.",
+        "Options": [
+            "a) Autologous cells",
+            "b) Differentiated stem cells",
+            "c) Heterogeneous cells",
+            "d) Fibroblasts"
+        ],
+        "Answer": "Answer: a\nExplanation: The person afflicted with a particular disease usually has a certain number of cells affected in the process, so to generate healthy cells of the same kind the patient’s cells are taken and cultured and used for generation of a graft to avoid chronic rejections by the immune system.\n"
+    },
+    {
+        "id": 22,
+        "Question": "Which organ cannot be transplanted at present?",
+        "Options": [
+            "a) Brain",
+            "b) Heart",
+            "c) Lungs",
+            "d) Pancreas"
+        ],
+        "Answer": "Answer: c\nExplanation: The diagram depicts the triad of tissue engineering comprising of Cells, Signals, and Biomaterials. Therefore, the 4th blank is Biomaterials, and its types are natural, synthetic, hydrogels and meshes. The 1st and 2nd blanks are Autologous and Differentiated stem cells as they are types of cells. The 3rd is Growth Factors as it is a medium for inducing signals in various biological phenomena.\n"
+    },
+    {
+        "id": 23,
+        "Question": "__________ is considered as a miraculous solution to Organ shortages.",
+        "Options": [
+            "a) Tissue Engineering",
+            "b) Xeno-transplantation",
+            "c) Iso-transplantation",
+            "d) Allo-transplantation"
+        ],
+        "Answer": "Answer: b\nExplanation: Allo-transplantation is a technique of transplantation of cells in which the cells are derived from a genetically non-identical donor, within the same species. Xenotransplantation is a technique of transplantation of cells in which the cells are derived from a genetically non-identical donor, across different species. Auto-transplantation is a technique of transplantation of cells in which the cells are derived from one part of the body to another in the same person.\n"
+    },
+    {
+        "id": 24,
+        "Question": "Which of the following is a major focus of a technique of tissue engineering called autologous chondrocyte transplantation (ACT)?",
+        "Options": [
+            "a) Cartilage",
+            "b) Bone",
+            "c) Skin",
+            "d) Stem Cells"
+        ],
+        "Answer": "Answer: b\nExplanation: Scaffolding is a very important component in tissue engineering, which incorporates the three important elements, cells, biomaterials and growth factors. Whereas seeding is the step following scaffolding in which the cells are cultured on a framework of the tissue. The cells to be seeded on the scaffold are isolated and cultured according to the type and need.\n"
+    },
+    {
+        "id": 25,
+        "Question": "Quite like Tissue engineering _____________ is a branch of translational research trying to devise ways to fool the immune system in order to avoid immune attacks.",
+        "Options": [
+            "a) cloning",
+            "b) gene therapy",
+            "c) regenerative medicine",
+            "d) molecular medicine"
+        ],
+        "Answer": "Answer: c\nExplanation: Translational research is a domain of research that makes use of knowledge from basic biology and clinical trials to create tools and techniques that address chronic medical needs. Regenerative medicine is one of the tools under translational research which deals with replacing the diseased cells in order to restore normal cell function. Whereas molecular medicine is a much broader field aiming to develop molecular interventions to correct molecular and genetic errors of a disease. Gene therapy on the other hand again aims at treating or preventing the disease by the use of genes. On the other hand, cloning is a technique of creating a genetic duplicate of an organism either artificially or naturally.\n"
+    },
+    {
+        "id": 26,
+        "Question": "Gradual deterioration of the Immune system as age increases is termed as ___________________",
+        "Options": [
+            "a) immuno-senescence",
+            "b) immuno-staining",
+            "c) immuno-suppression",
+            "d) immuno-surveillance"
+        ],
+        "Answer": "Answer: a\nExplanation: Gradual deterioration of the Immune system as age increases is termed as immuno-senescence. Immuno-staining is an antibody-based technique for identifying a protein in a given sample. Immuno-suppression is the term for shutting down the immune system of a person using immune-suppressants. This is done in order to avoid immune attacks on the foreign tissue grafted onto the patient’s body. The process by which the immune system looks for and identifies foreign pathogens are called immune-surveillance.\n"
+    },
+    {
+        "id": 27,
+        "Question": "_____________ is referred to as The Father of Regenerative Medicine.",
+        "Options": [
+            "a) Arnie Caplan",
+            "b) Gregor Mendel",
+            "c) Aristotle",
+            "d) Theophrastus"
+        ],
+        "Answer": "Answer: a\nExplanation: Arnie Caplan is referred to as The Father of Regenerative Medicine. Gregor Mendel (1822-1844), Aristotle (384-322 B.C.) and Theophrastus (371–286 B.C.) are referred to as fathers of Genetics, Biology, and Botany respectively.\n"
+    },
+    {
+        "id": 28,
+        "Question": "In tissue engineering and regenerative medicine support or biomaterial is required for the cells to be cultured. Nature’s template for a biomaterial is the _____________",
+        "Options": [
+            "a) extra-cellular matrix",
+            "b) stroma lamellae",
+            "c) lymph fluid",
+            "d) blood plasma"
+        ],
+        "Answer": "Answer: a\nExplanation: In the case of transplantation of a tissue received from a donor into the patient’s body, there are high chances of graft-rejection thus causing degradation of the graft tissue. This calls for the use of immune-suppressants to shut down the immune system to some extent. This is not the case with regenerative medicine because the cells used for treatment are mostly autologous cells.\n"
+    },
+    {
+        "id": 29,
+        "Question": "____________ refers to the removal of cells from a multicellular organism along with few growth factors and grown in a favorable environment.",
+        "Options": [
+            "a) Cell Culture",
+            "b) Cell Division",
+            "c) Cell Isolation",
+            "d) Cell proliferation"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell Culture refers to the removal of cells from a multicellular organism along with few growth factors and grown in a favorable environment. Cell division is the process in which the cell contents are split so that two daughter cells with an equal amount of cell contents are formed. Cell isolation is to separate a particular type of cell from a pool of cells. Cell proliferation is a process resulting in an increase in the number of cells.\n"
+    },
+    {
+        "id": 30,
+        "Question": "After the first subculture, the primary culture is called ________________",
+        "Options": [
+            "a) clone",
+            "b) daughter cells",
+            "c) cell debris",
+            "d) cell Line"
+        ],
+        "Answer": "Answer: a\nExplanation: Initially cells are removed from a multicellular organism (plant), the cells along with few growth factors are removed and these are then grown on a Petri-plate on appropriate media with appropriate nutrients. After these cells are cultured, some cells are taken from the dish and cultured on a number of Petri-plates under similar conditions as the first one.\n"
+    },
+    {
+        "id": 31,
+        "Question": "A typical cell culture environment consists of various _______________ like amino acids, carbohydrates, vitamins and minerals.",
+        "Options": [
+            "a) nutrients",
+            "b) gases",
+            "c) hormones",
+            "d) growth factors"
+        ],
+        "Answer": "Answer: d\nExplanation: After the first subculture, the primary culture is called Cell line or Sub-clone. The cells lines derived from the primary cell cultures usually have a short life span, finite cell culture. Some cell lines continue to proliferate through transformations, continuous cell lines.\n"
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following is considered as the most basic level of safety?",
+        "Options": [
+            "a) BSL-1",
+            "b) BSL-5",
+            "c) BSL-8",
+            "d) BSL-10"
+        ],
+        "Answer": "Answer: a\nExplanation: A typical cell culture environment consists of various essential nutrients along with gases (e.g., O2, CO2), and appropriate physiochemical conditions (pH, osmotic pressure, and temperature). Even hormones and growth factors are an essential component of any cell culture environment.\n"
+    },
+    {
+        "id": 33,
+        "Question": "__________ is appropriate for agents that might pose a greater individual risk.",
+        "Options": [
+            "a) BSL-4",
+            "b) BSL-3",
+            "c) BSL-2",
+            "d) BSL-9"
+        ],
+        "Answer": "Answer: b\nExplanation: If cells need to be preserved for sub-culturing later, then they must be treated with an appropriate protective agent (e.g. DMSO or glycerol) and stored at temperatures below -130°C. This is called Cryopreservation.\n"
+    },
+    {
+        "id": 34,
+        "Question": "Which of the following lab equipment is used for maintaining a sterile environment while working?",
+        "Options": [
+            "a) Cell Culture hood",
+            "b) Centrifuge",
+            "c) Inverted microscope",
+            "d) Magnetic Stirrer"
+        ],
+        "Answer": "Answer: b\nExplanation: Cell cultures can be categorized into 3 types based on cell shape or morphology. The first type are fibroblast-like cells, have elongated shapes. The second type is epithelial-like cells, polygonal in shape. The third type is lymphoblast-like cells, spherical in shape.\n"
+    },
+    {
+        "id": 35,
+        "Question": "Which of the following lab equipment is used for maintaining cell cultures?",
+        "Options": [
+            "a) Petri-plate",
+            "b) Incubator",
+            "c) pH-meter",
+            "d) Water bath"
+        ],
+        "Answer": "Answer: a\nExplanation: Biosafety level 1 (BSL-1) is considered as the most basic level of safety followed in the laboratories handling cell cultures, this is appropriate for the agents that are not harmful to humans in general.\n"
+    },
+    {
+        "id": 36,
+        "Question": "________ was the first continuous cell line.",
+        "Options": [
+            "a) HeLa",
+            "b) 3T3",
+            "c) HEK 293",
+            "d) A549"
+        ],
+        "Answer": "Answer: c\nExplanation: Biosafety level 2 (BSL-2) is considered appropriate for the agents that cause variable severity of a disease which is acquired by ingestion or membrane interactions. Biosafety level 3 (BSL-3) is considered appropriate for the agents that might cause lethal infections through aerosol transmissions. Biosafety level 4 (BSL-4) is considered appropriate for the agents that cause life-threatening diseases through aerosol transmissions, these diseases have no cure.\n"
+    },
+    {
+        "id": 37,
+        "Question": "What is used in order to avoid contamination in cell culture?",
+        "Options": [
+            "a) Antibiotics",
+            "b) Anticoagulants",
+            "c) Antipyretics",
+            "d) Antiseptics"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell Culture hoods help in maintaining aseptic or sterile work environment as well as help in the containment of the aerosols generated by various microbial procedures.\n"
+    },
+    {
+        "id": 38,
+        "Question": "Which of the following was the first widely used chemically defined medium?",
+        "Options": [
+            "a) Eagle’s Basal Medium",
+            "b) DMEM Medium",
+            "c) α-MEM Medium",
+            "d) Glasgow’s MEM Medium"
+        ],
+        "Answer": "Answer: b\nExplanation: Incubators are a device that allows the maintenance of cell cultures, at an optimal temperature, pressure and helps maintain the appropriate amounts of various gases (O2, CO2).\n"
+    },
+    {
+        "id": 39,
+        "Question": "________________ devised plaque assay for animal viruses using confluent monolayers of cultured cells.",
+        "Options": [
+            "a) George Gey",
+            "b) Renato Dulbecco",
+            "c) Gregor Mendel",
+            "d) Charles Darwin"
+        ],
+        "Answer": "Answer: a\nExplanation: There are 3 classes of culture hoods, Class I hoods offer protection to laboratory personnel, but not against contamination. Class II hoods are designed for work involving BSL-1, 2, and 3 materials, these are used for handling hazardous materials. Class III hoods are designed for work involving BSL-4 materials, these are air-tight and provide the highest level of protection to the laboratory personnel as well as the environment.\n"
+    },
+    {
+        "id": 40,
+        "Question": "_____________ are anchorage-dependent and propagate as a monolayer attached to the cell culture vessel.",
+        "Options": [
+            "a) Autologous Cells",
+            "b) Eukaryotic Cells",
+            "c) Prokaryotic Cells",
+            "d) Adherent Cells"
+        ],
+        "Answer": "Answer: d\nExplanation: Adherent cells are anchorage-dependent and propagate as a monolayer attached to the cell culture vessel. Usually, cells derived from tissues are considered to be adherent in nature.\n"
+    },
+    {
+        "id": 41,
+        "Question": "Hematopoietic cells are an example of _________________",
+        "Options": [
+            "a) suspension cells",
+            "b) adherent cells",
+            "c) stem cells",
+            "d) living cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Unlike adherent cells, suspension cells or non-adherent cells do not require support in order to grow. Hematopoietic cells derived from blood, spleen and bone marrow are an example of suspension cells.\n"
+    },
+    {
+        "id": 42,
+        "Question": "_____________ is the growth of tissues explants in an artificial medium.",
+        "Options": [
+            "a) Tissue culture",
+            "b) Primary cell culture",
+            "c) Horticulture",
+            "d) Cell culture"
+        ],
+        "Answer": "Answer: d\nExplanation: Tissue culture is the growth of tissue explants in an artificial medium separate from the host organism. Cell culture is the maintenance of dissociated cells in an artificial medium.\n"
+    },
+    {
+        "id": 43,
+        "Question": "__________ is the method of maintaining a whole embryo or organ excised from the host organism in an artificial medium.",
+        "Options": [
+            "a) Organ culture",
+            "b) Explant culture",
+            "c) Horticulture",
+            "d) Cell culture"
+        ],
+        "Answer": "Answer: a\nExplanation: The optimal pH to be maintained while culturing mammalian cells is 7.2 to 7.4. Phenol red is used as an internal indicator, it turns pink/purple at a pH of 7.8.\n"
+    },
+    {
+        "id": 44,
+        "Question": "Virus cultures require the cell cultures of different living cells, of mammalian, plant or microbial origin as hosts and support for the growth and ____________ of the virus.",
+        "Options": [
+            "a) shelter",
+            "b) replication",
+            "c) propagation",
+            "d) proliferation"
+        ],
+        "Answer": "Answer: a\nExplanation: Organ culture is the method of maintaining a whole embryo or organ excised from the host organism in an artificial medium. In such a culture the normal physiological conditions are maintained thus helping the organ to remain in its functional state for long.\n"
+    },
+    {
+        "id": 45,
+        "Question": "__________ are a replacement for extracellular matrix in artificial cell culture mediums.",
+        "Options": [
+            "a) Hydrogels",
+            "b) Meshes",
+            "c) Bones",
+            "d) Muscles"
+        ],
+        "Answer": "Answer: b\nExplanation: Cell isolation is the first step in cell culture, the last step in cell culture is to store cells at appropriate conditions for future use.\n"
+    },
+    {
+        "id": 46,
+        "Question": "Cell culture technique in 2 dimensions was first discovered by ___________",
+        "Options": [
+            "a) Wilhelm Roux",
+            "b) Alexander Fleming",
+            "c) Francis Crick",
+            "d) Kari Mullis"
+        ],
+        "Answer": "Answer: b\nExplanation: The culturing of undifferentiated plant cells and calli requires the proper balance of the plant growth hormones auxin and cytokinin. More auxin is required for instigating more shoot growth and more cytokinin is required for more root growth.\n"
+    },
+    {
+        "id": 47,
+        "Question": "The _____________ tooth enamel and epidermis are formed by differentiation of ectoderm.",
+        "Options": [
+            "a) reproductive system",
+            "b) digestive system",
+            "c) endocrine system",
+            "d) nervous system"
+        ],
+        "Answer": "Answer: d\nExplanation: The nervous system, including the spine, brain and peripheral nerves; tooth enamel and epidermis are formed by the ectoderm’s differentiation.\n"
+    },
+    {
+        "id": 48,
+        "Question": "_____________ discovered the three germ layers.",
+        "Options": [
+            "a) Heinz Christian Pander",
+            "b) Alexander Fleming",
+            "c) Rosalind Franklin",
+            "d) Paul Muller"
+        ],
+        "Answer": "Answer: b\nExplanation: There are three parts of the ectoderm in vertebrates. The three parts of the ectoderm are: External ectoderm, neural crest and neural tube. The neuro-ectoderm comprises of the neural crest and neural tube.\n"
+    },
+    {
+        "id": 49,
+        "Question": "The process of ___________ within the ectoderm results in the formation of the neural tube, neural crest, and epidermis.",
+        "Options": [
+            "a) neurulation",
+            "b) gastrulation",
+            "c) differentiation",
+            "d) organogenesis"
+        ],
+        "Answer": "Answer: a\nExplanation: Heinz Christian Pander, a German-Russian biologist, and he was credited for the discovery of the three germ layers that are formed embryogenesis.\n"
+    },
+    {
+        "id": 50,
+        "Question": "______________ develop from ectoderm derived from the mesenchyme.",
+        "Options": [
+            "a) Cartilage",
+            "b) Mammalian teeth",
+            "c) Nails",
+            "d) Hair"
+        ],
+        "Answer": "Answer: a\nExplanation: During the later stages of pregnancy, the ectoderm can be observed first in amphibians and fish. At the beginning of this process, the embryo divides into many cells, forming a blastula (hollow sphere like structure).\n"
+    },
+    {
+        "id": 51,
+        "Question": "_____________ is a type of surface ectoderm.",
+        "Options": [
+            "a) Keratinocyte",
+            "b) Schwann cells",
+            "c) Astrocyte",
+            "d) Pinealocyte"
+        ],
+        "Answer": "Answer: a\nExplanation: Once the embryo has three germ layers formed, differentiation among the three layers happens, this is followed by the process of neurulation within the ectoderm results in the formation of the neural tube, neural crest, and epidermis. These three components of the ectoderm give rise to a specific type of cell.\n"
+    },
+    {
+        "id": 52,
+        "Question": "Which of the following cell types are derived from the mesoderm?",
+        "Options": [
+            "a) Red Blood cells",
+            "b) Adherent cells",
+            "c) Stem cells",
+            "d) Carcinoma cells"
+        ],
+        "Answer": "Answer: a\nExplanation: The innermost germ layer is endoderm followed by mesoderm in the middle followed by the outermost layer called ectoderm.\n"
+    },
+    {
+        "id": 53,
+        "Question": "Mesoderm forms muscles through _____________",
+        "Options": [
+            "a) myogenesis",
+            "b) hematopoiesis",
+            "c) thrombopoiesis",
+            "d) endochondral ossification"
+        ],
+        "Answer": "Answer: a\nExplanation: Red blood cells are derived from the mesoderm. Adherent cells are the cells cultured on solid media requiring support to hold the cells in. Stem cells are either derived from the embryo or from fully developed adult organs. Carcinoma cells are derived from tumors.\n"
+    },
+    {
+        "id": 54,
+        "Question": "The mesoderm appears in the __________ week of embryonic development.",
+        "Options": [
+            "a) third",
+            "b) eighth",
+            "c) first",
+            "d) tenth"
+        ],
+        "Answer": "Answer: a\nExplanation: The process of formation of muscles especially during embryonic development from the mesodermal germ layer is termed as myogenesis.\n"
+    },
+    {
+        "id": 55,
+        "Question": "The lateral plate mesoderm gives rise to ____________",
+        "Options": [
+            "a) heart",
+            "b) liver",
+            "c) pancreas",
+            "d) brain"
+        ],
+        "Answer": "Answer: a\nExplanation: The neural plate formation process is initiated by the signals sent from the dorsal mesoderm to the ectodermal cells above it to convert into columnar neural-plate cells.\n"
+    },
+    {
+        "id": 56,
+        "Question": "In the case of Diploblasts, the non-living layer in the middle of ectoderm and endoderm is called ___________",
+        "Options": [
+            "a) mesoglea",
+            "b) mesoderm",
+            "c) endotherm",
+            "d) ectoderm"
+        ],
+        "Answer": "Answer: a\nExplanation: During the gastrulation period the single-layered blastula develops into a trilaminar (three layered) structure called gastrula. These layers are called germ layers, ectoderm, mesoderm and ectoderm.\n"
+    },
+    {
+        "id": 57,
+        "Question": "When the blastula has three primary germ layers, it is called as ____________",
+        "Options": [
+            "a) triploblasty",
+            "b) diploblasty",
+            "c) organogenesis",
+            "d) spermatogenesis"
+        ],
+        "Answer": "Answer: a\nExplanation: When the blastula has three primary germ layers, namely ectoderm, mesoderm, and endoderm, then it is called Triploblasty. These germ layers are formed during the gastrulation of the blastula.\n"
+    },
+    {
+        "id": 58,
+        "Question": "Endothelium of the interior surfaces of the heart chambers is called as _________________",
+        "Options": [
+            "a) pericardium",
+            "b) endocardium",
+            "c) mesoderm",
+            "d) ectoderm"
+        ],
+        "Answer": "Answer: b\nExplanation: Pericardium is a membrane enclosing the heart. The endocardium is the endothelial layer lining the interior surface of the heart chambers. Mesoderm is the middle germ layer which formed during embryo development. The Ectoderm is the outermost germ layer.\n"
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following is not a triploblastic organism?",
+        "Options": [
+            "a) Human",
+            "b) Mouse",
+            "c) Cnidaria",
+            "d) Flatworms"
+        ],
+        "Answer": "Answer: c\nExplanation: All intermediate and higher animals, from flatworms to humans, are triploblastic in nature, and they belong to the Bilateria subregnum. Simpler animals are termed as diploblastic, for example, cnidarian (includes corals, hydra and jellyfish), and they possess two germ layers.\n"
+    },
+    {
+        "id": 60,
+        "Question": "What is the innermost germ layer in simpler organisms like sponges?",
+        "Options": [
+            "a) Choanoderm",
+            "b) Endoderm",
+            "c) Mesoderm",
+            "d) Ectoderm"
+        ],
+        "Answer": "Answer: a\nExplanation: No true tissues are present in simpler organisms like sponges. The body wall of sponges consists of two main layers, pinacoderm and choanoderm (outermost and innermost respectively), and the middle layer caller mesophyll is non-cellular in nature.\n"
+    },
+    {
+        "id": 61,
+        "Question": "Endothelial cells in direct contact with blood are called as ___________ endothelial cells.",
+        "Options": [
+            "a) vascular",
+            "b) pulmonary",
+            "c) hepatic",
+            "d) squamous"
+        ],
+        "Answer": "Answer: a\nExplanation: Vascular endothelial cells are the ones that are directly in contact with the blood. They run throughout the circulatory system, including the heart and the thinnest of capillaries.\n"
+    },
+    {
+        "id": 62,
+        "Question": "How thick is the endothelial layer of the cornea?",
+        "Options": [
+            "a) 80 mm",
+            "b) 50 µm",
+            "c) 1 nm",
+            "d) 1 cm"
+        ],
+        "Answer": "Answer: a\nExplanation: When the endothelial layer of small arteries is not able to function normally, then the condition is termed as endothelial dysfunction. This condition is related to the reduction of the availability of nitric oxide (NO) in blood vessel walls.\n"
+    },
+    {
+        "id": 63,
+        "Question": "__________ is caused due to endothelial damage.",
+        "Options": [
+            "a) Atherosclerosis",
+            "b) Cancer",
+            "c) Alzheimer’s Disease",
+            "d) Ringworm"
+        ],
+        "Answer": "Answer: b\nExplanation: The endothelial layer maintains proper dilation and constriction of the blood vessels. The mesodermal layer is the germ layer present in animal embryos that gives rise to a specialized type of tissues.\n"
+    },
+    {
+        "id": 64,
+        "Question": "____________ is the process by which cells interact and attach to neighboring cells through specialized molecules of the cell surface.",
+        "Options": [
+            "a) Cell Migration",
+            "b) Cell Division",
+            "c) Cell Development",
+            "d) Cell adhesion"
+        ],
+        "Answer": "Answer: d\nExplanation: The process by which cells interact and attach to each other is termed as cell adhesion. This is done through specialized cells on their surface. Cell adhesion could either be due to direct contact between the surfaces of the cells or by indirect interaction, in which cells attach to the extracellular matrix (ECM).\n"
+    },
+    {
+        "id": 65,
+        "Question": "__________ aid in the process of cell adhesion.",
+        "Options": [
+            "a) Cell receptors",
+            "b) Transmembrane proteins",
+            "c) Protease",
+            "d) Cytokinins"
+        ],
+        "Answer": "Answer: a\nExplanation: The interactions among the cell-adhesion molecules (CAMs) result in a phenomenon called Cell adhesion. In general, the cell-adhesion molecules are the trans-membrane proteins located on the cell’s surface.\n"
+    },
+    {
+        "id": 66,
+        "Question": "_____________ is a hemophilic cell-adhesion molecule.",
+        "Options": [
+            "a) Cadherins",
+            "b) Integrins",
+            "c) Selectins",
+            "d) Antibody"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell adhesion molecules (CAMS) are classified into four categories: selectins, integrins, cadherins, and immunoglobulins (Ig). Each of the CAMs has a particular function and they recognize a different ligand. Cadherins and immunoglobulins are homophilic CAMs, since they bind to the same type of CAMs on another cell, while integrins and selectins are heterophilic CAMs that bind to different types of CAMs.\n"
+    },
+    {
+        "id": 67,
+        "Question": "Plants cells adhere closely to each other and are connected through __________",
+        "Options": [
+            "a) plasmodesmata",
+            "b) stomata",
+            "c) parenchyma",
+            "d) stroma"
+        ],
+        "Answer": "Answer: a\nExplanation: Variations in cell adhesion can cause disruptions in major cellular processes and cause a number of diseases like cancer and arthritis. Cell adhesion is also essential for infectious organisms, such as bacteria or viruses, to cause diseases.\n"
+    },
+    {
+        "id": 68,
+        "Question": "__________ have adhesion molecules on their cell surface termed bacterial adhesins.",
+        "Options": [
+            "a) Prokaryotes",
+            "b) Reptiles",
+            "c) Birds",
+            "d) Humans"
+        ],
+        "Answer": "Answer: a\nExplanation: Plants cells adhere closely to each other and are attached through the plasmodesmata. These are channels crossing the plant cell walls and connect the cytoplasm of neighboring plant cells.\n"
+    },
+    {
+        "id": 69,
+        "Question": "_________ link extracellular matrix to keratin intermediate filaments.",
+        "Options": [
+            "a) Integrins",
+            "b) Cadherins",
+            "c) Immunoglobulins",
+            "d) Selectins"
+        ],
+        "Answer": "Answer: b\nExplanation: Viruses have molecules aiding in adhesion of viral cells to the host cells. The influenza virus has adhesion molecules termed hemagglutinin on its surface; it helps in the recognition of sugar sialic acid molecules on the molecules on the host cell surface. HIV has an adhesion molecule called gp120 that binds to the CD4 ligand.\n"
+    },
+    {
+        "id": 70,
+        "Question": "In focal adhesions, integrins attach ___________",
+        "Options": [
+            "a) integrins",
+            "b) cadherins",
+            "c) immunoglobulins",
+            "d) selectins"
+        ],
+        "Answer": "Answer: b\nExplanation: Selectins are a category of specialized CAMs that are involved in transient cell-cell adhesion occurring in the circulatory system. They mainly mediate the movement of the WBCs in the bloodstream by allowing the white blood cells to slide on endothelial cells through reversible bindings of selections.\n"
+    },
+    {
+        "id": 71,
+        "Question": "The cell’s directed movement as a response to a mechanical or/and chemical signal is termed as ______________",
+        "Options": [
+            "a) cell adhesion",
+            "b) cell death",
+            "c) cell division",
+            "d) cell migration"
+        ],
+        "Answer": "Answer: d\nExplanation: The cell’s directed movement as a response to a mechanical or/and chemical signal is termed as cell migration. Cell migration is a primary cellular process occurring lifelong, it starts during the embryonic development and continues till death, and sometimes it could be the reason for certain pathogenic states while a disease takes place.\n"
+    },
+    {
+        "id": 72,
+        "Question": "What is the first step in Biomaterial-tissue interactions?",
+        "Options": [
+            "a) Cell Migration",
+            "b) Adsorption of proteins",
+            "c) Cell Development",
+            "d) Cell adhesion"
+        ],
+        "Answer": "Answer: d\nExplanation: The initial phase in biomaterial–tissue connection is the underlying adsorption of proteins onto the outside of the biomaterial, which, in a mix with the physical and multiple properties of the surface, is thought to prompt ensuing cell practices, for example, bond, spreading and expansion.\n"
+    },
+    {
+        "id": 73,
+        "Question": "The biomaterials are expected to mimic the functions of ____________",
+        "Options": [
+            "a) Extracellular Matrix (ECM)",
+            "b) Transmembrane proteins",
+            "c) Cytoplasm",
+            "d) Cell Organelles"
+        ],
+        "Answer": "Answer: a\nExplanation: TE depends on platform biomaterials that will have cells from the body and, with the assistance of development factors or a bioreactor, will ideally prompt tissue regeneration. These biomaterials are subsequently expected to mirror the ECM capacities and connections with the cells and the encompassing tissues. These connections have now moved past a straightforward association with the organic frameworks to impact the natural procedures that can prompt tissue recovery.\n"
+    },
+    {
+        "id": 74,
+        "Question": "_____________ is the first process involved in Biomaterial-Tissue interaction.",
+        "Options": [
+            "a) Foreign Body Response",
+            "b) Elongation",
+            "c) Adhesion",
+            "d) Replication"
+        ],
+        "Answer": "Answer: a\nExplanation: All in all, the nature of the cooperation among biomaterials and tissues in the body can be portrayed by two primary procedures. The foreign body response (FBR), is particularly activated on account of an implantable gadget so as to shield the body from the remote material. Once the biomaterial gadget or platform is embedded in the body, a tissue/biomaterial interface straightforwardly structures and causes a progression of incendiary reactions.\n"
+    },
+    {
+        "id": 75,
+        "Question": "____________ is one of the most important aspects of biomaterial-tissue interactions.",
+        "Options": [
+            "a) Biocompatibility",
+            "b) Bioavailability",
+            "c) Bioequivalence",
+            "d) Bioluminescence"
+        ],
+        "Answer": "Answer: a\nExplanation: Foreign body reaction (FBR) begins with an intense stage that can last as long as a few days. During this stage, leukocytes are actuated to the implantation site, and some development elements and cytokines are created. Monocytes are likewise enrolled, which separate into macrophages. After this period, which is the situation when the biomaterial is embedded in the body, an unending outside body response is activated. This is when lymphocytes and macrophages show up, notwithstanding the advancement of veins that are essential for wound mending and tissue recovery.\n"
+    },
+    {
+        "id": 76,
+        "Question": "____________ polymers are considered to possess the property of biocompatibility.",
+        "Options": [
+            "a) Biodegradable",
+            "b) Bioequivalent",
+            "c) Bioavailable",
+            "d) Man-made"
+        ],
+        "Answer": "Answer: a\nExplanation: Biodegradability is regularly a basic factor since frameworks ought to ideally be consumed by the encompassing tissues without the need for a careful evaluation.\n"
+    },
+    {
+        "id": 77,
+        "Question": "What is the ideal composition of the polymer at the time of incorporation?",
+        "Options": [
+            "a) Liquid",
+            "b) Gas",
+            "c) Solid",
+            "d) Aerosol"
+        ],
+        "Answer": "Answer: a\nExplanation: Preferably an injectable pre-polymer arrangement ought to be in fluid/glue structure, serializable without causing any major change, and have the ability to consolidate natural network necessities to be valuable in tissue building applications. Upon infusion, the pre-polymer blend should attach to the organic surface and fix to a strong and permeable structure with fitting mechanical properties to suit the application. The curing should be with minimal heat generation and the chemical reactions involved in curing should not damage the cells or adjacent tissues.\n"
+    },
+    {
+        "id": 78,
+        "Question": "Biodegradable biomaterials are of two types, namely natural and __________",
+        "Options": [
+            "a) synthetic",
+            "b) protein-based",
+            "c) acrylic-based",
+            "d) ceramic"
+        ],
+        "Answer": "Answer: a\nExplanation: Biodegradable biomaterials are of two types, namely natural and synthetic.  The natural ones are based on proteins and polysaccharides. The synthetic ones are based on PGA, PLA, PAA, etc.\n"
+    },
+    {
+        "id": 79,
+        "Question": "What is the major drawback of biodegradable polymers?",
+        "Options": [
+            "a) Fast oxidation",
+            "b) Slow process-ability",
+            "c) Brittleness",
+            "d) Strength"
+        ],
+        "Answer": "Answer: a\nExplanation: Unlike ceramic biomaterials, Biodegradable biomaterials have high process-ability into porous structures and low brittleness.\n"
+    },
+    {
+        "id": 80,
+        "Question": "____________ polymers are those which are human-made polymers.",
+        "Options": [
+            "a) Hydrogel",
+            "b) Biodegradable",
+            "c) Natural",
+            "d) Synthetic"
+        ],
+        "Answer": "Answer: d\nExplanation: Synthetic polymers are those which are human-made polymers. Polymers are those which consist of repeated structural units known as monomers. E.g., polythene has ethene as a monomeric unit.\n"
+    },
+    {
+        "id": 81,
+        "Question": "Synthetic polymers are sometimes referred as __________",
+        "Options": [
+            "a) plastics",
+            "b) metals",
+            "c) ceramic",
+            "d) jelly"
+        ],
+        "Answer": "Answer: a\nExplanation: Synthetic polymers are sometimes referred as “plastics”, of which the well-known ones are nylon and polyethylene. The polymers which are formed by linking monomer units, without the any change of material, are known to as addition polymers or also called as chain-growth polymers. All these are said to be synthetic polymers.\n"
+    },
+    {
+        "id": 82,
+        "Question": "Non-biodegradable- Synthetic polymers are made from _____________",
+        "Options": [
+            "a) petroleum",
+            "b) lipids",
+            "c) carbohydrates",
+            "d) proteins"
+        ],
+        "Answer": "Answer: a\nExplanation: Many polymers that are commonly found in households are non-degradable as they are petroleum based polymers. In order to control the environmental issues arising due to these polymers, bioplastics have been introduced as an alternative, these are biodegradable in nature.\n"
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following is an example of Synthetic polymer?",
+        "Options": [
+            "a) Polylactic acid",
+            "b) Dextran",
+            "c) Chitin",
+            "d) Amylose"
+        ],
+        "Answer": "Answer: b\nExplanation: Natural materials owing to the bioactive properties have better interactions with the cells which allow them to enhance the performance of the cell in a biological system. Synthetic biomaterial guidance provided by biomaterials may facilitate the restoration of the structure and function of damaged or diseased tissues.\n"
+    },
+    {
+        "id": 84,
+        "Question": "Hydrogels consist of _________ functional groups.",
+        "Options": [
+            "a) hydrophilic",
+            "b) hydrophobic",
+            "c) polar",
+            "d) positively charged"
+        ],
+        "Answer": "Answer: a\nExplanation: Hydrogels derive their ability to retain water from the hydrophilic functional groups attached to the polymeric backbone.\n"
+    },
+    {
+        "id": 85,
+        "Question": "__________ is a network of polymer chains that are hydrophilic.",
+        "Options": [
+            "a) Hydrogel",
+            "b) Alginate",
+            "c) Starch",
+            "d) Amylose"
+        ],
+        "Answer": "Answer: a\nExplanation: A hydrogel is a network of polymer chains that are hydrophilic, sometimes found as a colloidal gel in which water is the dispersion medium. A 3-D solid results from the hydrophilic polymer chains being held together by cross-links.\n"
+    },
+    {
+        "id": 86,
+        "Question": "Hydrogel forming natural polymers includes both proteins and _____________",
+        "Options": [
+            "a) Polysaccharides",
+            "b) Lipids",
+            "c) DNA",
+            "d) Nucleic acids"
+        ],
+        "Answer": "Answer: a\nExplanation: Hydrogel forming natural polymers includes both proteins such as collagen and gelatin and polysaccharides such as agarose, alginate, and starch.\n"
+    },
+    {
+        "id": 87,
+        "Question": "____________ hydrogels are referred to polymer network derived from a single species of monomer.",
+        "Options": [
+            "a) Homoplymeric",
+            "b) Heteropolymeric",
+            "c) Natural",
+            "d) Synthetic"
+        ],
+        "Answer": "Answer: b\nExplanation: Hydrogels can be designed with controllable responses as to shrink or expand with changes in external environmental conditions like physical and chemical stimuli.\n"
+    },
+    {
+        "id": 88,
+        "Question": "Which of the following is a group under the classification of hydrogels based on the network’s electrical charge?",
+        "Options": [
+            "a) Nonionic",
+            "b) Synthetic",
+            "c) Natural",
+            "d) Amorphous"
+        ],
+        "Answer": "Answer: a\nExplanation: The polymer networks obtained from a single monomer (basic structural unit of a polymeric network) species are referred to as Homopolymeric hydrogels.\n"
+    },
+    {
+        "id": 89,
+        "Question": "____________ was the earliest used bio-ceramic.",
+        "Options": [
+            "a) Porcelain",
+            "b) Gypsum",
+            "c) Gelatin",
+            "d) Cement"
+        ],
+        "Answer": "Answer: a\nExplanation: The clinical use of bio-ceramics in dentistry started in the late 18th century with the use of porcelain for crowns. Since the late 19th century Plaster of Paris and gypsum have been used as biomaterials in orthopedics.\n"
+    },
+    {
+        "id": 90,
+        "Question": "__________ family of ceramics is widely used for bone defects.",
+        "Options": [
+            "a) Calcium phosphate",
+            "b) Calcium oxide",
+            "c) Calcium carbonate",
+            "d) Calcium bicarbonate"
+        ],
+        "Answer": "Answer: a\nExplanation: The calcium phosphate family of ceramics is widely used for bone defects and zirconia, alumina and their composites are used for hip-joints.\n"
+    },
+    {
+        "id": 91,
+        "Question": "_____________ is a large class of inorganic nonmetallic materials.",
+        "Options": [
+            "a) Bioceramics",
+            "b) Polymers",
+            "c) Plastics",
+            "d) Antibodies"
+        ],
+        "Answer": "Answer: a\nExplanation: Bioceramics constitute an important group of biomaterials, their biocompatibility ranges from that of ceramic oxides (inert in the body) to that of resorbable materials (replaced by the body after they have assisted in repair).\n"
+    },
+    {
+        "id": 92,
+        "Question": "__________ and glass-ceramic contain rich CaO and P2O5 contents.",
+        "Options": [
+            "a) Bioactive glass",
+            "b) Hydrogel",
+            "c) Metal",
+            "d) Mesh"
+        ],
+        "Answer": "Answer: a\nExplanation: In general, we classify bioceramics into two families: bioinert and bioactive ceramics. Their classification depends on whether the ceramic can directly form an integration at the interface between the bone and the ceramic.\n"
+    },
+    {
+        "id": 93,
+        "Question": "Which of the following is a characterization technique used to measure Young’s modulus of a biomaterial?",
+        "Options": [
+            "a) Tensile test",
+            "b) Compression test",
+            "c) Three- and four-point bend test",
+            "d) Calculation from the stress-strain curve"
+        ],
+        "Answer": "Answer: d\nExplanation: Tensile test helps in measurement of tensile strength, Compression test helps in measurement of Compressive strength, three- and four-point bend test helps in measurement of flexural strength and calculations from stress-strain curve help in measurement of Young’s modulus.\n"
+    },
+    {
+        "id": 94,
+        "Question": "Which of the following is a characterization technique used to measure the Ductility of a biomaterial?",
+        "Options": [
+            "a) Calculations from strength test",
+            "b) Single edge notched-beam Indirect measurement",
+            "c) Indentation",
+            "d) Cyclic stress test"
+        ],
+        "Answer": "Answer: a\nExplanation: Calculations from strength test help in measurement of Ductility, Single edge notched-beam Indirect measurement helps in measurement of Toughness, Indentation helps in measurement of Hardness and Cyclic stress test help in the measurement of Fatigue.\n"
+    },
+    {
+        "id": 95,
+        "Question": "Constant stress test helps in measurement of ____________ for a biomaterial.",
+        "Options": [
+            "a) ductility",
+            "b) toughness",
+            "c) creep",
+            "d) fatigue"
+        ],
+        "Answer": "Answer: a\nExplanation: Calculations from strength test help in measurement of Ductility, Single edge notched-beam Indirect measurement helps in measurement of Toughness, Constant stress test helps in measurement of Creep and Cyclic stress test help in measurement of Fatigue.\n"
+    },
+    {
+        "id": 96,
+        "Question": "Which of the following physiochemical properties of a biomaterial might cause a cellular response that might affect the cellular motility, adhesion, survival, and differentiation?",
+        "Options": [
+            "a) Stiffness",
+            "b) Porosity",
+            "c) Charge",
+            "d) Surface chemistry"
+        ],
+        "Answer": "Answer: b\nExplanation: Elastic modulus helps in determining the degree to which the biomaterial can be stretched on the application of force and it reverts back to its original configuration on the release of the force and it is measured using calculations obtained from the stress-strain curve.\n"
+    },
+    {
+        "id": 97,
+        "Question": "Which of the following gel/hydrogel is formed by a physical gelation mechanism?",
+        "Options": [
+            "a) Polyester gel",
+            "b) Gelatin",
+            "c) CMC-g-acrylic acid",
+            "d) Polydimethyl siloxane"
+        ],
+        "Answer": "Answer: a\nExplanation: Stiffness might affect cellular motility, adhesion, survival and differentiation. Porosity might affect the maximum possible accommodation of cells in the scaffold. The charge might affect cellular uptake and spread. Surface chemistry might affect the long-term functional differentiation of cells.\n"
+    },
+    {
+        "id": 98,
+        "Question": "______________is prepared by condensation which is a chemical gelation mechanism.",
+        "Options": [
+            "a) Polyester gel",
+            "b) Polyvinyl chloride",
+            "c) Polythene",
+            "d) Polystyrene"
+        ],
+        "Answer": "Answer: b\nExplanation: Topography and roughness of a biomaterial affect the cellular orientation and contact guidance of fibroblast epithelial cell lines.\n"
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following is not a chemical gelation mechanism?",
+        "Options": [
+            "a) Condensation",
+            "b) Addition",
+            "c) Cross-linking",
+            "d) Weak"
+        ],
+        "Answer": "Answer: b\nExplanation: Pore size of the biomaterial affects the cellular affinity and viability by influencing cellular movement, binding and spreading, intracellular signaling and transport of nutrients and metabolites. This a cellular response of chondrocyte cell lines usually.\n"
+    },
+    {
+        "id": 100,
+        "Question": "_________________ helps in maintaining the structural integrity of most of the connective tissues in animals.",
+        "Options": [
+            "a) Collagen",
+            "b) Keratin",
+            "c) Elastin",
+            "d) Mucosal layer"
+        ],
+        "Answer": "Answer: a\nExplanation: Collagen is found in most of mammalian tissues. Collagen helps in maintaining the structural integrity of most of the connective tissues in animals. The human body is a rich source of collagen type I-IV among more than 20 different collagen types found in the body.\n"
+    },
+    {
+        "id": 101,
+        "Question": "Which of the following have a structure with three peptide chains bound with each other to form a rope-like structure?",
+        "Options": [
+            "a) Collagen",
+            "b) DNA",
+            "c) RNA",
+            "d) Peptidoglycan"
+        ],
+        "Answer": "Answer: a\nExplanation: Collagen has a rope-like structure in which three peptide chains are intertwined. Collagen gels are thermally reversible with limited mechanical properties.\n"
+    },
+    {
+        "id": 102,
+        "Question": "Type I collagen is the dominant component in the native __________ scaffold.",
+        "Options": [
+            "a) bone",
+            "b) heart",
+            "c) liver",
+            "d) cartilage"
+        ],
+        "Answer": "Answer: a\nExplanation: Type I collagen is the dominant component in the native bone scaffold and plays an important role in bone formation from stem/progenitor cells through a developmental cascade.\n"
+    },
+    {
+        "id": 103,
+        "Question": "Hyaluronic acid plays an important role in ____________",
+        "Options": [
+            "a) wound Healing",
+            "b) adhesion",
+            "c) migration",
+            "d) differentiation"
+        ],
+        "Answer": "Answer: a\nExplanation: Collagen can naturally be found in cartilage tissue and regulates chondrocyte adhesion and stem cell differentiation to chondrocytes through molecular interactions between the protein ligands and the cells.\n"
+    },
+    {
+        "id": 104,
+        "Question": "____________ is one of the most common methods of modifying hyaluronic acid.",
+        "Options": [
+            "a) Esterification",
+            "b) Enzymatic modification",
+            "c) Hydrolysis",
+            "d) Trans-esterification"
+        ],
+        "Answer": "Answer: a\nExplanation: Hyaluronic acid or hyaluronan is a natural material that is widely found in connective tissues. It is one of the simplest GAG components in the ECM and plays an important role in wound healing in the body.\n"
+    },
+    {
+        "id": 105,
+        "Question": "Alginic acid is obtained from ___________",
+        "Options": [
+            "a) brown algae",
+            "b) amoeba",
+            "c) goldfish",
+            "d) phytoplankton"
+        ],
+        "Answer": "Answer: b\nExplanation: Hyaluronic acid can be degraded by hyaluronidase derived from serum and cells. However, hyaluronic acid needs a precise purification procedure to remove impurities and endotoxins that may cause an immune response or disease.\n"
+    },
+    {
+        "id": 106,
+        "Question": "_______ and ________ are monomers of Alginate.",
+        "Options": [
+            "a) Sucrose and glucose",
+            "b) Maltose and galactose",
+            "c) Mannuronic acid and guluronic acid",
+            "d) Galactose and glucose"
+        ],
+        "Answer": "Answer: b\nExplanation: Adding some functional groups to hyaluronic acid can provide a more hydrophobic material capable of chemical cross-linking with other polymers such as PEG to control its mechanical properties.\n"
+    },
+    {
+        "id": 107,
+        "Question": "Alginate is suitable for __________________",
+        "Options": [
+            "a) drug delivery",
+            "b) wound Healing",
+            "c) storage",
+            "d) consumption"
+        ],
+        "Answer": "Answer: a\nExplanation: The esterification of hyaluronic acid is the most commonly used approach to modify hyaluronic acid. Hayff-11 is a benzyl ester of hyaluronic acid that has been commercialized and clinically approved.\n"
+    },
+    {
+        "id": 108,
+        "Question": "Covalent cross-linking of alginate gels with different molecules is a useful approach to control the __________ and mechanical properties of gels.",
+        "Options": [
+            "a) swelling",
+            "b) strength",
+            "c) toughness",
+            "d) porosity"
+        ],
+        "Answer": "Answer: a\nExplanation: Alginic acid or alginate is the main structural component of seaweed and is obtained from brown algae’s extracellular matrix. It is a high molecular weight linear polymer and few studies have reported that alginic acid inhibits the HIV reverse transcriptase activity.\n"
+    },
+    {
+        "id": 109,
+        "Question": "Addition of _________ to alginate improves the cellular binding and interactions.",
+        "Options": [
+            "a) lectin",
+            "b) adenosine",
+            "c) collagen",
+            "d) elastin"
+        ],
+        "Answer": "Answer: c\nExplanation: Alginates are a type of polysaccharide block copolymers containing monomers of sequential β-d-mannuronic acid and α-l-guluronic acid, which are distributed in the polymer chain.\n"
+    },
+    {
+        "id": 110,
+        "Question": "___________ can be obtained by the deacetylation of chitin.",
+        "Options": [
+            "a) Chitosan",
+            "b) Cellulose",
+            "c) Actin",
+            "d) Fibrin"
+        ],
+        "Answer": "Answer: a\nExplanation: In a clinical trial, patients suffering from a lesion in the femoral condyle were successfully treated with the autologous chondrocytes cultured in the alginate–agarose scaffolds. However, alginate gels are relatively unstable in physiological media because of a decrease in mechanical properties of the gels due to the replacement of Ca2+ ions with Na+ or K+ ions in the polymer chains.\n"
+    },
+    {
+        "id": 111,
+        "Question": "____________ is a natural polymer derived from collagen.",
+        "Options": [
+            "a) Gelatin",
+            "b) Keratin",
+            "c) PVC",
+            "d) Polythene"
+        ],
+        "Answer": "Answer: a\nExplanation: Chitin on deacetylation gives Chitosan. Chitosan can be used as a biomaterial that is biomimetic in nature, this is due to its structural similarity to the GAGs in native tissues.\n"
+    },
+    {
+        "id": 112,
+        "Question": "____________ consists of a network of fibrous proteins.",
+        "Options": [
+            "a) Fibrin",
+            "b) Collagen",
+            "c) Alginate",
+            "d) Gelatin"
+        ],
+        "Answer": "Answer: b\nExplanation: Due to the high crystallinity and a chemical structure with amino acids, only dilute acids have the ability to dissolve Chitosan.\n"
+    },
+    {
+        "id": 113,
+        "Question": "Fibrin is formed by the enzymatic polymerization of fibrinogen using ____________",
+        "Options": [
+            "a) thrombin",
+            "b) keratin",
+            "c) calcium",
+            "d) hydrochloric acid"
+        ],
+        "Answer": "Answer: a\nExplanation: Chitosan is a favorite scaffold material in articular TE applications because of its similar structure to GAGs in cartilage-stimulating chondrogenesis.\n"
+    },
+    {
+        "id": 114,
+        "Question": "Silk is a natural biomaterial produced by ____________",
+        "Options": [
+            "a) spiders",
+            "b) cockroaches",
+            "c) ants",
+            "d) earthworms"
+        ],
+        "Answer": "Answer: a\nExplanation: Gelatin is a thermoresponsive, natural biomaterial extracted from collagen via breaking its triple-helix structure into single-strand molecules. It is more cost-effective and less antigenic than collagen.\n"
+    },
+    {
+        "id": 115,
+        "Question": "_____________ was synthesized by the reaction of silk with lactose using cyanuric chloride as the coupling spacer.",
+        "Options": [
+            "a) Galactosylated silk fibroin",
+            "b) Sulfonated silk fibroin",
+            "c) Elastin",
+            "d) Fibrin"
+        ],
+        "Answer": "Answer: a\nExplanation:  Fibrin comprises a network of fibrous proteins. The structural unit of fibrin polymer is fibrinogen, which can be derived from blood coagulated as a result of an injury.\n"
+    },
+    {
+        "id": 116,
+        "Question": "___________ Elastin is one of the components in natural ECM.",
+        "Options": [
+            "a) Chitosan",
+            "b) Cellulose",
+            "c) Elastin",
+            "d) Fibrin"
+        ],
+        "Answer": "Answer: a\nExplanation: Fibrin gels are formed at room temperature through the enzymatic polymerization of fibrinogen using thrombin and its degradation rate can be controlled by aprotinin or tranexamic acid.\n"
+    },
+    {
+        "id": 117,
+        "Question": "Poly (N-isopropyl acrylamide) (PNIPAAm) is used in ________________",
+        "Options": [
+            "a) Cell-therapy",
+            "b) Gene-therapy",
+            "c) RNA silencing",
+            "d) Vaccination"
+        ],
+        "Answer": "Answer: a\nExplanation: A principle preferred position of utilizing PNIPAAm for cell-embodiment and cell-treatment applications is that one can without much of a stretch epitomize the cells in PNIPAAm at room temperature and afterward structure the gel after expanding the temperature. The body temperature is higher than the temperature required for gel development. Hence, the cells inside the PNIPAAm can undoubtedly be infused into the body for regenerative purposes.\n"
+    },
+    {
+        "id": 118,
+        "Question": "Which of the following properties of Poly (N-isopropyl acrylamide) (PNIPAAm) is an advantage in tissue regeneration?",
+        "Options": [
+            "a) Thermoresponsiveness",
+            "b) Strength",
+            "c) Porosity",
+            "d) Ductility"
+        ],
+        "Answer": "Answer: a\nExplanation: The unique temperature-dependent gelation of PNIPAAm polymers is of great advantage for cell culture and tissue regeneration.\n"
+    },
+    {
+        "id": 119,
+        "Question": "_____________ is synthesized by the copolymerization of cyclic dimers of glycolic and lactic acids.",
+        "Options": [
+            "a) Poly (lactic acid-co-glycolic acid)",
+            "b) Poly (glycolic acid)",
+            "c) Poly (lactic acid)",
+            "d) Polythene"
+        ],
+        "Answer": "Answer: a\nExplanation: Poly (lactic acid co-glycolic corrosive) (PLGA) is incorporated by the copolymerization of cyclic dimers of glycolic and lactic acids. It is FDA- affirmed biopolymer and has broadly been utilized in TE and drug conveyance applications on account of its biocompatibility, biodegradability, and tunable mechanical properties.\n"
+    },
+    {
+        "id": 120,
+        "Question": "_____________ is a synthetic and hydrophilic polymer.",
+        "Options": [
+            "a) PEG or poly (ethylene oxide)",
+            "b) Elastin",
+            "c) Collagen",
+            "d) Keratin"
+        ],
+        "Answer": "Answer: a\nExplanation: PLGA has been used for skin TE for a very long time. Dermagraft is a commercially available skin tissue, which includes bioresorbable PLGA (i.e., polyglactin 910).\n"
+    },
+    {
+        "id": 121,
+        "Question": "Poly (vinyl alcohol) (PVA) is a derivative of __________",
+        "Options": [
+            "a) Poly (vinyl acetate)",
+            "b) Collagen",
+            "c) Poly (lactic acid)",
+            "d) Polythene"
+        ],
+        "Answer": "Answer: a\nExplanation: PLC’s degradation rate is less than that of PGA and PLGA because of five hydrophobic —CH2 moieties in its polymer chain.\n"
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following is not a conventional method of fabrication of biomaterials?",
+        "Options": [
+            "a) Solvent-casting",
+            "b) Particulate-leaching",
+            "c) Gas-foaming",
+            "d) Electrospinning"
+        ],
+        "Answer": "Answer: a\nExplanation: Solvent-casting, Particulate-leaching, and gas-foaming are conventional fabrication methods of biomaterials. Electrospinning is an advanced fabrication method.\n"
+    },
+    {
+        "id": 123,
+        "Question": "Which of the following is not an advanced method of fabrication of biomaterials?",
+        "Options": [
+            "a) Electrospinning",
+            "b) Phase separation",
+            "c) Hydrolysis",
+            "d) Rapid prototyping"
+        ],
+        "Answer": "Answer: a\nExplanation: Electrospinning and Rapid prototyping are advanced fabrication methods of biomaterials. Phase separation is an advanced fabrication method.\n"
+    },
+    {
+        "id": 124,
+        "Question": "It is difficult to make the internal channels within the scaffold using ________ methods.",
+        "Options": [
+            "a) hydrolysis",
+            "b) advanced",
+            "c) conventional",
+            "d) therapeutic"
+        ],
+        "Answer": "Answer: a\nExplanation: Customary biomaterial-creation techniques can deliver frameworks with a ceaseless, permeable structure, however, they are not as viable in permitting exact authority over the pore size, geometry, spatial circulation, or interconnectivity. It is hard to make the inward channels inside the framework utilizing customary creation techniques.\n"
+    },
+    {
+        "id": 125,
+        "Question": "__________ are used in electrospinning method.",
+        "Options": [
+            "a) Electrodes with opposite charges",
+            "b) Transducers",
+            "c) Capacitors",
+            "d) Carbon plates"
+        ],
+        "Answer": "Answer: a\nExplanation: The framework ought not to be a simple structure to help cells, yet it ought to likewise have a fitting pore size for cell movement, the adequate zone for cell grip, development, and separation, and a debasement rate that compares to that of the characteristic tissue recovery rate. Every one of these properties might be fulfilled by the meager biomaterial strands that are made through the electrospinning process. This procedure can utilize either manufactured or regular materials and result in cross-sections with filaments whose distance across is between many micrometers and several nanometers.\n"
+    },
+    {
+        "id": 126,
+        "Question": "___________ are a unique kind of primitive, immature cells that have a remarkable capacity to develop into different kinds of cells.",
+        "Options": [
+            "a) Stem cells",
+            "b) Epithelial cells",
+            "c) Mesenchymal cells",
+            "d) Ectodermal cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Stem cells are a unique kind of primitive, immature cells that have a remarkable capacity to develop into different kinds of cells. They serve as a continuous and natural internal repair mechanism.\n"
+    },
+    {
+        "id": 127,
+        "Question": "__________ is the inherent ability of an animal to navigate towards an original location through unfamiliar areas.",
+        "Options": [
+            "a) Homing",
+            "b) Navigation",
+            "c) Re-routing",
+            "d) Walking"
+        ],
+        "Answer": "Answer: a\nExplanation: Homing is the wonder whereby cells move to the organ of their cause. By homing, transplanted hematopoietic cells can make a trip to and engraft or build up home in the bone marrow. Different chemokines and receptors are engaged with the homing of hematopoietic undeveloped cells.\n"
+    },
+    {
+        "id": 128,
+        "Question": "_____________ is the process by which stem cells divide to make more stem cells.",
+        "Options": [
+            "a) Self-renewal",
+            "b) Propagation",
+            "c) Thrombopoiesis",
+            "d) Migration"
+        ],
+        "Answer": "Answer: a\nExplanation: Self-renewal is the procedure by which immature microorganisms partition to make more undeveloped cells, sustaining the undifferentiated organism pool all through life. Self-renewal is a division with the upkeep of the undifferentiated state.\n"
+    },
+    {
+        "id": 129,
+        "Question": "________ refers to the varying ability of stem cells to differentiate into specialized cell types.",
+        "Options": [
+            "a) Cell potency",
+            "b) Cell viability",
+            "c) Cell-therapy",
+            "d) Cell-regeneration"
+        ],
+        "Answer": "Answer: a\nExplanation: Stem cell plasticity is the capacity of grown-up tissue-explicit undeveloped cells to change to new personalities. The term versatility likewise means undifferentiated organism phenotypic potential, which is more extensive than phenotypes of separated cells in their unique tissues.\n"
+    },
+    {
+        "id": 130,
+        "Question": "Embryonic stem cells are derived from the ________ of the blastocyst.",
+        "Options": [
+            "a) inner cell mass",
+            "b) ectoderm",
+            "c) blastocoel",
+            "d) mesoderm"
+        ],
+        "Answer": "Answer: a\nExplanation: The sperm and egg are melded in-vitro, on the third day from fertilization the developing embryo begins to separate into cells called totipotent cells. On the fifth day from treatment, the blastocyst is shaped, from which the inward cell mass goes about as the wellspring of embryonic foundational microorganisms. These are then refined on a cell culture plate with proper media and ideal conditions.\n"
+    },
+    {
+        "id": 131,
+        "Question": "Embryonic stem cells are _________",
+        "Options": [
+            "a) pluripotent",
+            "b) small",
+            "c) large",
+            "d) medium-sized"
+        ],
+        "Answer": "Answer: a\nExplanation: Developing cells in the research center is known as cell culture. Human embryonic Stem cells (hESCs) are produced by moving cells from a preimplantation-organize developing life into a plastic research center culture dish that contains a supplement soup known as culture medium. The cells gap and spread over the outside of the dish.\n"
+    },
+    {
+        "id": 132,
+        "Question": "When was the first derivation of a human ES cell line (SCNT-hES-1)?",
+        "Options": [
+            "a) March 2004",
+            "b) March 2019",
+            "c) March 1950",
+            "d) March 1980"
+        ],
+        "Answer": "Answer: a\nExplanation: Embryonic stem cells are pluripotent. They can give rise to cells from all three germ layers even after being grown in culture for a long time.\n"
+    },
+    {
+        "id": 133,
+        "Question": "________ is the technique used to detect genetic disorders.",
+        "Options": [
+            "a) Preimplantation genetic diagnosis (PGD)",
+            "b) Gene therapy",
+            "c) Cell therapy",
+            "d) Proliferation"
+        ],
+        "Answer": "Answer: b\nExplanation: In the year 1981, Mouse Embryonic Stem cells were derived for the first time. In the year 1998, Human Embryonic Stem cells were derived for the first time.\n"
+    },
+    {
+        "id": 134,
+        "Question": "Induced pluripotent cells can be generated directly from ______________",
+        "Options": [
+            "a) adult cells",
+            "b) cancer cells",
+            "c) endometrial cells",
+            "d) epithelial cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Induced pluripotent stem cells (otherwise called iPS cells or iPSCs) are a sort of pluripotent Stem cells that can be created legitimately from grown-up cells. The iPSC innovation was spearheaded by Shinya Yamanaka’s lab in Kyoto, Japan, who appeared in 2006 that the presentation of four explicit qualities encoding interpretation variables could change over grown-up cells into pluripotent undifferentiated organisms.\n"
+    },
+    {
+        "id": 135,
+        "Question": "____________ are the most well-known type of pluripotent stem cell.",
+        "Options": [
+            "a) Red Blood cells",
+            "b) Adherent cells",
+            "c) Embryonic Stem cells",
+            "d) Carcinoma cells"
+        ],
+        "Answer": "Answer: c\nExplanation: The most outstanding kind of pluripotent stem cell is the embryonic stem cell. Be that as it may, since the age of embryonic stem cell includes pulverization (or possibly manipulation) of the pre-implantation organize incipient organism, there has been much contention encompassing their utilization.\n"
+    },
+    {
+        "id": 136,
+        "Question": "Induced pluripotent stem cells are _____________ in nature thus minimizing the chances of immune rejection.",
+        "Options": [
+            "a) autologous",
+            "b) proliferative",
+            "c) differentiating",
+            "d) adherent"
+        ],
+        "Answer": "Answer: a\nExplanation: The most outstanding kind of pluripotent stem cell is the embryonic stem cell. Be that as it may, since the age of embryonic stem cell includes pulverization (or possibly manipulation) of the pre-implantation organize incipient organism, there has been much contention encompassing their utilization.\n"
+    },
+    {
+        "id": 137,
+        "Question": "____________ is a transcription factor essential in order to maintain the pluripotency of induced pluripotent stem cells.",
+        "Options": [
+            "a) Oct-3/4",
+            "b) TF-2",
+            "c) TF-B",
+            "d) TF-3"
+        ],
+        "Answer": "Answer: a\nExplanation: The iPSC innovation was spearheaded by Shinya Yamanaka’s lab in Kyoto, Japan, who appeared in 2006 that the presentation of four explicit qualities encoding interpretation variables could change over grown-up cells into pluripotent stem cells. He was granted the 2012 Nobel Prize alongside Sir John Gurdon “for the disclosure that develops cells can be reinvented to progress toward becoming pluripotent.” Yamanaka named iPSCs with a lower case “I” because of the ubiquity of the iPod and different items.\n"
+    },
+    {
+        "id": 138,
+        "Question": "______________ are also known as somatic stem cells.",
+        "Options": [
+            "a) Adult stem cells",
+            "b) Cancer cells",
+            "c) Endometrial cells",
+            "d) Epithelial cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Adult stem cells are undifferentiated cells, found all through the body after advancement, that increase by cell division to renew dying cells and recover harmed tissues. Otherwise called physical undifferentiated cells, they can be found in adolescent just as grown-up creatures and people, in contrast to embryonic undeveloped cells.\n"
+    },
+    {
+        "id": 139,
+        "Question": "Ideally, ____________ should also be clonogenic.",
+        "Options": [
+            "a) red Blood cells",
+            "b) adherent cells",
+            "c) adult Stem cells",
+            "d) carcinoma cells"
+        ],
+        "Answer": "Answer: c\nExplanation: In a perfect world, adult stem cells ought to likewise be clonogenic. At the end of the day, a solitary adult stem cell ought to have the option to produce a line of hereditarily indistinguishable cells, which at that point offers ascend to all the fitting, separated cell kinds of the tissue in which it lives.\n"
+    },
+    {
+        "id": 140,
+        "Question": "Mesenchymal stem cells are multipotent stromal cells that can differentiate into a variety of cell types.",
+        "Options": [
+            "a) Mesodermal cells",
+            "b) Ectodermal cells",
+            "c) Endodermal cells",
+            "d) Mesenchymal stem cells"
+        ],
+        "Answer": "Answer: d\nExplanation: Mesenchymal stem cells are multipotent stromal cells that can separate into an assortment of cell types, including osteoblasts (bone cells), chondrocytes (ligament cells), myocytes (muscle cells) and adipocytes (fat cells which offer ascent to marrow fat tissue).\n"
+    },
+    {
+        "id": 141,
+        "Question": "Mesenchyme is derived from ___________",
+        "Options": [
+            "a) mesoderm",
+            "b) adherent cells",
+            "c) ectoderm",
+            "d) endoderm"
+        ],
+        "Answer": "Answer: a\nExplanation: Mesenchyme is the embryonic connective tissue that is gotten from the mesoderm and that separates into hematopoietic and connective tissue, though MSCs don’t separate into hematopoietic cells.\n"
+    },
+    {
+        "id": 142,
+        "Question": "__________ are connective tissue cells that form the supportive structure in which the functional cells of the tissue reside.",
+        "Options": [
+            "a) Stromal cells",
+            "b) Ectodermal cells",
+            "c) Endodermal cells",
+            "d) Mesenchymal stem cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Mesenchyme is the embryonic connective tissue that is gotten from the mesoderm and that separates into hematopoietic and connective tissue, though MSCs don’t separate into hematopoietic cells.\n"
+    },
+    {
+        "id": 143,
+        "Question": "_________________ is the most frequently utilized source of Mesenchymal stem cells.",
+        "Options": [
+            "a) Adrenal glands",
+            "b) Bone Marrow",
+            "c) Brain",
+            "d) Kidney"
+        ],
+        "Answer": "Answer: a\nExplanation: The term ‘Mesenchymal undeveloped cells’ envelops multipotent cells gotten from other non-marrow tissues, for example, placenta, umbilical rope blood, fat tissue, grown-up muscle, corneal stroma or the dental mash of deciduous infant teeth. The cells don’t have the ability to reconstitute a whole organ.\n"
+    },
+    {
+        "id": 144,
+        "Question": "Hematopoietic stem cells (HSCs) are the stem cells that give rise to other blood cells.",
+        "Options": [
+            "a) Mesodermal cells",
+            "b) Ectodermal cells",
+            "c) Endodermal cells",
+            "d) Hematopoietic stem cells (HSCs)"
+        ],
+        "Answer": "Answer: d\nExplanation: In hematopoiesis, Hematopoietic stem cells (HSCs) are stem cells offering ascent to other platelets.\n"
+    },
+    {
+        "id": 145,
+        "Question": "Which of the following are not myeloid cells?",
+        "Options": [
+            "a) Macrophages",
+            "b) Monocytes",
+            "c) Neutrophils",
+            "d) T cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Hematopoiesis is the procedure by which all full-grown platelets are delivered. In vertebrates, most by far of hematopoiesis happens in the bone marrow and is gotten from a predetermined number of hematopoietic stem cells that are multipotent and fit for broad self-reestablishment.\n"
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following are not lymphoid cells?",
+        "Options": [
+            "a) T cells",
+            "b) B cells",
+            "c) Natural killer cells",
+            "d) Megakaryocytes"
+        ],
+        "Answer": "Answer: a\nExplanation: Macrophages, Monocyte, and neutrophils are myeloid cells. T cells are a type of lymphoid cells.\n"
+    },
+    {
+        "id": 147,
+        "Question": "Hematopoietic stem cells, like all adult stem cells, mostly exist in a state of ____________ or reversible growth arrest.",
+        "Options": [
+            "a) Peace",
+            "b) Calmness",
+            "c) Mindfulness",
+            "d) Quiescence"
+        ],
+        "Answer": "Answer: a\nExplanation: Hematopoietic stem cells offer ascent to various sorts of platelets, in lines called myeloid and lymphoid. Myeloid and lymphoid genealogies both are engaged with dendritic cell development. Myeloid cells incorporate monocytes, macrophages, neutrophils, basophils, eosinophils, erythrocytes, and megakaryocytes to platelets. Lymphoid cells incorporate T cells, B cells, and characteristic executioner cells.\n"
+    },
+    {
+        "id": 148,
+        "Question": "____________ strand breaks accumulate in long term Hematopoietic stem cells during aging.",
+        "Options": [
+            "a) DNA",
+            "b) RNA",
+            "c) Collagen",
+            "d) Peptide"
+        ],
+        "Answer": "Answer: a\nExplanation: T cells, B cells, and Natural killer cells are different types of lymphoid cells. Megakaryocytes are a type of myeloid cells.\n"
+    },
+    {
+        "id": 149,
+        "Question": "_________ is a gelatinous substance within the umbilical cord.",
+        "Options": [
+            "a) Wharton’s jelly",
+            "b) Ectodermal layer",
+            "c) Endodermal layer",
+            "d) Mucosal layer"
+        ],
+        "Answer": "Answer: a\nExplanation: Wharton’s jelly is a coagulated substance inside the umbilical string moreover present in the eyeball’s vitreous humor, all things considered, made up of mucopolysaccharides (hyaluronic corrosive and chondroitin sulfate).\n"
+    },
+    {
+        "id": 150,
+        "Question": "Wharton’s jelly is a potential source of ________",
+        "Options": [
+            "a) red blood cells",
+            "b) adherent cells",
+            "c) adult stem cells",
+            "d) carcinoma cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Cells in Wharton’s jelly express a few stem cell genes, including telomerase. They can be extricated, cultured, and instigated to separate into mature cell types, for example, neurons. Wharton’s jelly is, in this manner, a potential wellspring of the adult stem cells (additionally observe the more typical technique for putting away cord blood).\n"
+    },
+    {
+        "id": 151,
+        "Question": "Wharton’s jelly may contain some fibroblast and ___________",
+        "Options": [
+            "a) Macrophages",
+            "b) T cells",
+            "c) B cells",
+            "d) Natural killer cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Wharton’s jelly may contain a few fibroblasts and macrophages. A fibroblast is a sort of natural cell that integrates the extracellular grid and collagen, produces the auxiliary structure (stroma) for creature tissues and assumes a basic job in wound recuperating. Macrophages are a sort of white platelet, of the safe framework, that overwhelms and processes cell flotsam and jetsam, remote substances, microorganisms, malignant growth cells, and whatever else that does not have the kind of proteins explicit to sound body cells on its surface in a procedure called phagocytosis.\n"
+    },
+    {
+        "id": 152,
+        "Question": "Wharton’s jelly is derived from extra-embryonic ____________",
+        "Options": [
+            "a) mesoderm",
+            "b) ectoderm",
+            "c) endoderm",
+            "d) mucosal layer"
+        ],
+        "Answer": "Answer: a\nExplanation: As a mucous tissue, it ensures and protects umbilical blood vessels. Wharton’s jam, when presented to temperature changes, breakdown structures inside the umbilical cord and along these lines gives a physiological clamping of the rope (a normal of) 5 minutes after birth.\n"
+    },
+    {
+        "id": 153,
+        "Question": "Bone is a ______________ tissue.",
+        "Options": [
+            "a) connective",
+            "b) muscular",
+            "c) epithelial",
+            "d) nervous"
+        ],
+        "Answer": "Answer: a\nExplanation: Like cartilage and fat tissue, bone is connective tissue, implying that it contains a populace of cells that are inserted into an extracellular grid.\n"
+    },
+    {
+        "id": 154,
+        "Question": "Formation of new bone tissue is known as __________",
+        "Options": [
+            "a) ossification",
+            "b) hematopoiesis",
+            "c) apoptosis",
+            "d) calcification"
+        ],
+        "Answer": "Answer: a\nExplanation: In healthy people, bone recovers through a two–advance redesigning process that includes resorption of developing bone that has turned out to be exhausted and the arrangement of new bone tissue (hardening).\n"
+    },
+    {
+        "id": 155,
+        "Question": "_____________ are simply osteoblasts trapped in the matrix that they secrete.",
+        "Options": [
+            "a) Osteocytes",
+            "b) Hepatocytes",
+            "c) Thrombocytes",
+            "d) Chondrocytes"
+        ],
+        "Answer": "Answer: a\nExplanation: Osteocytes are regularly depicted as terminally separated osteoblasts that dwell in little pockets named lacunae, found profound inside the mineralized bone.\n"
+    },
+    {
+        "id": 156,
+        "Question": "______________ imperfecta is a disorder of bone fragility chiefly caused by mutations in the COL1A1 and COL1A2 genes that encode type I procollagen.",
+        "Options": [
+            "a) Osteogenesis",
+            "b) Acetogenesis",
+            "c) Fibrogenesis",
+            "d) Hadrogenesis"
+        ],
+        "Answer": "Answer: b\nExplanation: Osteoclasts are huge multinucleate (cells with more than one core) that separate from another kind of cell called a macrophage. In typical bone, bone arrangement and bone resorption are firmly coupled procedures associated with the ordinary redesigning of bone.\n"
+    },
+    {
+        "id": 157,
+        "Question": "______________ is a bone disease that occurs when the body loses too much bone.",
+        "Options": [
+            "a) Osteoporosis",
+            "b) Osteomyelitis",
+            "c) Osteosarcoma",
+            "d) Fracture"
+        ],
+        "Answer": "Answer: a\nExplanation: Osteogenesis imperfecta (OI), otherwise called a fragile bone infection, is a gathering of hereditary issue that fundamentally influences the bones. It brings about bones that break effectively. The seriousness might be mellow to extreme.\n"
+    },
+    {
+        "id": 158,
+        "Question": "Articular cartilage is primarily composed of ____________ tissue.",
+        "Options": [
+            "a) hyaline",
+            "b) epithelial",
+            "c) endothelial",
+            "d) mucosal"
+        ],
+        "Answer": "Answer: a\nExplanation: Articular cartilage is essentially made out of hyaline tissue. The hyaline cartilage is a specific tissue found in many joints and gives low contact and shock retention. It likewise gives an auxiliary and organic obstruction between two bone surfaces prompting a smooth uniform scope of movement.\n"
+    },
+    {
+        "id": 159,
+        "Question": "Damaged hyaline cartilage is unable to self-repair due to its _______ nature.",
+        "Options": [
+            "a) avascular",
+            "b) ventricular",
+            "c) arterial",
+            "d) carcinogenic"
+        ],
+        "Answer": "Answer: a\nExplanation: Harmed hyaline cartilage can’t self-fix because of its avascular nature. This normal for articular cartilage speaks to a noteworthy test in the field of orthopedics. Additional time, either with or without treatment the deformity is loaded up with fibrocartilage, which speaks to a hardened tissue that doesn’t give the particular properties of hyaline cartilage.\n"
+    },
+    {
+        "id": 160,
+        "Question": "__________ is a surgical technique that has been developed to treat chondral defects, which are damaged areas of articular cartilage of the knee.",
+        "Options": [
+            "a) Microfracture",
+            "b) Hematopoiesis",
+            "c) Thrombopoiesis",
+            "d) Endochondral Ossification"
+        ],
+        "Answer": "Answer: a\nExplanation: Microfracture is a careful method that has been created to treat chondral deserts, which are harmed territories of articular cartilage of the knee. It is a typical strategy used to treat patients with full-thickness harm to the articular cartilage that goes right down deep down.\n"
+    },
+    {
+        "id": 161,
+        "Question": "_____________ is a biomedical treatment that repairs damages in articular cartilage.",
+        "Options": [
+            "a) Autologous chondrocyte implantation",
+            "b) Matrix-induced Autologous Chondrocyte Implantation (MACI)",
+            "c) Thrombopoiesis",
+            "d) Endochondral Ossification"
+        ],
+        "Answer": "Answer: a\nExplanation: Chondrocytes are the main cells found in healthy cartilage. They produce and maintain the cartilaginous network, which comprises for the most part of collagen and proteoglycans.\n"
+    },
+    {
+        "id": 162,
+        "Question": "Nutrition is supplied to the chondrocytes by __________",
+        "Options": [
+            "a) diffusion",
+            "b) differentiation",
+            "c) osmosis",
+            "d) air"
+        ],
+        "Answer": "Answer: a\nExplanation: Autologous chondrocyte implantation is a biomedical treatment that fixes harms in articular cartilage. ACI gives relief from discomfort while simultaneously hindering the movement or significantly deferring incomplete or all-out joint substitution medical procedures.\n"
+    },
+    {
+        "id": 163,
+        "Question": "_______________ is found at the anterior ends of the ribs, providing medial extension.",
+        "Options": [
+            "a) Costal Cartilage",
+            "b) Neutral plate",
+            "c) Paraxial Mesodermal Plate",
+            "d) Lateral Mesodermal Plate"
+        ],
+        "Answer": "Answer: a\nExplanation: Cartilage is a strong and smooth flexible tissue, an elastic-like cushioning that spreads and secures the closures of long bones at the joints, and is an auxiliary part of the rib cage, the ear, the nose, the bronchial tubes, the intervertebral discs, and numerous other body segments.\n"
+    },
+    {
+        "id": 164,
+        "Question": "____________ is caused by the stenosis and/or occlusion of a coronary artery.",
+        "Options": [
+            "a) Stroke",
+            "b) Myocardial infarction",
+            "c) Osteoporosis",
+            "d) Defibrillation"
+        ],
+        "Answer": "Answer: a\nExplanation: A heart attack or MI is brought about by the stenosis and additionally impediment of a coronary conduit prompting ill-advised conveyance of oxygenated blood to locales of the heart. This condition is ordered dependent on the degree of impediment into SST-Elevation myocardial infarction (STEMI) when the impediment is totally blocked, or non-ST-Elevation myocardial infarction (NSTEMI) when the impediment isn’t finished.\n"
+    },
+    {
+        "id": 165,
+        "Question": "_______________ are a type of leukocyte, or white blood cell.",
+        "Options": [
+            "a) Monocytes",
+            "b) Adherent cells",
+            "c) Stem cells",
+            "d) Carcinoma cells"
+        ],
+        "Answer": "Answer: a\nExplanation: Monocytes are a sort of leukocyte (white platelet). They are the greatest kind of leukocyte and can isolate into macrophages and myeloid lineage dendritic cells.\n"
+    },
+    {
+        "id": 166,
+        "Question": "___________ is the physiological process through which new blood vessels form from pre-existing vessels.",
+        "Options": [
+            "a) Myogenesis",
+            "b) Angiogenesis",
+            "c) Thrombopoiesis",
+            "d) Endochondral Ossification"
+        ],
+        "Answer": "Answer: b\nExplanation: Angiogenesis is the physiological procedure through which fresh recruits vessels structure from previous vessels, shaped in the prior phase of vasculogenesis. Angiogenesis proceeds with the development of the vasculature by procedures of growing and part.\n"
+    },
+    {
+        "id": 167,
+        "Question": "_______ is the abnormal enlargement, or thickening, of the heart muscle.",
+        "Options": [
+            "a) Cardiac hypertrophy",
+            "b) Ischemia",
+            "c) Heart attack",
+            "d) Stroke"
+        ],
+        "Answer": "Answer: a\nExplanation: Eosinophils are a sort of disease-fighting leukocytes. This condition every now and again shows parasitic pollution, a hypersensitive reaction or malignant development. You can have raised measures of eosinophils in your (blood eosinophilia) or in tissues at the site of an infection or disturbance (tissue eosinophilia).\n"
+    },
+    {
+        "id": 168,
+        "Question": "The majority of neural tissue found in the CNS consists of two cell types, neuronal cells, and ____________",
+        "Options": [
+            "a) red blood cells",
+            "b) adherent cells",
+            "c) stem cells",
+            "d) glial cells"
+        ],
+        "Answer": "Answer: d\nExplanation: The CNS comprises of the mind and the spinal string with the blood-cerebrum obstruction confining the kinds of biomolecules that can achieve these organs. Most of the neural tissue found in the CNS comprises of two cell types: neuronal cells and glial cells.\n"
+    },
+    {
+        "id": 169,
+        "Question": "_______________ produce the myelin sheath insulating neuronal axons.",
+        "Options": [
+            "a) Oligodendrocytes",
+            "b) Osteocytes",
+            "c) Myocytes",
+            "d) Cardiomyocytes"
+        ],
+        "Answer": "Answer: a\nExplanation: Oligodendrocytes are a kind of huge glial cell found in the focal sensory system. Oligodendrocytes produce the myelin sheath protecting neuronal axons (undifferentiated from Schwann cells in the fringe sensory system), in spite of the fact that some oligodendrocytes (called satellite oligodendrocytes) are not engaged with myelination.\n"
+    },
+    {
+        "id": 170,
+        "Question": "___________ is a progressive nervous system disorder that affects movement.",
+        "Options": [
+            "a) Myogenesis",
+            "b) Hematopoiesis",
+            "c) Thrombopoiesis",
+            "d) Parkinson’s disease"
+        ],
+        "Answer": "Answer: d\nExplanation: Parkinson’s disease is a dynamic sensory system issue that influences development. Side effects begin step by step, now and again beginning with a scarcely discernible tremor in only one hand. Tremors are normal, yet the turmoil likewise regularly causes firmness or easing back of the development.\n"
+    },
+    {
+        "id": 171,
+        "Question": "____________ is rare, inherited neurodegenerative disorder characterized by a loss of medium spiny projection neurons in the striatum.",
+        "Options": [
+            "a) Huntington’s disease (HD)",
+            "b) Parkinson’s Disease",
+            "c) Cardiac myopathy",
+            "d) Alzheimer’s Disease"
+        ],
+        "Answer": "Answer: a\nExplanation: Dopaminergic neurons of the midbrain are the principle wellspring of dopamine (DA) in the mammalian focal sensory system. Their misfortune is related to one of the most unmistakable human neurological issues, Parkinson’s disease (PD).\n"
+    },
+    {
+        "id": 172,
+        "Question": "_________ is a type of graft surgery involving the transplantation of skin.",
+        "Options": [
+            "a) Skin grafting",
+            "b) Regeneration",
+            "c) Endodermal replacement",
+            "d) Mucosal layer"
+        ],
+        "Answer": "Answer: a\nExplanation: Skin grafting is a kind of join medical procedure including the transplantation of skin. The transplanted tissue is known as a skin unite. Skin joining is regularly used to treat: Extensive injuring or injury.\n"
+    },
+    {
+        "id": 173,
+        "Question": "_____________ is when the blood-forming cells you received on transplant day start to grow and make healthy blood cells.",
+        "Options": [
+            "a) Engraftment",
+            "b) Homeostasis",
+            "c) Carcinogenesis",
+            "d) Myogenesis"
+        ],
+        "Answer": "Answer: a\nExplanation: Engraftment is the point at which the blood-framing cells you got on transplant day begin to develop and make solid platelets. It’s a significant achievement in your transplant recuperation.\n"
+    },
+    {
+        "id": 174,
+        "Question": "_____________ is a late stage of scarring (fibrosis) of the liver.",
+        "Options": [
+            "a) Myogenesis",
+            "b) Hematopoiesis",
+            "c) Thrombopoiesis",
+            "d) Cirrhosis"
+        ],
+        "Answer": "Answer: a\nExplanation: Cirrhosis is a later period of scarring (fibrosis) of the liver realized by various kinds of liver diseases and conditions, for instance, hepatitis and perpetual alcohol habit.\n"
+    },
+    {
+        "id": 175,
+        "Question": "The _______________ the epithelium lining the surface of the urinary bladder is a unique cell type with high plasticity and a variety of cellular functions.",
+        "Options": [
+            "a) urothelium",
+            "b) mesothelium",
+            "c) pericardium",
+            "d) basal cells"
+        ],
+        "Answer": "Answer: a\nExplanation: The fundamental driver of liver ailment incorporates liquor addiction, tranquilize misuse, hepatitis B or C infection contamination, cholestasis and metabolic disorder. Liver disappointment is related to quickly dynamic multiorgan disappointment and destroying inconveniences.\n"
+    },
+    {
+        "id": 176,
+        "Question": "A ____________ is a fluid-filled sac that forms in the abdomen comprised of pancreatic enzymes, blood and necrotic (dead) tissue.",
+        "Options": [
+            "a) pancreatic pseudocyst",
+            "b) liver hepatocyte",
+            "c) pancreatic cancer",
+            "d) brain tumor"
+        ],
+        "Answer": "Answer: a\nExplanation: The urothelium, which is a transitional epithelium of endodermal birthplace, is important to counteract the section of hypertonic pee to the blood and the trading of harmful metabolites. About 90% of the urothelium is made out of basal cells, which are mitotically dynamic cells and 5% of the urothelium is populated by middle cells and shallow cells situated in the suprabasal and luminal layers, individual.\n"
+    },
+    {
+        "id": 177,
+        "Question": "________ are supportive structures used in tissue engineering, these allow the cells to propagate and form a tissue.",
+        "Options": [
+            "a) Scaffolds",
+            "b) Blood",
+            "c) Endoderm",
+            "d) Bones"
+        ],
+        "Answer": "Answer: a\nExplanation: Scaffolding, likewise called framework or organizing, is a transitory structure used to help a work team and materials to help in the development, support and fix of structures, extensions and all other man-made structures.\n"
+    },
+    {
+        "id": 178,
+        "Question": "___________ is a type of scaffolding made from bamboo and widely used in construction work for centuries.",
+        "Options": [
+            "a) Bamboo scaffolding",
+            "b) Cement scaffolding",
+            "c) Brick scaffolding",
+            "d) Cell scaffolding"
+        ],
+        "Answer": "Answer: a\nExplanation: Bamboo scaffolding is a kind of platform produced using bamboo and broadly utilized in development work for quite a long time. Numerous renowned tourist spots, outstandingly The Great Wall of China, were constructed utilizing bamboo scaffolding, and its utilization proceeds with today in certain pieces of the world.\n"
+    },
+    {
+        "id": 179,
+        "Question": "_________ are devices used to detect the presence or concentration of a biological analyte, such as a biomolecule, a biological structure or a microorganism.",
+        "Options": [
+            "a) Biosensors",
+            "b) Transducers",
+            "c) Optic Fiber",
+            "d) Regulator"
+        ],
+        "Answer": "Answer: a\nExplanation: Biosensors are gadgets used to distinguish the nearness or convergence of an organic analyte, for example, a biomolecule, a natural structure or a microorganism. Biosensors comprise of three sections: a part that perceives the analyte and produces a sign, a sign transducer, and a reader gadget.\n"
+    },
+    {
+        "id": 180,
+        "Question": "A _________ crystal is a part of a sensor which primarily works using the principle of oscillation changes because of the mass bound to the surface of the piezoelectric crystal.",
+        "Options": [
+            "a) Piezoelectric",
+            "b) Shiny",
+            "c) Hard",
+            "d) Fluorescent"
+        ],
+        "Answer": "Answer: a\nExplanation: Piezoelectric biosensors are a gathering of explanatory gadgets chipping away at a guideline of fondness connection recording. A piezoelectric stage or piezoelectric crystal is a sensor part taking a shot at the guideline of motions to change because of a mass bound on the piezoelectric crystal surface.\n"
+    },
+    {
+        "id": 181,
+        "Question": "The __________ is a biomolecule that recognizes the target analyte whereas the transducer converts the recognition event into a measurable signal.",
+        "Options": [
+            "a) Bioreceptor",
+            "b) Biosignal",
+            "c) Biodegradation",
+            "d) Bioselectivity"
+        ],
+        "Answer": "Answer: a\nExplanation: In a biosensor, the bioreceptor is intended to interface with the particular analyte important to deliver an impact quantifiable by the transducer. High selectivity for the analyte among a lattice of other concoction or natural parts is a key necessity of the bioreceptor. While the kind of biomolecule utilized can shift generally, biosensors can be ordered by basic sorts of bioreceptor cooperations including counteracting agent/antigen, catalysts/ligands, nucleic acids/DNA, cell structures/cells, or biomimetic materials.\n"
+    },
+    {
+        "id": 182,
+        "Question": "Which sensor uses the principle of Total Internal Reflection?",
+        "Options": [
+            "a) Fiber optic sensor",
+            "b) Electrochemical sensor",
+            "c) Immunosensor",
+            "d) Galvanized sensor"
+        ],
+        "Answer": "Answer: a\nExplanation: Surface plasmon resonance (SPR) is the full swaying of conduction electrons at the interface among negative and positive permittivity material invigorated by episode light. SPR is the reason for various standardized instruments for assessing the adsorption of material onto planar metal (usually gold or silver) surfaces or onto the outer surface of metal nanoparticles. It is an important rule behind many concealing based biosensor applications, various “lab on a chip” sensors, and diatom photosynthesis.\n"
+    },
+    {
+        "id": 183,
+        "Question": "Impedance spectroscopy measures the resistance and capacitance properties of material via application of a ______________ air conditioning excitation signal of c. 2–10 mV.",
+        "Options": [
+            "a) sinusoidal",
+            "b) linear",
+            "c) exponential",
+            "d) declining"
+        ],
+        "Answer": "Answer: a\nExplanation: Electrochemical biosensors are ordinarily founded on enzymatic catalysis of a response that produces or expends electrons (such proteins are properly called redox catalysts). The sensor substrate more often than not contains three cathodes; a reference terminal, a working anode and a counter anode.\n"
+    },
+    {
+        "id": 184,
+        "Question": "_________ spectroscopy is based on the interaction of an external field with the electric dipole moment of the sample, often expressed by the permittivity.",
+        "Options": [
+            "a) Dielectric",
+            "b) Capacitor",
+            "c) Transducer",
+            "d) Electrochemical"
+        ],
+        "Answer": "Answer: a\nExplanation: Electrochemical impedance spectroscopy. Impedance spectroscopy estimates the opposition and capacitance properties of material by means of use of a sinusoidal air conditioning excitation sign of c. 2–10 mV. An impedance range is gotten by differing recurrence over a characterized range.\n"
+    },
+    {
+        "id": 185,
+        "Question": "______________ relaxation as a whole is the result of the movement of dipoles (dipole relaxation) and electric charges (ionic relaxation) due to an applied alternating field.",
+        "Options": [
+            "a) Dielectric",
+            "b) Capacitor",
+            "c) Transducer",
+            "d) Electrochemical"
+        ],
+        "Answer": "Answer: a\nExplanation: Dielectric spectroscopy estimates the dielectric properties of a medium as a component of recurrence. It depends on the cooperation of an outside field with the electric dipole snapshot of the example, regularly communicated by the permittivity. It is additionally a trial technique for portraying electrochemical frameworks.\n"
+    },
+    {
+        "id": 186,
+        "Question": "_______________ relaxation comprises ionic conductivity and interfacial and space charge relaxation.",
+        "Options": [
+            "a) Ionic",
+            "b) Dielectric",
+            "c) Conductive",
+            "d) Spectroscopic"
+        ],
+        "Answer": "Answer: a\nExplanation: Atomic polarization is seen when the core of the iota reorients because of the electric field. This is a resounding procedure. Nuclear polarization is characteristic for the idea of the iota and is an outcome of a connected field. Electronic polarization alludes to the electron thickness and is a result of a connected field. Nuclear polarization is normally little contrasted with electronic polarization.\n"
+    },
+    {
+        "id": 187,
+        "Question": "__________ is the ability of many materials (specifically ceramics) to become polarized under an applied electric field.",
+        "Options": [
+            "a) Paraelectricity",
+            "b) Ferrielectrecity",
+            "c) Neitrielectricity",
+            "d) Dielectricity"
+        ],
+        "Answer": "Answer: a\nExplanation: Dielectric relaxation, in general, is the consequence of the development of dipoles (dipole unwinding) and electric charges (ionic unwinding) because of a connected substituting field and is normally seen in the recurrence run 102-1010 Hz. Unwinding components are moderately moderate contrasted with full electronic changes or atomic vibrations, which more often than not have frequencies over 1012 Hz.\n"
+    },
+    {
+        "id": 188,
+        "Question": "A dielectric resonator oscillator (DRO) is an electronic component that exhibits resonance of the polarization response for a narrow range of frequencies, generally in the microwave band.",
+        "Options": [
+            "a) Dielectric resonator oscillator",
+            "b) Armstrong Oscillator",
+            "c) Crystal Oscillator",
+            "d) Hartley oscillator"
+        ],
+        "Answer": "Answer: a\nExplanation: Atomic polarization is seen when the core of the particle reorients because of the electric field. This is a resounding procedure. Nuclear polarization is characteristic for the idea of the molecule and is an outcome of a connected field. Electronic polarization alludes to the electron thickness and is an outcome of a connected field. Atomic polarization is typically little contrasted with electronic polarization.\n"
+    },
+    {
+        "id": 189,
+        "Question": "________________ biosensors are a class of electrochemical biosensors that transduce the biological recognition events caused by electroactive species at the sensing surface into a current signal for the quantification of an analyte within a sample matrix.",
+        "Options": [
+            "a) Amperometric",
+            "b) Dielectric",
+            "c) Immuno",
+            "d) Matrix"
+        ],
+        "Answer": "Answer: a\nExplanation: Amperometric biosensors are a class of electrochemical biosensors that transduce the natural acknowledgment occasions brought about by electroactive species at the detecting surface into a present sign for the measurement of an analyte inside an example grid. The inherent straightforwardness of the transducer fits minimal effort compact gadgets for applications going from ailment finding to ecological observing.\n"
+    },
+    {
+        "id": 190,
+        "Question": "_________ refers to the measurement of the charge of electroactive species adsorbed on to an electrode with respect to time.",
+        "Options": [
+            "a) Chronocoulometry",
+            "b) Colorimetry",
+            "c) Spectroscopy",
+            "d) Conductivity"
+        ],
+        "Answer": "Answer: a\nExplanation: Chronocoulometry alludes to the estimation of the charge of electroactive species adsorbed on to an anode as for time. One field of examination where chronocoulometry sensors are broadly utilized is the evaluation of nucleotidic atoms.\n"
+    },
+    {
+        "id": 191,
+        "Question": "The type of biosensors that make use of electrodes that are ion-selective in nature in order to transduce the biological response into an electrical signal is known as  _______ biosensors.",
+        "Options": [
+            "a) conductive",
+            "b) potentiometric",
+            "c) tranducive",
+            "d) oscillatory"
+        ],
+        "Answer": "Answer: a\nExplanation: Potentiometric biosensors utilize particle specific terminals so as to transduce the organic response into an electrical sign. In the least difficult terms, this comprises of an immobilized chemical film encompassing the test from a pH-meter, where the catalyzed response produces or ingests hydrogen particles.\n"
+    },
+    {
+        "id": 192,
+        "Question": "In __________ information about an analyte is obtained by measuring the current as the potential is varied.",
+        "Options": [
+            "a) voltammetry",
+            "b) volumetric",
+            "c) conductive",
+            "d) transductive"
+        ],
+        "Answer": "Answer: a\nExplanation: The ordinary electrochemical cell contains three separate terminals: the working electrode (WE), the counter electrode (CE) and the reference electrode (RE).\n"
+    },
+    {
+        "id": 193,
+        "Question": "__________ transducers are the most comprehensive and mostly used by research groups in biosensing analysis.",
+        "Options": [
+            "a) Voltammetric",
+            "b) Conductive",
+            "c) Potentiometric",
+            "d) Volumetric"
+        ],
+        "Answer": "Answer: a\nExplanation: Voltammetry has a place with a class of electro-logical techniques, through which data about an analyte is acquired by differing a potential and afterward estimating the subsequent current. It is, hence, an amperometric system.\n"
+    },
+    {
+        "id": 194,
+        "Question": "Which of the following is a device harboring a biologically active environment?",
+        "Options": [
+            "a) Biosensors",
+            "b) Bioreactors",
+            "c) Cells",
+            "d) Soil"
+        ],
+        "Answer": "Answer: b\nExplanation: A bioreactor alludes to any fabricated gadget or framework that supports an organically dynamic environment. In one case, a bioreactor is a vessel where a concoction procedure is completed which includes living beings or biochemically dynamic substances derived from such creatures.\n"
+    },
+    {
+        "id": 195,
+        "Question": "Bioreactors are usually made of _____________",
+        "Options": [
+            "a) polymers",
+            "b) stainless steel",
+            "c) clay",
+            "d) cement"
+        ],
+        "Answer": "Answer: a\nExplanation: A bioreactor is a vessel where a synthetic procedure is done which includes living beings or biochemically dynamic substances got from such life forms. This procedure can either be oxygen-consuming or anaerobic. These bioreactors are normally round and hollow, going in size from liters to cubic meters, and are regularly made of treated steel.\n"
+    },
+    {
+        "id": 196,
+        "Question": "_________ and coils are used to maintain the temperature of the fermentation medium inside the bioreactor.",
+        "Options": [
+            "a) Cooling Jackets",
+            "b) Capacitors",
+            "c) Transducers",
+            "d) Electrochemicals"
+        ],
+        "Answer": "Answer: a\nExplanation: The natural conditions inside the bioreactor, for example, temperature, supplement fixations, pH, and broke up gases (particularly oxygen for aerobic fermentation) influence the development and profitability of the living beings. The temperature of the aging medium is kept up by a cooling coat, loops, or both.\n"
+    },
+    {
+        "id": 197,
+        "Question": "________ is the part of a bioreactor helping in maintaining the homogeneity of the contents of the bioreactor.",
+        "Options": [
+            "a) Agitator",
+            "b) Fan",
+            "c) Cooler",
+            "d) Coolant"
+        ],
+        "Answer": "Answer: a\nExplanation: A bioprocess is made for the most part out of three phases — upstream preparing, bioreaction, and downstream handling — to change over crude material to the completed item. The crude material can be of a natural or non-organic starting point. It is first changed over to an increasingly reasonable structure for handling. This is done in an upstream handling venture which includes concoction hydrolysis, an arrangement of a fluid medium, the partition of particulate, air refinement and numerous other preliminary activities. After upstream preparing venture, the subsequent feed is moved to at least one Bioreaction stage. The Biochemical reactors or bioreactors structure the base of the Bioreaction step. This progression mostly comprises of three activities to be specific, generation of biomass, utilize biosynthesis and biotransformation. At long last, the material created in the bioreactor must be additionally prepared in the downstream segment to change over it into an increasingly valuable structure. The downstream procedure chiefly comprises of physical partition tasks which incorporate, strong fluid division, adsorption, fluid extraction, refining, drying, and so forth.\n"
+    },
+    {
+        "id": 198,
+        "Question": "The ___________ provides the annular area for circulation of constant temperature of water",
+        "Options": [
+            "a) jacket",
+            "b) cover",
+            "c) wind-cheater",
+            "d) rain-coat"
+        ],
+        "Answer": "Answer: a\nExplanation: Instigator is utilized for the blending of the substance of the reactor which keeps the “cells” in the ideal homogenous condition for a better vehicle of supplements and oxygen to the ideal product(s).\n"
+    },
+    {
+        "id": 199,
+        "Question": "The production capacity of the biggest Biologics plant is _____________",
+        "Options": [
+            "a) 180,000 Liters",
+            "b) 20, 000 Liters",
+            "c) 1000 Liters",
+            "d) 1,000,000 Liters"
+        ],
+        "Answer": "Answer: a\nExplanation: Baffles are utilized to break the vortex development in the vessel, which is typically very bothersome as it changes the focal point of gravity of the framework and expends extra power.\n"
+    },
+    {
+        "id": 200,
+        "Question": "For what purpose was the first bioreactor developed?",
+        "Options": [
+            "a) Acetone",
+            "b) Yeast",
+            "c) Glucose",
+            "d) E.coli culture"
+        ],
+        "Answer": "Answer: a\nExplanation: Spargers bring gases into fluids through a great many little pores, making rises far littler and more various than with penetrated pipe and other sparging strategies. The outcome is a more noteworthy gas/fluid contact region, which decreases the time and volume required to break down gas into a fluid.\n"
+    },
+    {
+        "id": 201,
+        "Question": "In _________ culture, fluid flow driven by a magnetic stir bar creates a well-mixed cell suspension.",
+        "Options": [
+            "a) spinner flask",
+            "b) agitator",
+            "c) magnetic stirrer",
+            "d) baffles"
+        ],
+        "Answer": "Answer: a\nExplanation: In spinner flask culture, a liquid stream driven by a magnetic stir bar makes a well-blended cell suspension for dynamic seeding and culture of the platforms that are fixed inside the cup on needles or wires.\n"
+    },
+    {
+        "id": 202,
+        "Question": "Who invented the Rotating wall vessel bioreactor?",
+        "Options": [
+            "a) NASA",
+            "b) ISRO",
+            "c) IISC",
+            "d) DRDO"
+        ],
+        "Answer": "Answer: a\nExplanation: The Rotating wall vessel (RWV) was initially developed by NASA and right now has a few subordinates of the first structure that are executed today. There are three regular subordinates called the slow lateral turning vessel (STLV), the high aspect ratio vessel (HARV) and rotating wall perfused vessel (RWPV). The STLV is as of now accessible for business creation.\n"
+    },
+    {
+        "id": 203,
+        "Question": "Commercial single-use bioreactors have been available since the end of the ______",
+        "Options": [
+            "a) 1990s",
+            "b) 1880s",
+            "c) 1900s",
+            "d) 1950s"
+        ],
+        "Answer": "Answer: a\nExplanation: A single-use bioreactor or disposable bioreactor is a bioreactor with a dispensable pack rather than a culture vessel. Ordinarily, this alludes to a bioreactor in which the fixing in contact with the phone culture will be plastic, and this coating is encased inside a progressively changeless structure (commonly, either a rocker or a cuboid or tube-shaped steel support). Business single-use bioreactors have been accessible since the finish of the 1990s.\n"
+    },
+    {
+        "id": 204,
+        "Question": "A ________________ (PBR) is a bioreactor that utilizes a light source to cultivate phototrophic microorganisms.",
+        "Options": [
+            "a) Photo-bioreactor",
+            "b) Capacitor-reactor",
+            "c) Transducer-reactor",
+            "d) Electrochemical-reactor"
+        ],
+        "Answer": "Answer: a\nExplanation: The rotating wall structures provide reduced shear stress while maximizing mass transfer due to the microgravity environment generated by the rotation of the inner and outer cylinders.\n"
+    },
+    {
+        "id": 205,
+        "Question": "Which of the following are not photobioreactor types?",
+        "Options": [
+            "a) Tubular bioreactor",
+            "b) Christmas tree bioreactor",
+            "c) Foil bioreactor",
+            "d) Rotating wall vessel bioreactor"
+        ],
+        "Answer": "Answer: d\nExplanation: Rotating wall vessel bioreactor is not a photo-bioreactor. The types of photo-bioreactors are Tubular, Christmas tree, plate, horizontal, foil, and porous substrate bioreactors.\n"
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following is not a perfusion bioreactor?",
+        "Options": [
+            "a) Parallel-Plate Bioreactors",
+            "b) Hollow-Fiber Bioreactors",
+            "c) Fixed bed bioreactors",
+            "d) Spinner Flasks"
+        ],
+        "Answer": "Answer: d\nExplanation: Spinner flasks are not a type of perfusion bioreactors. The types of perfusion bioreactors are Fixed bed, fluidized bed, hollow-fiber, and parallel plate bioreactors.\n"
+    },
+    {
+        "id": 207,
+        "Question": "________ facilitate rapid dilution rates which make them resistant to both high pH and low pH volatile fatty acid wastes.",
+        "Options": [
+            "a) Continuous Stirred tank reactors",
+            "b) Christmas tree bioreactor",
+            "c) Foil bioreactor",
+            "d) Rotating wall vessel bioreactor"
+        ],
+        "Answer": "Answer: d\nExplanation: Fluidized bed bioreactor is comparable to bubble column bioreactor except the top position is expanded to reduce the velocity of the fluid. The design of the fluidized bioreactors (expanded to and narrow reaction column) is such that the solids are retained in the reactor while the liquid flows out. These bioreactors are suitable for use to carry out reactions involving fluid suspended biocatalysts such as immobilized enzymes, immobilized cells, and microbial flocs.\n"
+    },
+    {
+        "id": 208,
+        "Question": "____________ bioreactor systems have length scales that are well matched to the physical dimensions of most cells and microorganisms.",
+        "Options": [
+            "a) Continuous Stirred tank",
+            "b) Microfluidic",
+            "c) Packed bed",
+            "d) Rotating wall vessel"
+        ],
+        "Answer": "Answer: c\nExplanation: A pressure-cycle fermenter with large dimensions constitutes a tower bioreactor. A high hydrostatic strain produced at the base of the reactor escalates the solubility of oxygen (O2) as the medium. At the highest point of the riser, (with extended top) diminishes strain and aids in the removal of carbon dioxide (CO2). The medium flows back in the down corner and completes the cycle.\n"
+    },
+    {
+        "id": 209,
+        "Question": "A ___________ landfill is a municipal solid waste landfill (MSWLF) in which liquids are added to help bacteria break down the waste.",
+        "Options": [
+            "a) bioreactor",
+            "b) open",
+            "c) packed bed",
+            "d) rotating wall vessel"
+        ],
+        "Answer": "Answer: c\nExplanation: In the airlift bioreactors, the medium of the vessel is divided into two interconnected zones by means of a baffle or draft tube. In one of the two zones referred to as a riser, the air/gas is pumped. The other zone that receives no gas in the down corner.\n"
+    },
+    {
+        "id": 210,
+        "Question": "Yin et al. developed a cultivation system to differentiate mouse embryoid bodies (EBs) into the hepatocytes using a _________ bioreactor.",
+        "Options": [
+            "a) spinner",
+            "b) photo",
+            "c) electronic",
+            "d) piezoelectric"
+        ],
+        "Answer": "Answer: a\nExplanation: Yin et al., 2007, built up a development framework to separate mouse embryoid bodies (EBs) into the hepatocytes utilizing a spinner bioreactor. They found that this framework could be utilized as an enormous scale hepatic separation framework.\n"
+    },
+    {
+        "id": 211,
+        "Question": "Why are Perfusion bioreactors preferred over Rotating Wall Vessel Bioreactors for Bio-artificial Liver production?",
+        "Options": [
+            "a) Controlled environment",
+            "b) The capacity is more",
+            "c) Efficiency is more",
+            "d) The material of perfusion bioreactors is inert"
+        ],
+        "Answer": "Answer: a\nExplanation: Essential hepatocytes and stem cells refined on RWV reactors were additionally used to design Bio-artificial Liver (BAL), since these frameworks may limit disturbance and shear pressure and expand mass exchange. For instance, Ishikawa et al. discovered that the hepatocytes exhibited a bile-channel like or vessel-like structure following 10 days of culture utilizing an RWV bioreactor framework.\n"
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following are suitable for prolonged in vitro studies?",
+        "Options": [
+            "a) Dielectric-fiber bioreactors",
+            "b) Hollow Fiber bioreactors",
+            "c) Optical Fiber bioreactors",
+            "d) Rotating Wall Vessel Bioreactors"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell development isn’t constantly uniform in RWV frameworks, and cells might be harmed because of crashes between the platforms and the reactor dividers. Perfusion frameworks permit a progressively controlled condition, consistent presentation of gas and supplements, and end of waste items. This design permits the perfusion of the medium or the patient’s blood/plasma through a lattice loaded up with liver cells.\n"
+    },
+    {
+        "id": 213,
+        "Question": "In traditional ________ bioreactors, cell-laden scaffolds float in the medium while the vessel wall rotates.",
+        "Options": [
+            "a) rotating wall vessel",
+            "b) perfusion",
+            "c) photo",
+            "d) aerobic"
+        ],
+        "Answer": "Answer: a\nExplanation: Sun et al. effectively utilized an RWV framework to build up an in vitro tooth germ culture model. They saw that tooth germs kept up their commonplace spatial shape both during and after the way of life. Following 6 days of culture, the thick layers of polish and dentin developed on the refined tooth.\n"
+    },
+    {
+        "id": 214,
+        "Question": "_________ spectroscopy depends on the association of an outside field with the electric dipole moment of the specimen, generally indicated by the permittivity.",
+        "Options": [
+            "a) Dielectric",
+            "b) Capacitor",
+            "c) Transducer",
+            "d) Electrochemical"
+        ],
+        "Answer": "Answer: a\nExplanation: In conventional RWV bioreactors, cell-loaded frameworks skim in the medium while the vessel divider pivots. An option bioreactor is the turning bed framework (RBS). In this framework, the platforms are fixed on a pole that turns in a half-filled culture vessel.\n"
+    },
+    {
+        "id": 215,
+        "Question": "Stirred bioreactors have also been employed to promote neural differentiation using microcarriers as scaffolds or in suspension culture (cell aggregates).",
+        "Options": [
+            "a) Microcarriers",
+            "b) Bullets",
+            "c) Steroids",
+            "d) Capsules"
+        ],
+        "Answer": "Answer: a\nExplanation: RWV bioreactors have been broadly utilized for the development, portrayal, and neural separation of undifferentiated organisms. For instance, Chen et al. showed that reproduced microgravity can improve the separation of rodent MSCs into neurons following 3 days of culture.\n"
+    },
+    {
+        "id": 216,
+        "Question": "The technology for epidermal replacement (a confluent epithelial cell layer attached to a petroleum gauze carrier) was developed in the _______________",
+        "Options": [
+            "a) 1970s",
+            "b) 1990s",
+            "c) 2000s",
+            "d) 2010s"
+        ],
+        "Answer": "Answer: a\nExplanation: The innovation for epidermal substitution (a blended epithelial cell layer joined to an oilcloth transporter) was created during the 1970s. Shockingly, the pace of epidermal engraftment was not exactly perfect and even effective cases showed poor toughness and frail epithelium.\n"
+    },
+    {
+        "id": 217,
+        "Question": "The epidermis is considered the outermost component of the skin and primarily comprised of ___________ a specific type of epithelial cells.",
+        "Options": [
+            "a) keratinocytes",
+            "b) collagen",
+            "c) stem cells",
+            "d) chondrocytes"
+        ],
+        "Answer": "Answer: a\nExplanation: The epidermis is viewed as the furthest segment of the skin and essentially involved keratinocytes, a particular kind of epithelial cells. The use of an epidermal layer gives early restoration of a practical hindrance, which is crucial in the avoidance of inordinate transepidermal water misfortune and contamination.\n"
+    },
+    {
+        "id": 218,
+        "Question": "The epidermis is usually separated from a ____________",
+        "Options": [
+            "a) skin biopsy",
+            "b) grafting",
+            "c) replacement",
+            "d) regeneration"
+        ],
+        "Answer": "Answer: a\nExplanation: So as to deliver an epidermal skin substitution, the epidermis is typically isolated from a skin biopsy, 2–5 cm2 in size, and keratinocytes are therefore refined on fibroblasts. Epidermal Tess is sold by various organizations, for example, Genzyme’s Epicel® (Cambridge, MA, USA). Epicel® is proposed for unions of consuming wounds and comprises of refined epithelium utilizing autologous epidermal cells. Laserskin® (Fidia Advanced Biopolymers Srl, Italy), is another epidermal TES model assigned for the treatment of profound severe singeing and ceaseless ulcers.\n"
+    },
+    {
+        "id": 219,
+        "Question": "__________ cartilage is a thin layer of specialized connective tissue with unique viscoelastic properties.",
+        "Options": [
+            "a) Atrial",
+            "b) Articular",
+            "c) Elastic",
+            "d) Smooth"
+        ],
+        "Answer": "Answer: a\nExplanation: Articular cartilage is a flimsy layer of specific connective tissue with one of a kind viscoelastic property. Its chief capacity is to give a smooth, greased up surface for low rubbing explanation and to encourage the transmission of burdens to the basic subchondral bone.\n"
+    },
+    {
+        "id": 220,
+        "Question": "Articular cartilage is ____________ cartilage and is 2 to 4 mm thick.",
+        "Options": [
+            "a) hyaline",
+            "b) hydraulic",
+            "c) vascular",
+            "d) electrochemical"
+        ],
+        "Answer": "Answer: a\nExplanation: Damage to articular cartilage is perceived as a reason for noteworthy musculoskeletal horribleness. The novel and complex structure of articular cartilage makes treatment and fix or reclamation of the deformities trying for the patient, the specialist, and the physical advisor. The conservation of articular cartilage is exceptionally subject to keeping up its sorted out engineering.\n"
+    },
+    {
+        "id": 221,
+        "Question": "The thin superficial zone that protects the deeper layers from shear stresses is called _______ zone.",
+        "Options": [
+            "a) tangential",
+            "b) lateral",
+            "c) transverse",
+            "d) traverse"
+        ],
+        "Answer": "Answer: a\nExplanation: Articular cartilage is hyaline cartilage and is 2 to 4 mm thick. In contrast to most tissues, articular ligament does not have veins, nerves, or lymphatics. It is made out of a thick extracellular framework (ECM) with an inadequate appropriation of profoundly specific cells called chondrocytes.\n"
+    },
+    {
+        "id": 222,
+        "Question": "The ______ zone contains the largest diameter collagen fibrils in radial disposition.",
+        "Options": [
+            "a) deep",
+            "b) middle",
+            "c) last",
+            "d) first"
+        ],
+        "Answer": "Answer: a\nExplanation: Articular cartilage is without veins, lymphatics and nerves and is liable to an unforgiving biomechanical condition. Most significant, the articular cartilage has a restricted limit with regards to natural mending and fix. In such a manner, the safeguarding and strength of articular cartilage are vital to joint wellbeing.\n"
+    },
+    {
+        "id": 223,
+        "Question": "The _______________ is the resident cell type in articular cartilage.",
+        "Options": [
+            "a) chondrocyte",
+            "b) cardiomyocytes",
+            "c) adipocytes",
+            "d) myocytes"
+        ],
+        "Answer": "Answer: a\nExplanation: The dainty shallow (extraneous) zone shields further layers from shear stresses and makes up around 10% to 20% of articular cartilage thickness. The collagen filaments of this zone (principally, type II and IX collagen) are stuffed firmly and adjusted parallel to the articular surface.\n"
+    },
+    {
+        "id": 224,
+        "Question": "___________ collagen represents 90% to 95% of the collagen in ECM and forms fibrils and fibers intertwined with proteoglycan aggregates.",
+        "Options": [
+            "a) Type II",
+            "b) Type IX and X",
+            "c) Type XX",
+            "d) Type L"
+        ],
+        "Answer": "Answer: a\nExplanation: The dainty shallow (extraneous) zone shields further layers from shear stresses and makes up around 10% to 20% of articular cartilage thickness. The collagen filaments of this zone (principally, type II and IX collagen) are stuffed firmly and adjusted parallel to the articular surface.\n"
+    },
+    {
+        "id": 225,
+        "Question": "Synovium-derived stem cells (SDSCs) originate from the ________ surrounding joints.",
+        "Options": [
+            "a) synovial membrane",
+            "b) synovial humor",
+            "c) synovial disc",
+            "d) synovial jelly"
+        ],
+        "Answer": "Answer: a\nExplanation: Quickly profound to the shallow zone is the center (transitional) zone, which gives an anatomic and practical scaffold between the shallow and profound zones. The center zone speaks to 40% to 60% of the complete ligament volume, and it contains proteoglycans and thicker collagen fibrils. In this layer, the collagen is sorted out at a slant, and the chondrocytes are round and at low thickness. Practically, the center zone is the principal line of protection from compressive powers.\n"
+    },
+    {
+        "id": 226,
+        "Question": "When left untreated, articular cartilage lesions can lead to ___________",
+        "Options": [
+            "a) osteoarthritis",
+            "b) heart attack",
+            "c) stroke",
+            "d) athiritis"
+        ],
+        "Answer": "Answer: a\nExplanation: Articular ligament wounds are usually brought about by games and recreational exercises. At the point when left untreated, articular ligament sores can prompt osteoarthritis.\n"
+    },
+    {
+        "id": 227,
+        "Question": "_________ cartilage provides a smooth articular surface and the ability to withstand a good amount of pressure.",
+        "Options": [
+            "a) hyaline",
+            "b) linear",
+            "c) exponential",
+            "d) declining"
+        ],
+        "Answer": "Answer: a\nExplanation: Hyaline cartilage gives a smooth articular surface and the capacity to withstand great measure of weight. It is alymphatic, aneural, avascular loadbearing tissue, made out of chondrocytes inadequately inserted inside an extracellular framework of collagens and proteoglycans.\n"
+    },
+    {
+        "id": 228,
+        "Question": "Microfracture is a common procedure in which small holes are made and distributed across the entire articular cartilage lesion site.",
+        "Options": [
+            "a) Microfracture",
+            "b) Ultrafracture",
+            "c) Tetrafracture",
+            "d) Trifracture"
+        ],
+        "Answer": "Answer: a\nExplanation: Microfracture is a typical system where little openings are made and conveyed over the whole articular ligament sore site, at a separation of 3–4 mm separated and down to a profundity of 4 mm, hence yielding around 3–4 gaps for every cm 2.7, 8, 9 It is a negligibly obtrusive arthroscopic approach, which does not require any expensive instrumentation. The microfracture is a marrow incitement procedure that carries the marrow cells to the deformity site to help in fix.\n"
+    },
+    {
+        "id": 229,
+        "Question": "_____________ are the most widely used stem cell source for articular cartilage regeneration technique.",
+        "Options": [
+            "a) Mesenchymal Stem Cells (MSCs)",
+            "b) Induced Pluripotent cells",
+            "c) Adult stem cells",
+            "d) Inner cell mass"
+        ],
+        "Answer": "Answer: a\nExplanation: Mechanical Forces like movement and fitting stacking of synovial joints are essential for the best possible structure, capacity, and digestion of the articular hyaline ligament. Various reports have connected that the mechanical pressure is a significant modulator of the local articular ligament metabolic exercises and serves to keep up the ligament homeostasis. Though unreasonable mechanical powers may prompt ligament harm and improvement of osteoarthritis also.\n"
+    },
+    {
+        "id": 230,
+        "Question": "Articular cartilage lesions, when left untreated, forms ____________",
+        "Options": [
+            "a) fibrocartilage",
+            "b) vascular cartilage",
+            "c) conductive cartilage",
+            "d) elastic cartilage"
+        ],
+        "Answer": "Answer: a\nExplanation: Mesenchymal Stem Cells (MSCs) are the most generally utilized stem cells hotspot for the articular ligament recovery procedure. It very well may be effectively gotten from a wide assortment of tissues including the bone marrow, muscle, blood, synovium, and synovial liquid.\n"
+    },
+    {
+        "id": 231,
+        "Question": "The liver is the largest gland in the body, weighing roughly _____________ in human adults.",
+        "Options": [
+            "a) 1.0–1.5 kg",
+            "b) 2.0-5.0 kg",
+            "c) 3.0 kg",
+            "d) 10.0 kg"
+        ],
+        "Answer": "Answer: a\nExplanation: The liver is the biggest organ in the body, weighing generally 1.0–1.5 kg in human grown-ups. This mind boggling organ assumes a significant job in starch, protein and lipid digestion, just as the blend and emission of blood and bile parts and the detoxification of blood.\n"
+    },
+    {
+        "id": 232,
+        "Question": "The liver is situated beneath the ___________",
+        "Options": [
+            "a) diaphragm",
+            "b) stomach",
+            "c) intestine",
+            "d) spleen"
+        ],
+        "Answer": "Answer: a\nExplanation: The liver is situated underneath the stomach, principally in the upper right quadrant of the mid-region. It is encompassed by a smooth container of connective tissue named Glisson’s case.\n"
+    },
+    {
+        "id": 233,
+        "Question": "Typical liver shear moduli range from ___________",
+        "Options": [
+            "a) 200 to 5000 Pa",
+            "b) 5 to 100 Pa",
+            "c) 1 to 20 kPa",
+            "d) 100 to 900 kPa"
+        ],
+        "Answer": "Answer: a\nExplanation: The elastic (Young’s) modulus E and shear modulus G are proportions of a material’s capacity to oppose distortion under a connected burden. Ordinary liver shear moduli run from 200 Pa to 5 kPa, and run of the mill versatile moduli run from ∼1 to 20 kPa. On the off chance that the liver is thought to be an incompressible material (i.e., to keep up a steady volume under mechanical stacking), which is a typical supposition in numerous biomechanics thinks about, at that point to a first guess the flexible modulus is generally identical to multiple times the shear modulus (E ≈ 3G).\n"
+    },
+    {
+        "id": 234,
+        "Question": "The liver is known to be linearly ___________ in shear up to shear strains of 0.2%.",
+        "Options": [
+            "a) viscoelastic",
+            "b) conductive",
+            "c) reflective",
+            "d) strong"
+        ],
+        "Answer": "Answer: a\nExplanation: Numerous examinations have accepted that the liver parenchyma is an isotropic material, implying that its mechanical properties are similar when estimated toward any path.\n"
+    },
+    {
+        "id": 235,
+        "Question": "_________ is a method of forming blood vessels within constructs before the latter are implanted in the defect sites.",
+        "Options": [
+            "a) Prevascularization",
+            "b) Pulverization",
+            "c) Combustion",
+            "d) Gasification"
+        ],
+        "Answer": "Answer: a\nExplanation: Prevascularization is a technique for shaping veins inside develops before the last are embedded in the imperfection locales. The preexistence of veins in the builds can guarantee that the seeded cells are provided with oxygen and supplements and the squanders are expelled from the earliest starting point. This can add to the multiplication, development, and separation of the seeded cells lastly invigorate the recovery of tissues or organs.\n"
+    },
+    {
+        "id": 236,
+        "Question": "In the ___________ technique, a photosensitive polymer solution and a photomask are normally used.",
+        "Options": [
+            "a) photolithographic",
+            "b) chemical",
+            "c) enzymatic",
+            "d) electrochemical"
+        ],
+        "Answer": "Answer: a\nExplanation: There are two different ways to produce veins through vasculogenesis and angiogenesis, which speak to the veins created from angioblasts and veins expanded from existing veins, separately.\n"
+    }
+]

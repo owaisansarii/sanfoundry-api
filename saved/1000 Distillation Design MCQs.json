@@ -1,0 +1,4621 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following shows the correct Gibbs phase rule equation?",
+        "Options": [
+            "a) F=C-P+2",
+            "b) P=C+P",
+            "c) C=F-P+2",
+            "d) C=P-F"
+        ],
+        "Answer": "Answer: a\nExplanation: According to Gibb’s F=C-P+2 for any system, where F is degree of freedom, C is number of components and P is the number of phases."
+    },
+    {
+        "id": 2,
+        "Question": "The higher the concentration of volatile species, the distillation",
+        "Options": [
+            "a) The higher the rate of liquid flow",
+            "b) The lower the rate of Separation",
+            "c) The higher the rate of separation",
+            "d) Cannot be specified"
+        ],
+        "Answer": "Answer: c\nExplanation: Volatility is directly proportional to the ease of separation (α) while it is inversely proportional to difficulty of separation."
+    },
+    {
+        "id": 3,
+        "Question": "VLE data once obtained is represented on which scale?",
+        "Options": [
+            "a) Binary Scale (0<x<1)",
+            "b) Pressure Scales (0<Pa<1)",
+            "c) Temperature Ranges (T1<x<T2)",
+            "d) Not specific"
+        ],
+        "Answer": "Answer:  a\nExplanation: Binary scales are most suitable as they represent mole fractions of the both species x* and y* at all conditions."
+    },
+    {
+        "id": 4,
+        "Question": "When the boiling temperature is plotted against the liquid composition, then it is called",
+        "Options": [
+            "a) Cooling Curve",
+            "b) Heating Curve",
+            "c) Bubble point curve",
+            "d) Volatility Phase Diagram"
+        ],
+        "Answer": "Answer:  c\nExplanation: The (T-x) curve is called as Bubble point Curve, Where T is boiling temperature and x is the mole fraction of the liquid."
+    },
+    {
+        "id": 5,
+        "Question": "When the temperature is plotted against the equilibrium vapor, then it is called",
+        "Options": [
+            "a) Condensing Curve",
+            "b) Dew Point curve",
+            "c) Equilibrium Curve",
+            "d) Bubble Curve"
+        ],
+        "Answer": "Answer:  b\nExplanation: The (T-y*) curve is called as Dew point Curve, Where T is boiling temperature, and y is the equilibrium moles of the gaseous components."
+    },
+    {
+        "id": 6,
+        "Question": "The K value can be expressed as",
+        "Options": [
+            "a)  y/x",
+            "b) yi/x",
+            "c) x/y",
+            "d) yi/xi"
+        ],
+        "Answer": "Answer:  d\nExplanation: The ratio of mole fraction of components in vapor and liquid phase is called as K value."
+    },
+    {
+        "id": 7,
+        "Question": "The Relative Volatility of components i and j can be defined as",
+        "Options": [
+            "a) Ki/Kj",
+            "b) K/Kj",
+            "c) yi/y",
+            "d) xi/x"
+        ],
+        "Answer": "Answer: a\nExplanation: The ratio of K values is defined as the relative volatility, Where Ki is the gaseous components and Kj is the fluid components."
+    },
+    {
+        "id": 8,
+        "Question": "Given that αAB=2.0, Then equilibrium ratio of B is KB=0.7, Estimate αBA ?",
+        "Options": [
+            "a) 0.9",
+            "b) 0.65",
+            "c) 0.5",
+            "d) 0.6"
+        ],
+        "Answer": "Answer: c\nExplanation: As α=KB/KA, 2.0= 0.7/KA, KA = 0.35 and αAB =KA/KB =0.35/0.7 = 0.5."
+    },
+    {
+        "id": 9,
+        "Question": "Which system can be said as an Ideal system that obeys?",
+        "Options": [
+            "a) Henrys Law",
+            "b) Daltons Law",
+            "c) Phase Rule",
+            "d) Cremer’s rule"
+        ],
+        "Answer": "Answer:  d\nExplanation: The system that obeys Henry’s and Dalton’s Law is called an ideal system, as they are derived from the ideal gas relation PV=Nrt."
+    },
+    {
+        "id": 10,
+        "Question": "Which of the below is the Dalton’s Law?",
+        "Options": [
+            "a)  pi = yi/P",
+            "b)  x = yi/ pi",
+            "c)  pi = yi/x",
+            "d)  pi = xi/y"
+        ],
+        "Answer": "Answer:  a\nExplanation: According to Dalton’s law the partial pressure of component is solution is equal to product of its mole fraction and vapor pressure of pure components."
+    },
+    {
+        "id": 11,
+        "Question": "An ideal distillation stage is the one that",
+        "Options": [
+            "a) Operates at steady state",
+            "b) Operates at High temperature",
+            "c) Operates at Low pressure",
+            "d) Operates at high pressure"
+        ],
+        "Answer": "Answer:  a\nExplanation: An ideal distillation stage operates at steady state has liquid product and vapor product, i.e. Liquid rate equals the gas flow rate."
+    },
+    {
+        "id": 12,
+        "Question": "When heat is supplied to bottom of liquid stage to vaporize a portion it is called",
+        "Options": [
+            "a) Condensing",
+            "b) Boil up",
+            "c) Cooling",
+            "d) Desalting"
+        ],
+        "Answer": "Answer: b\nExplanation: Such operations used in stripping section called as Boil up, the boiler is used as a heat exchanger to reheat the condensed liquid."
+    },
+    {
+        "id": 13,
+        "Question": "When Cooling is applied to condense a part of overhead product it is called",
+        "Options": [
+            "a) Reflux",
+            "b) Dew point",
+            "c) Boil Up",
+            "d) Relative BP"
+        ],
+        "Answer": "Answer: a\nExplanation: Such operations is called as Rectifying stages and called Reflux, It is also called the ratio of distillate and liquid flow rate."
+    },
+    {
+        "id": 14,
+        "Question": "When rectifying and stripping both are combined in single stage process this is",
+        "Options": [
+            "a) Differentiation",
+            "b) Fractionation",
+            "c) Recycle",
+            "d) Purging"
+        ],
+        "Answer": "Answer: b\nExplanation: Such is an operation is also called Fractional Distillation, The moles of the components reduce with respect to time in this operation."
+    },
+    {
+        "id": 15,
+        "Question": "Minimum number of trays can be calculated using",
+        "Options": [
+            "a) Bernoulli’s Eon",
+            "b) Henry’s Law",
+            "c) Fenske’s Equation",
+            "d) Homotomy Equation"
+        ],
+        "Answer": "Answer: c\nExplanation: Minimum number of trays can be easily calculated using Fenske’s equation with use of relative volatility."
+    },
+    {
+        "id": 16,
+        "Question": "The external reflux ratio can be defined as",
+        "Options": [
+            "a) L0/D",
+            "b) D/L",
+            "c) D0/L",
+            "d) V/L"
+        ],
+        "Answer": "Answer: d\nExplanation: The reflux ratio is defined as the ratio of liquid flow rate and distilled flow rate, also this is called as the slope of rectifying line."
+    },
+    {
+        "id": 17,
+        "Question": "The boil up ratio can be defined as ratio of",
+        "Options": [
+            "a) V/L",
+            "b) D/V",
+            "c) V/W",
+            "d) L/W"
+        ],
+        "Answer": "Answer: c\nExplanation: Boil up ratio is the ratio of vapor leaving the rebuilder to liquid at bottom product, also it is defined as the slope of stripping line."
+    },
+    {
+        "id": 18,
+        "Question": "Optimum reflux ratio ranges between",
+        "Options": [
+            "a) 2 to 5",
+            "b) 2 to 3",
+            "c) 1.0 to 1 .5",
+            "d) 1.0 to 2.5"
+        ],
+        "Answer": "Answer: c\nExplanation: Best optimum reflux is between ranges. 1.0<R<1.5, as it is very close to unity the optimum conditions are best condition to operate."
+    },
+    {
+        "id": 19,
+        "Question": "If stages are fixed, then Reflux ratio",
+        "Options": [
+            "a) Decreases",
+            "b) Increases",
+            "c) Equates to 0",
+            "d) Approaches infinity."
+        ],
+        "Answer": "Answer: b\nExplanation: The stages and the reflux ratio are directly proportional, while when it approaches to 0 the distillate is not withdrawn and if infinite all feed is withdrawn."
+    },
+    {
+        "id": 20,
+        "Question": "If reflux increases, then the cost of operation",
+        "Options": [
+            "a) First increases then decreases",
+            "b) Goes on increasing",
+            "c) Approaches infinity",
+            "d) First decreases then increases"
+        ],
+        "Answer": "Answer: a\nExplanation: The reflux ratio follows an exponential relation with cost, cost grows exponentially as the reflux increases and can cause increase in cost. "
+    },
+    {
+        "id": 21,
+        "Question": "The method of construction of an x-y diagram was explained by",
+        "Options": [
+            "a) Richardson and Coulson",
+            "b) Robinson and Gilliland",
+            "c) Murphree and Fenske",
+            "d) Cremer and Pullong"
+        ],
+        "Answer": "Answer: b\nExplanation: Pseudo properties were given by Robinson and Gilliland, while Murphree and Fenske gave equations to calculate trays and efficiency respectively."
+    },
+    {
+        "id": 22,
+        "Question": "Consider the following data, L’ = 363 and slope of section is 1.55. Estimate Vapor flow rate on either side",
+        "Options": [
+            "a) 234",
+            "b) 284",
+            "c) 303",
+            "d) 456"
+        ],
+        "Answer": "Answer: a\nExplanation: The slope is given by L’/V’=1.55, V’ = 363/1.55 = 234."
+    },
+    {
+        "id": 23,
+        "Question": "The point where equilibrium curve and component balance meets is called as",
+        "Options": [
+            "a) Murphree point.",
+            "b) Intersection point",
+            "c) Junction point",
+            "d) Pinch point"
+        ],
+        "Answer": "Answer: d\nExplanation: At infinite stages the where equilibrium curve and component balance meets is called as pinch point."
+    },
+    {
+        "id": 24,
+        "Question": "HETP is defined?",
+        "Options": [
+            "a) Height equivalent to theoretical plate",
+            "b) High efficiency tower plate",
+            "c) High energy temperature point",
+            "d) Homotomy Engineer Temperature Point"
+        ],
+        "Answer": "Answer: a\nExplanation: HETP is Height equivalent to theoretical plate, also defined as ratio of HTU (height of transfer units) and NTU."
+    },
+    {
+        "id": 25,
+        "Question": "The condition where reflux and stripping ratio approaches to infinity is called as",
+        "Options": [
+            "a) Minimum reflux",
+            "b) Total reflux",
+            "c) Optimum ratio",
+            "d) Feed ratio"
+        ],
+        "Answer": "Answer: b\nExplanation: Both balance lines approaches to coincide such a condition is called Total reflux, the slope of rectifying and stripping line matches each other."
+    },
+    {
+        "id": 26,
+        "Question": "Which of following is an important assumption of McCabe Thiele method?",
+        "Options": [
+            "a) Heat loss is maximum",
+            "b) Heat loss is negligible",
+            "c) Heat loss is infinite",
+            "d) Can’t be specified"
+        ],
+        "Answer": "Answer: b\nExplanation: The major assumption of McCabe Thiele method is Heat loss is negligible and also an overhead reboiler and condenser are used to recover heat loss."
+    },
+    {
+        "id": 27,
+        "Question": "In which case Constant Molar overflow is true?",
+        "Options": [
+            "a) Equimolar counter diffusion",
+            "b) Equimolar co-current diffusion",
+            "c) Distinct overflow",
+            "d) Not Sure of Diffusion"
+        ],
+        "Answer": "Answer: a\nExplanation: CMO is totally based on the assumption of equal-molar counter diffusion, mainly used in the calculation of trays in the McCabe Thiele method."
+    },
+    {
+        "id": 28,
+        "Question": "In McCabe Thiele method, equilibrium line is drawn between",
+        "Options": [
+            "a) x-y",
+            "b) y-x",
+            "c) x*- y",
+            "d) y*-x"
+        ],
+        "Answer": "Answer: a\nExplanation: The equilibrium is always drawn between x-y mole ratios, where x is mole of liquid feed and y is the mole of gas at equilibrium conditions."
+    },
+    {
+        "id": 29,
+        "Question": "The equilibrium line is plotted on the graph at",
+        "Options": [
+            "a) Middle of both sections",
+            "b) 900  from stripping section",
+            "c) 450  from axis meet up",
+            "d) At meetup of axis"
+        ],
+        "Answer": "Answer: c\nExplanation: Equilibrium line is always plotted between axes at 450, while the 90 0 perpendicular is used to find the feed point on x-y graph."
+    },
+    {
+        "id": 30,
+        "Question": "The tray by tray approach method was given by",
+        "Options": [
+            "a) Sorel",
+            "b) McCabe",
+            "c) Fenske",
+            "d) Murphree"
+        ],
+        "Answer": "Answer: a\nExplanation: The oldest method of calculation was given by Sorel in 1893, Murphree gave equations for efficiency, Fenske for the minimum trays."
+    },
+    {
+        "id": 31,
+        "Question": "Separation of a volatile mixture of relatively pure products, is done in a",
+        "Options": [
+            "a) Steam distillation",
+            "b) Fractionating Column",
+            "c) Flash Distillation",
+            "d) Depending of product required"
+        ],
+        "Answer": "Answer: d\nExplanation:  The separation always depends on the quality of product required independent of operation required."
+    },
+    {
+        "id": 32,
+        "Question": "McCabe Thiele is based on the assumption?",
+        "Options": [
+            "a) Constant molar overflow",
+            "b) Constant reflux ratio",
+            "c) Volatile products are used for better separation",
+            "d) Boil up ratio is infinity"
+        ],
+        "Answer": "Answer: a\nExplanation: The best assumption of the McCabe Method is it is based on Constant molar overflow, while heat duties are neglected in the method."
+    },
+    {
+        "id": 33,
+        "Question": " The vapor rich section in the distillation column is called as",
+        "Options": [
+            "a) Rectifying Section",
+            "b) Boiling section",
+            "c) Stripping Section",
+            "d) Leaching section"
+        ],
+        "Answer": "Answer: a\nExplanation: The part above the feed tray is rich in vapor which is called as rectifying or enriching section and contains only vapor in equilibrium with liquid."
+    },
+    {
+        "id": 34,
+        "Question": "The liquid rich section in a distillation column is called as",
+        "Options": [
+            "a) Boil up section",
+            "b) Reflux section",
+            "c) Stripping Section",
+            "d) Enriching Section"
+        ],
+        "Answer": "Answer: c\nExplanation:  The part below the feed tray is enriched with liquid feed which is called as Stripping Section and contains only liquid at the column temperature."
+    },
+    {
+        "id": 35,
+        "Question": "The feed of a distillation column is related to be a",
+        "Options": [
+            "a) Binary mixture",
+            "b) Urinary mixture",
+            "c) Mixture of phases",
+            "d) Tertiary Mixture"
+        ],
+        "Answer": "Answer: d\nExplanation: Mixture of phases i.e. two phase mixture is necessary for distillation, either it can be a multicomponent mixture as per required conditions."
+    },
+    {
+        "id": 36,
+        "Question": "The equilibrium curve of the column is given as",
+        "Options": [
+            "a) yn=x",
+            "b) y*=x",
+            "c) yn+1=xn",
+            "d) xn+1=y"
+        ],
+        "Answer": "Answer: c\nExplanation: The equilibrium curve is the locus of all equilibrium point given as yn+1=xn, while y*=x represents the equilibrium relation of gas and liquid. "
+    },
+    {
+        "id": 37,
+        "Question": "The feed line equation is given by",
+        "Options": [
+            "a) F – L = q",
+            "b) L’ – L = qF",
+            "c) V – V’ =F",
+            "d) F = L – V"
+        ],
+        "Answer": "Answer: b\nExplanation: The feed line equation is L’ – L = QF where q is the product of quantity of liquid contained in feed."
+    },
+    {
+        "id": 38,
+        "Question": "The overall Energy balance of a column is given by",
+        "Options": [
+            "a) V1HV1 = L0HL0 + DHD + QC",
+            "b) QC = V1HV1",
+            "c) V1HV1 = DHD + H0",
+            "d) Can change with models"
+        ],
+        "Answer": "Answer: a\nExplanation: The energy balance equation is given as V1HV1 = L0HL0 + DHD + QC, where Qc is the heat provided through reboiler."
+    },
+    {
+        "id": 39,
+        "Question": "If the liquid flow rate is 212 and vapor flow rate is 284, then the slope of rectifying section is?",
+        "Options": [
+            "a) 0.55",
+            "b) 0.89",
+            "c) 1.33",
+            "d) 0.75"
+        ],
+        "Answer": "Answer: d\nExplanation: As slope is given by L/V = 212/284 = 0.75."
+    },
+    {
+        "id": 40,
+        "Question": "If 0.75 is the fraction of liquid in the feed, Estimate the feed line slope?",
+        "Options": [
+            "a) -2.0",
+            "b) -1.5",
+            "c) -3.0",
+            "d) Cannot be calculated"
+        ],
+        "Answer": "Answer:  c\nExplanation: As given q=0.75 then feed slope is given by q/q-1 = 0.75/-0.25= -3.0."
+    },
+    {
+        "id": 41,
+        "Question": "The overall material balance of the tower is given by",
+        "Options": [
+            "a) L= V+W",
+            "b) F=D+W",
+            "c) D= F+HD",
+            "d) D= V+HD"
+        ],
+        "Answer": "Answer: b\nExplanation: The overall material balance equation is given as F=D+W where F is the flow rate, D is the distillate and W is the withdrawn product."
+    },
+    {
+        "id": 42,
+        "Question": "If R=1.5 and xd= 0.96, then intercept of enriching line is estimated as",
+        "Options": [
+            "a) 0.384",
+            "b) 0.234",
+            "c) 0.5",
+            "d) 0.96"
+        ],
+        "Answer": "Answer: a\nExplanation: As xD/R+1 = 0.96/1.5+1 =0.384."
+    },
+    {
+        "id": 43,
+        "Question": "The real number of trays are obtained as ratio of",
+        "Options": [
+            "a) Number of ideal trays and flow rate",
+            "b) Number of ideal trays and efficiency",
+            "c) Number of ideal trays and reflux ratio",
+            "d) Number of ideal trays and stripping ratio"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of ideal trays divided by the tray efficiency gives us the real number of trays, Number of ideal trays and reflux ratio gives us the ease of separation."
+    },
+    {
+        "id": 44,
+        "Question": "If the ideal trays are 7.7 and the efficiency of each one is 0.5, then real number of trays are",
+        "Options": [
+            "a) 15.4",
+            "b) 14.1",
+            "c) 15.0",
+            "d) 18.5"
+        ],
+        "Answer": "Answer: a\nExplanation:  The real number of trays are 7.7/0.5 = 15.4."
+    },
+    {
+        "id": 45,
+        "Question": "If the D -> 0, then the condition is called as",
+        "Options": [
+            "a) Total Boil up",
+            "b) No distillation",
+            "c) No Separation",
+            "d) Total Reflux"
+        ],
+        "Answer": "Answer: d\nExplanation: When D tends to zero no product is withdrawn which is called as total reflux, and when D-> infinity this is called total boil up."
+    },
+    {
+        "id": 46,
+        "Question": "In the Fenske’s equation, xw and yw are",
+        "Options": [
+            "a) Equilibrium liquid and vapor concentration",
+            "b) Equilibrium distilled content",
+            "c) Partial vapor concentrations of liquid and solid",
+            "d) Total vapor and liquid rate"
+        ],
+        "Answer": "Answer: a\nExplanation: Fenske’s equation makes use of equilibrium liquid and vapor concentration, Equilibrium distilled content is used by the McCabe Thiele method."
+    },
+    {
+        "id": 47,
+        "Question": "Sometime the reboiler is also considered as the",
+        "Options": [
+            "a) Reflux item",
+            "b) Extra equity",
+            "c) Heat extractor",
+            "d) Extra Stage"
+        ],
+        "Answer": "Answer: d\nExplanation: The reboiler is sometimes used as an extra stage of operation of distillation, because the heat dissipated is also considered in the calculation of trays."
+    },
+    {
+        "id": 48,
+        "Question": "If feed is saturated vapor, then",
+        "Options": [
+            "a) q = 1",
+            "b) q= 0.5",
+            "c) q= 0",
+            "d) q= infinite"
+        ],
+        "Answer": "Answer: c\nExplanation: When the feed is saturated vapor then lines passes through (zF,zF) i.e. q = 0, when q is infinite the feed is totally withdrawn. "
+    },
+    {
+        "id": 49,
+        "Question": "If the feed is saturated liquid, then",
+        "Options": [
+            "a) q = 1",
+            "b) q= 0.1",
+            "c) q = F",
+            "d) q= 0"
+        ],
+        "Answer": "Answer:  a\nExplanation: When the feed is saturated liquid with a vertical line which then lines passes through (zF,zF) i.e. q = 0."
+    },
+    {
+        "id": 50,
+        "Question": "At total reflux when operating line coincides diagonal line then?",
+        "Options": [
+            "a) xNm= y*",
+            "b) xNm= y",
+            "c) xNm= yw",
+            "d) xNm= xw"
+        ],
+        "Answer": "Answer: a\nExplanation: The physical significance is given by Fenske’s equation that xNm= yw , where xNm is the liquid at the nth stage and yw is the gas withdrawal."
+    },
+    {
+        "id": 51,
+        "Question": "The component balance of the component A is given as",
+        "Options": [
+            "a) FzF= DxD + Wxw",
+            "b) FzF= DxD – Wxw",
+            "c) FzF= DxD/Wxw",
+            "d) FzF= DxD *Wxw"
+        ],
+        "Answer": "Answer: a\nExplanation: According to McCabe Thiele method material balance over is given as FzF= DxD + Wxw, where F is the total feed."
+    },
+    {
+        "id": 52,
+        "Question": "If F= 200 kmol/h and ZF=0.4, XD=0.95, XW=0.04 and R=2.0, Then D is",
+        "Options": [
+            "a) 88.1",
+            "b) 22.6",
+            "c) 79.1",
+            "d) 158.2"
+        ],
+        "Answer": "Answer: c\nExplanation: Using equation FzF= DxD + Wxw substituting values we get D=79.1."
+    },
+    {
+        "id": 53,
+        "Question": "The very First step of McCabe method is?",
+        "Options": [
+            "a) Plot the equilibrium curve",
+            "b) Plot diagonal curve",
+            "c) Plot Operating line",
+            "d) Plot stripping line"
+        ],
+        "Answer": "Answer: a\nExplanation: Firstly we plot the Equilibrium diagram from the given equilibrium data, then the diagonal curve and then plot the operating line."
+    },
+    {
+        "id": 54,
+        "Question": "Calculate Boil up? If vapor flow and bottom withdrawal are 237.3 and 120.9 respectively",
+        "Options": [
+            "a) 1.5",
+            "b) 2.9",
+            "c) 2.111",
+            "d) 1.963"
+        ],
+        "Answer": "Answer: d\nExplanation: As boil up is ratio of vapor flow and bottom withdrawal then 237.3/120.9 = 1.963."
+    },
+    {
+        "id": 55,
+        "Question": "If ZF¬=0.58 and also feed contains 35% mole of the liquid, then intercept of y axis is",
+        "Options": [
+            "a) 0.892",
+            "b) 0.205",
+            "c) 0.707",
+            "d) Can’t be calculated"
+        ],
+        "Answer": "Answer: a\nExplanation: As – (ZF/q-1) using values -0.58/ (0.35-1) = 0.892."
+    },
+    {
+        "id": 56,
+        "Question": "If ZF=0.6 and also feed contains 72% mole of the liquid, then intercept of x axis is",
+        "Options": [
+            "a) 0.744",
+            "b) 0.899",
+            "c) 0.833",
+            "d) 1.2"
+        ],
+        "Answer": "Answer: c\nExplanation: As (ZF/q) using values 0.6/ (0.72) = 0.833."
+    },
+    {
+        "id": 57,
+        "Question": "Calculate minimum reflux? If intercept is 0.56 and XD= 0.96",
+        "Options": [
+            "a) 0.174",
+            "b) 0.125",
+            "c) 0.21",
+            "d) 0.28"
+        ],
+        "Answer": "Answer: a\nExplanation: As 0.56=XD/ (RM+1) = 0.96/ (RM+1) M= 0.174."
+    },
+    {
+        "id": 58,
+        "Question": "Slope of rectifying line is given by",
+        "Options": [
+            "a) R/XD",
+            "b) R/(R+1)",
+            "c) F/ (D+W)",
+            "d) R/(R+1)"
+        ],
+        "Answer": "Answer: b\nExplanation: The rectifying line slope is always given as ratio of Reflux ratio plus unity i.e. R/(R+1), While R/XD gives us the reflux to liquid ratio for the operation."
+    },
+    {
+        "id": 59,
+        "Question": "If xD=0.95, xW= 0.04 and α=2.5. Find total trays?",
+        "Options": [
+            "a) 7",
+            "b) 6.7",
+            "c) 7.7",
+            "d) 6"
+        ],
+        "Answer": "Answer: b\nExplanation: Using Fenske’s equation total number of trays to be calculate are  5.7 as Nm + 1 then 5.7+1 = 6.7 which is the final answer. "
+    },
+    {
+        "id": 60,
+        "Question": "A Pinch point may occur at intersection of feed line and",
+        "Options": [
+            "a) Stream line",
+            "b) Stripping line",
+            "c) Rectifying line",
+            "d) Equilibrium line"
+        ],
+        "Answer": "Answer: d\nExplanation: Pinch point always occurs at intersection of feed line and equilibrium line, while plot of x and y are called as the Equilibrium line."
+    },
+    {
+        "id": 61,
+        "Question": "For the light key component, Equilibrium relation is",
+        "Options": [
+            "a) yK=x",
+            "b) Kx=y",
+            "c) Depend upon trays",
+            "d) Can’t be specified"
+        ],
+        "Answer": "Answer: a\nExplanation: Here Kx=y is the equilibrium relation, which does not depends upon the number of trays or the vice versa relation i.e.  Kx=y representing x and y moles of gas and fluid."
+    },
+    {
+        "id": 62,
+        "Question": "If the fractional recovery of light key in the distillate is FR, then light key in the feed is",
+        "Options": [
+            "a) DxD= (FRD)+FxLK",
+            "b) DxD= (FRD)/FxLK",
+            "c)  DxD= (FRD)FxLK",
+            "d) DxD= (FRD)"
+        ],
+        "Answer": "Answer: c\nExplanation: The definition of the fractional recovery is DxD= (FRD) FxLK, while gives us the material balance on feed and distillate DxD= (FRD)."
+    },
+    {
+        "id": 63,
+        "Question": "For multi-component systems, Underwood Equations gives",
+        "Options": [
+            "a) Minimum Reflux",
+            "b) Minimum Strip",
+            "c) Maximum Reflux",
+            "d) Minimum Trays"
+        ],
+        "Answer": "Answer: a\nExplanation: Underwood Equations gives Minimum Reflux, Fenske’s equation gives minimum Trays and McCabe gives us minimum Reflux."
+    },
+    {
+        "id": 64,
+        "Question": "Gilliland Correlation is arranged to estimate the",
+        "Options": [
+            "a) Numbers of Stages",
+            "b) Numbers of Reboiler",
+            "c) Numbers of Feed",
+            "d) Numbers of Column"
+        ],
+        "Answer": "Answer: a\nExplanation: Gilliland Correlation is arranged to estimate the Numbers of Stages at finite reflux ratio, while reboiler is only a unit piece of set."
+    },
+    {
+        "id": 65,
+        "Question": "Gilliland’s y intercept is given as",
+        "Options": [
+            "a) Nmin/N+1",
+            "b) N-Nmin/N+1",
+            "c) N+Nmin/N+1",
+            "d) N/N+1"
+        ],
+        "Answer": "Answer: b\nExplanation: Gilliland represented correlation graphically as, N-Nmin/N+1 on y axis, where N is the number of stages."
+    },
+    {
+        "id": 66,
+        "Question": "Gilliland’s x intercept is given as",
+        "Options": [
+            "a) Rmin/R+1",
+            "b) R/R+1",
+            "c) Nmin/R+1",
+            "d) R-Rmin/R+1"
+        ],
+        "Answer": "Answer:  d\nExplanation: Gilliland represented correlation graphically as R-Rmin/R+1 on x axis, where R is the reflux ratio of the system."
+    },
+    {
+        "id": 67,
+        "Question": "Optimum feed-stage location, can be obtained by using",
+        "Options": [
+            "a) Gilliland correlation",
+            "b) Kirk bride correlation",
+            "c) Fenske’s correlation",
+            "d) Sorel’s correlation"
+        ],
+        "Answer": "Answer: b\nExplanation: An approximate optimum feed-stage location, can be obtained by Equation of Kirk bride correlation while Gilliland correlation is used to plot intercepts."
+    },
+    {
+        "id": 68,
+        "Question": "For Multicomponent Mixtures Equilibria depend on ?",
+        "Options": [
+            "a) Pressure",
+            "b) Temperature",
+            "c) Humidity",
+            "d) Enthalpy"
+        ],
+        "Answer": "Answer: b\nExplanation: It depends on T, which changes from stage to stage, Pressure is not the deciding criteria as it can vary from Colum to column."
+    },
+    {
+        "id": 69,
+        "Question": "In multicomponent distillation, the separation of components is calculated using",
+        "Options": [
+            "a) Assumed flows of species",
+            "b) Assumed flows of reflux",
+            "c) Assumed flows of Vapor",
+            "d) Assumed flows of liquid"
+        ],
+        "Answer": "Answer: c\nExplanation: The number of plates above and below the feed is assumed, and the separation is calculated using assumed reflux."
+    },
+    {
+        "id": 70,
+        "Question": "Once the components are identified, in a multicomponent distillation they are called",
+        "Options": [
+            "a) Key Components",
+            "b) Mixed Components",
+            "c) Flow Components",
+            "d) Gain Components"
+        ],
+        "Answer": "Answer: a\nExplanation: Once the components are identified, they are called Key Components, the components which are hence mixed in a single stage rate called mixed components."
+    },
+    {
+        "id": 71,
+        "Question": "More volatile keys are defined as",
+        "Options": [
+            "a) Heavy key (H)",
+            "b) Over Key (O)",
+            "c) Light Key (L)",
+            "d) Down comer Key (D)"
+        ],
+        "Answer": "Answer: c\nExplanation: Keys must differ in volatility more volatile is the Light Key (L), while the less volatile keys are defined as Heavy key (H). "
+    },
+    {
+        "id": 72,
+        "Question": "Components heavier than the heavy key are finally",
+        "Options": [
+            "a) Recovered in the Condenser",
+            "b) Recovered in the bottom stream",
+            "c) Recovered in the Upsides stream",
+            "d) Not recovered"
+        ],
+        "Answer": "Answer: b\nExplanation: Components heavier than the heavy key are finally separated at bottom stream and light key at the top. "
+    },
+    {
+        "id": 73,
+        "Question": "For an infinite number of plates required, the desired separation",
+        "Options": [
+            "a) Hardly possible",
+            "b) Finely possible",
+            "c) Can’t be specified",
+            "d) Assumable"
+        ],
+        "Answer": "Answer: a\nExplanation: At infinite plates for reflux ratio, the desired separation is just barely possible, while for fixed number of trays the separation can be assumed. "
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following model is best for computer simulation?",
+        "Options": [
+            "a) Auto Model",
+            "b) HYSYS Model",
+            "c)  Cremer Model",
+            "d) Two parameter model"
+        ],
+        "Answer": "Answer: b\nExplanation: For computer simulation HYSYS Model is widely used, auto model is used to design automobiles, whereas two parameter model is used in reaction operations.   "
+    },
+    {
+        "id": 75,
+        "Question": "For computer simulation, considerations were defined by",
+        "Options": [
+            "a) Richardson and Coulson",
+            "b) Robinson and Gilliland",
+            "c) Murphree and Fenske",
+            "d) Johnson and Morgan"
+        ],
+        "Answer": "Answer: d\nExplanation: Key considerations were defined by Johnson and Morgan and Robinson and Gilliland gave the correlation of stages and Richardson and Coulson are famous chemical engineering authors. "
+    },
+    {
+        "id": 76,
+        "Question": "For identifying misallocated feed stages, which of the following is used?",
+        "Options": [
+            "a) Key Ratios",
+            "b) Molar Ratios",
+            "c) Reflux Ratios",
+            "d) Feed Ratios"
+        ],
+        "Answer": "Answer: a\nExplanation: Misallocated feed stages are identified using Key Ratios, while separation are identified using the feed ratios. "
+    },
+    {
+        "id": 77,
+        "Question": "Key ratios and stages are plotted on which scale?",
+        "Options": [
+            "a) Binary scale",
+            "b) Exponential Scale",
+            "c) Semi log scale",
+            "d) Pressure scale"
+        ],
+        "Answer": "Answer: c\nExplanation: Key ratios and stages are plotted on Semi log scale, and equilibrium relation are plotted on binary scale. "
+    },
+    {
+        "id": 78,
+        "Question": "d/b plots are also called as",
+        "Options": [
+            "a) Key plots",
+            "b) Mole plots",
+            "c) Reflux plots",
+            "d) Non Key plots"
+        ],
+        "Answer": "Answer: a\nExplanation: They are called as key plots always, where d is the higher key representative and b the lower one. "
+    },
+    {
+        "id": 79,
+        "Question": "d/b plots are used when there is",
+        "Options": [
+            "a) Non key components",
+            "b) Total reflux",
+            "c) Boil up required",
+            "d) Can’t be specified"
+        ],
+        "Answer": "Answer: a\nExplanation: The d/b plots are used when there is tight spacing on non-key components, while full withdrawal of product is called as total reflux. "
+    },
+    {
+        "id": 80,
+        "Question": "d/b plots are",
+        "Options": [
+            "a)  Exponential",
+            "b) Logarithmic",
+            "c) Linear",
+            "d) Non linear"
+        ],
+        "Answer": "Answer: d\nExplanation: The d/b plots are frequently Nonlinear, equilibrium plots are nonlinear and diagonal plots are linear. "
+    },
+    {
+        "id": 81,
+        "Question": "Tray efficiency correspondingly depends upon?",
+        "Options": [
+            "a) Column Diameter",
+            "b) Column throughput",
+            "c) Column length",
+            "d) Column feed"
+        ],
+        "Answer": "Answer: b\nExplanation: Tray efficiency depends upon column throughput and velocity depends upon the Column Diameter. "
+    },
+    {
+        "id": 82,
+        "Question": "When a minor fraction of liquid flows to the tray below through the tray perforations it is called",
+        "Options": [
+            "a) Weeping",
+            "b) Dumping",
+            "c) Entrainment",
+            "d) Feeding"
+        ],
+        "Answer": "Answer: a\nExplanation: During weeping, a minor fraction of liquid flows to the tray below through the tray perforations. "
+    },
+    {
+        "id": 83,
+        "Question": "When distillate contains highest possibility of light key, D/F approaches",
+        "Options": [
+            "a) Infinity",
+            "b) Zero",
+            "c) Unity",
+            "d) Double"
+        ],
+        "Answer": "Answer: c\nExplanation: When distillate contains highest possibility of light key D/F approaches Unity and lowest when D/F approaches Zero. "
+    },
+    {
+        "id": 84,
+        "Question": "At higher recovery _____ distillate is produced.",
+        "Options": [
+            "a) Low",
+            "b) More",
+            "c) Finite",
+            "d) Unwanted"
+        ],
+        "Answer": "Answer: b\nExplanation: At higher recovery ¬¬¬¬More distillate is produced but of lower purity. At a lower recovery the relation follows an inverse character. "
+    },
+    {
+        "id": 85,
+        "Question": "The vertical D/F line indicated the",
+        "Options": [
+            "a) Maximum impurity level",
+            "b) Minimum impurity level",
+            "c) More separation",
+            "d) Less separation"
+        ],
+        "Answer": "Answer: a\nExplanation: The vertical D/F line indicated the Maximum impurity level at that point on the curve, and this should has to be minimized for better operations. "
+    },
+    {
+        "id": 86,
+        "Question": "The material balance optimization is also referred as",
+        "Options": [
+            "a) L V optimization",
+            "b) B D optimization",
+            "c) D B optimization",
+            "d) V L optimization"
+        ],
+        "Answer": "Answer: c\nExplanation: D B is optimization at a fixed recovery and L V optimization is done for the matching of feed rates. "
+    },
+    {
+        "id": 87,
+        "Question": " Raising the column pressure, results in",
+        "Options": [
+            "a) Lower relative volatility",
+            "b) Higher relative volatility",
+            "c) No effect",
+            "d) Higher boiling point"
+        ],
+        "Answer": "Answer:  a\nExplanation: The unfavorable effects of raising column pressure is that it lowers relative volatility and thus discarding the products formation. "
+    },
+    {
+        "id": 88,
+        "Question": "What does DCF represents?",
+        "Options": [
+            "a) Distillation Corp Factor",
+            "b) Damping Correction Factor",
+            "c) Down Comer Flow",
+            "d) Discounted Cash flow"
+        ],
+        "Answer": "Answer: d\nExplanation: DCF is used for estimating payout period, while down comer flow is a physical quantity of column. "
+    },
+    {
+        "id": 89,
+        "Question": "What does RVP Stands For?",
+        "Options": [
+            "a) Reid Vapor pressure",
+            "b) Reflux vapor pressure",
+            "c) Reid Viscous Parameter",
+            "d) Right Vary Parameter"
+        ],
+        "Answer": "Answer: a\nExplanation: It is a physical property representing Reid Vapor pressure, while for performing reflux operations the Reflux vapor pressure is considered.  "
+    },
+    {
+        "id": 90,
+        "Question": "Energy balance optimization is a prime factor for setting",
+        "Options": [
+            "a) Operations",
+            "b) Cost",
+            "c) Reflux",
+            "d) Feed"
+        ],
+        "Answer": "Answer: b\nExplanation: Unlike Material balance optimization, Energy balance optimization can be used for the setting of a distillation column. "
+    },
+    {
+        "id": 91,
+        "Question": "The number of theoretical stages, depends on the",
+        "Options": [
+            "a) Stepping off the tray",
+            "b) Reflux ratio",
+            "c) Operating line",
+            "d) Flow rates"
+        ],
+        "Answer": "Answer:  b\nExplanation: The number of theoretical stages depends on the reflux ratio R = L0/D, while the reflux ratio itself depends upon the operating line. "
+    },
+    {
+        "id": 92,
+        "Question": "When R is infinite, the slope of this rectifying becomes",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 0.5",
+            "d) Can’t be specified"
+        ],
+        "Answer": "Answer:  b\nExplanation: When R is infinity, the slope of this line becomes 1, while R is zero the slope of this line reaches infinity. "
+    },
+    {
+        "id": 93,
+        "Question": " If x=0.4 and y =0.6633 and point xD (0.9, 0.9). Then estimate Rmin",
+        "Options": [
+            "a) 0.9",
+            "b) 0.4734",
+            "c) 0.4",
+            "d) 0.66"
+        ],
+        "Answer": "Answer: a\nExplanation: As Rmin/R+1 = (0.9-0.6633)/ (0.9/0.4) = 0.4734 then 0.4734/1-0.4734 = 0.9. "
+    },
+    {
+        "id": 94,
+        "Question": "If distillate is 95%, and withdrawal is 4 and α=2.5. Estimate total number of tray?",
+        "Options": [
+            "a) 7.7",
+            "b) 10",
+            "c)  6.7",
+            "d) 5.7"
+        ],
+        "Answer": "Answer: c\nExplanation: Using Fenske’s equation and subsuming values we have 2.66/log 2.5= 6.7. "
+    },
+    {
+        "id": 95,
+        "Question": "For non-ideal cases, to calculate number of stages we use",
+        "Options": [
+            "a) Point efficiency",
+            "b) Murphree efficiency",
+            "c) Tray efficiency",
+            "d) Overall efficiency"
+        ],
+        "Answer": "Answer: b\nExplanation: To calculate the number of stages in a non-ideal case, Murphree efficiency line is used instead of the ideal. "
+    },
+    {
+        "id": 96,
+        "Question": "Minimum reflux ratio in a distillation column results in",
+        "Options": [
+            "a) Optimum no. of trays",
+            "b) Minimum reboiler size",
+            "c)  Maximum condenser size",
+            "d) Minimum number of trays"
+        ],
+        "Answer": "Answer:  c\nExplanation: Minimum reflux ratio in a distillation column results in maximum condenser size as inversely proportional. "
+    },
+    {
+        "id": 97,
+        "Question": "In a tray column, Murphree efficiency",
+        "Options": [
+            "a) Exceed 100%",
+            "b) Equal to 100%",
+            "c) Can’t be specified",
+            "d) Depend upon cases given"
+        ],
+        "Answer": "Answer:  a\nExplanation:  In a non-ideal case, Murphree efficiency can exceed 100%, also it depends on the cases given and the feed type. "
+    },
+    {
+        "id": 98,
+        "Question": "For value of m, the change in liquid concentration is independent of tray location if",
+        "Options": [
+            "a) L/V = 1",
+            "b) V/L =1",
+            "c) L/mV=1",
+            "d) Vm/L=1"
+        ],
+        "Answer": "Answer: c\nExplanation: At this condition slope of operating line equals to slope of equilibrium line, i.e. m = 1 this shows the steady state operation. "
+    },
+    {
+        "id": 99,
+        "Question": "At minimum reflux, No. stages are",
+        "Options": [
+            "a) Unity",
+            "b) Infinite",
+            "c) Zero",
+            "d) Negative"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Minimum reflux and stages are inversely proportional relation, while at maximum reflux the number of stages are zero.  "
+    },
+    {
+        "id": 100,
+        "Question": "Scaling up from pilot scale to industrial scale only increases",
+        "Options": [
+            "a) Feed rates",
+            "b) Reflux ratio",
+            "c) No. of stages",
+            "d) Composition"
+        ],
+        "Answer": "Answer: a\nExplanation: There will be no effect on internal property only feed rates are increased after scaling, Only dimensionless properties change like Re, Sc and Sh. "
+    },
+    {
+        "id": 101,
+        "Question": "The underwood’s equation, implies of using trial and error for finding",
+        "Options": [
+            "a) Θ",
+            "b) α",
+            "c) β",
+            "d) Ω"
+        ],
+        "Answer": "Answer:  a\nExplanation: We find θ which must lie between relative volatilities of the keys, while α denotes the relative volatility of components."
+    },
+    {
+        "id": 102,
+        "Question": "The ratio of the key components is essentially equal to their ratio in liquid feed, was given by?",
+        "Options": [
+            "a) Underwood",
+            "b) Gilliland",
+            "c) Brown-Martin",
+            "d) Fenske"
+        ],
+        "Answer": "Answer: c\nExplanation: This method was based on the observation that a feed pinch point, Fenske is based on feed compositions of the system."
+    },
+    {
+        "id": 103,
+        "Question": "Colburn Method can be used to calculate the _____ in a binary system.",
+        "Options": [
+            "a) Minimum Reflux",
+            "b) Maximum Reflux",
+            "c) Minimum Trays",
+            "d) Maximum Trays"
+        ],
+        "Answer": "Answer: a\nExplanation: Minimum reflux can be calculated by the Colburn method, Fenske’s can be used for Minimum Trays."
+    },
+    {
+        "id": 104,
+        "Question": "Colburn method is based on the",
+        "Options": [
+            "a) Constant Molar Overflow and relative volatility",
+            "b) Steady state flow",
+            "c) Reflux ratio",
+            "d) Maximum Trays"
+        ],
+        "Answer": "Answer: a\nExplanation: The Colburn method is an elaborate method based on assumption that Constant Molar Overflow and relative volatility."
+    },
+    {
+        "id": 105,
+        "Question": "A non-key component may be distributed, if it has volatility",
+        "Options": [
+            "a) Very far to one from other keys",
+            "b) Same as that of non-key",
+            "c) Very close to that of one keys",
+            "d) Constant Molar Overflow"
+        ],
+        "Answer": "Answer:  c\nExplanation: Volatility that very close to that of one keys is not disturbed, as constant molar overflow resides for the column feed assumptions."
+    },
+    {
+        "id": 106,
+        "Question": "If the flow rates of liquid and distillate are 150 kmol/h and 100 kmol/h. Find reflux ratio?",
+        "Options": [
+            "a) 90",
+            "b) 50",
+            "c) 15",
+            "d) 30"
+        ],
+        "Answer": "Answer: c\nExplanation: Reflux is given by L/D = 150/100 = 15."
+    },
+    {
+        "id": 107,
+        "Question": "If S=8.137 and α =1.956. Then No. of stages are?",
+        "Options": [
+            "a) 13",
+            "b) 14",
+            "c) 12",
+            "d) 16"
+        ],
+        "Answer": "Answer: c\nExplanation: As N=S/ln α = 8.137/ln 1.956 = 12."
+    },
+    {
+        "id": 108,
+        "Question": "The ROSE Method involves the plot of",
+        "Options": [
+            "a) 1/R vs 1/N",
+            "b) 1/S vs 1/N",
+            "c) 1/S vs 1/R",
+            "d) 1/T vs 1/P"
+        ],
+        "Answer": "Answer:  a\nExplanation: Rose curve is not a straight line given by 1/R vs 1/N, while 1/S vs 1/N is defined as the inverse Rose curve method."
+    },
+    {
+        "id": 109,
+        "Question": "The Ratio of optimum feed stages to total number of stages is",
+        "Options": [
+            "a) Dependent on number of stages",
+            "b) Independent of number of stages",
+            "c) Independent of total stage",
+            "d) Inversely proportional."
+        ],
+        "Answer": "Answer: b\nExplanation: This is mathematically explained as Fenske’s equation, which also involves relative volatility of the components."
+    },
+    {
+        "id": 110,
+        "Question": "The K value of Methane at 205oF is?",
+        "Options": [
+            "a) 15",
+            "b) 28",
+            "c) 16",
+            "d) 1.65"
+        ],
+        "Answer": "Answer: a\nExplanation: Using Tabulated data as in Henry Kister (Table 2.8) it is specified, these values are based on experiments and can’t be calculated using any formula they are purely correlations. "
+    },
+    {
+        "id": 111,
+        "Question": "Light non-keys end up as a",
+        "Options": [
+            "a) Final product",
+            "b) Feed outlet",
+            "c) Bottom end product",
+            "d) Overhead product"
+        ],
+        "Answer": "Answer:  d\nExplanation: Light non-keys always end up as an overhead product, while heavy keys at bottom product of the column."
+    },
+    {
+        "id": 112,
+        "Question": "Heavy non-keys end up as a",
+        "Options": [
+            "a) Final product",
+            "b) Feed outlet",
+            "c) Bottom end product",
+            "d) Overhead product"
+        ],
+        "Answer": "Answer:  c\nExplanation: Heavy non-keys always end up as a Bottom end product, this occurs due to volatility difference in the components."
+    },
+    {
+        "id": 113,
+        "Question": "The reflux ratio corresponding to the minimum total cost is called as",
+        "Options": [
+            "a) Optimum reflux ratio",
+            "b) Minimum reflux ratio",
+            "c) Final Ratio",
+            "d) Total Reflux Ratio"
+        ],
+        "Answer": "Answer: a\nExplanation: The reflux ratio corresponding to the minimum total cost is called as Optimum reflux ratio and the final cost related is called as final ratio."
+    },
+    {
+        "id": 114,
+        "Question": "The concentration of multi component mixture in mass transfer process, can be represented by",
+        "Options": [
+            "a) Mass concentration",
+            "b) Molar concentration",
+            "c) Molar density",
+            "d) Each quantity is important"
+        ],
+        "Answer": "Answer:  d\nExplanation: The concentration of multi component mixture can be represented by all molar forms independent of property, so concentration as well as density are equally important."
+    },
+    {
+        "id": 115,
+        "Question": "HETP is numerically equal to HTU, If and only if operating line",
+        "Options": [
+            "a) Lies below the equilibrium line",
+            "b) Lies above equilibrium line",
+            "c) At equilibrium line",
+            "d) Is far from equilibrium line"
+        ],
+        "Answer": "Answer: c\nExplanation:  HETP is numerically equal to HTU if and only if operating line is parallel to equilibrium line, this means NTU i.e. number of transfer units are unity."
+    },
+    {
+        "id": 116,
+        "Question": "In binary system, Separation is very efficient when relative volatility is",
+        "Options": [
+            "a) 1",
+            "b) >1",
+            "c) <1",
+            "d)  Zero"
+        ],
+        "Answer": "Answer:  b\nExplanation: If α >1 efficiency of separation increases, if separation is difficult then α < 1 and if no separation is possible then α= 0."
+    },
+    {
+        "id": 117,
+        "Question": "In batch distillation, with constant reflux overhead product composition",
+        "Options": [
+            "a) Increases with time",
+            "b) Decreases with time",
+            "c) Does not vary with time",
+            "d) Does vary with time"
+        ],
+        "Answer": "Answer:  b\nExplanation:  As batch operation feed reduces with given time thus reflux decreases, as batch distillation contains a limited amount of feed."
+    },
+    {
+        "id": 118,
+        "Question": "Which of the following assumes constant molal vaporization and overflow?",
+        "Options": [
+            "a) McCabe Thiele method",
+            "b) Ponchan Savarit Method",
+            "c) Enthalpy concentration method",
+            "d) Plate absorption method"
+        ],
+        "Answer": "Answer: a\nExplanation: The McCabe Thiele method assumes constant molal vaporization and overflow, while the Ponchan Savarit Method is based on the enthalpy balance of components."
+    },
+    {
+        "id": 119,
+        "Question": "The McCabe Thiele method",
+        "Options": [
+            "a) Uses molal units for material and energy balance",
+            "b) Uses weight fractions to express liquid and vapor composition",
+            "c) Can use any type of units",
+            "d) Is more accurate than ponchan savarit method"
+        ],
+        "Answer": "Answer:  b\nExplanation: The McCabe Thiele method uses weight fractions to express liquid and vapor composition for calculations."
+    },
+    {
+        "id": 120,
+        "Question": "If q is interpreted to be fraction of feed stream that is liquid, then for saturated liquid feed",
+        "Options": [
+            "a) q =0",
+            "b) q <0",
+            "c) q >l0",
+            "d) q =1"
+        ],
+        "Answer": "Answer: b\nExplanation: For saturated liquid feed q is always less than 0 and for saturated gas feed q is greater than 0."
+    },
+    {
+        "id": 121,
+        "Question": "Fenske’s Equation can be written as",
+        "Options": [
+            "a) Nmin = S/ ln α",
+            "b) Nmin = ln S/ ln α",
+            "c)  Nmin – 1 = ln S/ ln α",
+            "d) Nmin + 1 = ln S/ ln α"
+        ],
+        "Answer": "Answer:  b\nExplanation:  The Fenske’s equation is given by this equation Nmin = ln S/ ln α, where N is the number of trays and alpha is the relative volatility."
+    },
+    {
+        "id": 122,
+        "Question": "The term S in the Fenske’s equation, is given as",
+        "Options": [
+            "a) (xLKxHK)D(xLKxHK)B",
+            "b) (xLKxHK)D(xLKxHK)L(xLKxHK)R",
+            "c) (xLKxHK)L(xLKxHK)V",
+            "d) (xLKxHK)HK(xLKxHK)LK"
+        ],
+        "Answer": "Answer: a\nExplanation:  The term S in the Fenske’s equation is given as (xLKxHK)D(xLKxHK)B, representing High and Low keys of the gas and liquid phases."
+    },
+    {
+        "id": 123,
+        "Question": "N√αN this equation is called as",
+        "Options": [
+            "a) Sorel’s Method",
+            "b) Polson Equation",
+            "c) Fenske’s Equation",
+            "d) Gilliland Equation"
+        ],
+        "Answer": "Answer: c\nExplanation: Fenske’s Equation that is rigorous, Gilliland Equation are used and based on the trial and error basis."
+    },
+    {
+        "id": 124,
+        "Question": "Calculate ln S? If XLK=0.41 and XHK = 0.005 and XL= 0.417 and XH= 0.01, then",
+        "Options": [
+            "a) 9.45",
+            "b) 8.90",
+            "c) 8.137",
+            "d) 7.98"
+        ],
+        "Answer": "Answer:  c\nExplanation:  As ln (0.41/0.005) (0.417/0.01) = 8.137."
+    },
+    {
+        "id": 125,
+        "Question": "A non-key component may be distributed if",
+        "Options": [
+            "a) Close to that of one key",
+            "b) The Specified separation is sloppy",
+            "c) Intermediate between keys",
+            "d) Intermediate one key"
+        ],
+        "Answer": "Answer:  b\nExplanation:  For distributed systems the Specified separation is sloppy, while for the distributed system it is close to that of one key."
+    },
+    {
+        "id": 126,
+        "Question": "In a distillation operation, the reflux ratio may vary between",
+        "Options": [
+            "a) Zero and one",
+            "b) Zero and infinity",
+            "c) Minimum and infinity",
+            "d) One and two"
+        ],
+        "Answer": "Answer: a\nExplanation: L0/D Varies from zero to one, as the ratio cannot be more than one because that will cause the failure of the column."
+    },
+    {
+        "id": 127,
+        "Question": "Most distillation columns are designed for reflux ratio between",
+        "Options": [
+            "a) 3 to 5  Rmin",
+            "b) 1.2 and 1 .7 Rmin",
+            "c) 2  to 10 Rmin",
+            "d) 0.2 to 0.7 Rmin"
+        ],
+        "Answer": "Answer:  b\nExplanation: This is the most suitable for 1.2 and 1.7 Rmin times reflux ratio, this also reduces the operating and the final cost of the system."
+    },
+    {
+        "id": 128,
+        "Question": "If Component is non-distributed, then",
+        "Options": [
+            "a) DR >1",
+            "b) DR<1",
+            "c) DR=0",
+            "d) DR=∞"
+        ],
+        "Answer": "Answer:  a\nExplanation: If component is non-distributed then DR >1 contained entirely distillate, while if components are distributed they are entirely withdrawn. "
+    },
+    {
+        "id": 129,
+        "Question": "If Component is distributed, then",
+        "Options": [
+            "a) 0< DR> 1",
+            "b) 0< DR< 1",
+            "c) DR= 0",
+            "d) DR < 0"
+        ],
+        "Answer": "Answer: b\nExplanation: If Component is distributed then 0< DR< 1, DR is recovery component, if DR = 0 then there exists no distributed components in the systems."
+    },
+    {
+        "id": 130,
+        "Question": "Underwood’s equation can be used to find",
+        "Options": [
+            "a) Distributed components",
+            "b) Non distributed components",
+            "c) Reflux for components",
+            "d) Non reflux components"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Underwood’s equation can be used to find Distributed components (n) including key."
+    },
+    {
+        "id": 131,
+        "Question": "The hi is defined as the",
+        "Options": [
+            "a) Correlating factor",
+            "b) Correction Factor",
+            "c) Striping Factor",
+            "d) Relating Factor"
+        ],
+        "Answer": "Answer: a\nExplanation: This method is suitable for all the three operations, distillation for two components or more, leaching based on extraction purpose and similarly absorption for interfacial balance. "
+    },
+    {
+        "id": 132,
+        "Question": "The Smith-Brinkley (SB) method, is based on an analytical solution of the",
+        "Options": [
+            "a) Infinite-difference equations",
+            "b) Differential Equations",
+            "c) Integration",
+            "d) Finite-difference equations"
+        ],
+        "Answer": "Answer:  a\nExplanation: The correlating factor is defines as by hi, while L/V is defined as the stripping factor of systems. "
+    },
+    {
+        "id": 133,
+        "Question": "The Smith-Brinkley (SB) method, rates a column on basis of",
+        "Options": [
+            "a) Initial sequence of the stages",
+            "b) Reverse sequence of its stages",
+            "c) Forward sequence of its stages",
+            "d) Straight Sequence"
+        ],
+        "Answer": "Answer: d\nExplanation: The Smith-Brinkley (SB) method, is based on an analytical solution of the finite-difference equations that can be written for staged separation processes. "
+    },
+    {
+        "id": 134,
+        "Question": "For a change in temperature ______ is added to tn.",
+        "Options": [
+            "a) Half",
+            "b) One fourth",
+            "c) Two third",
+            "d) Square"
+        ],
+        "Answer": "Answer:  b\nExplanation: The Smith-Brinkley (SB) method rates a column on basis of Reverse sequence of its stages, so to obtain top to bottom approach. "
+    },
+    {
+        "id": 135,
+        "Question": "Smith Brinkley method is valuable for",
+        "Options": [
+            "a) Off-line optimization",
+            "b) Reflux optimization",
+            "c) On-line optimization",
+            "d) In-line optimization"
+        ],
+        "Answer": "Answer: a\nExplanation: For a change in temperature half is added to tn and half to tm, this acts as an average value between them¬ provides accuracy. "
+    },
+    {
+        "id": 136,
+        "Question": "If the feed temperature is 211oK and Dew point is 70oF, then tn is",
+        "Options": [
+            "a) 68oF",
+            "b) 178oF",
+            "c) 140.5oF",
+            "d) 259.5oF"
+        ],
+        "Answer": "Answer: c\nExplanation: Smith Brinkley method is valuable for On-line optimization, while NR for the reflux Reflux optimization. "
+    },
+    {
+        "id": 137,
+        "Question": "If the feed temperature is 2110K and Bubble point is 70oF, then tm is",
+        "Options": [
+            "a) 68oF",
+            "b) 178oF",
+            "c) 140.5oF",
+            "d) 259.5oF"
+        ],
+        "Answer": "Answer: c\nExplanation: As tn= (70+211)/2 = 140.5oF. "
+    },
+    {
+        "id": 138,
+        "Question": "Ki are determined at the",
+        "Options": [
+            "a) Top section Temperatures",
+            "b)  Bottom section Temperatures",
+            "c) Middle section Temperatures",
+            "d) Right section Temperatures"
+        ],
+        "Answer": "Answer: d\nExplanation: As tM= (308+211)/2 = 259.5oF. "
+    },
+    {
+        "id": 139,
+        "Question": "K’I are determined at",
+        "Options": [
+            "a) Top section Temperatures",
+            "b)  Bottom section Temperatures",
+            "c) Middle section Temperatures",
+            "d) Right section Temperatures"
+        ],
+        "Answer": "Answer: a\nExplanation: Ki are determined at the Top section Temperatures, and the pressure are determined at the left and right of column respectively. "
+    },
+    {
+        "id": 140,
+        "Question": "Smoker proposed an analytical closed form formula, to calculate",
+        "Options": [
+            "a) Reflux ratio",
+            "b) Number of trays",
+            "c) Number of stages",
+            "d) Number of feeds"
+        ],
+        "Answer": "Answer: b\nExplanation: In 1938, Smoker proposed an analytical closed form formula to calculate the number of stages in a binary distillation column."
+    },
+    {
+        "id": 141,
+        "Question": "The analytical formula fails to predict the",
+        "Options": [
+            "a)  Equilibrium Stages",
+            "b) Reflux ratio",
+            "c) Feed inlet and outlet",
+            "d) Boil up"
+        ],
+        "Answer": "Answer: a\nExplanation: The analytical formula fails to predict the Equilibrium Stages with reasonable accuracy, while reflux and boil up are predicted as ratio."
+    },
+    {
+        "id": 142,
+        "Question": "Smoker’s equation is convenient to use, in binary separations with",
+        "Options": [
+            "a)  Large number of stages",
+            "b) Small number of stages",
+            "c) Independent stages",
+            "d) Dependent stages"
+        ],
+        "Answer": "Answer:  b\nExplanation:  By tracking the locus to the x axis of smoker’s line reflux is seen to be intersecting at the abscissa of 1.425 on the x axis."
+    },
+    {
+        "id": 143,
+        "Question": "Smoker’s equation is based on assumption?",
+        "Options": [
+            "a) Constant molar overflow and volatility",
+            "b) Constant Molar overflow and viscosity",
+            "c) Constant feed and stages",
+            "d) Constant Pressure"
+        ],
+        "Answer": "Answer:  a\nExplanation: Smoker’s equation is convenient to use in binary separations with large number of stages, while Fenske’s for the minimum number of trays."
+    },
+    {
+        "id": 144,
+        "Question": "If NR is 5.44 and NS is 3.42. Total stages are",
+        "Options": [
+            "a) 2.02",
+            "b) 1.8",
+            "c) 8.86",
+            "d) 1.59"
+        ],
+        "Answer": "Answer: a\nExplanation: Smoker’s equation is based on assumption of Constant molar overflow and volatility, while McCabe and Ponchan are based on Constant molar overflow only."
+    },
+    {
+        "id": 145,
+        "Question": "According to smoker’s equation, b is given as",
+        "Options": [
+            "a) R+1",
+            "b) xD/R+1",
+            "c) xD/y",
+            "d) y/R+1"
+        ],
+        "Answer": "Answer: c\nExplanation: as NR + NS = 5.44 + 3.42 = 8.86."
+    },
+    {
+        "id": 146,
+        "Question": "According to smoker’s equation, C is given as",
+        "Options": [
+            "a) 1 + (α -1) k",
+            "b) 1 -(α -1)k",
+            "c) 1 -(α +1)k",
+            "d) α -1"
+        ],
+        "Answer": "Answer: b\nExplanation: According to smoker’s equation b is given as xD/R+1, where XD is the moles of liquid distilled with the rate of reflux R."
+    },
+    {
+        "id": 147,
+        "Question": "Calculate b? If xD= 0.95 and R=8",
+        "Options": [
+            "a) 0.445",
+            "b) 0.118",
+            "c) 0.2375",
+            "d) 0.568"
+        ],
+        "Answer": "Answer:  a\nExplanation: According to smoker’s equation C is given as 1 + (α -1) k, where k value is calculated from bottom and top sections of the column."
+    },
+    {
+        "id": 148,
+        "Question": "If reflux ratio is 3, then slope m is estimated as",
+        "Options": [
+            "a) 0.75",
+            "b) 1",
+            "c) 0.66",
+            "d) 0.90"
+        ],
+        "Answer": "Answer: c\nExplanation: AS xD/R+1 = 0.95/8+1= 0.2375."
+    },
+    {
+        "id": 149,
+        "Question": "Jafarey, Dougles and Mcavoy Equation is capable of predicting",
+        "Options": [
+            "a) Column performance",
+            "b) Column feed rate",
+            "c) Column design",
+            "d) Column diameter"
+        ],
+        "Answer": "Answer: a\nExplanation:  Jafarey, Dougles and Mcavoy Equation is capable of predicting Column performance and control of disturbances. "
+    },
+    {
+        "id": 150,
+        "Question": "The term PLK stands for",
+        "Options": [
+            "a) Primary left key",
+            "b) Pseudo Left key",
+            "c) Pseudo light key",
+            "d) Pressure light key"
+        ],
+        "Answer": "Answer: b\nExplanation: The term PLK stands for Pseudo Left key, which indicated the components which are heavy key and are separated at left side."
+    },
+    {
+        "id": 151,
+        "Question": "PHK and PLK are also applied in",
+        "Options": [
+            "a) Hengstebeck’s equation",
+            "b) Fenske’s equation",
+            "c) Gilliland equation",
+            "d) Homotomy equation"
+        ],
+        "Answer": "Answer:  a\nExplanation:  PHK and PLK are also applied in Hengstebeck’s method, while Fenske’s equation uses the relative volatility."
+    },
+    {
+        "id": 152,
+        "Question": "Jafarey Equation is an analytical closed form formula, to calculate",
+        "Options": [
+            "a) Reflux ratio",
+            "b) Number of trays",
+            "c) Number of stages",
+            "d) Number of feeds"
+        ],
+        "Answer": "Answer: b\nExplanation: Jaffrey Equation is an analytical closed form formula to calculate Number of trays simplifying smoker’s equation."
+    },
+    {
+        "id": 153,
+        "Question": "In Jafarey Equation, N is predicted with an error of",
+        "Options": [
+            "a) ± 2 to 3",
+            "b) ± 1 to 2",
+            "c) ± 6 to 7",
+            "d) Can’t be specified"
+        ],
+        "Answer": "Answer: a\nExplanation: In Jafarey Equation N is predicted with an error of ± 2 to 3 stages, this is an ideal error with respect to human and conservative errors that occur."
+    },
+    {
+        "id": 154,
+        "Question": "PHK stands for",
+        "Options": [
+            "a) Pre Heavy key",
+            "b) Pseudo Heavy key",
+            "c) Primary Heavy key",
+            "d) Pressure Heavy key"
+        ],
+        "Answer": "Answer:  b\nExplanation: PHK stands for Pseudo Heavy key representing the bottom end products which are removed at the bottom of column."
+    },
+    {
+        "id": 155,
+        "Question": "Dougles equation is useful for",
+        "Options": [
+            "a)  Binary separations",
+            "b) Multicomponent separations",
+            "c)  Tertiary Separations",
+            "d) Cant’ be specified"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Dougles equation is useful for multicomponent separations extended form of smoker’s equation."
+    },
+    {
+        "id": 156,
+        "Question": "Calculate ln S? If XLK=0.95 and XHK = 0.05 and XL= 0.90 and XH= 0.10, then",
+        "Options": [
+            "a) 6.77",
+            "b) 5.142",
+            "c) 7.898",
+            "d) Can’t be calculated"
+        ],
+        "Answer": "Answer: b\nExplanation: as ln (0.95/0.05) (0.90/0.10) = 5.142."
+    },
+    {
+        "id": 157,
+        "Question": "Solve the following equation 0.3089R2 – 0.4033R – 0.1242=0?",
+        "Options": [
+            "a) 2.45",
+            "b) 1.31",
+            "c) 8.9",
+            "d) 7.8"
+        ],
+        "Answer": "Answer: b\nExplanation: Using quadratic formula f(x) =0.3089R2 – 0.4033R – 0.1242, and at f (1.31) = 0 we can conclude and thus R=1.31."
+    },
+    {
+        "id": 158,
+        "Question": "The overall column efficiency is defined as",
+        "Options": [
+            "a) Nthoretical/Nactual",
+            "b) Nthoretical*Nactual",
+            "c) Nthoretical=Nactual",
+            "d) Nactual + 1"
+        ],
+        "Answer": "Answer:  a\nExplanation: The overall column efficiency is defined as Eoverall = Nthoretical/Nactual, whereas Nactual + 1 gives the real number of trays in a column. "
+    },
+    {
+        "id": 159,
+        "Question": "Rigorous methods are only applied to",
+        "Options": [
+            "a) Small columns",
+            "b) Large columns",
+            "c) Dual columns",
+            "d) Triple columns"
+        ],
+        "Answer": "Answer:  a\nExplanation: Rigorous methods are only applied to Small columns for final design checks, whereas trial and error involves for final calculations. "
+    },
+    {
+        "id": 160,
+        "Question": "Rigorous methods are used as primary",
+        "Options": [
+            "a) Stage calculation tools",
+            "b) Cost calculation tools",
+            "c) Control optimization tools",
+            "d) Design and optimization tools"
+        ],
+        "Answer": "Answer:  d\nExplanation: Rigorous methods are used as primary Design and optimization tools and Procuring methods are used for calculations of cost and stages."
+    },
+    {
+        "id": 161,
+        "Question": "An equilibrium stage that contains no feed, side products or heat exchangers is called",
+        "Options": [
+            "a) Final stage",
+            "b) Simple stage",
+            "c) First stage",
+            "d) Exit stage"
+        ],
+        "Answer": "Answer:  b\nExplanation: An equilibrium stage that contains no feed, side products or heat exchangers is called Simple stage."
+    },
+    {
+        "id": 162,
+        "Question": "A stage that contains more than one feed, side products or heat exchangers is called",
+        "Options": [
+            "a) Simple stage",
+            "b) Multi Stage",
+            "c) Complex stage",
+            "d) Pure stage"
+        ],
+        "Answer": "Answer:  c\nExplanation: A stage that contains more than one feed, side products or heat exchangers is called Complex stage."
+    },
+    {
+        "id": 163,
+        "Question": "In a multicomponent operation, i and j are",
+        "Options": [
+            "a) Variables of flow",
+            "b) Component and stage",
+            "c) Reflux and Boil up",
+            "d) Feed ratio"
+        ],
+        "Answer": "Answer: b\nExplanation: In a multicomponent operation i and j are Component and stage, where I represents the gas phase and j as the liquid one."
+    },
+    {
+        "id": 164,
+        "Question": "MESH stands for?",
+        "Options": [
+            "a) Material, equilibrium, summation and heat",
+            "b) Mass, equilibrium, simulation and heat",
+            "c) Makeup, equilibrium, subject and heat",
+            "d) Material, equilibrium, summation and Height"
+        ],
+        "Answer": "Answer: a\nExplanation: MESH stands for Material, equilibrium, summation and heat, all these components are equally important for the column specifications and design analysis."
+    },
+    {
+        "id": 165,
+        "Question": "When a solution is said to be formed?",
+        "Options": [
+            "a) All MESH equation are zero",
+            "b) All MESH equation are infinite",
+            "c) All MESH equation are satisfied",
+            "d) All MESH equation are unity"
+        ],
+        "Answer": "Answer: c\nExplanation: When all MESH equation are satisfied a solution is said to be formed, when MESH are zero this represent the error in calculations."
+    },
+    {
+        "id": 166,
+        "Question": "Murphree equation is used for calculating?",
+        "Options": [
+            "a)  Stage calculation",
+            "b) Equilibrium condition",
+            "c) Reflux ratio",
+            "d) Tray efficiency"
+        ],
+        "Answer": "Answer: d\nExplanation: Murphree equation is used for calculating Tray efficiency and reflux ratio is calculated as L/D and equilibrium conditions given by y* = x."
+    },
+    {
+        "id": 167,
+        "Question": "The term KijVj/Lj is called",
+        "Options": [
+            "a) Stripping factor",
+            "b) Absorption Factor",
+            "c) Reflux Ratio",
+            "d) Boil up"
+        ],
+        "Answer": "Answer: a\nExplanation: The term KijVj/Lj is called Stripping factor, where Kij represents the k factor and V and L are gas and liquid flow rates respectively."
+    },
+    {
+        "id": 168,
+        "Question": "The term Lj/VjKij is called",
+        "Options": [
+            "a) Stripping factor",
+            "b) Absorption Factor",
+            "c) Reflux Ratio",
+            "d)  Boil up"
+        ],
+        "Answer": "Answer: b\nExplanation: The term Lj/VjKij is called Absorption Factor, this is also called as the inverse of the stripping factor."
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is also called Rating method?",
+        "Options": [
+            "a) McCabe Thiele",
+            "b) Ponchan Savarit",
+            "c) Thiele Geddes",
+            "d) Homotomy"
+        ],
+        "Answer": "Answer: c\nExplanation: Thiele Geddes is also called as rating method, McCabe Thiele is called tray analysis method and Ponchan Savarit as enthalpy method."
+    },
+    {
+        "id": 170,
+        "Question": "In Thiele Geddes method, which of the following are calculated?",
+        "Options": [
+            "a) Vapor and liquid compositions",
+            "b) Input and output fees rates",
+            "c) Reflux ratio",
+            "d) Boil up"
+        ],
+        "Answer": "Answer: a\nExplanation: Vapor and liquid compositions are calculated In Thiele Geddes method, while reflux ratio in McCabe Thiele method."
+    },
+    {
+        "id": 171,
+        "Question": "Which method is the inverse of Thiele Geddes Method?",
+        "Options": [
+            "a) Lewis Matheson",
+            "b) Ponchan Savarit",
+            "c) McCabe Thiele",
+            "d) Homotomy"
+        ],
+        "Answer": "Answer: a\nExplanation:  Lewis Matheson is the inverse of Thiele Geddes method, while other listed methods are completely different from each other and all are used to calculate number of trays."
+    },
+    {
+        "id": 172,
+        "Question": "Lewis Matheson method can be adjusted, for fixed number of",
+        "Options": [
+            "a) Trays",
+            "b) Stages",
+            "c) Columns",
+            "d) Sections"
+        ],
+        "Answer": "Answer:  b\nExplanation: Lewis Matheson method can be adjusted for fixed number of Stages instead of reflux ratio fixed."
+    },
+    {
+        "id": 173,
+        "Question": "Tj is assigned as the",
+        "Options": [
+            "a) Stage temperature",
+            "b) Boiler temperature",
+            "c) Condenser temperature",
+            "d) Components temperature"
+        ],
+        "Answer": "Answer: d\nExplanation: Tj is assigned as the Stage temperature, While TC and TB are assigned as condenser and boiler temperature."
+    },
+    {
+        "id": 174,
+        "Question": "The value of K is independent of",
+        "Options": [
+            "a) Composition",
+            "b) Feed ratio",
+            "c) Volatility",
+            "d) Reflux"
+        ],
+        "Answer": "Answer:  a\nExplanation: As per the relation the value of K is given as the function of KV = f (pure liquid)/f (pure vapor)."
+    },
+    {
+        "id": 175,
+        "Question": "User provided internal flows are generally for",
+        "Options": [
+            "a) Reflux in high purity",
+            "b) Overhead liquid products",
+            "c) Narrow building columns",
+            "d) NOR relation"
+        ],
+        "Answer": "Answer: d\nExplanation: User provided internal flows are generally for Reflux in high purity, overhead liquid products and Narrow building columns also called as NOR relation."
+    },
+    {
+        "id": 176,
+        "Question": "For accurate Reflux, estimate",
+        "Options": [
+            "a) Reflux of high purity is used",
+            "b) Narrow boiling is used",
+            "c) Super fractionators are used",
+            "d) Final temperature is used"
+        ],
+        "Answer": "Answer: b\nExplanation: For accurate Reflux estimate, narrow boiling is necessary, where separation is required the reflux of high priority is used."
+    },
+    {
+        "id": 177,
+        "Question": "Azeotropic composition is?",
+        "Options": [
+            "a) y*>x",
+            "b) y*<x",
+            "c) y*=x",
+            "d) x+y* = 1"
+        ],
+        "Answer": "Answer: c\nExplanation: Azeotropic composition is y*=x, whereas the x+y* = 1 gives the actual mole balance of gas and liquid at equilibrium. "
+    },
+    {
+        "id": 178,
+        "Question": "Molecular Distillation is",
+        "Options": [
+            "a) For heat sensitive materials",
+            "b) Very low pressure distillation",
+            "c) High low pressure distillation",
+            "d) Purge pressure"
+        ],
+        "Answer": "Answer: b\nExplanation: Molecular Distillation is done for very low pressure distillation operations, while batch distillation occurs at high pressure and temperatures."
+    },
+    {
+        "id": 179,
+        "Question": "The Wang Henke equation is used, for the calculation of",
+        "Options": [
+            "a) Flow rates",
+            "b) Volatility",
+            "c) Stages",
+            "d) Reflux"
+        ],
+        "Answer": "Answer: a\nExplanation: The Wang Henke equation is used for the calculation of component and flow rates, Fenske’s for relative volatility and material balance for flow rates. "
+    },
+    {
+        "id": 180,
+        "Question": "Wide boiling and energy coupled systems are drastically",
+        "Options": [
+            "a) Exponential",
+            "b) Linear",
+            "c) Logarithmic",
+            "d) Semi logical"
+        ],
+        "Answer": "Answer:  b\nExplanation: Wide boiling and energy coupled systems are drastically Linear, while d/b plots are nonlinear and equilibrium plots are also nonlinear. "
+    },
+    {
+        "id": 181,
+        "Question": "Difference between k and k+1 should be very",
+        "Options": [
+            "a) Small",
+            "b) Large",
+            "c) Zero",
+            "d) Unity"
+        ],
+        "Answer": "Answer:  a\nExplanation: Difference between k and k+1 should be very small, if the difference increases this could cause problems like stage failure and flooding. "
+    },
+    {
+        "id": 182,
+        "Question": "Rigorous method are based on?",
+        "Options": [
+            "a)  Heat duties",
+            "b) Product compositions",
+            "c) Feed tares",
+            "d) Stages"
+        ],
+        "Answer": "Answer: a\nExplanation:  Rigorous method are based on Heat duties and other methods are based on the feed and Product compositions. "
+    },
+    {
+        "id": 183,
+        "Question": "MESH equations are written in terms of?",
+        "Options": [
+            "a) Mass rates",
+            "b) Flow rates",
+            "c) Vapor rates",
+            "d) Liquid rate"
+        ],
+        "Answer": "Answer: c\nExplanation: MESH equations are written in terms of Vapor rates and material balance equations are written in mass and flow rates. "
+    },
+    {
+        "id": 184,
+        "Question": "In matrix form, system equation is expressed as",
+        "Options": [
+            "a) rivi =  -fj",
+            "b) rivi =  -Kj",
+            "c) rivi =  -Gj",
+            "d) rivi =  -Zj"
+        ],
+        "Answer": "Answer:  a\nExplanation: In matrix form system equation is expressed as rivi = -fj, where f is the function of the matrix and ri and vi are rows and columns.  "
+    },
+    {
+        "id": 185,
+        "Question": "The transposed vapor rate vector, Vi is raised to power of",
+        "Options": [
+            "a) Jk",
+            "b) Ik",
+            "c) T",
+            "d) P"
+        ],
+        "Answer": "Answer:  c\nExplanation: As Vi = (di, vi1, vi2, viN) T So T is Power, here T represents the temperature on which the vapor rate is measured. "
+    },
+    {
+        "id": 186,
+        "Question": "The transposed feed Rate vector, is proportional to",
+        "Options": [
+            "a) T",
+            "b) G",
+            "c) K",
+            "d) P"
+        ],
+        "Answer": "Answer:  a\nExplanation: fj = (0, 0, 0……Vi…0, 0)T So T is Power of the function and the zero represents the empty states in the function. "
+    },
+    {
+        "id": 187,
+        "Question": "The adiabatic split of vapor and liquid portion are expressed as",
+        "Options": [
+            "a) VIf and LiF",
+            "b) KIf and LiF",
+            "c) VIf and KiF",
+            "d) XIf and YiF"
+        ],
+        "Answer": "Answer:  c\nExplanation: The adiabatic split of vapor and liquid portion are expressed as VIf and LIf, These are equally important for all compositions of vapor and liquid.  "
+    },
+    {
+        "id": 188,
+        "Question": "The main diagonal mij is expressed as",
+        "Options": [
+            "a) –(1+Aij)",
+            "b) -(Aij)",
+            "c) 1-Aij",
+            "d) Aij"
+        ],
+        "Answer": "Answer:  a\nExplanation: Here mij=–(1+Aij) for any stage j, while -(Aij) represent only the factor for both gas and liquid phases and negative sign indicates the decreasing slope. "
+    },
+    {
+        "id": 189,
+        "Question": "For a partial Condenser, the terms for middle diagonals are?",
+        "Options": [
+            "a) KIf and LiF",
+            "b) -(1+L1/KI1D)",
+            "c) -(Aij)",
+            "d) Aij"
+        ],
+        "Answer": "Answer: b\nExplanation:  For a partial Condenser the terms for middle diagonals -(1+L1/KI1D)=mi1 and Aij represents the factor of equilibrium. "
+    },
+    {
+        "id": 190,
+        "Question": "For a partial Condenser, the terms for lower diagonals are?",
+        "Options": [
+            "a) -(1+L1/KI1D)",
+            "b) -(Aij)",
+            "c) L1/KI1D",
+            "d) Aij"
+        ],
+        "Answer": "Answer: c\nExplanation: For a partial Condenser the terms for lower diagonals are L1/KI1D=Ai1 and L1/KI1D represents the equivalent to absorption factor. "
+    },
+    {
+        "id": 191,
+        "Question": "For a reboiler stage N, the middle diagonal is",
+        "Options": [
+            "a) -(1+L1/KI1D)",
+            "b) KIf and LiF",
+            "c) L1/KI1D",
+            "d) -(1+B1/KI1VN)"
+        ],
+        "Answer": "Answer:  d\nExplanation: For a reboiler stage N the middle diagonal is-(1+B1/KI1VN), -(1+L1/KI1D) represents  the next set of absorption factor of next + 1 stages. "
+    },
+    {
+        "id": 192,
+        "Question": "For a total condenser, the reflux ratio just include",
+        "Options": [
+            "a) L1/KI1D",
+            "b) – (1+L1/D)",
+            "c) – (1+L1/KI1D)",
+            "d) – (Aij)"
+        ],
+        "Answer": "Answer: b\nExplanation: For a total condenser the reflux ratio just include mij= – (1+L1/D), Where D is the distillate of the column and L is the liquid flow rate of column. "
+    },
+    {
+        "id": 193,
+        "Question": "In matrix form, the total material balance equations are expressed as",
+        "Options": [
+            "a) F V=-R",
+            "b) RV=-F",
+            "c) L/V=F",
+            "d) V/R = F"
+        ],
+        "Answer": "Answer: b\nExplanation: In matrix form the total material balance equations are expressed as RV= -F, this matrix can be solved either by determinant method or L U method. "
+    },
+    {
+        "id": 194,
+        "Question": "In Thomas algorithm",
+        "Options": [
+            "a) Stage factor is calculated",
+            "b) Reflux factor is calculated",
+            "c) Feed factor is calculated",
+            "d) Boil up factor is calculated"
+        ],
+        "Answer": "Answer: a\nExplanation: In Thomas algorithm Stage factor is calculated, in various other such as matrix method the reflux and the feed factor are to be calculated. "
+    },
+    {
+        "id": 195,
+        "Question": "Forward elimination always starts from the",
+        "Options": [
+            "a) Right of corner",
+            "b) Middle of corner",
+            "c) Upper left corner",
+            "d) Last row"
+        ],
+        "Answer": "Answer: c\nExplanation: Forward elimination always starts from the upper left corner, all elements are covered as the approach is from top to bottom. "
+    },
+    {
+        "id": 196,
+        "Question": "Back substitution always starts from the",
+        "Options": [
+            "a) Lower right corner",
+            "b) Middle of corner",
+            "c) Upper right corner",
+            "d) Last row"
+        ],
+        "Answer": "Answer: a\nExplanation: Back substitution always starts from the lower right corner and all elements are considered as the bottom to top approach method. "
+    },
+    {
+        "id": 197,
+        "Question": "For Wide boiling mixtures, K value is",
+        "Options": [
+            "a) Different at different places",
+            "b) Same at different places",
+            "c) Specific at any time",
+            "d) Final Temperature based"
+        ],
+        "Answer": "Answer: a\nExplanation: Wide boiling mixtures have K value is Different at different places, K value is independent of temperature, pressure and other affecting phenomena. "
+    },
+    {
+        "id": 198,
+        "Question": "Each row acts as a",
+        "Options": [
+            "a) Different factor",
+            "b) Same factor",
+            "c) Coinciding factors",
+            "d) Elliptical Factor"
+        ],
+        "Answer": "Answer: a\nExplanation: Each row acts as a Different factor, the pressure, temperature, volume all other factors are arranged in a separate column to differentiate between them. "
+    },
+    {
+        "id": 199,
+        "Question": "The temperature where the first vapor is formed, when heating a liquid consisting of two or more components",
+        "Options": [
+            "a) Dew point",
+            "b) Bubble point",
+            "c) Final point",
+            "d) Aniline point"
+        ],
+        "Answer": "Answer:  a\nExplanation: The temperature where the first vapor is formed when heating a liquid consisting of two or more components Bubble point, while when the first drop of aniline separates out is called the aniline point.\nNc∑Yi ∑Kixi."
+    },
+    {
+        "id": 200,
+        "Question": "When Raoult’s law and Dalton’s law hold for the mixture, the K factor is",
+        "Options": [
+            "a) Pi/P",
+            "b) Yi/Xi",
+            "c) Y*/X",
+            "d) X*/X"
+        ],
+        "Answer": "Answer: b\nExplanation:  At the bubble point, the following relationship holds always, representing Nc as number of components and yi as the mole fraction of all components."
+    },
+    {
+        "id": 201,
+        "Question": "The bubble point method is the most widely used for",
+        "Options": [
+            "a) Pore size determination",
+            "b) Bubble size determination",
+            "c) Stages determination",
+            "d) Tray determination"
+        ],
+        "Answer": "Answer: a\nExplanation: K is the distribution coefficient, defined as the ratio of mole fraction in the vapor phase, these are not always equal but are somehow equivalent to each other. "
+    },
+    {
+        "id": 202,
+        "Question": "The BP Method generally work best for",
+        "Options": [
+            "a) Narrow Boiling systems",
+            "b) Ideal systems",
+            "c) Nearly ideal systems",
+            "d) Any systems"
+        ],
+        "Answer": "Answer: a\nExplanation: When Raoult’s law and Dalton’s law hold for the mixture, the K factor is Pi/P, indicating Pi as the partial pressure of system and P as total pressure. "
+    },
+    {
+        "id": 203,
+        "Question": "To perform a Bubble Point Test, gas is applied to",
+        "Options": [
+            "a) All the filter",
+            "b) Both side of wetted filter",
+            "c) One side of a wetted filter",
+            "d) Not specified"
+        ],
+        "Answer": "Answer: a\nExplanation: The bubble point method is the most widely used for Pore size determination, Underwood, Gilliland, McCabe are used for stages and tray determination."
+    },
+    {
+        "id": 204,
+        "Question": "Bubble point equation is used for",
+        "Options": [
+            "a) Reflux and feed rate",
+            "b) Vapor and liquid composition",
+            "c) Venting and filtration",
+            "d) Equilibrium phases"
+        ],
+        "Answer": "Answer: c\nExplanation: The BP Method generally work for Narrow Boiling systems, Ideal systems and nearly ideal systems as boiling point of a component does not vary much as compared to other properties."
+    },
+    {
+        "id": 205,
+        "Question": "θ (theta) stands for",
+        "Options": [
+            "a) Convergence promoter",
+            "b) Catalyst promoter",
+            "c) Dynamic value",
+            "d) Bubble Extract point"
+        ],
+        "Answer": "Answer: c\nExplanation: To perform a Bubble Point Test, gas is applied to one side of a wetted filter, with the tubing downstream."
+    },
+    {
+        "id": 206,
+        "Question": "In matrix language, The Newton Raphson equation is",
+        "Options": [
+            "a) Ji Yif = -Fk",
+            "b)  Ji Xif = -Fk",
+            "c) Ji Kif = -Fk",
+            "d) Ji Tif = -Fk"
+        ],
+        "Answer": "Answer: b\nExplanation: In matrix language, The Newton Raphson equation is Ji Xif = -Fk,, here i represents the number of gas rows and j similarly columns of liquid. "
+    },
+    {
+        "id": 207,
+        "Question": "What is Fk?",
+        "Options": [
+            "a) Vector",
+            "b) Matrix",
+            "c) Factor",
+            "d) Correction"
+        ],
+        "Answer": "Answer:  d\nExplanation:  As Fk= (f1 f2 f3 ……fn)T, Fk  is Vector , Matrix and Factor are correlated by an empirical correlation of total functions and temperature."
+    },
+    {
+        "id": 208,
+        "Question": "A square nXn matrix is called",
+        "Options": [
+            "a) Jacobin Matrix",
+            "b) Raphson Matrix",
+            "c) Newton Matrix",
+            "d) 2N Matrix"
+        ],
+        "Answer": "Answer: a\nExplanation: A square n X n matrix is called Jacobin Matrix, where the number of row properties are equal to number of column properties."
+    },
+    {
+        "id": 209,
+        "Question": "For any instance, XK+1 is",
+        "Options": [
+            "a) Xk + h",
+            "b) Xk + t",
+            "c) Xk + X",
+            "d) Xk + X1"
+        ],
+        "Answer": "Answer: a\nExplanation: For any instance XK+1 is Xk + h, where h is the common difference and Xk is the previous calculated value of series."
+    },
+    {
+        "id": 210,
+        "Question": "Independent variable are in the range of",
+        "Options": [
+            "a) Tmin< Tj > Tmax",
+            "b) Tmin> Tj > Tmax",
+            "c) Tmin< Tj > Tmax",
+            "d) Tj < Tmax"
+        ],
+        "Answer": "Answer:  c\nExplanation: Independent variable are in the range of Tmin < Tj < Tmax, i.e. the maximum temperature should be less than initial and greater than the final temperature. "
+    },
+    {
+        "id": 211,
+        "Question": "In quasi Newton Method, Sk represents the",
+        "Options": [
+            "a) Vector factor",
+            "b) Scalar factor",
+            "c) Separation factor",
+            "d) Correction factor"
+        ],
+        "Answer": "Answer: b\nExplanation: In quasi Newton Method, Sk represents the Scalar factor, while function quantiles such as temperature and pressure relations are called as vector ones. "
+    },
+    {
+        "id": 212,
+        "Question": "Solve cos x = 2x?",
+        "Options": [
+            "a) 0.6780",
+            "b) 0.3456",
+            "c) 0.45018",
+            "d) 0.998"
+        ],
+        "Answer": "Answer: c\nExplanation: Solving f(x) = 0 then f(x) = cos x − 2x, x0 = 0.5, x1 = 0.45063, x2 = 0.45018, x3 = 0.45018, the root is x = 0.45018."
+    },
+    {
+        "id": 213,
+        "Question": "Find XK+1? If Xk = 0.5, consider a difference of 5 stages",
+        "Options": [
+            "a) 4.5",
+            "b) 5.5",
+            "c) 3.5",
+            "d) Can’t be calculated"
+        ],
+        "Answer": "Answer: b\nExplanation:  For XK+1 = Xk + h = 0.5+ 5 = 5.5."
+    },
+    {
+        "id": 214,
+        "Question": "The first assumption of the NR Method is",
+        "Options": [
+            "a) Assume K=0",
+            "b) Assume Xi = 0",
+            "c) Assume F(x) = 0",
+            "d) Assume F’(x) = 0"
+        ],
+        "Answer": "Answer: a\nExplanation: The first assumption of the NR Method is assume K=0, as we assume k=0, then we calculate F(x) = 0 and then F’(x) = 0."
+    },
+    {
+        "id": 215,
+        "Question": "Jacobin equation is solved using the",
+        "Options": [
+            "a) Matrix Multiplication",
+            "b) LU Factorization",
+            "c) Elimination Method",
+            "d) Follow up method"
+        ],
+        "Answer": "Answer: b\nExplanation:  Jacobin equation is solved using the LU Factorization method, where we eliminate the lower and upper triangle matrix resulting in a singular matrix."
+    },
+    {
+        "id": 216,
+        "Question": "The SR Method is suitable for",
+        "Options": [
+            "a) Absorbers and strippers",
+            "b) Distillation and absorber",
+            "c) Any equipment’s",
+            "d) High pressure equipment’s"
+        ],
+        "Answer": "Answer: b\nExplanation: The SR Method is suitable for Absorbers and strippers, whereas NR method is widely used for calculation of distillation and High pressure equipment’s."
+    },
+    {
+        "id": 217,
+        "Question": "Absorbers have a rich bottom of",
+        "Options": [
+            "a) Solid",
+            "b) Liquid",
+            "c) Gas",
+            "d) Semi solid"
+        ],
+        "Answer": "Answer: c\nExplanation: Absorbers have a rich bottom feed stage of Gas, as absorption occurs at interfacial levels the gas diffuse into the liquid surfaces and bottom is rich of gas."
+    },
+    {
+        "id": 218,
+        "Question": "Absorbers have a lean end of",
+        "Options": [
+            "a) Solute",
+            "b) Substrate",
+            "c) Mother liquor",
+            "d) Extract liquid"
+        ],
+        "Answer": "Answer: d\nExplanation: Absorbers have a lean end of oil top feed stage and a forward end of the liquid at the bottom feed stage."
+    },
+    {
+        "id": 219,
+        "Question": "Gas rich feed is represented as",
+        "Options": [
+            "a) VN+1",
+            "b) YN+1",
+            "c) XN+1",
+            "d) XN"
+        ],
+        "Answer": "Answer: a\nExplanation: Gas rich feed is represented, as VN+1 and the liquid rich phases are represented as LN+1 for all cases listed."
+    },
+    {
+        "id": 220,
+        "Question": "The number of independent functions are equal to",
+        "Options": [
+            "a) Number of Trays",
+            "b) Number of Stages",
+            "c) Number of species",
+            "d) Number of Feeds"
+        ],
+        "Answer": "Answer: b\nExplanation: as Fi = [E1 E2 E3…..EN] independent functions are equal to number of Stages, it has no relation with the number of trays and feed they are totally independent."
+    },
+    {
+        "id": 221,
+        "Question": "The independent variables of NR Method are related as Xk",
+        "Options": [
+            "a) [E1 E2 E3 …. EN-1 EN].",
+            "b) [T1 T2 T3 …. TN-1 TN].",
+            "c) [S1 S2 S3 …. SN-1 SN].",
+            "d) [K1 K2 K3 …. KN-1 KN]."
+        ],
+        "Answer": "Answer: b\nExplanation: The independent variables of NR Method are related as Xk= [T1 T2 T3 …. TN-1 TN], here T represents the operating temperature of the column."
+    },
+    {
+        "id": 222,
+        "Question": "The SR Method requires the",
+        "Options": [
+            "a) Total flow rate",
+            "b) Total heat",
+            "c) Total Feed",
+            "d) Total trays"
+        ],
+        "Answer": "Answer: a\nExplanation: The SR Method requires the total flow rate at all locations being specified, while NR method only requires the initial conditions to be specified."
+    },
+    {
+        "id": 223,
+        "Question": " <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/distillation-design-questions-answers-sumrates-method-q8.png\"  wp-image-164227 />  represents the Value of",
+        "Options": [
+            "a)  Sum of feeds",
+            "b) Liquid flow rates",
+            "c) Gas flow rates",
+            "d) Vapor flow rates"
+        ],
+        "Answer": "Answer: c\nExplanation: The equation  <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/distillation-design-questions-answers-sumrates-method-q8.png\" alt=\"distillation-design-questions-answers-sumrates-method-q8\"  wp-image-164227 />   represents, the summation of gas flow rates and C represents the number of components that vary from 1 to c."
+    },
+    {
+        "id": 224,
+        "Question": " <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/distillation-design-questions-answers-sumrates-method-q9.png\" alt=\"distillation-design-questions-answers-sumrates-method-q9\"   wp-image-164228\" />  represents the Value of",
+        "Options": [
+            "a)  Sum of feeds",
+            "b) Liquid flow rates",
+            "c) Gas flow rates",
+            "d) Components"
+        ],
+        "Answer": "Answer: b\nExplanation: The equation  <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/distillation-design-questions-answers-sumrates-method-q9.png\" alt=\"distillation-design-questions-answers-sumrates-method-q9\"  size-full wp-image-164228 /> represents the summation of Liquid flow rates, here l represent the species with L compositions of i and j."
+    },
+    {
+        "id": 225,
+        "Question": "The SR Method can be used in",
+        "Options": [
+            "a) FLOWTRAN",
+            "b) ASPEN",
+            "c) ChemCAD",
+            "d) ACS"
+        ],
+        "Answer": "Answer: d\nExplanation: All simulation software’s uses the same algorithm as directed by ACS i.e. American Chemical Society, other listed are various best simulation software’s available."
+    },
+    {
+        "id": 226,
+        "Question": "The 2N Newton method is based on algorithm of?",
+        "Options": [
+            "a) N X N",
+            "b) 2 X N",
+            "c) N X M",
+            "d) 2 X M"
+        ],
+        "Answer": "Answer: b\nExplanation:  The 2N Newton method is based on algorithm of 2 X N, while N X N is called as the Jacobin matrix."
+    },
+    {
+        "id": 227,
+        "Question": "XIJ and Yij are the component balances of",
+        "Options": [
+            "a) Equilibrium relation",
+            "b) Constant relation",
+            "c) Final relation",
+            "d) Direct relation"
+        ],
+        "Answer": "Answer: a\nExplanation: XIJ and Yij are the component balances of Equilibrium relation, Whereas X=Y represents the final relation of the system."
+    },
+    {
+        "id": 228,
+        "Question": "Which method uses the summation of the equations for vapor and liquid components?",
+        "Options": [
+            "a) NR Method",
+            "b) RF Method",
+            "c) Tomich Method",
+            "d) 2N Method"
+        ],
+        "Answer": "Answer: d\nExplanation: Tomich Method uses the summation of the equations for vapor and liquid components, while RF and NR are based on the initial conditions of column."
+    },
+    {
+        "id": 229,
+        "Question": "The independent variables of independent functions are used as, Fi =",
+        "Options": [
+            "a) [E1 E2 E3 …. EN-1 EN, K1 K2 K3 …. KN-1 KN].",
+            "b) [T1 T2 T3 …. TN-1 TN, K1 K2 K3 …. KN-1 KN].",
+            "c) [S1 S2 S3 …. SN-1 SN, E1 E2 E3 …. EN-1 EN].",
+            "d) [K1 K2 K3 …. KN-1 KN, T1 T2 T3 …. TN-1 TN]."
+        ],
+        "Answer": "Answer: c\nExplanation: As Fi= [S1 S2 S3 …. SN-1 SN, E1 E2 E3 …. EN-1 EN] T  , where S is the same factor as used in Fenske’s equation and E are the respective energy of the systems. "
+    },
+    {
+        "id": 230,
+        "Question": "The stages flow rate and the vapor flow rates are expressed, as",
+        "Options": [
+            "a) [E1 E2 E3 …. EN-1 EN, V1 V2 K3 …. VN-1 VN].",
+            "b) [T1 T2 T3 …. TN-1 TN, V1 V2 V3 …. VN-1 VN].",
+            "c) [S1 S2 S3 …. SN-1 SN, E1 E2 E3 …. EN-1 EN].",
+            "d) [K1 K2 K3 …. KN-1 KN, T1 T2 T3 …. TN-1 TN]."
+        ],
+        "Answer": "Answer: b\nExplanation: As Xi= [T1 T2 T3 …. TN-1 TN, V1 V2 V3 …. VN-1 VN] T, where T is defined as respective temperature and the volume V corresponding to the same relation.   "
+    },
+    {
+        "id": 231,
+        "Question": "The initial assumption to Tomich method is",
+        "Options": [
+            "a) Set initial Temperature",
+            "b) Set total stages",
+            "c) Final Pressure",
+            "d) Initial Pressure"
+        ],
+        "Answer": "Answer: a\nExplanation: The initial assumption to Tomich method is to set initial Temperature for each stage, for any other method feed rates and total mole balance are assumed."
+    },
+    {
+        "id": 232,
+        "Question": "The θj factor is a",
+        "Options": [
+            "a) Subtracted",
+            "b) Additive",
+            "c) Multiplier",
+            "d) Divider"
+        ],
+        "Answer": "Answer: c\nExplanation: As |L/V| = θj*|Lj/Vj|CR and θj factor is a Multiplier, this is based on a correlation that acts as a correction factor of the calculation."
+    },
+    {
+        "id": 233,
+        "Question": "Newton’s method is a fixed point iteration method, As Pn",
+        "Options": [
+            "a) g(Pn-1)",
+            "b) (Pn-1)",
+            "c) g",
+            "d) Pn"
+        ],
+        "Answer": "Answer: a\nExplanation: Always Pn = g (Pn-1) is fixed point as in newton method, while other method NR and RS stage iterations are made as the problem proceeds."
+    },
+    {
+        "id": 234,
+        "Question": "Newton’s method cannot continue, if for some Pn-1",
+        "Options": [
+            "a) f’(Pn+1)",
+            "b) f’(P)",
+            "c) f’(Pn-1)",
+            "d) P"
+        ],
+        "Answer": "Answer: c\nExplanation: Newton’s method cannot continue if for some f’ (Pn-1), as the derivative at some point becomes zero then this is called as failure in the newton’s method."
+    },
+    {
+        "id": 235,
+        "Question": "Given ε>0. Then",
+        "Options": [
+            "a) f(a)f(b)>0",
+            "b) f(a)f(b)=0",
+            "c) f(a)f(b)=1",
+            "d) f(a)f(b)<0"
+        ],
+        "Answer": "Answer: d\nExplanation: Choose a and b so that f (a) f(b)< 0, if a and b are not given they are assumed to be as the average value of f(0) for two consecutive negative and positive outcomes."
+    },
+    {
+        "id": 236,
+        "Question": "Global method is also called as",
+        "Options": [
+            "a) Simultaneous regression method",
+            "b) Simultaneous rigorous method",
+            "c) Simultaneous correction method",
+            "d) Simultaneous matrix method"
+        ],
+        "Answer": "Answer: c\nExplanation: Global method is also called as Simultaneous correction method, the 2N, NR and RF method are called as simultaneous rigorous method and Jacobin method as matrix method."
+    },
+    {
+        "id": 237,
+        "Question": "In global Newton method, all equations are solved together in",
+        "Options": [
+            "a) Regula falsi technique",
+            "b) 2N technique",
+            "c) Newton Raphson  technique",
+            "d) False technique"
+        ],
+        "Answer": "Answer: c\nExplanation: In global Newton method, all equations are solved together in Newton Raphson technique, false technique is used in Regula falsi method."
+    },
+    {
+        "id": 238,
+        "Question": "In global Newton method, The K value is",
+        "Options": [
+            "a) Coupled",
+            "b) Decoupled",
+            "c) Extreme",
+            "d) Bi-lateral"
+        ],
+        "Answer": "Answer: b\nExplanation: In global Newton method, The K value is decoupled, as two values can lead to different calculations and thus only an average value is chosen."
+    },
+    {
+        "id": 239,
+        "Question": "Naphtali Sandholm method uses",
+        "Options": [
+            "a) MESH",
+            "b) LVF",
+            "c) RVF",
+            "d) TEMA"
+        ],
+        "Answer": "Answer: a\nExplanation:  Naphtali Sandholm method uses temperature and vapor from MESH, while TEMA is the standards used for the design of heat exchangers and other columns."
+    },
+    {
+        "id": 240,
+        "Question": "There are _______ equation in each stages.",
+        "Options": [
+            "a) C+1",
+            "b) 2C+2",
+            "c)  2C+1",
+            "d) None of the above"
+        ],
+        "Answer": "Answer: c\nExplanation: There are 2C+1 Equation in each stages, there are total C components and thus from top to bottom each has two trays thus 2C+1 stages."
+    },
+    {
+        "id": 241,
+        "Question": "There are ______ equation in whole column.",
+        "Options": [
+            "a) 2C+1",
+            "b) N (2C+1)",
+            "c) N (2C-1)",
+            "d) C-1"
+        ],
+        "Answer": "Answer: b\nExplanation: There are N (2C+1) Equation in whole column, Carrying C components and N stages the total number of equation becomes the product of both quantities."
+    },
+    {
+        "id": 242,
+        "Question": "The functions and variables are of size",
+        "Options": [
+            "a) N (2C+1) X N (2C+1)",
+            "b) N (2C+1) X N (2C-1)",
+            "c) N (2C+1) X N (2C)",
+            "d) N (2C+1) X N"
+        ],
+        "Answer": "Answer: a\nExplanation: The functions and variables are of size N (2C+1) X N (2C+1) using Jacobin’s Method, as the Jacobin form is n X n thus this matrix implies the best."
+    },
+    {
+        "id": 243,
+        "Question": "QC is denoted as the",
+        "Options": [
+            "a) Heat capacity",
+            "b) Heat of Condenser",
+            "c) Heat released with cooling",
+            "d) Heat Collided"
+        ],
+        "Answer": "Answer: a\nExplanation: QC is denoted as the Heat of Condenser, condenser is also considered as an alternative stage in the distillation column."
+    },
+    {
+        "id": 244,
+        "Question": "QR is denoted as the",
+        "Options": [
+            "a) Heat of reference",
+            "b) Heat of resemblance",
+            "c) Heat of rigorous",
+            "d) Heat of Reboiler"
+        ],
+        "Answer": "Answer: d\nExplanation:  QR is denoted as the Heat of Reboiler, the bottom product can cause heat losses thus loosing heat can cause failure thus reboiler heat QR is necessary."
+    },
+    {
+        "id": 245,
+        "Question": "In Naphtali Sandholm method, Absorption factor lij is denoted as",
+        "Options": [
+            "a) AijVij",
+            "b) Aij / Vij",
+            "c) Aij + Vij",
+            "d) Vij"
+        ],
+        "Answer": "Answer: a\nExplanation:  lij= AijVij in Naphtali Sandholm method, the multiplication of both quantities results in as matrix of i and j that can be solved easily using iterations."
+    },
+    {
+        "id": 246,
+        "Question": "Boston and Sullivan gave the concept of the",
+        "Options": [
+            "a) False method",
+            "b) Binary method",
+            "c) MESH Method",
+            "d) Inside Out Method"
+        ],
+        "Answer": "Answer: d\nExplanation: Boston and Sullivan gave the concept of the Inside Out Method in 1973, MESH method involve the satisfaction of all equations. "
+    },
+    {
+        "id": 247,
+        "Question": "ln Sbj is represented as",
+        "Options": [
+            "a) ln (KbjLJ/VJ)",
+            "b) ln (Kbj/VJ)",
+            "c) ln( KbjLJ)",
+            "d) ln (LJ)"
+        ],
+        "Answer": "Answer: a\nExplanation: ln Sbj = ln (KbjLJ/VJ), this also resembles the same as the stripping factor that is used in the matrix calculations."
+    },
+    {
+        "id": 248,
+        "Question": "The vapors side product ln Rvj is given as",
+        "Options": [
+            "a) ln (KbjLJ/VJ)",
+            "b) ln (WbjLJ/VJ)",
+            "c) ln (KbjLJ/WJ)",
+            "d) ln (WJ)"
+        ],
+        "Answer": "Answer: b\nExplanation: ln Rvj = ln (WjLJ/VJ) is the vapors side product, L and V respectively measuring the flow rates of liquid and gas streams."
+    },
+    {
+        "id": 249,
+        "Question": "The liqiud side product ln RLj is given as",
+        "Options": [
+            "a) ln (KbjLJ/VJ)",
+            "b) ln (Wbj/VJ)",
+            "c) ln (KbjLJ/WJ)",
+            "d) ln (WJ/LJ)"
+        ],
+        "Answer": "Answer: d\nExplanation: RLj= ln (WJ/LJ) is the liquid side product, calculation of R factor for both components i and as well as j are equally important as that used in Sij."
+    },
+    {
+        "id": 250,
+        "Question": "For Russell method, ln Kbj is defined as",
+        "Options": [
+            "a) Aj – (Bj/Tj)",
+            "b) – (Bj/Tj)",
+            "c) Aj (Bj/Tj)",
+            "d) Aj + (Bj/Tj)"
+        ],
+        "Answer": "Answer: a\nExplanation: For Russell method ln Kbj = Aj–(Bj/Tj), the Russell equations resembles the same as that of the Antoine equation for detecting vapor pressure."
+    },
+    {
+        "id": 251,
+        "Question": "For Boston method, ln Kbj",
+        "Options": [
+            "a) Aj +  B (1j/Tj – 1/T*)",
+            "b) Aj – B (1j/Tj – 1/T*)",
+            "c) Aj – B (1j/Tj + 1/T*)",
+            "d) (1j/Tj + 1/T*)"
+        ],
+        "Answer": "Answer: b\nExplanation: For Boston method ln Kbj = Aj – B (1j/Tj – 1/T*), this method is a revised version of the Russell method including T* i.e. equilibrium temperature. "
+    },
+    {
+        "id": 252,
+        "Question": "HJ is defined as the",
+        "Options": [
+            "a) Ideal enthalpy",
+            "b) Total enthalpy",
+            "c) Final enthalpy",
+            "d) Pure enthalpy"
+        ],
+        "Answer": "Answer: a\nExplanation: HJ is defined as the Ideal enthalpy based on liquid and gas compositions, while Hideal is defined as the ideal enthalpy. "
+    },
+    {
+        "id": 253,
+        "Question": "HJ is formulated as",
+        "Options": [
+            "a) H* /ϫHVJ",
+            "b) H*-  ϫHVJ",
+            "c) H* ( ϫHVJ)",
+            "d) H* + ϫHVJ"
+        ],
+        "Answer": "Answer: d\nExplanation: HJ = H* + ϫHVJ, here H* is equilibrium enthalpy and which is added to the difference of x with the current enthalpy."
+    },
+    {
+        "id": 254,
+        "Question": "Total balance material balance is given as",
+        "Options": [
+            "a) αijSbj",
+            "b) αijHbj",
+            "c) αijDbj",
+            "d) αijVbj"
+        ],
+        "Answer": "Answer: a\nExplanation: Total balance material balance SIJ = αijSbj,alpha is defined as the relative volatility and acts here as a correction factor."
+    },
+    {
+        "id": 255,
+        "Question": "The given function f(x) = x3-3X2+ 4 root is?",
+        "Options": [
+            "a) Negative",
+            "b) Positive",
+            "c) Unity",
+            "d) Zero"
+        ],
+        "Answer": "Answer: c\nExplanation: The given plot is of f(x) = x3-3X2+ 4, calculating f(0)= 4 and f(1) =2 thus it is both negative and positive as the root does not change."
+    },
+    {
+        "id": 256,
+        "Question": "Relaxation methods were developed for solving?",
+        "Options": [
+            "a) Co linear systems",
+            "b) Sub linear systems",
+            "c)  Linear systems",
+            "d) Bilateral systems"
+        ],
+        "Answer": "Answer: c\nExplanation: Relaxation methods were developed for solving linear systems, similar as matrix systems the relaxation method can be used to find values of unknowns."
+    },
+    {
+        "id": 257,
+        "Options": [
+            "a) Change in Temperature",
+            "b) Change in Time",
+            "c) Change of T Stages",
+            "d) Change of X Stages"
+        ],
+        "Answer": "Answer: a\nExplanation: The above equation follows Change in Temperature in Euler’s form, where Tj,k+1 is the calculated temperature conforming liquid temperature."
+    },
+    {
+        "id": 258,
+        "Question": "",
+        "Options": [
+            "a) K-1",
+            "b) K+1",
+            "c) K=0",
+            "d) K=xij"
+        ],
+        "Answer": "Answer: b\nExplanation: The Euler’s equation is next trail K+1, where Xij,k+1 is the calculated feed stream of liquid using the initial feed conditions."
+    },
+    {
+        "id": 259,
+        "Question": "",
+        "Options": [
+            "a) Homologues Curve",
+            "b) Homotomy Curve",
+            "c) Euler’s Curve",
+            "d) Newton Curve"
+        ],
+        "Answer": "Answer: b\nExplanation: The following curve is called as the Homotomy path, as the function rises from G(x)\nThat is simpler one to F(x) the complex one."
+    },
+    {
+        "id": 260,
+        "Question": "F(x) stands for",
+        "Options": [
+            "a) Simpler solution",
+            "b) Complex Solution",
+            "c) Difficult Solution",
+            "d) Simple Solution"
+        ],
+        "Answer": "Answer:  c\nExplanation: F(x) stands for Difficult Solution, as we can follow the Homotomy equation curve and path of curve."
+    },
+    {
+        "id": 261,
+        "Question": "G(x) stands for",
+        "Options": [
+            "a) Simpler solution",
+            "b) Complex Solution",
+            "c) Difficult Solution",
+            "d) Simple Solution"
+        ],
+        "Answer": "Answer:  a\nExplanation: G(x) stands for simpler solution, starts with an initial value the G(x) is the Homotomy parameter representing simpler set of solution."
+    },
+    {
+        "id": 262,
+        "Question": "The Homotomy parameter, t travels between",
+        "Options": [
+            "a) 0 and 1",
+            "b) 0 and infinity",
+            "c) 1 and infinity",
+            "d) 1 and -1"
+        ],
+        "Answer": "Answer: a\nExplanation: The Homotomy parameter “t” travels between 0 and 1 from G(x) to F(x), accordingly it is the varying factor of relation between G(x) and F(x)."
+    },
+    {
+        "id": 263,
+        "Question": "The solution is converged when",
+        "Options": [
+            "a) F(x) =0",
+            "b) G(x) =0",
+            "c) G’(x) =0",
+            "d) F’(x) =0"
+        ],
+        "Answer": "Answer: a\nExplanation:  The solution is converged when F(x) =0 so that t=1 and H(x,t)=0, this is proved numerically and cannot be changed."
+    },
+    {
+        "id": 264,
+        "Question": "LU decomposition is used when",
+        "Options": [
+            "a) Ax (k) = Y (k)",
+            "b) Ax (k) = bX (k)",
+            "c) Ax (k) ≠ b (k)",
+            "d) Ax (k) = b (k)"
+        ],
+        "Answer": "Answer: d\nExplanation: LU decomposition is used when Ax (k) = b (k) is to be solved for several different values of vector b."
+    },
+    {
+        "id": 265,
+        "Question": "",
+        "Options": [
+            "a) Poisons’ Equations",
+            "b) Euler’s Equation",
+            "c)  Newton Equation",
+            "d) Crab Equation"
+        ],
+        "Answer": "Answer: b\nExplanation: The above equation is an Euler’s Equation, as it consists of the differential term and the nth value of x feed stream."
+    },
+    {
+        "id": 266,
+        "Question": "MERQ Stands for?",
+        "Options": [
+            "a) Material, equilibrium, regression and heat",
+            "b) Material, Energy, rate and equilibrium",
+            "c) Material, equilibrium, summation and Quality",
+            "d) Material, equilibrium, summation and heat"
+        ],
+        "Answer": "Answer: a\nExplanation: Net gain by Vapor is the product of initial vapor gain and the difference in the activity area daj thus giving us the net gain of vapor. "
+    },
+    {
+        "id": 267,
+        "Question": "How many trays are there per section of packing?",
+        "Options": [
+            "a) 2C+1",
+            "b) 3C+1",
+            "c) 4C+1",
+            "d) 5C+1"
+        ],
+        "Answer": "Answer: b\nExplanation: Net gain by Liquid is the product of initial liquid gain and the difference in the activity area daj thus giving us the net gain of liquid also called equilibrium gain."
+    },
+    {
+        "id": 268,
+        "Question": "How many trays are there in complete column?",
+        "Options": [
+            "a) N (3C+1)",
+            "b) N (2C+1)",
+            "c) N (5C+1)",
+            "d) N (6C+1)"
+        ],
+        "Answer": "Answer: a\nExplanation: Gas flux at interfacial area daj and the equilibrium energy consumption based on the area of action and effective energy. "
+    },
+    {
+        "id": 269,
+        "Question": "Feed should be located at?",
+        "Options": [
+            "a) Far from optimum",
+            "b) Below the optimum",
+            "c) Away from optimum",
+            "d) At optimum"
+        ],
+        "Answer": "Answer: d\nExplanation: Feed stage location are anywhere according to pinch point where the equilibrium and striping line meets. "
+    },
+    {
+        "id": 270,
+        "Question": "Reflux ratio should be?",
+        "Options": [
+            "a)  Minimum",
+            "b) Maximum",
+            "c) Optimum",
+            "d) Can’t specified"
+        ],
+        "Answer": "Answer: a\nExplanation: Reflux ratio should be Minimum, as the reflux ratio decrease the ease of separation gets increases as they are inversely proportional.  "
+    },
+    {
+        "id": 271,
+        "Question": "Boil Up ratio should be?",
+        "Options": [
+            "a)  Minimum",
+            "b) Maximum",
+            "c) Optimum",
+            "d) Can’t specified"
+        ],
+        "Answer": "Answer: b\nExplanation: Boil Up ratio should be Maximum, as the boil up ratio increases the difficulty of separation gets increases as they are directly proportional.  "
+    },
+    {
+        "id": 272,
+        "Question": "Sneaking up is a",
+        "Options": [
+            "a) Homologues Method",
+            "b) Homotomy Method",
+            "c) Euler’s Method",
+            "d) NR Method"
+        ],
+        "Answer": "Answer: b\nExplanation: Sneaking up is a part of Homotomy Method. Sneak is used in the plotting of F(x)\nAnd G(x) curves which does not involve Euler’s method. "
+    },
+    {
+        "id": 273,
+        "Question": "Degree of freedom increases, as",
+        "Options": [
+            "a) Reflux increases",
+            "b) Purity decreases",
+            "C) Purity increases",
+            "D) Reflux decreases"
+        ],
+        "Answer": "Answer: c\nExplanation: Degree of freedom increases as Purity increases, as they are ditrectly proportional also this can be related using phase rule F =C –P+2.  "
+    },
+    {
+        "id": 274,
+        "Question": "Extreme purity is confessed to be?",
+        "Options": [
+            "a) 90.0%",
+            "b) 99.8%",
+            "c) 99.1%",
+            "d) 99.9%"
+        ],
+        "Answer": "Answer:  b\nExplanation: Extreme purity is confessed to be 99.8%, this has to be very précised even a point 0.01% error cannot be tolerated for the purity. "
+    },
+    {
+        "id": 275,
+        "Question": "The end of an equilibrium curve is called as",
+        "Options": [
+            "a) Critical point",
+            "b) Triple point",
+            "c) End point",
+            "d) Single point"
+        ],
+        "Answer": "Answer: a\nExplanation: Input and internal flow always affect each other, the input feed can certainly vary with varying heat and mass input. "
+    },
+    {
+        "id": 276,
+        "Question": "The difference between the value which has been computed and the correct value is?",
+        "Options": [
+            "a) Error",
+            "b) Shift",
+            "c) Dynamic",
+            "d) Static"
+        ],
+        "Answer": "Answer: a\nExplanation: It is always an error, the deflection in original value from the calculate value is defined as error also can be calculated as percent of error."
+    },
+    {
+        "id": 277,
+        "Question": "Inside out method apply, Stripping factor to",
+        "Options": [
+            "a) Adjust Feed",
+            "b) Adjust Final Values",
+            "c) Adjust flow rates",
+            "d) Adjust Reflux"
+        ],
+        "Answer": "Answer: c\nExplanation: Inside out method apply Stripping factor to Adjust flow rates, while NR method applies to adjust the reflux. "
+    },
+    {
+        "id": 278,
+        "Question": "Negative flow may be removed by increasing?",
+        "Options": [
+            "a) Feed",
+            "b) Reflux",
+            "c) Trays",
+            "d) Stages"
+        ],
+        "Answer": "Answer:  b\nExplanation: Negative flow may be removed by increasing Reflux, as the flow increase it causes the danger of flooding and thus increasing reflux is the only option."
+    },
+    {
+        "id": 279,
+        "Question": "A reversed temperature profile, means problem with",
+        "Options": [
+            "a) Column temperature",
+            "b) Stage temperature",
+            "c) Feed temperature",
+            "d) Plate temperature"
+        ],
+        "Answer": "Answer:  c\nExplanation: A reversed temperature profile means problem with feed temperature in vapor phase because vapor are intended to rise up and dissolve within liquid thus affecting liquid temperature."
+    },
+    {
+        "id": 280,
+        "Question": "Accuracy depends upon the?",
+        "Options": [
+            "a) H value",
+            "b) S value",
+            "c) T value",
+            "d) K value"
+        ],
+        "Answer": "Answer: d\nExplanation: In rigorous calculation accuracy depends upon the K value, the ratio of the K values is the deciding factor of accuracy of i and j components."
+    },
+    {
+        "id": 281,
+        "Question": "Aij is the?",
+        "Options": [
+            "a) Absorption factor",
+            "b) Mass transfer area",
+            "c) Activity of i and j",
+            "d) Stripping Factor"
+        ],
+        "Answer": "Answer: a\nExplanation: Aij is the Absorption factor for component i and stage j, while “a” denotes the mass transfer area and V/L is the stripping factor."
+    },
+    {
+        "id": 282,
+        "Question": "C is the?",
+        "Options": [
+            "a) Heat capacity",
+            "b) Coefficient",
+            "c) Total component",
+            "d) Final component"
+        ],
+        "Answer": "Answer: c\nExplanation: C is the Total component or last components also Cp is called heat capacity measure in (KJ/Kg.K) Cp water is 4.328."
+    },
+    {
+        "id": 283,
+        "Question": "In the same diagram, Critical point is at?",
+        "Options": [
+            "a) A",
+            "b) B",
+            "c) C",
+            "d) Wrong interpretation"
+        ],
+        "Answer": "Answer: a\nExplanation: As seen in the graph Pinch point is at 5th stage, where the operating line and the equilibrium curve meets is called the pinch point."
+    },
+    {
+        "id": 284,
+        "Question": "The overall Material balance, is given as",
+        "Options": [
+            "a) F = D+B",
+            "b) D =F +B",
+            "c)  F = D+B",
+            "d)  F=B-D"
+        ],
+        "Answer": "Answer:  a\nExplanation:  F = B+D where F=Feed moles\nD=Distillates\nB= Bottoms moles."
+    },
+    {
+        "id": 285,
+        "Question": "The material Balance around a condenser, is given as",
+        "Options": [
+            "a) F = D+B",
+            "b) F = D+B",
+            "c) V = L+D",
+            "d) L= V + D"
+        ],
+        "Answer": "Answer:  c\nExplanation:  V = L+D\nV= Vapor from column\nL= liquid returning to column."
+    },
+    {
+        "id": 286,
+        "Question": "For a batch distillation process",
+        "Options": [
+            "a) –ydV = d(xW)",
+            "b) –xdV = d(xW)",
+            "c)  -xW =d(yV)",
+            "d)- yW =d(xV)"
+        ],
+        "Answer": "Answer:  a\nExplanation:  –ydV = d(xW) where dV= vapor rate, moles/h\nW=total moles in still."
+    },
+    {
+        "id": 287,
+        "Question": "If the integral part is given as -1.79 and still has 100 moles originally charged. Find the WF?",
+        "Options": [
+            "a) 15.8",
+            "b) 12.9",
+            "c) 16.7",
+            "d) 18.0"
+        ],
+        "Answer": "Answer: b\nExplanation:  This holds for simple distillation Where Wf=moles in the still and W0=moles originally charged."
+    },
+    {
+        "id": 288,
+        "Question": "Find α. If Xd=0.517 and Xw=0.3",
+        "Options": [
+            "a)  1.3",
+            "b) 2.5",
+            "c) 5.6",
+            "d) 3.4"
+        ],
+        "Answer": "Answer: c\nExplanation:  As In WF⁄100 = -1.79\nSo WF = 16.7."
+    },
+    {
+        "id": 289,
+        "Question": "Calculate F? If D=4.61 and W=5.39",
+        "Options": [
+            "a) 7.8",
+            "b) 10",
+            "c) 9",
+            "d) 1.34"
+        ],
+        "Answer": "Answer: b\nExplanation: As α = Xd(1-Xw)/ Xw(1- Xd) using values we have 0.517(1-0.3)/0.3(1-0.517) = 2.5."
+    },
+    {
+        "id": 290,
+        "Question": "Calculate the enthalpy HF? If Cp= 0.825, W=32 and Tref=15C, at room temperature",
+        "Options": [
+            "a) 119 kcal/kmol",
+            "b) 78 kcal/kmol",
+            "c) 700 kcal/kmol",
+            "d) 70 kcal/kmol"
+        ],
+        "Answer": "Answer:  b\nExplanation: As F = D +W = 4.61+5.39 = 10."
+    },
+    {
+        "id": 291,
+        "Question": "Batch distillation is also called as?",
+        "Options": [
+            "a) Flash distillation",
+            "b)  Rayleigh’s Criteria",
+            "c)  Thompson Distillation",
+            "d)  Crane Distillation"
+        ],
+        "Answer": "Answer:  a\nExplanation:  As Hf = (0.825) (32) (25-15) =119 kcal/kmol."
+    },
+    {
+        "id": 292,
+        "Question": "Flash distillation is called as?",
+        "Options": [
+            "a) Final distillation",
+            "b) Equilibrium distillation",
+            "c) Growth distillation",
+            "d) Full distillation"
+        ],
+        "Answer": "Answer: b\nExplanation:  Batch distillation is also called as Rayleigh’s Criteria. As he invented it early 19th century, in this feed composition varies from time to time."
+    },
+    {
+        "id": 293,
+        "Question": "Which one of the following is a constant reflux process?",
+        "Options": [
+            "a) Flash distillation",
+            "b) Simple distillation",
+            "c) Multicomponent distillation",
+            "d) Final distillation"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Simple or batch distillation is working on the constant reflux in such a distillation compositions continuously vary with time."
+    },
+    {
+        "id": 294,
+        "Question": "Batch distillation under constant reflux can be analyzed?",
+        "Options": [
+            "a) –dw=dD",
+            "b)  dv=-dx",
+            "c) – dy=dZ",
+            "d) dX=dy"
+        ],
+        "Answer": "Answer:  a\nExplanation:   –dw = dD where,W= Still moles and D= moles of distillate."
+    },
+    {
+        "id": 295,
+        "Question": "The initial mole Yint fraction of gas, can be obtained by",
+        "Options": [
+            "a) Xd/R+1",
+            "b) –dw=dD",
+            "c) – dy=dZ",
+            "d) R+1"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Yint fraction of gas can be obtained by Xd/R+1, Where Yint=value of y at x =0."
+    },
+    {
+        "id": 296,
+        "Question": "As the distillation proceeds, the L/V ratio",
+        "Options": [
+            "a) Constant",
+            "b) Decreases",
+            "c) Increases",
+            "d) Vanishes"
+        ],
+        "Answer": "Answer:  c\nExplanation: The distillation and the L/V ratio are directly proportional and thus as distillation proceeds L/V Increases."
+    },
+    {
+        "id": 297,
+        "Question": "Calculate V? If D = 52.2 moles and R is 1.64",
+        "Options": [
+            "a) 138 moles",
+            "b) 35 moles",
+            "c) 450 moles",
+            "d) 46 moles"
+        ],
+        "Answer": "Answer: a\nExplanation: As the V = D(R+1) = 52.2 (1.64+1) = 138 moles."
+    },
+    {
+        "id": 298,
+        "Question": "If the area of the column is 3.61 m2 and the initial and final distilled moles are 0.95 and 0.50 with Withdrawal of 100 moles, then V is?",
+        "Options": [
+            "a) 162",
+            "b) 456",
+            "c) 78",
+            "d) 45"
+        ],
+        "Answer": "Answer: a\nExplanation: As V= W0 (Xd – X0) (Area) = 100 (0.95-0.50)3.61 = 162 moles."
+    },
+    {
+        "id": 299,
+        "Question": "The Antoine equation is given as",
+        "Options": [
+            "a) ln VP = B –A/CT",
+            "b) ln VP =A – B/T",
+            "c) ln VP = B – A/T",
+            "d) ln VP = B -CA"
+        ],
+        "Answer": "Answer:  b\nExplanation: The Antoine equation is ln VP =A – B/T where A, B and C are constants and VP is the vapor pressure."
+    },
+    {
+        "id": 300,
+        "Question": "Find R? If Xd = 0.98 and Yi =0.647",
+        "Options": [
+            "a) 0.633",
+            "b) 0.589",
+            "c) 0.515",
+            "d) 0.25"
+        ],
+        "Answer": "Answer: c\nExplanation: As R = Xd/ Yi – 1 = 0.98/0.647 – 1 = 0.515."
+    },
+    {
+        "id": 301,
+        "Question": "The Ract can be taken, as",
+        "Options": [
+            "a) 1.3Rmin",
+            "b) 1.6 Rmin",
+            "c) 2.0 Rmin",
+            "d) 3.0 Rmin"
+        ],
+        "Answer": "Answer:  c\nExplanation: For a particulate separation the actual reflux ratio is taken as to be twice the actual reflux ratio i.e. Rmin."
+    },
+    {
+        "id": 302,
+        "Question": "Calculate feed line q? If HV=31,067, HF=34,601 and Hl= 0",
+        "Options": [
+            "a) -0.114",
+            "b) -0.36",
+            "c) -0.556",
+            "d) 0.885"
+        ],
+        "Answer": "Answer: a\nExplanation: As q = ( HV- HF)/( HV- Hl) = (34,067-34,601)/(34,067-0) = -0.114."
+    },
+    {
+        "id": 303,
+        "Question": "Bubble cap is a perforated tray with, additional",
+        "Options": [
+            "a) Trays",
+            "b) Camps",
+            "c)  Pooches",
+            "d)  Holes"
+        ],
+        "Answer": "Answer: a\nExplanation: Bubble cap are provided with trays and valve trays are the most popular type of trays assembled. "
+    },
+    {
+        "id": 304,
+        "Question": "Sieve tray after installation gives, a Vapor",
+        "Options": [
+            "a) Bypass effect",
+            "b) Valve effect",
+            "c) Multiorifice effect",
+            "d) Manhole effect"
+        ],
+        "Answer": "Answer:  c\nExplanation: The sieve tray gives a multi orifice effect to stop the process called weeping and liquid hold up."
+    },
+    {
+        "id": 305,
+        "Question": "An example of zero down comers is?",
+        "Options": [
+            "a) Dual tray",
+            "b)  Sieve tray",
+            "c)  Cap tray",
+            "d)  Bubble tray"
+        ],
+        "Answer": "Answer:  a\nExplanation: A dual flow tray is a sieve tray with no down comers. This tray operates with liquid continuously."
+    },
+    {
+        "id": 306,
+        "Question": "Continuous flow of liquid causes?",
+        "Options": [
+            "a) Greater efficiency",
+            "b) Lesser efficiency",
+            "c)  Affordable cost",
+            "d)  Extra cost"
+        ],
+        "Answer": "Answer:  b\nExplanation: When the liquid flow continuously weeping through holes then the efficiency gets lesser and greater the problems."
+    },
+    {
+        "id": 307,
+        "Question": "In the packed column, the fluid flows from",
+        "Options": [
+            "a) Top to bottom",
+            "b) Bottom to top",
+            "c) Left to right",
+            "d) Right to left"
+        ],
+        "Answer": "Answer: a\nExplanation: In pure column based equipment the fluid flows from top to bottom, gas flows from bottom and liquid from the top."
+    },
+    {
+        "id": 308,
+        "Question": "Stages are also called?",
+        "Options": [
+            "a) Trays",
+            "b) Cascades",
+            "c) Flow regime",
+            "d) Initial plate"
+        ],
+        "Answer": "Answer: c\nExplanation: The stages are also called as cascade, upper and tower are also called cascade, Disturbance’s in the flow is called as flow regimes. "
+    },
+    {
+        "id": 309,
+        "Question": "The tray holds up a dispersion of?",
+        "Options": [
+            "a) Solid-liquid",
+            "b) Gas -gas",
+            "c) Gas-liquid",
+            "d) Liquid-liquid"
+        ],
+        "Answer": "Answer: c\nExplanation: It allows the gas to flow through the holes or passages the gas bubbles vigorously and form a gas-liquid dispersion."
+    },
+    {
+        "id": 310,
+        "Question": "The open region provides between the tray floor and cap bottom is called as?",
+        "Options": [
+            "a) Pocket clearance",
+            "b) Skirt clearance",
+            "c) Tray clearance",
+            "d) Carp clearance"
+        ],
+        "Answer": "Answer: b\nExplanation: The ball shaped cap rests on the three short legs and placed at 1200 this is called as skirt clearance."
+    },
+    {
+        "id": 311,
+        "Question": "The sieve tray is also called as?",
+        "Options": [
+            "a) Perforated tray",
+            "b) Non porous tray",
+            "c) Porous tray",
+            "d) Clear tray"
+        ],
+        "Answer": "Answer: a\nExplanation: As the small holes are made by punching holes into the tray these are called perforations and thus the tray is called perforated tray."
+    },
+    {
+        "id": 312,
+        "Question": "If the tower hole area is 366 m2 and the tower cross section is 10 m2, the free area fraction is?",
+        "Options": [
+            "a) 785 m2",
+            "b) 366.56 m2",
+            "c) 36.6 m2",
+            "d) 3660 m2"
+        ],
+        "Answer": "Answer:  c\nExplanation: As free area = (hole area/tower CSA) = 366/10 = 36.6 m2."
+    },
+    {
+        "id": 313,
+        "Question": "The depressed region of the tray is called?",
+        "Options": [
+            "a) Seal pan",
+            "b) Crack pot",
+            "c)  Jack port",
+            "d) Trap port"
+        ],
+        "Answer": "Answer: a\nExplanation: An alternative is a depressed down comer seal which region of the tray is called as seal pan. "
+    },
+    {
+        "id": 314,
+        "Question": "The area of the tray column that contain the bubble cap is called as?",
+        "Options": [
+            "a) Biasing area",
+            "b) Active tray area",
+            "c) Down comer area",
+            "d) Perforated area"
+        ],
+        "Answer": "Answer: b\nExplanation: In a reverse flow that liquid entering the tray flows over an area this tray area is defined as the active area."
+    },
+    {
+        "id": 315,
+        "Question": "The blank region on the tray deck is called as?",
+        "Options": [
+            "a) Cracking gin",
+            "b) Sleeping zone",
+            "c) Calming zone",
+            "d) Professor zone"
+        ],
+        "Answer": "Answer: c\nExplanation: Disengagement of liquid occurs before the liquid overflows this region is called as the calming zone."
+    },
+    {
+        "id": 316,
+        "Question": "For a better design a manhole, these should be located at every",
+        "Options": [
+            "a) 10-15 trays",
+            "b) 20-25 trays",
+            "c) 45-50 trays",
+            "d) 50-60 trays"
+        ],
+        "Answer": "Answer: a\nExplanation: Manholes are provided for each 10-15 trays for access of a workman into the column for inspection."
+    },
+    {
+        "id": 317,
+        "Question": " Misdistribution of feeds are also called as?",
+        "Options": [
+            "a) Vapor channeling",
+            "b) Liquid channeling",
+            "c) Solid channeling",
+            "d) Back tracking"
+        ],
+        "Answer": "Answer: a\nExplanation: Vapor channeling is reduces the tray efficiency and increases turbulence, thus reducing the efficiency of the system. "
+    },
+    {
+        "id": 318,
+        "Question": "Leakage of small fractions of feed from one tray to another is called as?",
+        "Options": [
+            "a) Dumping",
+            "b) Clicking",
+            "c) Greasing",
+            "d) Weeping"
+        ],
+        "Answer": "Answer: d\nExplanation: Liquid flows from a tray to the lower one through perforations openings of tray, weeping causes reduction of tray efficiency."
+    },
+    {
+        "id": 319,
+        "Question": "The carryover of suspended vapor droplets, into upper tray is defined",
+        "Options": [
+            "a) Entrainment",
+            "b) Tray efficiency",
+            "c) Dumping",
+            "d) Mega Weeping"
+        ],
+        "Answer": "Answer: a\nExplanation: The chances of entrainment are more if the gas velocity is high as it bubbles the column this is called entrainment."
+    },
+    {
+        "id": 320,
+        "Question": "The excessive accumulation of the liquid on the tray causes phenomena called?",
+        "Options": [
+            "a) Regime",
+            "b) Flooding",
+            "c) Spray regime",
+            "d) Down comer"
+        ],
+        "Answer": "Answer: b\nExplanation: Abnormal liquid depth increase the pressure this causes liquid hold up which is called as flooding."
+    },
+    {
+        "id": 321,
+        "Question": "The mathematical value of down comer backup is?",
+        "Options": [
+            "a) hc + ht+ had",
+            "b) hc – ht+ had",
+            "c) hc – ht – had",
+            "d) hc + ht"
+        ],
+        "Answer": "Answer: a\nExplanation: Here hc + ht+ had = hdb where hc = liquid height, ht = height of tray, had = down comer apron."
+    },
+    {
+        "id": 322,
+        "Question": "The forth height (hf), is given",
+        "Options": [
+            "a) hdb/θd",
+            "b) hdb*θd",
+            "c) ht/β",
+            "d) ht/µ"
+        ],
+        "Answer": "Answer: a\nExplanation: Here hf = hdb/θd where θd = is the average relative forth density and hdb = down comer backup."
+    },
+    {
+        "id": 323,
+        "Question": " When the liquid becomes dispersed and gas becomes continuous, such process is called?",
+        "Options": [
+            "a) Spray regime",
+            "b) Emulsion regime",
+            "c)  Pray Regime",
+            "d) Camp regime"
+        ],
+        "Answer": "Answer:  a\nExplanation: At low liquid rates and higher vapor velocities the vapor starts disintegrating into liquid this is called as spray regime."
+    },
+    {
+        "id": 324,
+        "Question": "The performance diagram is drawn between?",
+        "Options": [
+            "a) Entrainment and Velocity",
+            "b) Gas and flooding velocity",
+            "c)  Vapor and liquid rate",
+            "d) Tray height and Diameter"
+        ],
+        "Answer": "Answer: c\nExplanation: The operable limits of tray in respect of gas and liquid flow rates depend at tray design, thus the performance diagram is drawn between   Vapor and liquid rate."
+    },
+    {
+        "id": 325,
+        "Question": "The turndown ratio is defined as the ratio of?",
+        "Options": [
+            "a) Design vapor to operable throughput",
+            "b) Entrainment to Velocity",
+            "c)  Tray height to Diameter",
+            "d) Gas to flooding velocity"
+        ],
+        "Answer": "Answer:  a\nExplanation: The turndown ratio is defined as the ratio of Design vapor to operable throughput, sieve trays have a low turn down ratio. "
+    },
+    {
+        "id": 326,
+        "Question": "The distance between two consecutive trays in a column is ______",
+        "Options": [
+            "a) Baffle spacing",
+            "b) Tray spacing",
+            "c)  Sieve spacing",
+            "d) Cart Spacing"
+        ],
+        "Answer": "Answer: b\nExplanation: Tray spacing varies between ranges of 8 to 36 inches for a given column not vary from each other."
+    },
+    {
+        "id": 327,
+        "Question": "The fractional hole area Fh, is defined as?",
+        "Options": [
+            "a) (Hole diameter/hole pitch)2",
+            "b) K’ (hole pitch)2",
+            "c) K’ (hole diameter/hole pitch)2",
+            "d) (Hole diameter) 2"
+        ],
+        "Answer": "Answer: c\nExplanation: The fractional whole area on a sieve tray ranges from 0.05 to 0.15, this is given by K’ (hole diameter/hole pitch)2  and does not vary."
+    },
+    {
+        "id": 328,
+        "Question": "Find the fractional hole? If K’= 0.905, Hd=10 m2 and pitch is 5 m2",
+        "Options": [
+            "a) 5.22",
+            "b) 3.62",
+            "c)  5.66",
+            "d) 3.63"
+        ],
+        "Answer": "Answer: b\nExplanation: As K’ (Hd/pitch)2  m2 = 0.905(10/5) 2  m2 = 3.62."
+    },
+    {
+        "id": 329,
+        "Question": "For the down comer backup, the quantity HW + HOW is called?",
+        "Options": [
+            "a) Kinematic liquid seal",
+            "b) Dynamic liquid seal",
+            "c)  Static liquid seal",
+            "d) Tray liquid seal"
+        ],
+        "Answer": "Answer:  c\nExplanation: Where HW = is height of liquid over weir and HOW = sum of weir heights, down comer is also essential at a point of time."
+    },
+    {
+        "id": 330,
+        "Question": "The square root of kinetic energy is defined as?",
+        "Options": [
+            "a) F-factor",
+            "b) C-factor",
+            "c)  S-factor",
+            "d) W-factor"
+        ],
+        "Answer": "Answer: a\nExplanation: FH = u√p This factor is called as F-factor, this parameter is based on the hole velocity and the K’ value."
+    },
+    {
+        "id": 331,
+        "Question": "The C-Factor is defined as the ratio of?",
+        "Options": [
+            "a) A/VLOAD",
+            "b) VLOAD/F",
+            "c)  VLOAD/A",
+            "d) VLOAD/2"
+        ],
+        "Answer": "Answer: c\nExplanation: The C factor is related to VLOAD and the F factor as VLOAD/A where A is the area of the bubbling plate."
+    },
+    {
+        "id": 332,
+        "Question": "VLOAD, represents the",
+        "Options": [
+            "a) Virtual load",
+            "b) Visual load",
+            "c) Vector load",
+            "d) Vapor load"
+        ],
+        "Answer": "Answer: d\nExplanation: VLOAD=CFS Where this term is inconvenient because it is based on vapor not on vapor velocity."
+    },
+    {
+        "id": 333,
+        "Question": "The allowable vapor pressure velocity, is taken to be",
+        "Options": [
+            "a) 60 to 80%",
+            "b) 50 to 60%",
+            "c)  10 to 20%",
+            "d)  30 to 40%"
+        ],
+        "Answer": "Answer: a\nExplanation: Clearly 60 to 80 % of the flooding velocity is calculated to keep the tray out of the danger of flooding.   "
+    },
+    {
+        "id": 334,
+        "Question": "The hole diameter lies between?",
+        "Options": [
+            "a) 1/8 to 1 inch",
+            "b)  1/8 to ½ inch",
+            "c)  1/6 to ½ inch",
+            "d)  ½  to 1 inch"
+        ],
+        "Answer": "Answer:  b\nExplanation: The hole diameter of an industrial tray normally lies between the 1/8 to ½ inch but can be less also."
+    },
+    {
+        "id": 335,
+        "Question": "Increasing the tray spacing can result in?",
+        "Options": [
+            "a) Less entrainment",
+            "b) Larger area",
+            "c) Low bubbling",
+            "d) All of the above"
+        ],
+        "Answer": "Answer:  d\nExplanation:  The tray spacing allows the tolerance of more space becomes available for the descent of the liquid droplets."
+    },
+    {
+        "id": 336,
+        "Question": "Entrainment, can be reduced by",
+        "Options": [
+            "a) Baffles",
+            "b) Vortex",
+            "c)  Clip",
+            "d)  Sieve"
+        ],
+        "Answer": "Answer: a\nExplanation: The fitting of a baffle can increase in the vapor space and thus reducing entrainment."
+    },
+    {
+        "id": 337,
+        "Question": "Vapor handling can be improved by?",
+        "Options": [
+            "a) Reducing perforations",
+            "b) Reducing down comer",
+            "c)  Increasing Velocity",
+            "d)  Removing baffles"
+        ],
+        "Answer": "Answer:  a\nExplanation: By reducing the size of the perforations the vapor handling capacity of tray is increased as well as weeping is reduced."
+    },
+    {
+        "id": 338,
+        "Question": "Changing old accessories with new one, the process is called as?",
+        "Options": [
+            "a) Re-fitting",
+            "b) Re-Designing",
+            "c)  Re-vamping",
+            "d)  Re-cycling"
+        ],
+        "Answer": "Answer:  c\nExplanation: If an existing column is required to work at the higher capacity the column is called revamped. "
+    },
+    {
+        "id": 339,
+        "Question": "Changing of internals of a column, with more efficient ones are?",
+        "Options": [
+            "a) Retrofitting",
+            "b) Refitting",
+            "c) Revamping",
+            "d) Recycling"
+        ],
+        "Answer": "Answer:  a\nExplanation: Retrofitting is generally done to reduce energy consumption of the column, it also increases the operating cost as well."
+    },
+    {
+        "id": 340,
+        "Question": "For operations involving chemical reactions ________ vessels are used.",
+        "Options": [
+            "a) Perforated",
+            "b) Agitated",
+            "c) Bored",
+            "d) Plated"
+        ],
+        "Answer": "Answer:  b\nExplanation:  The Agitated vessels are used when gas overcomes the reaction in fluid, as this acts as an external force to proceed fast reactions."
+    },
+    {
+        "id": 341,
+        "Question": "HTU is defined as?",
+        "Options": [
+            "a) Height of transfer unit",
+            "b) Height of tray unit",
+            "c)  Height of tissue plant",
+            "d)  Height of Plain uncovered"
+        ],
+        "Answer": "Answer:  a\nExplanation:  HTU is a measure of the difficulty of separation of two components it is an important factor of distillation."
+    },
+    {
+        "id": 342,
+        "Question": "NTU is defined as?",
+        "Options": [
+            "a) Number of tray unit",
+            "b) Number of tissue plant",
+            "c) Number of transfer unit",
+            "d) Number of Plain uncovered"
+        ],
+        "Answer": "Answer:  c\nExplanation:  NTU is a measure of the ease of separation of two components it is an important factor of distillation."
+    },
+    {
+        "id": 343,
+        "Question": "The expansion of liquid due to passage of vapor or gas is referred as?",
+        "Options": [
+            "a) Weeping",
+            "b) Drying",
+            "c) Cramping",
+            "d) Foaming"
+        ],
+        "Answer": "Answer: d\nExplanation: It provides high interfacial liquid-vapor contact, excessive foaming often leads to liquid buildup on trays."
+    },
+    {
+        "id": 344,
+        "Question": "H/D Ratio, for a random packed bed is limited to",
+        "Options": [
+            "a) 9",
+            "b) 10",
+            "c)  7",
+            "d)  8"
+        ],
+        "Answer": "Answer:  d\nExplanation:  Often bed height is restricted to 6 m. Higher packed height per bed is permitted for structure packing."
+    },
+    {
+        "id": 345,
+        "Question": "The value of HETP for most packing is?",
+        "Options": [
+            "a) 100 mm to 600 mm",
+            "b) 300 mm to 800 mm",
+            "c)  200 mm to 900 mm",
+            "d)  500 mm to 600 mm"
+        ],
+        "Answer": "Answer:  b\nExplanation:  The corresponding value for structural packing is somewhat lower. Smaller the packing, lower the HETP value."
+    },
+    {
+        "id": 346,
+        "Question": "Each bed may have height equivalent of theoretical trays?",
+        "Options": [
+            "a) 4 to 8",
+            "b) 5 to 10",
+            "c) 6 to 15",
+            "d) 10 to 20"
+        ],
+        "Answer": "Answer:  c\nExplanation: Each bed may have height equivalent (HETP) to 6 to 15 theoretical trays for random packing and this is fixes as per standards."
+    },
+    {
+        "id": 347,
+        "Question": "Flooding determines?",
+        "Options": [
+            "a) Maximum vapor flow allowed",
+            "b) Maximum pressure allowed",
+            "c) Minimum vapor flow",
+            "d) Minimum pressure allowed"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Flooding determines the maximum vapor flow allowed, hence column capacity, Thus, if the column diameter is not sized properly, the column will not perform well."
+    },
+    {
+        "id": 348,
+        "Question": "Tray efficiency vary from?",
+        "Options": [
+            "a) 10 to 5%",
+            "b) 30 to 100%",
+            "c)  40 to 60%",
+            "d)  60 to 100%"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Although many of the columns are insulated, changing weather conditions can still affect column operation."
+    },
+    {
+        "id": 349,
+        "Question": "Weeping determines?",
+        "Options": [
+            "a) Maximum vapor flow allowed",
+            "b) Maximum pressure allowed",
+            "c) Minimum vapor flow",
+            "d) Minimum pressure allowed"
+        ],
+        "Answer": "Answer: b\nExplanation: Tray efficiency vary from 30% to 100%, but most hydrocarbon service, it is in the range of 60% to 80%."
+    },
+    {
+        "id": 350,
+        "Question": "Most hydrocarbon services use tray spacing of",
+        "Options": [
+            "a) 150 mm to 700 mm",
+            "b) 350 mm to 400 mm",
+            "c)  450 mm to 600 mm",
+            "d)  500 mm to 600 mm"
+        ],
+        "Answer": "Answer:  c\nExplanation:  Vapor flow velocity is dependent on column diameter, Weeping determines the minimum vapor flow required."
+    },
+    {
+        "id": 351,
+        "Question": "Weeping is indicated by",
+        "Options": [
+            "a) Sharp pressure drop",
+            "b) Reduced separation efficiency",
+            "c)  Both a and b",
+            "d) No relation"
+        ],
+        "Answer": "Answer:  c\nExplanation:  Tray diameter calculation depends on tray spacing. Therefore, some optimization calculation may be required."
+    },
+    {
+        "id": 352,
+        "Question": "The flow of vapor liquid in the same direction is defined as?",
+        "Options": [
+            "a) Dual flo",
+            "b) Co-flo",
+            "c) Comer flo",
+            "d)  Coal flo"
+        ],
+        "Answer": "Answer: a\nExplanation: A tray has three zones   that functions i.e. the active area, the vapor space and the down comer area, these three phenomena can disturb all three places respectively."
+    },
+    {
+        "id": 353,
+        "Question": "Bubble columns, are used for?",
+        "Options": [
+            "a) Waste water treatment",
+            "b) Effluent treatment",
+            "c) Chlorine treatment",
+            "d) Sodium treatment"
+        ],
+        "Answer": "Answer: b\nExplanation: The Jaeger co-flo is based on the novel idea, the vapor flows through the tray deck and carries the liquid droplets to a coalescer placed between two plates."
+    },
+    {
+        "id": 354,
+        "Question": "For liquid and solid handling, that are corrosive the",
+        "Options": [
+            "a) Bubble tower is used",
+            "b) Venturi Scrubber is used",
+            "c) Spray tower is used",
+            "d) Agitated vessel are used"
+        ],
+        "Answer": "Answer: a\nExplanation: The main use of bubble column are the aerobic fermenters and are secondarily used a waste water treatment while for chlorine and sodium treatment are done in an agitated vessel. "
+    },
+    {
+        "id": 355,
+        "Question": "The Venturi Scrubber operates on velocity as high as?",
+        "Options": [
+            "a) 250 ft/s",
+            "b) 100 ft/s",
+            "c) 200 ft/s",
+            "d) 150 ft/s"
+        ],
+        "Answer": "Answer:  c\nExplanation:  Spray towers are generally used for the corrosive liquid and gases whereas it also provides the application in the liquid-liquid extraction."
+    },
+    {
+        "id": 356,
+        "Question": "The shells are generally made of?",
+        "Options": [
+            "a)  Copper",
+            "b)  Iron",
+            "c)  Wood",
+            "d) Ceramics"
+        ],
+        "Answer": "Answer:  a\nExplanation: The gas is accelerated to a very high speed of 250 ft/s, the high speed gas atomizes the feed liquid causing impaction of dust particles."
+    },
+    {
+        "id": 357,
+        "Question": "Which of the following is the oldest type of the tower packing?",
+        "Options": [
+            "a) Asbestos",
+            "b) Raschig rings",
+            "c) Wood",
+            "d) PVC"
+        ],
+        "Answer": "Answer:  d\nExplanation: The ceramic shells are generally used that to having a bell and spigot joint are used in highly corrosive services, such as HNO3 by distillation."
+    },
+    {
+        "id": 358,
+        "Question": "The modern packing, that is most commonly used in the columns are?",
+        "Options": [
+            "a) Norton Hy-Pak",
+            "b) Flexirings",
+            "c) Berl Saddle",
+            "d) Pall ring"
+        ],
+        "Answer": "Answer:  b\nExplanation:  This is the oldest type of the tower packing introduced by the German chemist F. Raschig in 1907, it is a hollow cylinder having equal diameter to its length."
+    },
+    {
+        "id": 359,
+        "Question": "The carbon steel has the wall thickness and void age of?",
+        "Options": [
+            "a) ½ inch and 92%",
+            "b) 1/8 inch and 74%",
+            "c) 2/3 inch and 70%",
+            "d) ¼ inch and 50%"
+        ],
+        "Answer": "Answer:  c\nExplanation:  The Berl saddle is first modern packing developed in the late 1930s, it is called so because of its shape of saddle."
+    },
+    {
+        "id": 360,
+        "Question": "Mellapak structured packing’s have a crimp angle of?",
+        "Options": [
+            "a) 45 or 60o",
+            "b) Sinusoidal",
+            "c) Sharp angle",
+            "d)  90o"
+        ],
+        "Answer": "Answer:  a\nExplanation: The carbon steel packing’s have ½ inch and 92% void age whereas the Raschig rings have 1/8 inch diameter and 74% void age available."
+    },
+    {
+        "id": 361,
+        "Question": "Pressure drops per theoretical stage of Mellapak packing’s are?",
+        "Options": [
+            "a) 1.0 to 2.1 mbar",
+            "b) 0.3 to 1.0 mbar",
+            "c) 2.3 to 1.2 mbar",
+            "d) 5.6 to 7.3 mbar"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Pressure drop per theoretical stage is 0.3‑1.0 mbar and the pressure drop at 70‑80% flooding about 2 mbar/m while Minimum liquid load approx. is 0.2 m3/m2h."
+    },
+    {
+        "id": 362,
+        "Question": "Gauze packing’s have an F-factor of?",
+        "Options": [
+            "a) 2-2.5√Pa",
+            "b) 5 √Pa",
+            "c)  1-2.5 √Pa",
+            "d)  1-2√Pa"
+        ],
+        "Answer": "Answer: c\nExplanation: Gauze packing’s have an F-factor of 1‑ 2.5 √Pa with pressure drop per theoretical stage as 0.1 – 0.5 mbar."
+    },
+    {
+        "id": 363,
+        "Question": "Mellacarbon packing have a surface area of nearly _______",
+        "Options": [
+            "a) 500 – 600 m2/m3",
+            "b)  800 – 1000 m2/m3",
+            "c) 125 – 700 m2/m3",
+            "d)  300 – 900 m2/m3"
+        ],
+        "Answer": "Answer:  c\nExplanation: Mellacarbon packing have a surface area of 125 – 700 m2/m3 and a high thermal stability of 400o C also excellent wettability in aqueous systems."
+    },
+    {
+        "id": 364,
+        "Question": "The phenomena of the flowing of liquid towards the wall of tower and dispersed in lateral direction is called as?",
+        "Options": [
+            "a) Channeling",
+            "b) Flow casting",
+            "c) Entraining",
+            "d) Regimens"
+        ],
+        "Answer": "Answer:  a\nExplanation: This is called as channeling of liquid, such misdistribution is determined to a good gas liquid contact, therefore necessary to collect liquid from wall and give it to bed again.  "
+    },
+    {
+        "id": 365,
+        "Question": "The first structured packing was called as?",
+        "Options": [
+            "a) Panapak",
+            "b) Mellapak",
+            "c) Conapak",
+            "d) Sigmapak"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Panapak was made from thin metal strips to form a honeycomb like structure did not gain much popularity because of severe maldistribution of liquid. "
+    },
+    {
+        "id": 366,
+        "Question": "The abbreviation IMTP represents?",
+        "Options": [
+            "a) Intermediate Metal Thrus Packing",
+            "b) Inverse Metal Tertiary Packing",
+            "c) Intalox Metal Tower Packing",
+            "d) Indian Metal Tower Packing"
+        ],
+        "Answer": "Answer:  c\nExplanation: The Inverse Metal Tertiary Packing, a random packing developed of surface area of a pall ring and the aerodynamic shape of the Intalox saddle."
+    },
+    {
+        "id": 367,
+        "Question": "The Height to Diameter ratio of CMR is?",
+        "Options": [
+            "a) 1:1",
+            "b) 1:3",
+            "c) 3:1",
+            "d) 1:5"
+        ],
+        "Answer": "Answer: b\nExplanation: CMR is similar to the pall ring but has a height to diameter ratio this is sometimes called the ‘aspect ratio’ of 1:3 compared to 1:1 latter. "
+    },
+    {
+        "id": 368,
+        "Question": "The corrugation angle of sheets varies from",
+        "Options": [
+            "a) 28 to 45o",
+            "b) 30 to 45o",
+            "c) 90 to 120o",
+            "d) 55 to 67o"
+        ],
+        "Answer": "Answer: a\nExplanation: The corrugation angle of sheets varies from 28 to 45o. Perforations are sometimes between the two surfaces of channels of communication between the two surfaces."
+    },
+    {
+        "id": 369,
+        "Question": "Sluzer supply are of which three types?",
+        "Options": [
+            "a) AX,CX and CV",
+            "b) AY,BX and CX",
+            "c) AY,CX and BX",
+            "d) AX,BX and CY"
+        ],
+        "Answer": "Answer: d\nExplanation: Sluzer supply are of three types marked as AX,BX and CY, the packing elements are made of corrugated layers of mesh."
+    },
+    {
+        "id": 370,
+        "Question": "For Raschig rings, redistribution becomes necessary after a depth bed of",
+        "Options": [
+            "a) 3 to 6 inches",
+            "b) 1 to 3 inches",
+            "c) 7 to 8 inches",
+            "d) 5 to 9 inches"
+        ],
+        "Answer": "Answer: a\nExplanation: For Raschig rings, redistribution is after 3 to 6 inches and for saddle packed tower it is 5 to 10 ft per section."
+    },
+    {
+        "id": 371,
+        "Question": "A layer of packing above the liquid distributor is called?",
+        "Options": [
+            "a) Dry packing",
+            "b) Wet packing",
+            "c) Can packing",
+            "d) Trump packing"
+        ],
+        "Answer": "Answer: a\nExplanation: A layer put above the liquid distributor is called dry packing, which acts as an entrainment eliminator, to remove the entrainment liquid droplets.  "
+    },
+    {
+        "id": 372,
+        "Question": "The Eckert chart contains a parameter FP which is called?",
+        "Options": [
+            "a) Pushing factor",
+            "b) Possibility factor",
+            "c) Praining factor",
+            "d) Packing factor"
+        ],
+        "Answer": "Answer: d\nExplanation: A parameter P that characteristics the packing and is called as packing factor, originally introduced by Lobo in 1945, also represented as Cf.   "
+    },
+    {
+        "id": 373,
+        "Question": "The packing factor used to be taken as?",
+        "Options": [
+            "a) ap/e3",
+            "b) ap/e2",
+            "c) ap2/e2",
+            "d) ap3/e4"
+        ],
+        "Answer": "Answer: a\nExplanation: The packing factor is taken as to be ap/e3, where ap= surface of the packing per unit volume and e = void fraction of the packed bed."
+    },
+    {
+        "id": 374,
+        "Question": "The difference between the total hold up and the static holdup is called?",
+        "Options": [
+            "a) Static holdup",
+            "b) Operating holdup",
+            "c) Dynamic holdup",
+            "d) Full holdup"
+        ],
+        "Answer": "Answer: b\nExplanation: The difference between the total hold up and the static holdup is called Operating holdup and sometimes is also refereed as dynamic holdup."
+    },
+    {
+        "id": 375,
+        "Question": "The MWR stands for?",
+        "Options": [
+            "a) Maximum Working Rate",
+            "b) Mixed Working Rate",
+            "c) Minimum Wetting Rate",
+            "d) Mega Weeping Rate"
+        ],
+        "Answer": "Answer: a\nExplanation: It is the liquid throughput below the film packing surface breaks up reducing the wetted area."
+    },
+    {
+        "id": 376,
+        "Question": "Liquid remaining in unit volume of bed after bed is drained is?",
+        "Options": [
+            "a) Final holdup",
+            "b) Total holdup",
+            "c) Static holdup",
+            "d) Full holdup"
+        ],
+        "Answer": "Answer: c\nExplanation: It is the liquid remaining in unit volume of the bed after the bed is drained for a reasonable time, it is pretty small compared to total holdup."
+    },
+    {
+        "id": 377,
+        "Question": "Fs is denoted as?",
+        "Options": [
+            "a) Capacity parameter",
+            "b) Final storage",
+            "c) Full standup",
+            "d) Finishing Standup"
+        ],
+        "Answer": "Answer: a\nExplanation: Plot of dP vs. Fs, it may be noted that quantity Fs is also taken as a measure when pg<<pl, it is desirable that the flooding point or pressure drop is determined by interpolation."
+    },
+    {
+        "id": 378,
+        "Question": "Minimum liquid rate for random packing is reported as?",
+        "Options": [
+            "a) 10-14 gpm/ft2",
+            "b) 8-10 gpm/ft2",
+            "c) 1-9 gpm/ft2",
+            "d) 0.5-2 gpm/ft2"
+        ],
+        "Answer": "Answer: d\nExplanation: Minimum liquid rate for random packing is reported as 0.5-2 gpm/ft2 and for structured packing is 0.1-0.2 gpm/ft2."
+    },
+    {
+        "id": 379,
+        "Question": "The dry bed pressure drop can be calculated using?",
+        "Options": [
+            "a) Ergun’s Equation.",
+            "b) Fenske’s Equation",
+            "c) Bessel’s Equation",
+            "d) Barnaul’s Equation"
+        ],
+        "Answer": "Answer: a\nExplanation: The Ergun’s equation can be used using the pressure drop calculation for all the packed towers and other equipment’s that use packings. "
+    },
+    {
+        "id": 380,
+        "Question": "The quantity Cs is?",
+        "Options": [
+            "a) Capricorn Constant",
+            "b) Souder’s-Brown constant",
+            "c) Sider Tate equation",
+            "d) Chaperon Equation"
+        ],
+        "Answer": "Answer: b\nExplanation: The quantity Cs is akin Souder’s-Brown constant, may be corrected for changes in interfacial tension and viscosity if necessary. "
+    },
+    {
+        "id": 381,
+        "Question": "An azeotrope occurs, when there is same _______",
+        "Options": [
+            "a) Bubble Point",
+            "b) Boiling Point",
+            "c) VLE Composition",
+            "d) Pressure Equilibrium"
+        ],
+        "Answer": "Answer: c\nExplanation: An azeotrope occurs when the composition of a vapor in equilibrium with a liquid mixture has the same composition as the liquid. "
+    },
+    {
+        "id": 382,
+        "Question": "A minimum-boiling azeotrope can be formed by?",
+        "Options": [
+            "a) Azeotrope entrainer",
+            "b) Any chemical",
+            "c) Water",
+            "d) Benzene"
+        ],
+        "Answer": "Answer:  a\nExplanation:  A minimum-boiling azeotrope can be formed by an azeotrope-forming entrainer to an existing azeotropic mixture or close-boiling mixture for which separation by conventional distillation is not feasible."
+    },
+    {
+        "id": 383,
+        "Question": "An example of Minimum azeotrope is?",
+        "Options": [
+            "a)  Benzene and Water",
+            "b) Ethanol and Water",
+            "c)  Water and Ethyl Alcohol",
+            "d) Benzene and Alcohol"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Ethanol and water form a minimum-boiling azeotrope with ethanol as the major component and therefore ethanol cannot be completely dehydrated by conventional distillation."
+    },
+    {
+        "id": 384,
+        "Question": "Homogeneous azeotropes exist when the vapor is in equilibrium with?",
+        "Options": [
+            "a) Single liquid phase",
+            "b) Single Solid phase",
+            "c) Dual Phase",
+            "d) Triple Phase"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Homogeneous azeotropes exist when the vapor is in equilibrium with a single liquid phase. In a homogeneous system, entrainer must be recovered by extraction."
+    },
+    {
+        "id": 385,
+        "Question": "Heterogeneous azeotropes exist when the vapor is in equilibrium with?",
+        "Options": [
+            "a) Dual liquid phase",
+            "b) Dual Solid phase",
+            "c) Dual Phase",
+            "d) Triple Phase"
+        ],
+        "Answer": "Answer:  c\nExplanation:  Heterogeneous azeotropes exist when the vapor is in equilibrium with two liquid phases. Heterogeneous azeotropic distillation is widely used for the separation of azeotropes."
+    },
+    {
+        "id": 386,
+        "Question": "Esters are produced by reacting alcohols with?",
+        "Options": [
+            "a) Organic acids",
+            "b) Pure base",
+            "c) P-Xylene",
+            "d) PTA"
+        ],
+        "Answer": "Answer: a\nExplanation:  Esters are produced by reacting alcohols with organic acids. The reaction is reversible and therefore unless one of the products is removed."
+    },
+    {
+        "id": 387,
+        "Question": "Young performed his azeotropic dehydration of alcohol by?",
+        "Options": [
+            "a) Continuous Method",
+            "b) Batch Method",
+            "c)  Stage Method",
+            "d) Full Method"
+        ],
+        "Answer": "Answer: b\nExplanation:  Young, who demonstrated the first industrial application, azeotropic distillation is still used today in the production and dehydration of alcohol."
+    },
+    {
+        "id": 388,
+        "Question": "Ethanol is dehydrogenated oxidatively to acetaldehyde using a _____ Catalyst.",
+        "Options": [
+            "a) Ag",
+            "b) Pt",
+            "c)  Pb",
+            "d) Hg"
+        ],
+        "Answer": "Answer: a\nExplanation:  In acetaldehyde oxidation, ethanol is dehydrogenated oxidatively to acetaldehyde using a silver, brass or bronze catalyst."
+    },
+    {
+        "id": 389,
+        "Question": "A relative volatility close to unity could indicate the presence of?",
+        "Options": [
+            "a) Separation Point",
+            "b) Pinch Point",
+            "c)  Deep Point",
+            "d)  Extraction Point"
+        ],
+        "Answer": "Answer:  b\nExplanation:  A relative volatility close to unity could indicate the presence of a pinch point. It is technically feasible to separate components that form a pinch point."
+    },
+    {
+        "id": 390,
+        "Question": "The esterification of alcohols involves?",
+        "Options": [
+            "a) Elimination reaction",
+            "b) Substitution reaction",
+            "c) Irreversible reaction",
+            "d) Reversible reaction"
+        ],
+        "Answer": "Answer: d\nExplanation:  The esterification of alcohols involves a reversible reaction. Being equilibrium limited, the reaction will not go to completion in the presence of the product."
+    },
+    {
+        "id": 391,
+        "Question": "The azeotrope in the ethanol–water binary system has a composition of ____ ethanol.",
+        "Options": [
+            "a) 89%",
+            "b) 59%",
+            "c) 88%",
+            "d) 99%"
+        ],
+        "Answer": "Answer: a\nExplanation:  The azeotrope in the ethanol–water binary system has a composition of 89 mole per cent of ethanol, starting with a mixture containing a lower proportion of ethanol."
+    },
+    {
+        "id": 392,
+        "Question": "PSD is called?",
+        "Options": [
+            "a) Pressure Straight Desorption",
+            "b) Pressure Swing Distillation",
+            "c) Pressure Singer Desorption",
+            "d) Parameter Swing Distillation"
+        ],
+        "Answer": "Answer: b\nExplanation: The pressure swing distillation (PSD) uses the azeotropic composition on the system pressure to break the azeotrope."
+    },
+    {
+        "id": 393,
+        "Question": "For easy separation, the relative volatility αi,j tends to?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 1.5",
+            "d) 0.5"
+        ],
+        "Answer": "Answer: b\nExplanation: The separation at the azeotropic point is not possible, because of the reason that the relative volatility αi,j is equal to one. "
+    },
+    {
+        "id": 394,
+        "Question": "If the boiling temperature isobar exhibits, an extremal point then mixture is said to be",
+        "Options": [
+            "a)  Fully azeotropic",
+            "b)  Totally azeotropic",
+            "c)  Tangentially azeotropic",
+            "d)  Partially azeotropic"
+        ],
+        "Answer": "Answer: c\nExplanation:  If the boiling temperature isobar exhibits an extremal point located at the pure component edges, i.e., at zero concentration for one or several of the components in the mixture."
+    },
+    {
+        "id": 395,
+        "Question": "At constant pressure, there exhibits a nearly extreme point at zero concentration for one or several of the components this point is called?",
+        "Options": [
+            "a) Tangent pitch",
+            "b) Elliptical pitch",
+            "c) Parabolic pitch",
+            "d) Circular pitch"
+        ],
+        "Answer": "Answer: a\nExplanation:  This phenomenon is also called a tangent pinch, such mixtures are of great practical importance, examples of common tangentially zeotropic mixtures are acetone and water."
+    },
+    {
+        "id": 396,
+        "Question": "Positive deviation from Raoult’s law results in?",
+        "Options": [
+            "a) Minimum boiling azeotrope",
+            "b)  Maximum boiling azeotrope",
+            "c)  Tangential azeotrope",
+            "d)  Elliptical azeotrope"
+        ],
+        "Answer": "Answer:  a\nExplanation: The attraction between identical molecules (A-A and B-B) is stronger than between different molecules (A-B), This may cause the formation of a minimum-boiling azeotrope and heterogeneity. "
+    },
+    {
+        "id": 397,
+        "Question": "Negative deviation from Raoult’s law results in?",
+        "Options": [
+            "a) Minimum boiling azeotrope",
+            "b)  Maximum boiling azeotrope",
+            "c)  Tangential azeotrope",
+            "d)  Elliptical azeotrope"
+        ],
+        "Answer": "Answer:  b\nExplanation:  The attraction between different molecules (A-B) is the strongest, This may cause the formation of a maximum-boiling azeotrope."
+    },
+    {
+        "id": 398,
+        "Question": "Ideal mixture obeys Raoult’s law results in?",
+        "Options": [
+            "a) Minimum boiling azeotrope",
+            "b) Maximum boiling azeotrope",
+            "c) Tangential azeotrope",
+            "d) Ideal azeotropes"
+        ],
+        "Answer": "Answer: d\nExplanation:  The components have similar physiochemical properties, the intermolecular forces between identical and different molecules (A-A, B-B and A-B) are equal."
+    },
+    {
+        "id": 399,
+        "Question": "The most commonly used membrane technology for liquid azeotropic mixtures is?",
+        "Options": [
+            "a) Pervaporation",
+            "b) Evaporation",
+            "c) De-evaporation",
+            "d) Condensation"
+        ],
+        "Answer": "Answer: a\nExplanation:  The most commonly used membrane technology for liquid azeotropic mixtures is pervaporation with low pressure on the permeate side of the membrane so as to evaporate the permeate."
+    },
+    {
+        "id": 400,
+        "Question": "When the entrainer reacts preferentially and reversibly with one of the original mixture components then it is called?",
+        "Options": [
+            "a) Non-Reactive distillation",
+            "b) Reactive distillation",
+            "c)  Extractive distillation",
+            "d)  Prime distillation"
+        ],
+        "Answer": "Answer: b\nExplanation:  The reaction product is distilled out from the non-reacting component and the reaction is reversed to recover the initial component, the distillation and reaction is usually carried out in one column."
+    },
+    {
+        "id": 401,
+        "Question": "The crucial difference compared to homozeotrope distillation is that, a heteroazeotrope can be separated by?",
+        "Options": [
+            "a) Decantation",
+            "b) Depurification",
+            "c) Dehydration",
+            "d) Decansing"
+        ],
+        "Answer": "Answer: a\nExplanation: The crucial difference compared to homoazeotropic distillation is that a heteroazeotrope can be separated easily by decantation, this also makes the process scheme simpler. "
+    },
+    {
+        "id": 402,
+        "Question": "Which of the following equations are satisfied at azeotropic conditions?",
+        "Options": [
+            "a) Av(v) + Al(v) = 0",
+            "b) Av(v) – Al(v) = 0",
+            "c)  Av(v). Al(v) = 0",
+            "d)  Av(v) =Al(v)"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Av(v) and Al(v) are the Helmholtz energy of the vapor and liquid phases respectively, V, V0 and Vl are the total molar volume."
+    },
+    {
+        "id": 403,
+        "Question": "The residue curves of an n component homogenous mixture is defined by?",
+        "Options": [
+            "a) n-1 ODE",
+            "b) n-2 ODE",
+            "c)  n-3 ODE",
+            "d)  n ODE"
+        ],
+        "Answer": "Answer: a\nExplanation: The residue curves of an n component homogenous mixture is defined by n-1 ODE’s, where dxi/dE and E is dimensionless warped time."
+    },
+    {
+        "id": 404,
+        "Question": "Permeate fluxes decrease, significantly with decreasing",
+        "Options": [
+            "a) Reflux ratio",
+            "b) Feed Concentrations",
+            "c) Boiling point",
+            "d) Bubble point"
+        ],
+        "Answer": "Answer: b\nExplanation: Permeate fluxes decrease significantly with decreasing feed concentrations, There is a trade-off between the permeate flux and selectivity.  "
+    },
+    {
+        "id": 405,
+        "Question": "Heteroazeotropic (VLLE) distillation, often referred to as?",
+        "Options": [
+            "a) Azeotropic distillation",
+            "b) Exractive distilllaton",
+            "c) Batch Ditilation",
+            "d) Continous Distillation"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Heteroazeotropic (VLLE) distillation, often referred to as azeotropic distillation, involves the formation of a heteroazeotrope to affect the desired separation."
+    },
+    {
+        "id": 406,
+        "Question": "A greater entrainer flowrate generally, yields better",
+        "Options": [
+            "a) Reflux",
+            "b) Boil up",
+            "c)  Hold up",
+            "d)  Separation"
+        ],
+        "Answer": "Answer:  d\nExplanation:  A greater entrainer flowrate generally yields better separation, but this increases the energy demand in both columns and increases the reboiler temperature in the extractive column."
+    },
+    {
+        "id": 407,
+        "Question": "Separating a maximum-boiling azeotrope using a light entrainer, this process is referred to as?",
+        "Options": [
+            "a) Re-extractive distillation",
+            "b) De-extractive distillation",
+            "c) Extractive distillation",
+            "d) Boil up distillation"
+        ],
+        "Answer": "Answer: a\nExplanation: The same extractive distillation scheme can in principle be applied to the symmetrical system of\nseparating a maximum-boiling azeotrope using a light entrainer and this process is referred to as re-extractive distillation.  "
+    },
+    {
+        "id": 408,
+        "Question": "The vapor-liquid equilibrium (VLE) condition which may be expressed as?",
+        "Options": [
+            "a) y = f (S, H, T)",
+            "b) y = f (P, T, x)",
+            "c) x = f (T, S)",
+            "d) y = f (J, S)"
+        ],
+        "Answer": "Answer: b\nExplanation: Where x and y are the liquid and vapor compositions, and P and T are the system pressure and temperature, respectively T and x are not independent at the equilibrium state.  "
+    },
+    {
+        "id": 409,
+        "Question": "When y = E(x), where E is?",
+        "Options": [
+            "a) Mapping function",
+            "b) Entity function",
+            "c) Frequency function",
+            "d) Phase function"
+        ],
+        "Answer": "Answer: a\nExplanation: E is the equilibrium mapping function that assigns a composition in the liquid phase to the corresponding equilibrium vapor phase composition, and Tbp and Tdp are the mixture boiling temperature."
+    },
+    {
+        "id": 410,
+        "Question": "When x = C(y), where C is?",
+        "Options": [
+            "a) Inverse function",
+            "b) Mapping function",
+            "c) Entrainment function",
+            "d) Flooding Function"
+        ],
+        "Answer": "Answer:  a\nExplanation: Here, C is the inverse equilibrium mapping function that assigns a composition in the vapor phase to the corresponding equilibrium liquid phase composition."
+    },
+    {
+        "id": 411,
+        "Question": "Extractive distillation of ethanol and water is done using?",
+        "Options": [
+            "a) Benzene",
+            "b) Ethylene glycol",
+            "c) Alcohol",
+            "d) Any acid"
+        ],
+        "Answer": "Answer: b\nExplanation:  Extractive distillation of ethanol and water using ethylene glycol as an entrainer is a classic example in the distillation literature."
+    },
+    {
+        "id": 412,
+        "Question": "Acetone and methanol form a binary minimum-boiling azeotrope, of about?",
+        "Options": [
+            "a) 75.8% acetone",
+            "b) 80% acetone",
+            "c) 70% acetone",
+            "d) 50% acetone"
+        ],
+        "Answer": "Answer: a\nExplanation:  Acetone and methanol form a binary minimum-boiling azeotrope of about 78.5 mole % acetone, Water is miscible and zeotropic in the whole composition space."
+    },
+    {
+        "id": 413,
+        "Question": "High reflux “weakens”, the effect of the?",
+        "Options": [
+            "a) Stages",
+            "b) Trays",
+            "c) Entrainer",
+            "d) Plates"
+        ],
+        "Answer": "Answer: c\nExplanation: High reflux “weakens” the effect of the entrainer (E), there is a minimum and a maximum reflux ratio in order to achieve acceptable separation between component 1 and E. "
+    },
+    {
+        "id": 414,
+        "Question": "Liquid reflux (L1), is used to control?",
+        "Options": [
+            "a) 1/E split",
+            "b) 1/2E split",
+            "c) 1/5E split",
+            "d)  E split"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Liquid reflux (L1) is used to control the 1/E split in the rectifying section for the extractive middle vessel batch distillation column."
+    },
+    {
+        "id": 415,
+        "Question": "Entrainer feed flowrate (E), is used to control?",
+        "Options": [
+            "a) 5/6 split",
+            "b) 7/8 split",
+            "c) ½ split",
+            "d) ¾ split"
+        ],
+        "Answer": "Answer: c\nExplanation: Entrainer feed flowrate (E) is used to control the 1/2 split in the extractive section for the extractive middle vessel batch distillation column."
+    },
+    {
+        "id": 416,
+        "Question": "Liquid flow out of middle vessel (LM) is used to control?",
+        "Options": [
+            "a) 2/E",
+            "b) 7/E",
+            "c)  8/E",
+            "d)  1/E"
+        ],
+        "Answer": "Answer: a\nExplanation: Liquid flow out of middle vessel (LM) is used to control the 2/E split in the stripping section, for the extractive middle vessel batch distillation column."
+    },
+    {
+        "id": 417,
+        "Question": "Distillate flowrate (D) is used to control the level in?",
+        "Options": [
+            "a) Rampage",
+            "b) Reflux",
+            "c) Reboiler",
+            "d) Condenser drum"
+        ],
+        "Answer": "Answer: d\nExplanation: Distillate flowrate (D) is used to control the level in condenser drum, for the extractive middle vessel batch distillation column."
+    },
+    {
+        "id": 418,
+        "Question": "Bottom flowrate (B) is used to control the level in?",
+        "Options": [
+            "a) Rampage",
+            "b) Reflux",
+            "c) Reboiler",
+            "d) Condenser drum"
+        ],
+        "Answer": "Answer:  c\nExplanation: Bottom flowrate (B) is used to control the level in reboiler, for the extractive middle vessel batch distillation column."
+    },
+    {
+        "id": 419,
+        "Question": "The locus of compositions that cannot be crossed by the given distillation process, is called?",
+        "Options": [
+            "a) Distillation line",
+            "b) Distillation Boundary",
+            "c) Distillation Map",
+            "d) Distillation region"
+        ],
+        "Answer": "Answer: b\nExplanation: The locus of compositions that cannot be crossed by the given distillation process, the existence and location of such boundaries depend critically on the type of distillation in question.  "
+    },
+    {
+        "id": 420,
+        "Question": "The locus of points in the composition space where the temperature for a given mixture at vapor-liquid equilibrium is constant, is called?",
+        "Options": [
+            "a) Isotherm",
+            "b) Paratherm",
+            "c) Dual nature",
+            "d) Final-therm"
+        ],
+        "Answer": "Answer: a\nExplanation: Liquid isotherms are lines of constant value of the boiling temperature and vapor isotherms are lines of constant value of the condensation temperature.  "
+    }
+]

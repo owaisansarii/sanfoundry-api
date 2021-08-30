@@ -1,0 +1,4083 @@
+[
+    {
+        "id": 1,
+        "Question": "Why do we need biological neural networks?",
+        "Options": [
+            "a) to solve tasks like machine vision & natural language processing",
+            "b) to apply heuristic search methods to find solutions of problem",
+            "c) to make smart human interactive & user friendly system",
+            "d) all of the  mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These are the basic aims that a neural network achieve.\n"
+    },
+    {
+        "id": 2,
+        "Question": "What is the trend in software nowadays?",
+        "Options": [
+            "a) to bring computer more & more closer to user",
+            "b) to solve complex problems",
+            "c) to be task specific",
+            "d) to be versatile"
+        ],
+        "Answer": "Answer: a\nExplanation: Software should be more  interactive to the user, so that it can understand its problem in a better fashion.\n"
+    },
+    {
+        "id": 3,
+        "Question": "What’s the main point of difference between human & machine intelligence?",
+        "Options": [
+            "a) human perceive everything as a pattern while machine perceive it merely as data",
+            "b) human have emotions",
+            "c) human have more IQ & intellect",
+            "d) human have sense organs"
+        ],
+        "Answer": "Answer: a\nExplanation: Humans have emotions & thus form different patterns on that basis, while a machine(say computer) is dumb & everything is just a data for him.\n"
+    },
+    {
+        "id": 4,
+        "Question": "What is auto-association task in neural networks?",
+        "Options": [
+            "a) find relation between 2 consecutive inputs",
+            "b) related to storage & recall task",
+            "c) predicting the future inputs",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: This is the basic definition of auto-association in neural networks.\n"
+    },
+    {
+        "id": 5,
+        "Question": "What is unsupervised learning?",
+        "Options": [
+            "a) features of group explicitly stated",
+            "b) number of groups may be known",
+            "c) neither feature & nor number of groups is known",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Pattern classification belongs to category of supervised learning."
+    },
+    {
+        "id": 6,
+        "Question": "Example of a unsupervised feature map?",
+        "Options": [
+            "a) text recognition",
+            "b) voice recognition",
+            "c) image recognition",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The desired output is mapped closest to the ideal output & hence there is generalisation involved."
+    },
+    {
+        "id": 7,
+        "Question": "What is plasticity in neural networks?",
+        "Options": [
+            "a) input pattern keeps on changing",
+            "b) input pattern has become static",
+            "c) output pattern keeps on changing",
+            "d) output is static"
+        ],
+        "Answer": "Answer: c\nExplanation: Basic definition of unsupervised learning."
+    },
+    {
+        "id": 8,
+        "Question": "What is stability plasticity dilemma ?",
+        "Options": [
+            "a) system can neither be stable nor plastic",
+            "b) static inputs & categorization can’t be handled",
+            "c) dynamic inputs & categorization can’t be handled",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Pattern classification involves supervised learning while grouping is an unsupervised one."
+    },
+    {
+        "id": 9,
+        "Question": "Drawbacks of template matching are?",
+        "Options": [
+            "a) time consuming",
+            "b) highly restricted",
+            "c) more generalized",
+            "d) none of the the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Feature mapping can be unsupervised, so it’s not a sufficient condition."
+    },
+    {
+        "id": 10,
+        "Question": "What are the issues on which biological networks proves to be superior than AI networks?",
+        "Options": [
+            "a) robustness & fault tolerance",
+            "b) flexibility",
+            "c) collective computation",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: AI network should be all of the above mentioned."
+    },
+    {
+        "id": 11,
+        "Question": "The fundamental unit of network is",
+        "Options": [
+            "a) brain",
+            "b) nucleus",
+            "c) neuron",
+            "d) axon"
+        ],
+        "Answer": "Answer: c\nExplanation: Neuron is the most basic & fundamental unit of a network ."
+    },
+    {
+        "id": 12,
+        "Question": "What are dendrites?",
+        "Options": [
+            "a) fibers of nerves",
+            "b) nuclear projections",
+            "c) other name for nucleus",
+            "d) none  of the  mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Dendrites tree shaped fibers of nerves."
+    },
+    {
+        "id": 13,
+        "Question": "What is shape of dendrites like",
+        "Options": [
+            "a) oval",
+            "b) round",
+            "c) tree",
+            "d) rectangular"
+        ],
+        "Answer": "Answer: c\nExplanation: Basic biological q&a."
+    },
+    {
+        "id": 14,
+        "Question": "Signal transmission at synapse is a?",
+        "Options": [
+            "a) physical process",
+            "b) chemical process",
+            "c) physical & chemical both",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since chemicals are involved at synapse , so its an chemical process."
+    },
+    {
+        "id": 15,
+        "Question": "How does the transmission/pulse acknowledged ?",
+        "Options": [
+            "a) by lowering electric potential of neuron body",
+            "b) by raising electric potential of neuron body",
+            "c) both by lowering & raising electric potential",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: There is equal probability of both."
+    },
+    {
+        "id": 16,
+        "Question": "When the cell is said to be fired?",
+        "Options": [
+            "a) if potential of body reaches a steady threshold values",
+            "b) if there is impulse reaction",
+            "c) during upbeat of heart",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell is said to be fired if & only if potential of body reaches a  certain steady threshold values."
+    },
+    {
+        "id": 17,
+        "Question": "Where does the chemical reactions take place in neuron?",
+        "Options": [
+            "a) dendrites",
+            "b) axon",
+            "c) synapses",
+            "d) nucleus"
+        ],
+        "Answer": "Answer: c\nExplanation: It is a simple biological fact."
+    },
+    {
+        "id": 18,
+        "Question": "Function of dendrites is?",
+        "Options": [
+            "a) receptors",
+            "b) transmitter",
+            "c) both receptor & transmitter",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Dendrites are tree like projections whose function is only to receive impulse."
+    },
+    {
+        "id": 19,
+        "Question": "What is purpose of Axon?",
+        "Options": [
+            "a) receptors",
+            "b) transmitter",
+            "c) transmission",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Axon is the body of neuron & thus cant be at ends of it so cant receive & transmit signals."
+    },
+    {
+        "id": 20,
+        "Question": "What is approx size of neuron body(in micrometer)?",
+        "Options": [
+            "a) below 5",
+            "b) 5-10",
+            "c) 10-80",
+            "d) above 100"
+        ],
+        "Answer": "Answer: c\nExplanation: Average size of neuron body lies in the above limit."
+    },
+    {
+        "id": 21,
+        "Question": "What is the gap at synapses(in nanometer)?",
+        "Options": [
+            "a) 50",
+            "b) 100",
+            "c) 150",
+            "d) 200"
+        ],
+        "Answer": "Answer: d\nExplanation: It is near to 200nm."
+    },
+    {
+        "id": 22,
+        "Question": "What is charge at protoplasm in state of inactivity?",
+        "Options": [
+            "a) positive",
+            "b) negative",
+            "c) neutral",
+            "d) may be positive or negative"
+        ],
+        "Answer": "Answer: b\nExplanation: It is due to the presence of potassium ion on outer surface in neural fluid."
+    },
+    {
+        "id": 23,
+        "Question": "What is the main constituent of neural liquid?",
+        "Options": [
+            "a) sodium",
+            "b) potassium",
+            "c) Iron",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Potassium is the main constituent of neural liquid & responsible for potential on neuron body."
+    },
+    {
+        "id": 24,
+        "Question": "What is average potential of neural liquid in inactive state?",
+        "Options": [
+            "a) +70mv",
+            "b) +35mv",
+            "c) -35mv",
+            "d) -70mv"
+        ],
+        "Answer": "Answer: d\nExplanation: It is a basic fact, founded out by series of experiments conducted by neural scientist."
+    },
+    {
+        "id": 25,
+        "Question": "At what potential does cell membrane looses it impermeability against Na+ ions?",
+        "Options": [
+            "a) -50mv",
+            "b) -35mv",
+            "c) -60mv",
+            "d) -65mv"
+        ],
+        "Answer": "Answer: c\nExplanation: Cell membrane looses it impermeability against Na+ ions at -60mv."
+    },
+    {
+        "id": 26,
+        "Question": "What is effect on neuron as a whole when its potential get raised to -60mv?",
+        "Options": [
+            "a) it get fired",
+            "b) no effect",
+            "c) it get compressed",
+            "d) it expands"
+        ],
+        "Answer": "Answer: a\nExplanation: Cell membrane looses it impermeability against Na+ ions at -60mv."
+    },
+    {
+        "id": 27,
+        "Question": "The membrane which allows neural liquid to flow will?",
+        "Options": [
+            "a) never be imperturbable to neural liquid",
+            "b) regenerate & retain its original capacity",
+            "c) only the certain part get affected, while rest becomes imperturbable again",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Each cell of human body(internal) has regenerative capacity."
+    },
+    {
+        "id": 28,
+        "Question": "How fast is propagation of discharge signal in cells of human brain?",
+        "Options": [
+            "a) less than 0.1m/s",
+            "b) 0.5-2m/s",
+            "c) 2-5m/s",
+            "d) 5-10m/s"
+        ],
+        "Answer": "Answer: b\nExplanation: The process is very fast but comparable to the length of neuron."
+    },
+    {
+        "id": 29,
+        "Question": "What is the function of neurotransmitter ?",
+        "Options": [
+            "a) they transmit data directly at synapse to other neuron",
+            "b) they modify conductance of post synaptic membrane for certain ions",
+            "c) cause polarisation or depolarisation",
+            "d) both polarisation & modify conductance of membrane"
+        ],
+        "Answer": "Answer: d\nExplanation: Excitatory & inhibilatory activities are result of these two process."
+    },
+    {
+        "id": 30,
+        "Question": "The cell body of neuron can be analogous to what mathamatical operation?",
+        "Options": [
+            "a) summing",
+            "b) differentiator",
+            "c) integrator",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Because adding of potential(due to neural fluid) at different parts of neuron is the reason of its firing."
+    },
+    {
+        "id": 31,
+        "Question": "What is the critical threshold voltage value at which neuron get fired?",
+        "Options": [
+            "a) 30mv",
+            "b) 20mv",
+            "c) 25mv",
+            "d) 10mv"
+        ],
+        "Answer": "Answer: d\nExplanation: This critical is founded by series of experiments conducted by neural scientist."
+    },
+    {
+        "id": 32,
+        "Question": "What is name of above mechanism?",
+        "Options": [
+            "a) hebb rule learning",
+            "b) error correction learning",
+            "c) memory based learning",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The strength of neuron to fire in future increases."
+    },
+    {
+        "id": 33,
+        "Question": "What is hebb’s rule of learning",
+        "Options": [
+            "a) the system learns from its past mistakes",
+            "b) the system recalls previous reference inputs & respective ideal outputs",
+            "c) the strength of neural connection get modified accordingly",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It follows from basic definition of hebb rule learning."
+    },
+    {
+        "id": 34,
+        "Question": "What is estimate number of neurons in human cortex?",
+        "Options": [
+            "a) 108",
+            "b) 105",
+            "c) 1011",
+            "d) 1020"
+        ],
+        "Answer": "Answer:c\nExplanation: The strength of neuron to fire in future increases, if it is fired repeatedly."
+    },
+    {
+        "id": 35,
+        "Question": "what is estimated density of neuron per mm^2 of cortex?",
+        "Options": [
+            "a) 15*(102)",
+            "b) 15*(104)",
+            "c) 15*(103)",
+            "d) 5*(104)"
+        ],
+        "Answer": "Answer: b\nExplanation: Follows from the fact no two body cells are exactly similar in human body, even if they belong to same class."
+    },
+    {
+        "id": 36,
+        "Question": "Why can’t we design a perfect neural network?",
+        "Options": [
+            "a) full operation is still not known of biological neurons",
+            "b) number of neuron is itself not precisely known",
+            "c) number of interconnection is very large & is very complex",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: It is a fact !"
+    },
+    {
+        "id": 37,
+        "Question": "How many synaptic connection are there in human brain?",
+        "Options": [
+            "a) 1010",
+            "b) 1015",
+            "c) 1020",
+            "d) 105"
+        ],
+        "Answer": "Answer: b\nExplanation: It is a biological fact !"
+    },
+    {
+        "id": 38,
+        "Question": "Operations in the neural networks can perform what kind of operations?",
+        "Options": [
+            "a) serial",
+            "b) parallel",
+            "c) serial or parallel",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: General characteristics of neural networks."
+    },
+    {
+        "id": 39,
+        "Question": "Which action is faster pattern classification or adjustment of weights in neural nets?",
+        "Options": [
+            "a) pattern classification",
+            "b) adjustment of weights",
+            "c) equal",
+            "d) either of them can be fast, depending on conditions"
+        ],
+        "Answer": "Answer: a\nExplanation: Its a fact & related to basic knowledge of neural networks !"
+    },
+    {
+        "id": 40,
+        "Question": "What is the feature of ANNs due to which they can deal with noisy, fuzzy, inconsistent data?",
+        "Options": [
+            "a) associative nature of networks",
+            "b) distributive nature of networks",
+            "c) both associative & distributive",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In human brain information is locally processed & analysed."
+    },
+    {
+        "id": 41,
+        "Question": "What was the name of the first model which can perform wieghted sum of inputs?",
+        "Options": [
+            "a) McCulloch-pitts neuron model",
+            "b) Marvin Minsky neuron model",
+            "c) Hopfield model of neuron",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Memory is addressable, so thus pattern can be easily classified."
+    },
+    {
+        "id": 42,
+        "Question": "Who developed the first learning machine in which connection strengths could be adapted automatically?",
+        "Options": [
+            "a) McCulloch-pitts",
+            "b) Marvin Minsky",
+            "c) Hopfield",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: General characteristics of ANNs."
+    },
+    {
+        "id": 43,
+        "Question": "Who proposed the first perceptron model in 1958?",
+        "Options": [
+            "a) McCulloch-pitts",
+            "b) Marvin Minsky",
+            "c) Hopfield",
+            "d) Rosenblatt"
+        ],
+        "Answer": "Answer: a\nExplanation: McCulloch-pitts neuron model can perform weighted sum of inputs followed by threshold logic operation."
+    },
+    {
+        "id": 44,
+        "Question": "John hopfield was credited for what important aspec of neuron?",
+        "Options": [
+            "a) learning algorithms",
+            "b) adaptive signal processing",
+            "c) energy analysis",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In 1954 Marvin Minsky developed the first learning machine in which connection strengths could be adapted automatically & efficiebtly."
+    },
+    {
+        "id": 45,
+        "Question": "What is the contribution of Ackley, Hinton in neural?",
+        "Options": [
+            "a) perceptron",
+            "b) boltzman machine",
+            "c) learning algorithms",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Rosenblatt proposed the first perceptron model in 1958 ."
+    },
+    {
+        "id": 46,
+        "Question": "What is ART in neural networks?",
+        "Options": [
+            "a) automatic resonance theory",
+            "b) artificial resonance theory",
+            "c) adaptive resonance theory",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: It is full form of ART & is basic q&a."
+    },
+    {
+        "id": 47,
+        "Question": "What is an activation value?",
+        "Options": [
+            "a) weighted sum of inputs",
+            "b) threshold value",
+            "c) main input to neuron",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is definition of activation value & is basic q&a."
+    },
+    {
+        "id": 48,
+        "Question": "Positive sign of weight indicates?",
+        "Options": [
+            "a) excitatory input",
+            "b) inhibitory input",
+            "c) can be either excitatory or inhibitory as such",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Sign convention of neuron."
+    },
+    {
+        "id": 49,
+        "Question": "Negative sign of weight indicates?",
+        "Options": [
+            "a) excitatory input",
+            "b) inhibitory input",
+            "c) excitatory output",
+            "d) inhibitory output"
+        ],
+        "Answer": "Answer: b\nExplanation: Sign convention of neuron."
+    },
+    {
+        "id": 50,
+        "Question": "The amount of output of one unit received by another unit depends on what?",
+        "Options": [
+            "a) output unit",
+            "b) input unit",
+            "c) activation value",
+            "d) weight"
+        ],
+        "Answer": "Answer: d\nExplanation: Activation is sum of wieghted sum of inputs, which gives desired output..hence output depends on weights."
+    },
+    {
+        "id": 51,
+        "Question": "The process of adjusting the weight is known as?",
+        "Options": [
+            "a) activation",
+            "b) synchronisation",
+            "c) learning",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Basic definition of learning in neural nets ."
+    },
+    {
+        "id": 52,
+        "Question": "The procedure to incrementally update each of weights in neural is referred to as?",
+        "Options": [
+            "a) synchronisation",
+            "b) learning law",
+            "c) learning algorithm",
+            "d) both learning algorithm & law"
+        ],
+        "Answer": "Answer: d\nExplanation: Basic definition of learning law in neural."
+    },
+    {
+        "id": 53,
+        "Question": "In what ways can output be determined from activation value?",
+        "Options": [
+            "a) deterministically",
+            "b) stochastically",
+            "c) both deterministically & stochastically",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: This is the most important trait of input processing & output determination in neural networks."
+    },
+    {
+        "id": 54,
+        "Question": "How can output be updated in neural network?",
+        "Options": [
+            "a) synchronously",
+            "b) asynchronously",
+            "c) both synchronously & asynchronously",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Output can be updated at same time or at different time in the networks."
+    },
+    {
+        "id": 55,
+        "Question": "What is asynchronous update in neural netwks?",
+        "Options": [
+            "a) output units are updated sequentially",
+            "b) output units are updated in parallel  fashion",
+            "c) can be either sequentially or in parallel  fashion",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Output are updated  at different time in the networks."
+    },
+    {
+        "id": 56,
+        "Question": "What is nature of function F(x) in the figure?",
+        "Options": [
+            "a) linear",
+            "b) non-linear",
+            "c) can be either linear or non-linear",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It is a general block diagram of McCulloch-pitts model of neuron."
+    },
+    {
+        "id": 57,
+        "Question": "What does the character ‘b’ represents in the above diagram?",
+        "Options": [
+            "a) bias",
+            "b) any constant value",
+            "c) a variable value",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In this function, the independent variable is an exponent in the equation hence non-linear."
+    },
+    {
+        "id": 58,
+        "Question": "When both inputs are 1, what will be the output of the above figure?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) either 0 or 1",
+            "d) z"
+        ],
+        "Answer": "Answer: a\nExplanation: More appropriate choice since bias is a constant fixed value for any circuit model."
+    },
+    {
+        "id": 59,
+        "Question": "When both inputs are different, what will be the output of the above figure?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c)  either 0 or 1",
+            "d) z"
+        ],
+        "Answer": "Answer: c\nExplanation: Form the truth table of above figure by taking inputs as 0 or 1."
+    },
+    {
+        "id": 60,
+        "Question": "Which of the following model has ability to learn?",
+        "Options": [
+            "a) pitts model",
+            "b) rosenblatt perceptron model",
+            "c) both rosenblatt and pitts model",
+            "d) neither rosenblatt nor pitts"
+        ],
+        "Answer": "Answer: a\nExplanation: Check the truth table of nor gate."
+    },
+    {
+        "id": 61,
+        "Question": "When both inputs are 1, what will be the output of the pitts model nand gate ?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) either 0 or 1",
+            "d) z"
+        ],
+        "Answer": "Answer: a\nExplanation: Check the truth table of nor gate."
+    },
+    {
+        "id": 62,
+        "Question": "When both inputs are different, what will be the logical output of the figure of question 4?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c)  either 0 or 1",
+            "d) z"
+        ],
+        "Answer": "Answer: b\nExplanation: Weights are fixed in pitts model but adjustable in rosenblatt."
+    },
+    {
+        "id": 63,
+        "Question": "Who invented perceptron neural networks?",
+        "Options": [
+            "a) McCullocch-pitts",
+            "b) Widrow",
+            "c) Minsky & papert",
+            "d) Rosenblatt"
+        ],
+        "Answer": "Answer: d\nExplanation: The perceptron is one of the earliest neural networks. Invented at the Cornell Aeronautical Laboratory in 1957 by Frank Rosenblatt, the Perceptron was an attempt to understand human memory, learning, and cognitive processes."
+    },
+    {
+        "id": 64,
+        "Question": "What was the 2nd stage in perceptron model called?",
+        "Options": [
+            "a) sensory units",
+            "b) summing unit",
+            "c) association unit",
+            "d) output unit"
+        ],
+        "Answer": "Answer: c\nExplanation: This was the very speciality of the perceptron model, that is performs association mapping on outputs of he sensory units."
+    },
+    {
+        "id": 65,
+        "Question": "What was the main deviation in perceptron model from that of MP model?",
+        "Options": [
+            "a) more inputs can be incorporated",
+            "b) learning enabled",
+            "c) all of the mentioned",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The weights in perceprton model are adjustable."
+    },
+    {
+        "id": 66,
+        "Question": "What is delta (error) in perceptron model of neuron?",
+        "Options": [
+            "a) error due to environmental condition",
+            "b) difference between desired & target output",
+            "c) can be both due to difference in target output or environmental condition",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: All other parameters are assumed to be null while calculatin the error in perceptron model & only difference between desired & target output is taken into account."
+    },
+    {
+        "id": 67,
+        "Question": "If a(i) is the input, ^ is the error, n is the learning parameter, then how can weight change in a perceptron model be represented?",
+        "Options": [
+            "a) na(i)",
+            "b) n^",
+            "c) ^a(i)",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer:  d\nExplanation: The correct answer is n^a(i)."
+    },
+    {
+        "id": 68,
+        "Question": "What is adaline in neural networks?",
+        "Options": [
+            "a) adaptive linear element",
+            "b) automatic linear element",
+            "c) adaptive line element",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: adaptive linear element is the full form of adaline neural model."
+    },
+    {
+        "id": 69,
+        "Question": "who invented the adaline neural model?",
+        "Options": [
+            "a) Rosenblatt",
+            "b) Hopfield",
+            "c) Werbos",
+            "d) Widrow"
+        ],
+        "Answer": "Answer: d\nExplanation: Widrow invented the adaline neural model."
+    },
+    {
+        "id": 70,
+        "Question": "What was the main point of difference between the adaline & perceptron model?",
+        "Options": [
+            "a) weights are compared with output",
+            "b) sensory units result is compared with output",
+            "c) analog activation value is compared with output",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Analog activation value comparison with output,instead of desired output as in perceptron model was the main point of difference between the adaline & perceptron model."
+    },
+    {
+        "id": 71,
+        "Question": "In adaline model what is the relation between output & activation value(x)?",
+        "Options": [
+            "a) linear",
+            "b) nonlinear",
+            "c) can be either linear or non-linear",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: s,output=f(x)=x. Hence its a linear model."
+    },
+    {
+        "id": 72,
+        "Question": "what is the another name of weight update rule in adaline  model based on its functionality?",
+        "Options": [
+            "a) LMS error learning law",
+            "b) gradient descent algorithm",
+            "c) both LMS error & gradient descent learning law",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: weight update rule minimizes  the mean squared error(delta square), averaged over all inputs & this laws is derived using negative gradient of error surface weight space, hence option a & b."
+    },
+    {
+        "id": 73,
+        "Question": "In neural how can connectons between different layers be achieved?",
+        "Options": [
+            "a) interlayer",
+            "b) intralayer",
+            "c) both interlayer and intralayer",
+            "d) either interlayer or intralayer"
+        ],
+        "Answer": "Answer: c\nExplanation: Connections between layers can be made to one unit to another and within the units of a layer."
+    },
+    {
+        "id": 74,
+        "Question": "Connections across the layers in standard topologies & among the units within a layer can be organised?",
+        "Options": [
+            "a) in feedforward manner",
+            "b) in feedback manner",
+            "c) both feedforward & feedback",
+            "d) either feedforward & feedback"
+        ],
+        "Answer": "Answer: d\nExplanation: Connections across the layers in standard topologies can be in feedforward manner or in feedback manner but not both."
+    },
+    {
+        "id": 75,
+        "Question": "What is an instar topology?",
+        "Options": [
+            "a) when input is given to layer F1, the the jth(say) unit of other layer F2 will be activated to maximum extent",
+            "b) when weight vector for connections from jth unit (say) in F2 approaches the activity pattern in  F1(comprises of input vector)",
+            "c) can be either way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Restatement of basic definition  of instar."
+    },
+    {
+        "id": 76,
+        "Question": "What is an outstar topology?",
+        "Options": [
+            "a) when input is given to layer F1, the the jth(say) unit of other layer F2 will be activated to maximum extent",
+            "b) when weight vector for connections from jth unit (say) in F2 approaches the activity pattern in  F1(comprises of input vector)",
+            "c) can be either way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Restatement of basic definition  of outstar."
+    },
+    {
+        "id": 77,
+        "Question": "The operation of instar can be viewed as?",
+        "Options": [
+            "a) content addressing the memory",
+            "b) memory addressing the content",
+            "c) either content addressing or memory addressing",
+            "d) both content & memory addressing"
+        ],
+        "Answer": "Answer: a\nExplanation: Because in instar, when input is given to layer F1, the the jth(say) unit of other layer F2 will be activated to maximum extent."
+    },
+    {
+        "id": 78,
+        "Question": "The operation of outstar can be viewed as?",
+        "Options": [
+            "a) content addressing the memory",
+            "b) memory addressing the content",
+            "c) either content addressing or memory addressing",
+            "d) both content & memory addressing"
+        ],
+        "Answer": "Answer: b\nExplanation: Because in outstar, when weight vector for connections from jth unit (say) in F2 approaches the activity pattern in  F1(comprises of input vector)."
+    },
+    {
+        "id": 79,
+        "Question": "If two layers coincide & weights are symmetric(wij=wji), then what is that structure called?",
+        "Options": [
+            "a) instar",
+            "b) outstar",
+            "c) autoassociative memory",
+            "d) heteroassociative memory"
+        ],
+        "Answer": "Answer: c\nExplanation: In autoassociative memory each unit is connected to every other unit & to itself."
+    },
+    {
+        "id": 80,
+        "Question": "Heteroassociative memory can be an example of which type of network?",
+        "Options": [
+            "a) group of instars",
+            "b) group of oustar",
+            "c) either group of instars or outstars",
+            "d) both group of instars or outstars"
+        ],
+        "Answer": "Answer: c\nExplanation: Depending upon the flow, the memory can be of either of the type."
+    },
+    {
+        "id": 81,
+        "Question": "What is STM in neural network?",
+        "Options": [
+            "a) short topology memory",
+            "b) stimulated topology memory",
+            "c) short term memory",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Full form of STM."
+    },
+    {
+        "id": 82,
+        "Question": "What does STM corresponds to?",
+        "Options": [
+            "a) activation state of network",
+            "b) encoded pattern  information pattern in synaptic weights",
+            "c) either way",
+            "d) both way"
+        ],
+        "Answer": "Answer: a\nExplanation: Short-term memory (STM) refers to the capacity-limited retention of information over a brief period of time,hence the option."
+    },
+    {
+        "id": 83,
+        "Question": "What LTM corresponds to?",
+        "Options": [
+            "a) activation state of network",
+            "b) encoded pattern  information pattern in synaptic weights",
+            "c) either way",
+            "d) both way"
+        ],
+        "Answer": "Answer: b\nExplanation: Long-term memory (LTM-the encoding and retention of an effectively unlimited amount of information for a much longer period of time) & hence the option."
+    },
+    {
+        "id": 84,
+        "Question": "On what parameters can change in weight vector depend?",
+        "Options": [
+            "a) learning parameters",
+            "b) input vector",
+            "c) learning signal",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Change in weight vector corresponding to jth input at time (t+1) depends on all of these parameters."
+    },
+    {
+        "id": 85,
+        "Question": "If the change in weight vector is represented by ∆wij, what does it mean?",
+        "Options": [
+            "a) describes the change in weight vector for ith processing unit, taking input vector jth into account",
+            "b) describes the change in weight vector for jth processing unit, taking input vector ith into account",
+            "c) describes the change in weight vector for jth & ith processing unit.",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: ∆wij= µf(wi a)aj, where a is the input vector."
+    },
+    {
+        "id": 86,
+        "Question": "What is learning signal in this equation ∆wij= µf(wi a)aj?",
+        "Options": [
+            "a) µ",
+            "b) wi a",
+            "c) aj",
+            "d) f(wi a)"
+        ],
+        "Answer": "Answer: d\nExplanation: This the non linear representation of output of the network."
+    },
+    {
+        "id": 87,
+        "Question": "State whether Hebb’s law is supervised learning or of unsupervised type?",
+        "Options": [
+            "a) supervised",
+            "b) unsupervised",
+            "c) either supervised or unsupervised",
+            "d) can be both supervised & unsupervised"
+        ],
+        "Answer": "Answer: b\nExplanation: No desired output is required for it’s implementation."
+    },
+    {
+        "id": 88,
+        "Question": "Hebb’s law can be represented by equation?",
+        "Options": [
+            "a) ∆wij= µf(wi a)aj",
+            "b) ∆wij= µ(si) aj, where (si) is output signal of ith input",
+            "c) both way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: (si)= f(wi a), in Hebb’s law."
+    },
+    {
+        "id": 89,
+        "Question": "State which of the following statements hold foe perceptron learning law?",
+        "Options": [
+            "a) it is supervised type of learning law",
+            "b) it requires desired output for each input",
+            "c) ∆wij= µ(bi – si) aj",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: all statements follow from ∆wij= µ(bi – si) aj, where bi is the target output & hence supervised learning."
+    },
+    {
+        "id": 90,
+        "Question": "widrow & hoff learning law is special case of?",
+        "Options": [
+            "a) hebb learning law",
+            "b) perceptron learning law",
+            "c) delta learning law",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Change in weight is based on the error between the desired & the actual output values for a given input."
+    },
+    {
+        "id": 91,
+        "Question": "What’s the other name of widrow & hoff learning law?",
+        "Options": [
+            "a) Hebb",
+            "b) LMS",
+            "c) MMS",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Output function in this law is assumed to be linear , all other things same."
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following equation represent perceptron learning law?",
+        "Options": [
+            "a) ∆wij= µ(si) aj",
+            "b) ∆wij= µ(bi – si) aj",
+            "c) ∆wij= µ(bi – si) aj Á(xi),wher Á(xi) is derivative of xi",
+            "d) ∆wij= µ(bi – (wi a)) aj"
+        ],
+        "Answer": "Answer: b\nExplanation: LMS, least mean square. Change in weight is made proportional to negative gradient of error & due to linearity of output function."
+    },
+    {
+        "id": 93,
+        "Question": "Correlation learning law is special case of?",
+        "Options": [
+            "a) Hebb learning law",
+            "b) Perceptron learning law",
+            "c) Delta learning law",
+            "d) LMS learning law"
+        ],
+        "Answer": "Answer: a\nExplanation: Since in hebb is replaced by bi(target output) in correlation."
+    },
+    {
+        "id": 94,
+        "Question": "Correlation learning law is what type of learning?",
+        "Options": [
+            "a) supervised",
+            "b) unsupervised",
+            "c) either supervised or unsupervised",
+            "d) both supervised or unsupervised"
+        ],
+        "Answer": "Answer: a\nExplanation: Supervised, since depends on target output."
+    },
+    {
+        "id": 95,
+        "Question": "Correlation learning law can be represented by equation?",
+        "Options": [
+            "a) ∆wij= µ(si) aj",
+            "b) ∆wij= µ(bi – si) aj",
+            "c) ∆wij= µ(bi – si) aj Á(xi),where Á(xi) is derivative of xi",
+            "d) ∆wij= µ bi aj"
+        ],
+        "Answer": "Answer: d\nExplanation: Correlation learning law depends on target output(bi)."
+    },
+    {
+        "id": 96,
+        "Question": "The other name for instar learning law?",
+        "Options": [
+            "a) looser take it all",
+            "b) winner take it all",
+            "c) winner give it all",
+            "d) looser give it all"
+        ],
+        "Answer": "Answer: b\nExplanation: The unit which gives maximum output, weight is adjusted for that unit."
+    },
+    {
+        "id": 97,
+        "Question": "The instar learning law can be represented by equation?",
+        "Options": [
+            "a) ∆wij= µ(si) aj",
+            "b) ∆wij= µ(bi – si) aj",
+            "c) ∆wij= µ(bi – si) aj Á(xi),where Á(xi) is derivative of xi",
+            "d) ∆wk= µ (a-wk), unit k with maximum output is identified"
+        ],
+        "Answer": "Answer: d\nExplanation: Follows from basic definition of instar learning law."
+    },
+    {
+        "id": 98,
+        "Question": "The instar learning law can be represented by equation?",
+        "Options": [
+            "a) ∆wjk= µ(bj – wjk), where the kth unit is the only active in the input layer",
+            "b) ∆wij= µ(bi – si) aj",
+            "c) ∆wij= µ(bi – si) aj Á(xi),wher Á(xi) is derivative of xi",
+            "d) ∆wij= µ(si) aj"
+        ],
+        "Answer": "Answer: b\nExplanation: Since weight adjustment don’t depend on target output, it is unsupervised learning."
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following learning laws belongs to same category of learning?",
+        "Options": [
+            "a) hebbian, perceptron",
+            "b) perceptron, delta",
+            "c) hebbian, widrow-hoff",
+            "d) instar, outstar"
+        ],
+        "Answer": "Answer: a\nExplanation: Follows from basic definition of outstar learning law."
+    },
+    {
+        "id": 100,
+        "Question": "In hebbian learning intial weights are set?",
+        "Options": [
+            "a) random",
+            "b) near to zero",
+            "c) near to target value",
+            "d) near to target value"
+        ],
+        "Answer": "Answer: a\nExplanation: Since weight adjustment depend on target output, it is supervised learning."
+    },
+    {
+        "id": 101,
+        "Question": "Weight state i.e set of weight values are determined by what kind of dynamics?",
+        "Options": [
+            "a) synaptic dynamics",
+            "b) neural level dynamics",
+            "c) can be either synaptic or neural dynamics",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Weights are best determined by synaptic dynamics, as it is one fastest & precise dynamics occurring."
+    },
+    {
+        "id": 102,
+        "Question": "Which is faster neural level dynamics or synaptic dynamics?",
+        "Options": [
+            "a) neural level",
+            "b) synaptic",
+            "c) both equal",
+            "d) insufficient information"
+        ],
+        "Answer": "Answer: a\nExplanation: Since neural level dyna,ics depends on input fluctuations & these take place at every milliseconds."
+    },
+    {
+        "id": 103,
+        "Question": "Activation dynamics is referred as?",
+        "Options": [
+            "a) short term memory",
+            "b) long term memory",
+            "c) either short or long term",
+            "d) both short & long term"
+        ],
+        "Answer": "Answer: b\nExplanation: During activation dynamics, synaptic weights don’t change significantly & hence assumed to be constant."
+    },
+    {
+        "id": 104,
+        "Question": "Synaptic dynamics is referred as?",
+        "Options": [
+            "a) short term memory",
+            "b) long term memory",
+            "c) either short or long term",
+            "d) both short & long term"
+        ],
+        "Answer": "Answer:  a\nExplanation: It depends on input pattern, & input changes from moment to moment, hence Short term memory."
+    },
+    {
+        "id": 105,
+        "Question": "What is classification?",
+        "Options": [
+            "a) deciding what features to use in a pattern recognition problem",
+            "b) deciding what class an input pattern belongs to",
+            "c) deciding what type of neural network to use",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Synaptic dynamics don’t change for a given set of training inputs, hence long term memory."
+    },
+    {
+        "id": 106,
+        "Question": "What is generalization?",
+        "Options": [
+            "a) the ability of a pattern recognition system to approximate the desired output values for pattern vectors which are not in the test set.",
+            "b) the ability of a pattern recognition system to approximate the desired output values for pattern vectors which are not in the training set.",
+            "c) can be either way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Follows from basic definition of classification."
+    },
+    {
+        "id": 107,
+        "Question": "What are models in neural networks?",
+        "Options": [
+            "a) mathematical representation of our understanding",
+            "b) representation of biological neural networks",
+            "c) both way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Follows from basic definition of generalization."
+    },
+    {
+        "id": 108,
+        "Question": "What kind of dynamics leads to learning laws?",
+        "Options": [
+            "a) synaptic",
+            "b) neural",
+            "c) activation",
+            "d) both synaptic & neural"
+        ],
+        "Answer": "Answer: c\nExplanation: Model should be close to our biological neural systems, so that we can have high efficiency in machines too."
+    },
+    {
+        "id": 109,
+        "Question": "Changing inputs affects what kind of dynamics directly?",
+        "Options": [
+            "a) synaptic",
+            "b) neural",
+            "c) activation",
+            "d) both synaptic & neural"
+        ],
+        "Answer": "Answer: a\nExplanation: Since weights are dependent on synaptic dynamics, hence learning laws."
+    },
+    {
+        "id": 110,
+        "Question": "Activation value is associated with?",
+        "Options": [
+            "a) potential at synapses",
+            "b) cell membrane potential",
+            "c) all of the mentioned",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Cell membrane potential determines the activation value in neural nets."
+    },
+    {
+        "id": 111,
+        "Question": "What’s the actual reason behind the boundedness of the output function in activation dynamics?",
+        "Options": [
+            "a) limited neural fluid",
+            "b) limited fan in capacity of inputs",
+            "c) both limited neural fluid & fan in capacity",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is the nature of output function in activation dynamics."
+    },
+    {
+        "id": 112,
+        "Question": "What is noise saturation dilemma?",
+        "Options": [
+            "a) at saturation state neuron will  stop working, while biologically it’s not feasible",
+            "b) how can a neuron with limited operating range be made sensitive to nearly unlimited range of inputs",
+            "c) can be either way",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: It is due to the limited current carrying capacity of cell membrane."
+    },
+    {
+        "id": 113,
+        "Question": "Broadly how many kinds of stability can be defined in neural networks?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Threshold value setting has to be adjusted properly."
+    },
+    {
+        "id": 114,
+        "Question": "What is structural stability?",
+        "Options": [
+            "a) when both synaptic & activation dynamics are simultaneously used & are in equilibrium",
+            "b) when only synaptic dynamics in equilibrium",
+            "c) when only synaptic dynamics in equilibrium",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: There exist broadly structural & global stability in neural."
+    },
+    {
+        "id": 115,
+        "Question": "What is global stability?",
+        "Options": [
+            "a) when both synaptic & activation dynamics are simultaneously used & are in equilibrium",
+            "b) when only synaptic & activation dynamics are used",
+            "c) when only synaptic dynamics in equilibrium",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Refers to state equilibrium situation where small perturbations brings network back to equilibrium."
+    },
+    {
+        "id": 116,
+        "Question": "Which models belongs to main subcategory of activation models?",
+        "Options": [
+            "a) additive & subtractive activation models",
+            "b) additive & shunting activation models",
+            "c) subtractive & shunting activation models",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Global stability  means neuron as a whole is stable."
+    },
+    {
+        "id": 117,
+        "Question": "9.What is the assumption of perkels model, if f(x) is the output function in additive activation model?",
+        "Options": [
+            "a) f(x)=x",
+            "b) f(x)=x2",
+            "c) f(x)=x3",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Additive & shunting activation models are the most basic category of activation models."
+    },
+    {
+        "id": 118,
+        "Question": "Who proposed the shunting activation model?",
+        "Options": [
+            "a) rosenblatt",
+            "b) hopfield",
+            "c) perkel",
+            "d) grossberg"
+        ],
+        "Answer": "Answer: a\nExplanation: Perkels model assumes output function to be linear."
+    },
+    {
+        "id": 119,
+        "Question": "What was the goal of shunting activation model?",
+        "Options": [
+            "a) to make system dynamic",
+            "b) to keep operating range of activation value to a specified range",
+            "c) to make system static",
+            "d) can be either for dynamic or static, depending on inputs"
+        ],
+        "Answer": "Answer: d\nExplanation: Grossberg proposed the model in 1982."
+    },
+    {
+        "id": 120,
+        "Question": "Activation models are?",
+        "Options": [
+            "a) dynamic",
+            "b) static",
+            "c) deterministic",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Input/output patterns & the activation values may be considered as sample functions of random process."
+    },
+    {
+        "id": 121,
+        "Question": "If xb(t) represents differentiation of state x(t), then a stochastic model can be represented by?",
+        "Options": [
+            "a) xb(t)=deterministic model",
+            "b) xb(t)=deterministic model + noise component",
+            "c) xb(t)=deterministic model*noise component",
+            "d) none of the mentioned’"
+        ],
+        "Answer": "Answer: b\nExplanation: Noise is assumed to be additive in nature in stochastic models."
+    },
+    {
+        "id": 122,
+        "Question": "What is equilibrium in neural systems?",
+        "Options": [
+            "a) deviation in present state, when small perturbations occur",
+            "b) settlement of network, when small perturbations occur",
+            "c) change in state, when small perturbations occur",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Follows from basic definition of equilibrium."
+    },
+    {
+        "id": 123,
+        "Question": "4.What is the condition in Stochastic models, if xb(t) represents differentiation of state x(t)?",
+        "Options": [
+            "a) xb(t)=0",
+            "b) xb(t)=1",
+            "c) xb(t)=n(t), where n is noise component",
+            "d) xb(t)=n(t)+1"
+        ],
+        "Answer": "Answer: c\nExplanation: xb(t)=0 is condition for deterministic models, so option c is radical choice."
+    },
+    {
+        "id": 124,
+        "Question": "What is asynchronous update in a network?",
+        "Options": [
+            "a) update to all units is done at the same time",
+            "b) change in state of any one unit drive the whole network",
+            "c) change in state of any number of units drive the whole network",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In asynchronous update, change in state of any one unit drive the whole network."
+    },
+    {
+        "id": 125,
+        "Question": "Learning is a?",
+        "Options": [
+            "a) slow process",
+            "b) fast process",
+            "c) can be slow or fast in general",
+            "d) can’t say"
+        ],
+        "Answer": "Answer: a\nExplanation: Learning is a slow process."
+    },
+    {
+        "id": 126,
+        "Question": "What are the requirements of learning laws?",
+        "Options": [
+            "a) convergence of weights",
+            "b) learning time should be as small as possible",
+            "c) learning should use only local weights",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are the some of basic requirements of learning laws."
+    },
+    {
+        "id": 127,
+        "Question": "Memory decay affects what kind of memory?",
+        "Options": [
+            "a) short tem memory in general",
+            "b) older memory in general",
+            "c) can be short term or older",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Memory decay affects short term memory rather than older memories."
+    },
+    {
+        "id": 128,
+        "Question": "What are the requirements of learning laws?",
+        "Options": [
+            "a) learning should be able to capture more & more patterns",
+            "b) learning should be able to grasp complex nonliear mappings",
+            "c) convergence of weights",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are the some of basic requirements of learning laws."
+    },
+    {
+        "id": 129,
+        "Question": "How is pattern information distributed?",
+        "Options": [
+            "a) it is distributed all across the weights",
+            "b) it is distributed in localised weights",
+            "c) it is distributed  in certain proctive weights only",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: pattern information is highly distributed all across the weights."
+    },
+    {
+        "id": 130,
+        "Question": "What is supervised learning?",
+        "Options": [
+            "a) weight adjustment based on deviation of desired output from actual output",
+            "b) weight adjustment based on desired output only",
+            "c) weight adjustment based on actual output only",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Supervised learning is based on weight adjustment based on deviation of desired output from actual output."
+    },
+    {
+        "id": 131,
+        "Question": "Supervised learning may be used for?",
+        "Options": [
+            "a) temporal learning",
+            "b) structural learning",
+            "c) both temporal & structural learning",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Supervised learning may be used for both temporal & structural learning."
+    },
+    {
+        "id": 132,
+        "Question": "What is structural learning?",
+        "Options": [
+            "a) concerned with capturing input-output relationship in patterns",
+            "b) concerned with capturing weight relationships",
+            "c) both weight & input-output relationships",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Structural learning deals with learning the overall structure of network in a macroscopic view."
+    },
+    {
+        "id": 133,
+        "Question": "What is temporal learning?",
+        "Options": [
+            "a) concerned with capturing input-output relationship in patterns",
+            "b) concerned with capturing weight relationships",
+            "c) both weight & input-output relationships",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Temporal learning is concerned with capturing weight relationships."
+    },
+    {
+        "id": 134,
+        "Question": "What is unsupervised learning?",
+        "Options": [
+            "a) weight adjustment based on deviation of desired output from actual output",
+            "b) weight adjustment based on desired output only",
+            "c) weight adjustment based on local information available to weights",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Unsupervised learning is purely based on adjustment based on local information available to weights."
+    },
+    {
+        "id": 135,
+        "Question": "What is nature of input in activation dynamics?",
+        "Options": [
+            "a) static",
+            "b) dynamic",
+            "c) both static & dynamic",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Learning can be offline too."
+    },
+    {
+        "id": 136,
+        "Question": "what does the term wij(0) represents in synaptic dynamic model?",
+        "Options": [
+            "a) a prioi knowledge",
+            "b) just a constant",
+            "c) no strong significance",
+            "d) future adjustments"
+        ],
+        "Answer": "Answer: a\nExplanation: Follows from basic definition of online learning."
+    },
+    {
+        "id": 137,
+        "Question": "What is hebbian learning?",
+        "Options": [
+            "a) synaptic strength is proportional to correlation between firing of post & presynaptic neuron",
+            "b) synaptic strength is proportional to correlation between firing of postsynaptic neuron only",
+            "c) synaptic strength is proportional to correlation between firing of presynaptic neuron only",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Folllows from basic definition of hebbian learning."
+    },
+    {
+        "id": 138,
+        "Question": "What is differential hebbian learning?",
+        "Options": [
+            "a) synaptic strength is proportional to correlation between firing of post & presynaptic neuron",
+            "b) synaptic strength is proportional to correlation between firing of postsynaptic neuron only",
+            "c) synaptic strength is proportional to correlation between firing of presynaptic neuron only",
+            "d) synaptic strength is proportional to changes in correlation between firing of post & presynaptic neuron"
+        ],
+        "Answer": "Answer: d\nExplanation: Differential hebbian learning is proportional to changes in correlation between firing of post & presynaptic neuron."
+    },
+    {
+        "id": 139,
+        "Question": "What is competitive learning?",
+        "Options": [
+            "a) learning laws which modulate difference between synaptic weight & output signal",
+            "b) learning laws which modulate difference between synaptic weight & activation value",
+            "c) learning laws which modulate difference between actual output & desired output",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Competitive learning laws modulate difference between synaptic weight & output signal."
+    },
+    {
+        "id": 140,
+        "Question": "What is differential competitive learning?",
+        "Options": [
+            "a) synaptic strength is proportional to changes of post & presynaptic neuron",
+            "b) synaptic strength is proportional to changes of postsynaptic neuron only",
+            "c) synaptic strength is proportional to changes of presynaptic neuron only",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Differential competitive learning is based on to changes of postsynaptic neuron only."
+    },
+    {
+        "id": 141,
+        "Question": "What is error correction learning?",
+        "Options": [
+            "a) learning laws which modulate difference between synaptic weight & output signal",
+            "b) learning laws which modulate difference between synaptic weight & activation value",
+            "c) learning laws which modulate difference between actual output & desired output",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Error correction learning is base on difference between actual output & desired output."
+    },
+    {
+        "id": 142,
+        "Question": "Error correction learning is  type of?",
+        "Options": [
+            "a) supervised learning",
+            "b) unsupervised learning",
+            "c) can be supervised or unsupervised",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Follows from basic definition of delta learning."
+    },
+    {
+        "id": 143,
+        "Question": "What is reinforcement learning?",
+        "Options": [
+            "a) learning is based on evaluative signal",
+            "b) learning is based o desired output for an input",
+            "c) learning is based on both desired output & evaluative signal",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It uses the instantaneous squared error between desired & actual output of unit."
+    },
+    {
+        "id": 144,
+        "Question": "How many types of reinforcement learning exist?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: Since this is evaluative & not instructive."
+    },
+    {
+        "id": 145,
+        "Question": "What is fixed credit assignment?",
+        "Options": [
+            "a) reinforcement signal given to input-output pair don’t change with time",
+            "b) input-output pair determine probability of postive reinforcement",
+            "c) input pattern depends on past history",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Fixed credit assignment, probablistic credit assignment, temporal credit assignment."
+    },
+    {
+        "id": 146,
+        "Question": "What is probablistic credit assignment?",
+        "Options": [
+            "a) reinforcement signal given to input-output pair don’t change with time",
+            "b) input-output pair determine probability of postive reinforcement",
+            "c) input pattern depends on past history",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In fixed credit assignment, reinforcement signal given to input-output pair don’t change with time."
+    },
+    {
+        "id": 147,
+        "Question": "What is temporal credit assignment?",
+        "Options": [
+            "a) reinforcement signal given to input-output pair don’t change with time",
+            "b) input-output pair determine probability of postive reinforcement",
+            "c) input pattern depends on past history",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In probablistic credit assignment, input-output pair determine probability of postive reinforcement."
+    },
+    {
+        "id": 148,
+        "Question": "Boltzman learning uses what kind of learning?",
+        "Options": [
+            "a) deterministic",
+            "b) stochastic",
+            "c) either deterministic or stochastic",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: In temporal credit assignment, input pattern depends on past history."
+    },
+    {
+        "id": 149,
+        "Question": "Whats true for sparse encoding learning?",
+        "Options": [
+            "a) logical And & Or operations are used for input output relations",
+            "b) weight corresponds to minimum & maximum  of units are connected",
+            "c) weights are expressed as linear combination of orthogonal basis vectors",
+            "d) change in weight uses a weighted sum of changes in past input values"
+        ],
+        "Answer": "Answer: b\nExplanation: Boltzman learning uses deterministic learning."
+    },
+    {
+        "id": 150,
+        "Question": "Whats true for Drive reinforcement learning?",
+        "Options": [
+            "a) logical And & Or operations are used for input output relations",
+            "b) weight corresponds to minimum & maximum  of units are connected",
+            "c) weights are expressed as linear combination of orthogonal basis vectors",
+            "d) change in weight uses a weighted sum of changes in past input values"
+        ],
+        "Answer": "Answer: a\nExplanation: sparse encoding learning employs Logical And & Or operations are used for input output relations."
+    },
+    {
+        "id": 151,
+        "Question": "Whats true for Min-max learning?",
+        "Options": [
+            "a) logical And & Or operations are used for input output relations",
+            "b) weight corresponds to minimum & maximum  of units are connected",
+            "c) weights are expressed as linear combination of orthogonal basis vectors",
+            "d) change in weight uses a weighted sum of changes in past input values"
+        ],
+        "Answer": "Answer: d\nExplanation: In Drive reinforcement learning, change in weight uses a weighted sum of changes in past input values."
+    },
+    {
+        "id": 152,
+        "Question": "Whats true for principal component learning?",
+        "Options": [
+            "a) logical And & Or operations are used for input output relations",
+            "b) weight corresponds to minimum & maximum  of units are connected",
+            "c) weights are expressed as linear combination of orthogonal basis vectors",
+            "d) change in weight uses a weighted sum of changes in past input values"
+        ],
+        "Answer": "Answer: b\nExplanation: Min-max learning involves weights which  corresponds to minimum & maximum  of units connected."
+    },
+    {
+        "id": 153,
+        "Question": "What leads to minimization of error between the desired & actual outputs?",
+        "Options": [
+            "a) stability",
+            "b) convergence",
+            "c) either stability or convergence",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Stability refers to equilibrium behaviour of activation state."
+    },
+    {
+        "id": 154,
+        "Question": "How many trajectories may terminate at same equilibrium state?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) many",
+            "d) none"
+        ],
+        "Answer": "Answer: b\nExplanation: Convergence refers to adjustment in behaviour of weights during learning."
+    },
+    {
+        "id": 155,
+        "Question": "If weights are not symmetric i.e cik =! cki, then what happens?",
+        "Options": [
+            "a) network may exhibit periodic oscillations of states",
+            "b) no oscillations as it doesn’t depend on it",
+            "c) system is stable",
+            "d) system in practical equilibrium"
+        ],
+        "Answer": "Answer: b\nExplanation: Convergence is responsible for minimization of error between the desired & actual outputs."
+    },
+    {
+        "id": 156,
+        "Question": "If states of system experience basins of attraction, then system may achieve what kind of stability?",
+        "Options": [
+            "a) fixed point stability",
+            "b) oscillatory stability",
+            "c) chaotic stability",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Convergence is minimization of error between the desired & actual outputs."
+    },
+    {
+        "id": 157,
+        "Question": "What is an objective of a learning law?",
+        "Options": [
+            "a) to capture pattern information in training set data",
+            "b) to modify weights so as to achieve output close to desired output",
+            "c) it should lead to convergence of system or its weights",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: There may be several trajectories that may settle to same equilibrium state."
+    },
+    {
+        "id": 158,
+        "Question": "What’s the role of lyaopunov fuction?",
+        "Options": [
+            "a) to determine stability",
+            "b) to determine convergence",
+            "c) both stability & convergence",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Lyapunov function is scalar in nature."
+    },
+    {
+        "id": 159,
+        "Question": "V(x) is said to be lyapunov function if?",
+        "Options": [
+            "a) v(x) >=0",
+            "b) v(x) <=0",
+            "c) v(x) =0",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: lyapunov is an energy function."
+    },
+    {
+        "id": 160,
+        "Question": "What does cohen grossberg theorem?",
+        "Options": [
+            "a) shows the stability of fixed weight autoassociative networks",
+            "b) shows the stability of adaptive autoaassociative networks",
+            "c) shows the stability of adaptive heteroassociative networks",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It is sufficient but not necessary condition."
+    },
+    {
+        "id": 161,
+        "Question": "What does cohen grossberg kosko theorem?",
+        "Options": [
+            "a) shows the stability of fixed weight autoassociative networks",
+            "b) shows the stability of adaptive autoaassociative networks",
+            "c) shows the stability of adaptive heteroassociative networks",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It is the condition for existence for lyapunov function."
+    },
+    {
+        "id": 162,
+        "Question": "What does 3rd theorem that describe the stability of a set of nonlinear dynamical systems?",
+        "Options": [
+            "a) shows the stability of fixed weight autoassociative networks",
+            "b) shows the stability of adaptive autoaassociative networks",
+            "c) shows the stability of adaptive heteroassociative networks",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Cohen grossberg theorem shows the stability of fixed weight autoassociative networks."
+    },
+    {
+        "id": 163,
+        "Question": "What happens during recall in neural networks?",
+        "Options": [
+            "a) weight changes are suppressed",
+            "b) input to the network determines the output activation",
+            "c) both process has to happen",
+            "d) none of the  mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Cohen grossberg kosko shows the stability of adaptive autoaassociative networks."
+    },
+    {
+        "id": 164,
+        "Question": "In nearest neighbour case, the stored pattern closest to input pattern is recalled, where does it occurs?",
+        "Options": [
+            "a) feedback pattern classification",
+            "b) feedforward pattern classification",
+            "c) can be feedback or feedforward",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: 3rd theorem of nonlinear dynamical systems, shows the stability of adaptive heteroassociative networks."
+    },
+    {
+        "id": 165,
+        "Question": "Feedforward networks are used for?",
+        "Options": [
+            "a) pattern mapping",
+            "b) pattern association",
+            "c) pattern classification",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Feedforward networks are used for pattern mapping, pattern association, pattern classification."
+    },
+    {
+        "id": 166,
+        "Question": "Feedback networks are used for?",
+        "Options": [
+            "a) autoassociation",
+            "b) pattern storage",
+            "c) both autoassociation & pattern storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation:  Feedback networks are used for autoassociation, pattern storage."
+    },
+    {
+        "id": 167,
+        "Question": "Competitive learning net is used for?",
+        "Options": [
+            "a) pattern grouping",
+            "b) pattern storage",
+            "c) pattern grouping or storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The most basic example of of combination of feedforward & feedback network is competitive learning net."
+    },
+    {
+        "id": 168,
+        "Question": "Feedback connection strength are usually ?",
+        "Options": [
+            "a) fixed",
+            "b) variable",
+            "c) both fixed or variable type",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Competitive learning net is used for pattern grouping."
+    },
+    {
+        "id": 169,
+        "Question": "If some of output patterns in pattern association problem are identical then problem shifts to?",
+        "Options": [
+            "a) pattern storage problem",
+            "b) pattern classification problem",
+            "c) pattern mapping problem",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Feedback connection strength are usually fixed & linear to reduce complexity."
+    },
+    {
+        "id": 170,
+        "Question": "The network for pattern mapping is expected to perform?",
+        "Options": [
+            "a) pattern storage",
+            "b) pattern classification",
+            "c) genaralization",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Feedforward network are used for pattern mapping, pattern association, pattern classification."
+    },
+    {
+        "id": 171,
+        "Question": "In case of autoassociation  by feedback nets in pattern recognition task, what is the behaviour expected?",
+        "Options": [
+            "a) accretive",
+            "b) interpolative",
+            "c) can be either accretive or interpolative",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  Because then number of distinct output can be viewed as class labels."
+    },
+    {
+        "id": 172,
+        "Question": "In case of pattern by feedback nets in pattern recognition task, what is the behaviour expected?",
+        "Options": [
+            "a) accretive",
+            "b) interpolative",
+            "c) can be either accretive or interpolative",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The network for pattern mapping is expected to perform genaralization."
+    },
+    {
+        "id": 173,
+        "Question": "What are hard problems?",
+        "Options": [
+            "a) classification problems which are not clearly separable",
+            "b) classification problems which are not associatively separable",
+            "c) classification problems which are not functionally separable",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Classification problems which are not linearly separable separable are known as hard problems."
+    },
+    {
+        "id": 174,
+        "Question": "What is generalization?",
+        "Options": [
+            "a) ability to store a pattern",
+            "b) ability to recall a pattern",
+            "c) ability to learn a mapping function",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Multilayer feedforward net with non linear processing units in intermidiate hidden layer is proposed."
+    },
+    {
+        "id": 175,
+        "Question": "Generalization feature of a multilayer feedforward network depends on factors?",
+        "Options": [
+            "a) architectural details",
+            "b) learning rate parameter",
+            "c) training samples",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The hard learning problem is ultimately solved by backpropagation algorithm."
+    },
+    {
+        "id": 176,
+        "Question": "What is accretive behaviour?",
+        "Options": [
+            "a) not a type of pattern clustering task",
+            "b) for small noise variations pattern lying closet to the desired pattern is recalled.",
+            "c) for small noise variations noisy pattern having parameter adjusted according to noise variation is recalled",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Generalization is the ability to learn a mapping function."
+    },
+    {
+        "id": 177,
+        "Question": "What is Interpolative behaviour?",
+        "Options": [
+            "a) not a type of pattern clustering task",
+            "b) for small noise variations pattern lying closet to the desired pattern is recalled.",
+            "c) for small noise variations noisy pattern having parameter adjusted according to noise variation is recalled",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Generalization feature of a multilayer feedforward network depends on all of these above mentioned factors."
+    },
+    {
+        "id": 178,
+        "Question": "What is the feature that doesn’t belongs to pattern classification in feeddorward neural networks?",
+        "Options": [
+            "a) recall is direct",
+            "b) delta rule learning",
+            "c) non linear processing units",
+            "d) two layers"
+        ],
+        "Answer": "Answer: b\nExplanation: In accretive behaviour, pattern lying closet to the desired pattern is recalled."
+    },
+    {
+        "id": 179,
+        "Question": "What is the feature that doesn’t belongs to pattern mapping in feeddorward neural networks?",
+        "Options": [
+            "a) recall is direct",
+            "b) delta rule learning",
+            "c) non linear processing units",
+            "d) two layers"
+        ],
+        "Answer": "Answer: c\nExplanation: In interpolative behaviour, pattern having parameter adjusted according to noise variation is recalled & not the ideal one."
+    },
+    {
+        "id": 180,
+        "Question": "In determination of weights by learning, for orthogonal input vectors what kind of learning should be employed?",
+        "Options": [
+            "a) hebb learning law",
+            "b) widrow learning law",
+            "c) hoff learning law",
+            "d) no learning law"
+        ],
+        "Answer": "Answer: a\nExplanation: For orthogonal input vectors, Hebb learning law is best suited."
+    },
+    {
+        "id": 181,
+        "Question": "In determination of weights by learning, for linear input vectors what kind of learning should be employed?",
+        "Options": [
+            "a) hebb learning law",
+            "b) widrow learning law",
+            "c) hoff learning law",
+            "d) no learning law"
+        ],
+        "Answer": "Answer: b\nExplanation: For linear input vectors, widrow learning law is best suited."
+    },
+    {
+        "id": 182,
+        "Question": "In determination of weights by learning, for noisy input vectors what kind of learning should be employed?",
+        "Options": [
+            "a) hebb learning law",
+            "b) widrow learning law",
+            "c) hoff learning law",
+            "d) no learning law"
+        ],
+        "Answer": "Answer: d\nExplanation: For noisy input vectors, there is no learning law."
+    },
+    {
+        "id": 183,
+        "Question": "What are the features that can be accomplished using affine transformations?",
+        "Options": [
+            "a) arbitrary rotation",
+            "b) scaling",
+            "c) translation",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Affine transformations can be used to do arbitrary rotation, scaling, translation."
+    },
+    {
+        "id": 184,
+        "Question": "What is the features that cannot be accomplished earlier without affine transformations?",
+        "Options": [
+            "a) arbitrary rotation",
+            "b) scaling",
+            "c) translation",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Affine transformations can be used to do arbitrary rotation, scaling, translation."
+    },
+    {
+        "id": 185,
+        "Question": "what are affine transformations?",
+        "Options": [
+            "a) addition of bias term (-1) which results in arbitrary rotation, scaling, translation of input pattern",
+            "b) addition of bias term (+1) which results in arbitrary rotation, scaling, translation of input pattern",
+            "c) addition of bias term (-1) or (+1) which results in arbitrary rotation, scaling, translation of input pattern",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It follows from basic definition of affine transformation."
+    },
+    {
+        "id": 186,
+        "Question": "Number of output cases depends on what factor?",
+        "Options": [
+            "a) number of inputs",
+            "b) number of distinct classes",
+            "c) total number of classes",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: By using nonlinear processing units in output layer."
+    },
+    {
+        "id": 187,
+        "Question": "What is the objective of perceptron learning?",
+        "Options": [
+            "a) class identification",
+            "b) weight adjustment",
+            "c) adjust weight along with class identification",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The objective of perceptron learning is to adjust weight along with class identification."
+    },
+    {
+        "id": 188,
+        "Question": "On what factor the number of outputs depends?",
+        "Options": [
+            "a) distinct inputs",
+            "b) distinct classes",
+            "c) both on distinct classes & inputs",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of outputs depends on number of classes."
+    },
+    {
+        "id": 189,
+        "Question": "In perceptron learning, what happens when input vector is correctly classified?",
+        "Options": [
+            "a) small adjustments in weight is done",
+            "b) large adjustments in weight is done",
+            "c) no adjustments in weight is done",
+            "d) weight adjustments doesn’t depend on classification of input vector"
+        ],
+        "Answer": "Answer: c\nExplanation: No adjustments in weight is done, since input has been correctly classified which is the objective of the system."
+    },
+    {
+        "id": 190,
+        "Question": "When two classes can be separated by a separate line, they are known as?",
+        "Options": [
+            "a) linearly separable",
+            "b) linearly inseparable classes",
+            "c) may be separable or inseparable, it depends on system",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Linearly separable classes, functions can be separated by a line."
+    },
+    {
+        "id": 191,
+        "Question": "Two classes are said to be inseparable when?",
+        "Options": [
+            "a) there may exist straight lines that doesn’t touch each other",
+            "b) there may exist straight lines that can touch each other",
+            "c) there is only one straight line that separates them",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Perceptron convergence theorem can only be applied, if and only if two classses are linearly separable."
+    },
+    {
+        "id": 192,
+        "Question": "The perceptron convergence theorem is applicable for what kind of data?",
+        "Options": [
+            "a) binary",
+            "b) bipolar",
+            "c) both binary and bipolar",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Linearly separable classes, functions can be separated by a line."
+    },
+    {
+        "id": 193,
+        "Question": "If e(m) denotes error for correction of weight then what is formula for error in perceptron learning model: w(m + 1) = w(m) + n(b(m) – s(m)) a(m), where b(m) is desired output, s(m) is actual output, a(m) is input vector and ‘w’ denotes weight",
+        "Options": [
+            "a) e(m) = n(b(m) – s(m)) a(m)",
+            "b) e(m) = n(b(m) – s(m))",
+            "c) e(m) = (b(m) – s(m))",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Initial setting of weights doesn’t affect perceptron convergence theorem."
+    },
+    {
+        "id": 194,
+        "Question": "Convergence in perceptron learning takes place if and only if:",
+        "Options": [
+            "a) a minimal error condition is satisfied",
+            "b) actual output is close to desired output",
+            "c) classes are linearly separable",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Linear separability of classes is the condition for convergence of weighs in perceprton learning."
+    },
+    {
+        "id": 195,
+        "Question": "When line joining any two points in the set lies entirely in region enclosed by the set in M-dimensional space , then the set is known as?",
+        "Options": [
+            "a) convex set",
+            "b) concave set",
+            "c) may be concave or convex",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A convex set is a set of points in M-dimensional space such that line joining any two points in the set lies entirely in region enclosed by the set."
+    },
+    {
+        "id": 196,
+        "Question": "As dimensionality of input vector increases, what happens to linear separability?",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) no effect",
+            "d) doesn’t depend on dimensionality"
+        ],
+        "Answer": "Answer: b\nExplanation: There is decrease in number of linearly separable functions as dimension of input pattern space is increased."
+    },
+    {
+        "id": 197,
+        "Question": "In a three layer network, shape of dividing surface is determined by?",
+        "Options": [
+            "a) number of units in second layer",
+            "b) number of units in third layer",
+            "c) number of units in second and third layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Hypersurfaces reduces to straight lines, if pattern classes are linearly separable."
+    },
+    {
+        "id": 198,
+        "Question": "In a three layer network, number of classes is determined by?",
+        "Options": [
+            "a) number of units in second layer",
+            "b) number of units in third layer",
+            "c) number of units in second and third layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Linear separability decreases as dimensionality increases."
+    },
+    {
+        "id": 199,
+        "Question": "If the output produces nonconvex regions, then how many layered neural is required at minimum?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: Practically, number of units in second layer determines shape of dividing surface."
+    },
+    {
+        "id": 200,
+        "Question": "What is a mapping problem?",
+        "Options": [
+            "a) when no restrictions such as linear separability is placed on the set of input – output pattern pairs",
+            "b) when there may be restrictions such as linear separability placed on input – output patterns",
+            "c) when there are restriction but other than linear separability",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Multilayer perceptrons can deal with all hard problems."
+    },
+    {
+        "id": 201,
+        "Question": "What is the objective of pattern mapping problem?",
+        "Options": [
+            "a) to capture weights for a link",
+            "b) to capture inputs",
+            "c) to capture feedbacks",
+            "d) to capture implied function"
+        ],
+        "Answer": "Answer: a\nExplanation: Its a more general case of classification problem."
+    },
+    {
+        "id": 202,
+        "Question": "To provide generalization capability to a network, what should be done?",
+        "Options": [
+            "a) all units should be linear",
+            "b) all units should be non – linear",
+            "c) except input layer, all units in other layers should be non – linear",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since no restrictions such as linear separability is placed on the set of input – output pattern pairs, mapping problem becomes a more general case of pattern classification problem."
+    },
+    {
+        "id": 203,
+        "Question": "What is the objective of pattern mapping problem?",
+        "Options": [
+            "a) to capture implied function",
+            "b) to capture system characteristics from observed data",
+            "c) both to implied function and system characteristics",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The objective of pattern mapping problem is to capture implied function."
+    },
+    {
+        "id": 204,
+        "Question": "The nature of mapping problem decides?",
+        "Options": [
+            "a) number of units in second layer",
+            "b) number of units in third layer",
+            "c) overall number of units in hidden layers",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: To provide generalization capability to a network, except input layer, all units in other layers should be non – linear."
+    },
+    {
+        "id": 205,
+        "Question": "How is hard learning problem solved?",
+        "Options": [
+            "a) using nonlinear differentiable output function for output layers",
+            "b) using nonlinear differentiable output function for hidden layers",
+            "c) using nonlinear differentiable output function for output and hidden layers",
+            "d) it cannot be solved"
+        ],
+        "Answer": "Answer: d\nExplanation: The implied fuction is all about system characteristics."
+    },
+    {
+        "id": 206,
+        "Question": "The number of units in hidden layers depends on?",
+        "Options": [
+            "a) the number of inputs",
+            "b) the number of outputs",
+            "c) both the number of inputs and outputs",
+            "d) the overall characteristics of the mapping problem"
+        ],
+        "Answer": "Answer: b\nExplanation: An approximate system doesn’t produce strictly an interpolated output."
+    },
+    {
+        "id": 207,
+        "Question": "Let a(l), b(l) represent in input-output pairs, where “l” varies in natural range of no.s, then if a(l)=b(l)?",
+        "Options": [
+            "a) problem is heteroassociation",
+            "b) problem is autoassociation",
+            "c) can be either auto or heteroassociation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: From given input-output pairs pattern recognition model should be able to  capture characteristics of the  system & hence should be designed in that manner."
+    },
+    {
+        "id": 208,
+        "Question": "Let a(l), b(l) represent in input-output pairs, where “l” varies in natural range of no.s, then if a(l)=!b(l)?",
+        "Options": [
+            "a) problem is heteroassociation",
+            "b) problem is autoassociation",
+            "c) can be either auto or heteroassociation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: When a(l)=b(l) problem is classified as autoassociation."
+    },
+    {
+        "id": 209,
+        "Question": "The recalled output in pattern association problem depends on?",
+        "Options": [
+            "a) nature of input-output",
+            "b) design of network",
+            "c) both input & design",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: When a(l) & b(l)are distinct, problem is classified as autoassociation."
+    },
+    {
+        "id": 210,
+        "Question": "If a(l) gives output b(l) & a’=a(l)+m,where m is small quantity & if a’ gives ouput b(l) then?",
+        "Options": [
+            "a) network exhibits accretive behaviour",
+            "b) network exhibits interpolative behaviour",
+            "c) exhibits both accretive & interpolative behaviour",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The recalled output in pattern association problem depends on  both input & design of network."
+    },
+    {
+        "id": 211,
+        "Question": "If a(l) gives output b(l) & a’=a(l)+m,where m is small quantity & if a’ gives ouput b(l)+n then?",
+        "Options": [
+            "a) network exhibits accretive behaviour",
+            "b) network exhibits interpolative behaviour",
+            "c) exhibits both accretive & interpolative behaviour",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: This follows from basic definition of accretive behaviour in neural."
+    },
+    {
+        "id": 212,
+        "Question": "What is the objective of backpropagation algorithm?",
+        "Options": [
+            "a) to develop learning algorithm for multilayer feedforward neural network",
+            "b) to develop learning algorithm for single layer feedforward neural network",
+            "c) to develop learning algorithm for multilayer feedforward neural network, so that network can be trained to capture the mapping implicitly",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The objective of backpropagation algorithm  is to to develop learning algorithm for multilayer feedforward neural network, so that network can be trained to capture the mapping implicitly."
+    },
+    {
+        "id": 213,
+        "Question": "What is true regarding backpropagation rule?",
+        "Options": [
+            "a) it is also called generalized delta rule",
+            "b) error in output is propagated backwards only to determine weight updates",
+            "c) there is no feedback of signal at nay stage",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Because it fulfils the basic condition of delta rule."
+    },
+    {
+        "id": 214,
+        "Question": "What is true regarding backpropagation rule?",
+        "Options": [
+            "a) it is a feedback neural network",
+            "b) actual output is determined by computing the outputs of units for each hidden layer",
+            "c) hidden layers output is not all important, they are only meant for supporting input and output layers",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all statements defines backpropagation algorithm."
+    },
+    {
+        "id": 215,
+        "Question": "What is meant by generalized in statement “backpropagation is a generalized delta rule” ?",
+        "Options": [
+            "a) because delta rule can be extended to hidden layer units",
+            "b) because delta is applied to only input and output layers, thus making it more simple and generalized",
+            "c) it has no significance",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: No feedback is involved at any stage as it is a feedforward neural network."
+    },
+    {
+        "id": 216,
+        "Question": "What are general limitations of back propagation rule?",
+        "Options": [
+            "a) local minima problem",
+            "b) slow convergence",
+            "c) scaling",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In backpropagation rule, actual output is determined by computing the outputs of units for each hidden layer."
+    },
+    {
+        "id": 217,
+        "Question": "What are the general tasks that are performed with backpropagation algorithm?",
+        "Options": [
+            "a) pattern mapping",
+            "b) function approximation",
+            "c) prediction",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The term generalized is used because delta rule could be extended to hidden layer units."
+    },
+    {
+        "id": 218,
+        "Question": "Does backpropagaion learning is based on gradient descent along error surface?",
+        "Options": [
+            "a) yes",
+            "b) no",
+            "c) cannot be said",
+            "d) it depends on gradient descent but not error surface"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are limitations of backpropagation algorithm in general."
+    },
+    {
+        "id": 219,
+        "Question": "How can learning process be stopped in backpropagation rule?",
+        "Options": [
+            "a) there is convergence involved",
+            "b) no heuristic criteria exist",
+            "c) on basis of average gradient value",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are the tasks that can be performed with backpropagation algorithm in general."
+    },
+    {
+        "id": 220,
+        "Question": "Which is a simplest pattern recognition task in a feedback network?",
+        "Options": [
+            "a) heteroassociation",
+            "b) autoassociation",
+            "c) can be hetero or autoassociation, depends on situation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Autoassociation is the simplest pattern recognition task."
+    },
+    {
+        "id": 221,
+        "Question": "What can be done by using non – linear output function for each processing unit in a feedback network?",
+        "Options": [
+            "a) pattern classification",
+            "b) recall",
+            "c) pattern storage",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Linear autoassociative network gives out, what is given to it as input."
+    },
+    {
+        "id": 222,
+        "Question": "When are stable states reached in energy landscapes, that can be used to store input patterns?",
+        "Options": [
+            "a) mean of peaks and valleys",
+            "b) maxima",
+            "c) minima",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since if input is noisy then output will aslo be noisy, hence no practical use."
+    },
+    {
+        "id": 223,
+        "Question": "The number of patterns that can be stored in a given network depends on?",
+        "Options": [
+            "a) number of units",
+            "b) strength of connecting links",
+            "c) both number of units and strength of connecting links",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: By using non – linear output function for each processing unit, a feedback network can be used for pattern storage."
+    },
+    {
+        "id": 224,
+        "Question": "What happens when number of available energy minima be less than number of patterns to be stored?",
+        "Options": [
+            "a) pattern storage is not possible in that case",
+            "b) pattern storage can be easily done",
+            "c) pattern storage problem becomes hard problem for the network",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Energy minima corresponds to stable states that can be used to store input patterns."
+    },
+    {
+        "id": 225,
+        "Question": "What happens when number of available energy minima be more than number of patterns to be stored?",
+        "Options": [
+            "a) no effect",
+            "b) pattern storage is not possible in that case",
+            "c) error in recall",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The number of patterns that can be stored in a given network depends on number of units and strength of connecting links."
+    },
+    {
+        "id": 226,
+        "Question": "How hard problem can be solved?",
+        "Options": [
+            "a) by providing additional units in a feedback network",
+            "b) nothing can be done",
+            "c) by removing units in hidden layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Pattern storage problem becomes hard problem, when number of energy minima i.e stable states are less."
+    },
+    {
+        "id": 227,
+        "Question": "Why there is error in recall, when number of energy minima is more the required number of patterns to be stored?",
+        "Options": [
+            "a) due to noise",
+            "b) due to additional false maxima",
+            "c) due to additional false minima",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Due to additional false minima, there is error in recall."
+    },
+    {
+        "id": 228,
+        "Question": "How can false minima be reduced in case of error in recall in feedback neural networks?",
+        "Options": [
+            "a) by providing additional units",
+            "b) by using probabilistic update",
+            "c) can be either probabilistic update or using additional units",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Hard problem can be solved by additional units not the false minima."
+    },
+    {
+        "id": 229,
+        "Question": "What is a Boltzman machine?",
+        "Options": [
+            "a) A feedback network with hidden units",
+            "b) A feedback network with hidden units and probabilistic update",
+            "c) A feed forward network with hidden units",
+            "d) A feed forward network with hidden units and probabilistic update"
+        ],
+        "Answer": "Answer:  b\nExplanation: Boltzman machine is a feedback network with hidden units and probabilistic update."
+    },
+    {
+        "id": 230,
+        "Question": "What is objective of linear autoassociative feedforward networks?",
+        "Options": [
+            "a) to associate a given pattern with itself",
+            "b) to associate a given pattern with others",
+            "c) to associate output with input",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The objective of linear autoassociative feedforward networks is to associate a given pattern with itself."
+    },
+    {
+        "id": 231,
+        "Question": "If input is ‘ a(l) + e ‘ where ‘e’  is the noise introduced, then what is the output in case of autoassociative feedback network?",
+        "Options": [
+            "a) a(l)",
+            "b) a(l) + e",
+            "c) could be either a(l) or a(l) + e",
+            "d) e"
+        ],
+        "Answer": "Answer: b\nExplanation: Because input comes out as output."
+    },
+    {
+        "id": 232,
+        "Question": "If input is ‘ a(l) + e ‘ where ‘e’  is the noise introduced, then what is the output if system is accretive in nature?",
+        "Options": [
+            "a) a(l)",
+            "b) a(l) + e",
+            "c) could be either a(l) or a(l) + e",
+            "d) e"
+        ],
+        "Answer": "Answer: b\nExplanation: This is due to the absence of accretive behaviour."
+    },
+    {
+        "id": 233,
+        "Question": "If input is ‘ a(l) + e ‘ where ‘e’  is the noise introduced, then what is the output if system is interpolative in nature?",
+        "Options": [
+            "a) a(l)",
+            "b) a(l) + e",
+            "c) could be either a(l) or a(l) + e",
+            "d) e"
+        ],
+        "Answer": "Answer: a\nExplanation: This is the property of accretive system."
+    },
+    {
+        "id": 234,
+        "Question": "What property should a feedback network have, to make it useful for storing information?",
+        "Options": [
+            "a) accretive behaviour",
+            "b) interpolative behaviour",
+            "c) both accretive and interpolative behaviour",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: This is the property of interpolative system."
+    },
+    {
+        "id": 235,
+        "Question": "What is the objective of a pattern storage task in a network?",
+        "Options": [
+            "a) to store a given set of patterns",
+            "b) to recall a give set of patterns",
+            "c) both to store and recall",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: During recall accretive behaviour make it possible for system to store information."
+    },
+    {
+        "id": 236,
+        "Question": "What is the objective of pattern recall?",
+        "Options": [
+            "a) it should not take place when relations are disturbed",
+            "b) it should take place when relations are slightly disturbed",
+            "c) there is no such objective of recall, it depends on the system",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The pattern recall should take place even though features and their spatial relations are slightly disturbed due to noise."
+    },
+    {
+        "id": 237,
+        "Question": "How is pattern storage task generally accomplished?",
+        "Options": [
+            "a) by a feedback network consisting of processing units with non linear output functions",
+            "b) by a feedback network consisting of processing units with linear output functions",
+            "c) by a feedforward network consisting of processing units with non linear output functions",
+            "d) by a feedforward network consisting of processing units with linear output functions"
+        ],
+        "Answer": "Answer: a\nExplanation: Data can be stored through weights as in case of binary patterns."
+    },
+    {
+        "id": 238,
+        "Question": "The trajectory of the state is determined by?",
+        "Options": [
+            "a) activation dynamics",
+            "b) synaptic dynamics",
+            "c) both activation and synaptic dynamics",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Pattern storage task generally accomplished by a feedback network consisting of processing units with non linear output functions."
+    },
+    {
+        "id": 239,
+        "Question": "what  do you mean by the term trajectory of states?",
+        "Options": [
+            "a) just a state of the network",
+            "b) sates at energy minima",
+            "c) states at energy maxima",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The trajectory of the state  is determined by activation dynamics."
+    },
+    {
+        "id": 240,
+        "Question": "What determines shape of energy landscape?",
+        "Options": [
+            "a) network parameters",
+            "b) network states",
+            "c) both network parameter and states",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The term trajectory of states means state of the network at successive instants of time."
+    },
+    {
+        "id": 241,
+        "Question": "What may create basins of attraction in energy landscape?",
+        "Options": [
+            "a) feedback among units",
+            "b) nonlinear processing in units",
+            "c) both feedback and nonlinear processing in units",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The shape of energy landscape is determined by network parameter and states."
+    },
+    {
+        "id": 242,
+        "Question": "What is the effect of basins of attraction on energy landscape?",
+        "Options": [
+            "a) leads to small deviations",
+            "b) leads to fluctuation around",
+            "c) may lead to deviation or fluctuation depends on external noise",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Feedback and nonlinear processing in units may create basins of attraction in energy landscape."
+    },
+    {
+        "id": 243,
+        "Question": "What does basins of attraction corresponds to?",
+        "Options": [
+            "a) stable states",
+            "b) unstable states",
+            "c) neutral states",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Basins of attraction in energy landscape leads to small deviations."
+    },
+    {
+        "id": 244,
+        "Question": "For what purpose energy  minima are used?",
+        "Options": [
+            "a) pattern classification",
+            "b) patten mapping",
+            "c) pattern storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Energy  minima are used for pattern storage."
+    },
+    {
+        "id": 245,
+        "Question": "What is capacity of a network?",
+        "Options": [
+            "a) number of inputs it can take",
+            "b) number of output it can deliver",
+            "c) number of patterns that can be stored",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It is not possible to determine exact number of basins of attraction in energy landscape."
+    },
+    {
+        "id": 246,
+        "Question": "Number of desired patterns is what of basins of attraction?",
+        "Options": [
+            "a) dependent",
+            "b) independent",
+            "c) dependent or independent",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The capacity of a network is the number of patterns that can be stored."
+    },
+    {
+        "id": 247,
+        "Question": "What happens when number of patterns is more than number of basins of attraction?",
+        "Options": [
+            "a) false wells",
+            "b) storage problem becomes hard problem",
+            "c) no storage and recall can take place",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Probability of error in recall be reduced by adjusting weights in such a way that it is matched to probability distribution of desired patterns."
+    },
+    {
+        "id": 248,
+        "Question": "What happens when number of patterns is less than number of basins of attraction?",
+        "Options": [
+            "a) false wells",
+            "b) storage problem becomes hard problem",
+            "c) no storage and recall can take place",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of desired patterns is independent of basins of attraction."
+    },
+    {
+        "id": 249,
+        "Question": "What is hopfield model?",
+        "Options": [
+            "a) fully connected feedback network",
+            "b) fully connected feedback network  with symmetric weights",
+            "c) fully connected feedforward network",
+            "d) fully connected feedback network with symmetric weights"
+        ],
+        "Answer": "Answer: b\nExplanation: When number of patterns is more than number of basins of attraction then storage problem becomes hard problem."
+    },
+    {
+        "id": 250,
+        "Question": "When are false wells created?",
+        "Options": [
+            "a) when number of patterns is more than number of basins of attraction",
+            "b) when number of patterns is less than number of basins of attraction",
+            "c) when number of patterns is same as number of basins of attraction",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: False wells are created when number of patterns is less than number of basins of attraction."
+    },
+    {
+        "id": 251,
+        "Question": "When does storage problem becomes hard problem?",
+        "Options": [
+            "a) when number of patterns is more than number of basins of attraction",
+            "b) when number of patterns is less than number of basins of attraction",
+            "c) when number of patterns is same as number of basins of attraction",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: Hopfield model is fully connected feedback network  with symmetric weights."
+    },
+    {
+        "id": 252,
+        "Question": "For what purpose energy  minima are used?",
+        "Options": [
+            "a) pattern classification",
+            "b) patten mapping",
+            "c) pattern storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Energy  minima are used for pattern storage."
+    },
+    {
+        "id": 253,
+        "Question": "What is capacity of a network?",
+        "Options": [
+            "a) number of inputs it can take",
+            "b) number of output it can deliver",
+            "c) number of patterns that can be stored",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It is not possible to determine exact number of basins of attraction in energy landscape."
+    },
+    {
+        "id": 254,
+        "Question": "Number of desired patterns is what of basins of attraction?",
+        "Options": [
+            "a) dependent",
+            "b) independent",
+            "c) dependent or independent",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The capacity of a network is the number of patterns that can be stored."
+    },
+    {
+        "id": 255,
+        "Question": "What happens when number of patterns is more than number of basins of attraction?",
+        "Options": [
+            "a) false wells",
+            "b) storage problem becomes hard problem",
+            "c) no storage and recall can take place",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Probability of error in recall be reduced by adjusting weights in such a way that it is matched to probability distribution of desired patterns."
+    },
+    {
+        "id": 256,
+        "Question": "What happens when number of patterns is less than number of basins of attraction?",
+        "Options": [
+            "a) false wells",
+            "b) storage problem becomes hard problem",
+            "c) no storage and recall can take place",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of desired patterns is independent of basins of attraction."
+    },
+    {
+        "id": 257,
+        "Question": "What is hopfield model?",
+        "Options": [
+            "a) fully connected feedback network",
+            "b) fully connected feedback network  with symmetric weights",
+            "c) fully connected feedforward network",
+            "d) fully connected feedback network with symmetric weights"
+        ],
+        "Answer": "Answer: b\nExplanation: When number of patterns is more than number of basins of attraction then storage problem becomes hard problem."
+    },
+    {
+        "id": 258,
+        "Question": "When are false wells created?",
+        "Options": [
+            "a) when number of patterns is more than number of basins of attraction",
+            "b) when number of patterns is less than number of basins of attraction",
+            "c) when number of patterns is same as number of basins of attraction",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: False wells are created when number of patterns is less than number of basins of attraction."
+    },
+    {
+        "id": 259,
+        "Question": "When does storage problem becomes hard problem?",
+        "Options": [
+            "a) when number of patterns is more than number of basins of attraction",
+            "b) when number of patterns is less than number of basins of attraction",
+            "c) when number of patterns is same as number of basins of attraction",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: Hopfield model is fully connected feedback network  with symmetric weights."
+    },
+    {
+        "id": 260,
+        "Question": "How can states of units be updated in hopfield model?",
+        "Options": [
+            "a) synchronously",
+            "b) asynchronously",
+            "c) synchronously and asynchronously",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: States of units be updated synchronously and asynchronously in hopfield model."
+    },
+    {
+        "id": 261,
+        "Question": "What is synchronous update in hopfield model?",
+        "Options": [
+            "a) all units are updated simultaneously",
+            "b) a unit is selected at random and  its new state is computed",
+            "c) a predefined unit is selected and its new state is computed",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In synchronous update, all units are updated simultaneously."
+    },
+    {
+        "id": 262,
+        "Question": "What is asynchronous update in hopfield model?",
+        "Options": [
+            "a) all units are updated simultaneously",
+            "b) a unit is selected at random and  its new state is computed",
+            "c) a predefined unit is selected and its new state is computed",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In asynchronous update, a unit is selected at random and  its new state is computed."
+    },
+    {
+        "id": 263,
+        "Question": "If pattern is to be stored, then what does stable state should have updated value of?",
+        "Options": [
+            "a) current sate",
+            "b) next state",
+            "c) both current and next state",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Asynchronous update ensures that the next state is at most unit hamming distance from current state."
+    },
+    {
+        "id": 264,
+        "Question": "For symmetric weights there exist?",
+        "Options": [
+            "a) basins of attraction corresponding to energy minimum",
+            "b) false wells",
+            "c) fluctuations in energy landscape",
+            "d) none of he mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Stable state should have updated value of current sate."
+    },
+    {
+        "id": 265,
+        "Question": "If connections are not symmetric then basins of attraction may correspond to?",
+        "Options": [
+            "a) oscillatory regions",
+            "b) stable regions",
+            "c) chaotic regions",
+            "d) oscillatory or chaotic regions"
+        ],
+        "Answer": "Answer: a\nExplanation: For symmetric weights there exist a stable point."
+    },
+    {
+        "id": 266,
+        "Question": "For analysis of storage capacity what are the conditions imposed on hopfield model?",
+        "Options": [
+            "a) symmetry of weights",
+            "b) asynchronous update",
+            "c) symmetry of weights and asynchronous update",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: If connections are not symmetric then basins of attraction may correspond to oscillatory or chaotic regions."
+    },
+    {
+        "id": 267,
+        "Question": "What is gradient descent?",
+        "Options": [
+            "a) method to find the absolute minimum of a function",
+            "b) method to find the absolute maximum of a function",
+            "c) maximum or minimum, depends on the situation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: For analysis of storage capacity, symmetry of weights and asynchronous update conditions are imposed on hopfield model."
+    },
+    {
+        "id": 268,
+        "Question": "In hopfield network with symmetric weights, energy at each state may?",
+        "Options": [
+            "a) increase",
+            "b) decrease",
+            "c) decrease or remain same",
+            "d) decrease or increase"
+        ],
+        "Answer": "Answer: c\nExplanation: Energy of the network cant increase as it may then lead to instability."
+    },
+    {
+        "id": 269,
+        "Question": "In hopfield model with symmetric weights, network can move to?",
+        "Options": [
+            "a) lower",
+            "b) higher",
+            "c) lower or higher",
+            "d) lower or same"
+        ],
+        "Answer": "Answer: d\nExplanation: In hopfield model with symmetric weights, network can move to lower or same state."
+    },
+    {
+        "id": 270,
+        "Question": "How can error in recall due to false minima be reduced?",
+        "Options": [
+            "a) deterministic update for states",
+            "b) stochastic update for states",
+            "c) not possible",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: There are generally two methods to reduce error in recall due to false minima."
+    },
+    {
+        "id": 271,
+        "Question": "Pattern storage problem which cannot be represented by a feedback network of given size can be called as?",
+        "Options": [
+            "a) easy problems",
+            "b) hard problems",
+            "c) no such problem exist",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Error in recall due to false minima can be reduced by stochastic update for states."
+    },
+    {
+        "id": 272,
+        "Question": "What is the other way to reduce error in recall due to false minima apart from stochastic update?",
+        "Options": [
+            "a) no other method exist",
+            "b) by storing desired patterns at lowest energy minima",
+            "c) by storing desired patterns at energy maxima",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  Energy of the network cant increase as it may then lead to instability."
+    },
+    {
+        "id": 273,
+        "Question": "How can error in recall due to false minima be further reduced?",
+        "Options": [
+            "a) using suitable activation dynamics",
+            "b) cannot be further reduced",
+            "c) by storing desired patterns at energy maxima",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Pattern storage problem which cannot be represented by a feedback network of given size are known as hard problems."
+    },
+    {
+        "id": 274,
+        "Question": "As temperature increase, what happens to stochastic update?",
+        "Options": [
+            "a) increase in update",
+            "b) decrease in update",
+            "c) no change",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Error in recall due to false minima can be reduced by stochastic update or by storing desired patterns at lowest energy minima."
+    },
+    {
+        "id": 275,
+        "Question": "Why does change in temperature doesn’t effect stochastic update?",
+        "Options": [
+            "a) shape landscape depends on the network and its weights which varies accordingly and compensates the effect",
+            "b) shape landscape depends on the network and its weights which is fixed",
+            "c) shape landscape depends on the network, its weights and the output function which varies accordingly and compensates the effect",
+            "d) shape landscape depends on the network, its weights and the output function which is fixed"
+        ],
+        "Answer": "Answer: a\nExplanation: Error in recall due to false minima can  further be reduced by using suitable activation dynamics."
+    },
+    {
+        "id": 276,
+        "Question": "p(s=1|x) = 1/(1+exp(-x/T))) ,where ‘s’ is the output given the activation ‘x’ is a?",
+        "Options": [
+            "a) hopfield network",
+            "b) sigma network",
+            "c) stochastic network",
+            "d) none  of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: This is the basic equation of a stochastic network."
+    },
+    {
+        "id": 277,
+        "Question": "In case of deterministic update, what kind of equilibrium is reached?",
+        "Options": [
+            "a) static",
+            "b) dynamic",
+            "c) neutral",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: As trajectory of the state of the network becomes a sample function of a random process."
+    },
+    {
+        "id": 278,
+        "Question": "In case of stochastic update, what kind of equilibrium is reached?",
+        "Options": [
+            "a) static",
+            "b) dynamic",
+            "c) neutral",
+            "d) equilibrium not possible"
+        ],
+        "Answer": "Answer: a\nExplanation: In case of deterministic update, static equilibrium is reached."
+    },
+    {
+        "id": 279,
+        "Question": "What can be the possible reason for thermal equilibrium in stochastic networks?",
+        "Options": [
+            "a) probability distribution of states changes and compensates",
+            "b) probability distribution change with only update",
+            "c) probability distribution does not change with time",
+            "d) none of the mentionedstochastic network exhibits stable states"
+        ],
+        "Answer": "Answer: b\nExplanation: There will never be a static equilibrium in stochastic network."
+    },
+    {
+        "id": 280,
+        "Question": "When activation value is determined by using the average of fluctuations of outputs from other units, it is known as?",
+        "Options": [
+            "a) maximum field approximation",
+            "b) median field approximation",
+            "c) minimum field approximation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In case of stochastic update, dynamic equilibrium is reached."
+    },
+    {
+        "id": 281,
+        "Question": "Where does a stochastic network exhibits stable states ?",
+        "Options": [
+            "a) at any temperature",
+            "b) above critical temperature",
+            "c) at critical temperature",
+            "d) below critical temperature"
+        ],
+        "Answer": "Answer: a\nExplanation: Dynamic equilibrium is possible in stochastic network."
+    },
+    {
+        "id": 282,
+        "Question": "Probability of error in recall of stored patterns can be reduced if?",
+        "Options": [
+            "a) patterns are stored appropriately",
+            "b) inputs are captured appropriately",
+            "c) weights are chosen appropriately",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Probability of error in recall of stored patterns can be reduced if weights are chosen appropriately."
+    },
+    {
+        "id": 283,
+        "Question": "What is pattern environment?",
+        "Options": [
+            "a) probability of desired patterns",
+            "b) probability of given patterns",
+            "c) behaviour of system",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Pattern environment is probability distribution of given patterns."
+    },
+    {
+        "id": 284,
+        "Question": "For what purpose is pattern environment useful?",
+        "Options": [
+            "a) determining structure",
+            "b) determining desired outputs",
+            "c) determining future inputs",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Pattern environment is useful for determining weights."
+    },
+    {
+        "id": 285,
+        "Question": "What should be the aim of training procedure in boltzman machine of feedback networks?",
+        "Options": [
+            "a) to capture inputs",
+            "b) to feedback the captured outputs",
+            "c) to capture the behaviour of system",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The training procedure should try to capture the pattern environment."
+    },
+    {
+        "id": 286,
+        "Question": "What consist of boltzman machine?",
+        "Options": [
+            "a) fully connected network  with both hidden and visible units",
+            "b) asynchronous operation",
+            "c) stochastic update",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Boltzman machine consist of fully connected network  with both hidden and visible units operating asynchronously with stochastic update."
+    },
+    {
+        "id": 287,
+        "Question": "By using which method, boltzman machine reduces effect of additional stable states?",
+        "Options": [
+            "a) no such method exist",
+            "b) simulated annealing",
+            "c) hopfield reduction",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: boltzman machine uses simulated annealing to reduce the effect of additional stable states."
+    },
+    {
+        "id": 288,
+        "Question": "For which other task can boltzman machine be used?",
+        "Options": [
+            "a) pattern mapping",
+            "b) feature mapping",
+            "c) classification",
+            "d) pattern association"
+        ],
+        "Answer": "Answer: d\nExplanation: Boltzman machine can be used for pattern association."
+    },
+    {
+        "id": 289,
+        "Question": "How are energy minima related to probability of occurrence of corresponding patterns in the environment?",
+        "Options": [
+            "a) directly",
+            "b) inversely",
+            "c) directly or inversely",
+            "d) no relation"
+        ],
+        "Answer": "Answer: a\nExplanation: Energy minima is directly related to probability of occurrence of corresponding patterns in the environment."
+    },
+    {
+        "id": 290,
+        "Question": "What may be the reasons for non zero probability of error in recalling?",
+        "Options": [
+            "a) spurious stable states",
+            "b) approximation in pattern environment representation",
+            "c) extra stable states",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Exact representation of pattern environment is not possible."
+    },
+    {
+        "id": 291,
+        "Question": "For what purpose Feedback neural networks are primarily used?",
+        "Options": [
+            "a) classification",
+            "b) feature mapping",
+            "c) pattern mapping",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Feedback neural networks are primarily used for pattern storage."
+    },
+    {
+        "id": 292,
+        "Question": "Presence of false minima will have what effect on probability of error in recall?",
+        "Options": [
+            "a) directly",
+            "b) inversely",
+            "c) no effect",
+            "d) directly or inversely"
+        ],
+        "Answer": "Answer: a\nExplanation: Presence of false minima will increase the probability of error in recall."
+    },
+    {
+        "id": 293,
+        "Question": "How is effect false minima reduced",
+        "Options": [
+            "a) deterministic update of weights",
+            "b) stochastic update of weights",
+            "c) deterministic or stochastic update of weights",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Presence of false minima can be reduced by stochastic update."
+    },
+    {
+        "id": 294,
+        "Question": "For practical implementation what type of approximation is used on boltzman law?",
+        "Options": [
+            "a) max field approximation",
+            "b) min field approximation",
+            "c) hopfield approximation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boltzman law is too slow for implementation."
+    },
+    {
+        "id": 295,
+        "Question": "What happens when we use mean field approximation with boltzman learning?",
+        "Options": [
+            "a) it slows down",
+            "b) it get speeded up",
+            "c) nothing happens",
+            "d) may speedup or speed down"
+        ],
+        "Answer": "Answer: d\nExplanation: For practical implementation mean field approximation is used."
+    },
+    {
+        "id": 296,
+        "Question": "Approximately how much times the boltzman learning get speeded up using mean field approximation?",
+        "Options": [
+            "a) 5-10",
+            "b) 10-30",
+            "c) 30-50",
+            "d) 50-70"
+        ],
+        "Answer": "Answer: b\nExplanation: Boltzman learning get speeded up using mean field approximation."
+    },
+    {
+        "id": 297,
+        "Question": "In boltzman learning which algorithm can be used to arrive at equilibrium?",
+        "Options": [
+            "a) hopfield",
+            "b) mean field",
+            "c) hebb",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boltzman learning get speeded up 10-30  using mean field approximation."
+    },
+    {
+        "id": 298,
+        "Question": "Boltzman learning is a?",
+        "Options": [
+            "a) fast process",
+            "b) steady process",
+            "c) slow process",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Presence of false minima can be reduced by stochastic update."
+    },
+    {
+        "id": 299,
+        "Question": "How are input layer units connected to second layer in competitive learning networks?",
+        "Options": [
+            "a) feedforward manner",
+            "b) feedback manner",
+            "c) feedforward and feedback",
+            "d) feedforward or feedback"
+        ],
+        "Answer": "Answer: a\nExplanation: The output of input layer is given to second layer with adaptive feedforward weights."
+    },
+    {
+        "id": 300,
+        "Question": "Which layer has feedback weights in competitive neural networks?",
+        "Options": [
+            "a) input layer",
+            "b) second layer",
+            "c) both input and second layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Second layer has weights which gives feedback to the layer itself."
+    },
+    {
+        "id": 301,
+        "Question": "What is the nature of general feedback given in competitive neural networks?",
+        "Options": [
+            "a) self excitatory",
+            "b) self inhibitory",
+            "c) self excitatory or self inhibitory",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The output of each unit in second layer is fed back to itself in self – excitatory manner."
+    },
+    {
+        "id": 302,
+        "Question": "What consist of competitive learning neural networks?",
+        "Options": [
+            "a) feedforward paths",
+            "b) feedback paths",
+            "c) either feedforward or feedback",
+            "d) combination of feedforward and feedback"
+        ],
+        "Answer": "Answer: d\nExplanation: Competitive learning neural networks is a combination of feedforward and feedback connection layers resulting in some kind of competition."
+    },
+    {
+        "id": 303,
+        "Question": "What conditions are must for competitive network to perform pattern clustering?",
+        "Options": [
+            "a) non linear output layers",
+            "b) connection to neighbours is excitatory and to  the farther units inhibitory",
+            "c) on centre off surround connections",
+            "d) none of the mentioned fulfils the whole criteria"
+        ],
+        "Answer": "Answer: d\nExplanation: If the output functions of units in feedback laye are made non-linear , with fixed weight on-centre off-surround connections, the pattern clustering can be performed."
+    },
+    {
+        "id": 304,
+        "Question": "What conditions are must for competitive network to perform feature mapping?",
+        "Options": [
+            "a) non linear output layers",
+            "b) connection to neighbours is excitatory and to  the farther units inhibitory",
+            "c) on centre off surround connections",
+            "d) none of the mentioned fulfils the whole criteria"
+        ],
+        "Answer": "Answer: d\nExplanation: If cndition in a, b, c are met then feature mapping can  be performed."
+    },
+    {
+        "id": 305,
+        "Question": "If a competitive network can perform feature mapping then what is that network can be called?",
+        "Options": [
+            "a) self excitatory",
+            "b) self inhibitory",
+            "c) self organization",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Competitive network that can perform feature mapping can be called as self organization network."
+    },
+    {
+        "id": 306,
+        "Question": "What is an instar?",
+        "Options": [
+            "a) receives inputs from all others",
+            "b) gives output to all others",
+            "c) may receive or give input or output to others",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: An instar receives inputs from all other input units."
+    },
+    {
+        "id": 307,
+        "Question": "How is weight vector adjusted in basic competitive learning?",
+        "Options": [
+            "a) such that it moves towards the input vector",
+            "b) such that it moves  away from input vector",
+            "c) such that it moves towards the output vector",
+            "d) such that it moves  away from output vector"
+        ],
+        "Answer": "Answer: a\nExplanation: Weight vector is adjusted such that it moves towards the input vector."
+    },
+    {
+        "id": 308,
+        "Question": "The update in weight vector in basic competitive learning can be represented by?",
+        "Options": [
+            "a) w(t + 1) = w(t) + del.w(t)",
+            "b) w(t + 1) = w(t)",
+            "c) w(t + 1) = w(t) – del.w(t)",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The update in weight vector in basic competitive learning can be represented by w(t + 1) = w(t) + del.w(t)."
+    },
+    {
+        "id": 309,
+        "Question": "The weight change in  plain hebbian learning is?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 0 or 1",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: An instar can respond to a set of input vectors even if it is trained to capture the average behaviour of the set."
+    },
+    {
+        "id": 310,
+        "Question": "What is the nature  of weights in plain hebbian learning?",
+        "Options": [
+            "a) convergent",
+            "b) divergent",
+            "c) may be convergent or divergent",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The weight change in  plain hebbian learning can never be zero."
+    },
+    {
+        "id": 311,
+        "Question": "How can divergence be prevented?",
+        "Options": [
+            "a) using hopfield criteria",
+            "b) sangers rule",
+            "c) ojas rule",
+            "d) sangers or ojas rule"
+        ],
+        "Answer": "Answer: b\nExplanation: In plain hebbian learning weights keep growing without bound."
+    },
+    {
+        "id": 312,
+        "Question": "What is ojas rule?",
+        "Options": [
+            "a) finds a unit weight vector",
+            "b) maximises the mean squared output",
+            "c) minimises the mean squared output",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Divergence can be prevented by using sangers or ojas rule."
+    },
+    {
+        "id": 313,
+        "Question": "What is the other name of feedback layer in competitive neural networks?",
+        "Options": [
+            "a) feedback layer",
+            "b) feed layer",
+            "c) competitive layer",
+            "d) no such name exist"
+        ],
+        "Answer": "Answer: a\nExplanation: ||w|| = 1 ."
+    },
+    {
+        "id": 314,
+        "Question": "what kind of feedbacks are given in competitive layer?",
+        "Options": [
+            "a) self excitatory to self and others",
+            "b) inhibitory to self and others",
+            "c) self excitatory to self and inhibitory to others",
+            "d) inhibitory to self and excitatory to others"
+        ],
+        "Answer": "Answer: d\nExplanation: Ojas rule finds a unit weight vector and maximises the mean squared output."
+    },
+    {
+        "id": 315,
+        "Question": "Generally how many kinds of pattern storage network exist?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: c\nExplanation: Feedback layer in competitive neural networks is also known as competitive layer."
+    },
+    {
+        "id": 316,
+        "Question": "What kind of learning is involved in pattern clustering task?",
+        "Options": [
+            "a) supervised",
+            "b) unsupervised",
+            "c) learning with critic",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since pattern classes are formed on unlabelled classes."
+    },
+    {
+        "id": 317,
+        "Question": "In pattern clustering, does physical location of a unit relative to other unit has any significance?",
+        "Options": [
+            "a) yes",
+            "b) no",
+            "c) depends on type of clustering",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Physical location of a unit doesn’t effect the output."
+    },
+    {
+        "id": 318,
+        "Question": "How is feature mapping network distinct from competitive learning network?",
+        "Options": [
+            "a) geometrical arrangement",
+            "b) significance attached to neighbouring units",
+            "c) nonlinear units",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Both the geometrical arrangement and significance attached to neighbouring units make it distinct."
+    },
+    {
+        "id": 319,
+        "Question": "What is the objective of feature maps?",
+        "Options": [
+            "a) to capture the features in space of input patterns",
+            "b) to capture just the input patterns",
+            "c) update weights",
+            "d) to capture output patterns"
+        ],
+        "Answer": "Answer: a\nExplanation: The objective of feature maps is to capture the features in space of input patterns."
+    },
+    {
+        "id": 320,
+        "Question": "How are weights updated in feature maps?",
+        "Options": [
+            "a) updated for winning unit only",
+            "b) updated for neighbours of winner only",
+            "c) updated for winning unit and its neighbours",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Weights are updated in feature maps for  winning unit and its neighbours."
+    },
+    {
+        "id": 321,
+        "Question": "In feature maps, when weights are updated for  winning unit and its neighbour, which type learning it is known as?",
+        "Options": [
+            "a) karnaugt learning",
+            "b) boltzman learning",
+            "c) kohonen’s learning",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Self organization network is also known as Kohonen learning."
+    },
+    {
+        "id": 322,
+        "Question": "In self organizing network, how is layer connected to output layer?",
+        "Options": [
+            "a) some are connected",
+            "b) all are one to one connected",
+            "c) each input unit is connected to each output unit",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: In self organizing network, each input unit is connected to each output unit."
+    },
+    {
+        "id": 323,
+        "Question": "What is true regarding adaline learning algorithm",
+        "Options": [
+            "a) uses gradient descent to determine the weight vector that leads to minimal error",
+            "b) error is defined as MSE between neurons net input and its desired output",
+            "c) this technique allows incremental learning",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Incremental learning means refining of the weights as more training samples are added, rest are basic statements that defines adaline learning."
+    },
+    {
+        "id": 324,
+        "Question": "What is true for competitive learning?",
+        "Options": [
+            "a) nodes compete for inputs",
+            "b) process leads to most efficient neural representation of input space",
+            "c) typical for unsupervised learning",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all statements defines the competitive learning."
+    },
+    {
+        "id": 325,
+        "Question": "Use of nonlinear units in the feedback layer of competitive network leads to concept of?",
+        "Options": [
+            "a) feature mapping",
+            "b) pattern storage",
+            "c) pattern classification",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Use of nonlinear units in the feedback layer of competitive network leads to concept of pattern clustering."
+    },
+    {
+        "id": 326,
+        "Question": "What are the tasks that cannot be realised or recognised by simple networks?",
+        "Options": [
+            "a) handwritten characters",
+            "b) speech sequences",
+            "c) image sequences",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are complex recognition tasks."
+    },
+    {
+        "id": 327,
+        "Question": "If the weight matrix stores the given patterns, then the network becomes?",
+        "Options": [
+            "a) autoassoiative memory",
+            "b) heteroassociative memory",
+            "c) multidirectional assocative memory",
+            "d) temporal associative memory"
+        ],
+        "Answer": "Answer: b\nExplanation: Data cannot be stored directly in associative memory."
+    },
+    {
+        "id": 328,
+        "Question": "If the weight matrix stores association between a pair of patterns, then network becomes?",
+        "Options": [
+            "a) autoassoiative memory",
+            "b) heteroassociative memory",
+            "c) multidirectional assocative memory",
+            "d) temporal associative memory"
+        ],
+        "Answer": "Answer: a\nExplanation: If the weight matrix stores the given patterns, then the network becomes autoassoiative memory."
+    },
+    {
+        "id": 329,
+        "Question": "If the weight matrix stores multiple associations among several patterns, then network becomes?",
+        "Options": [
+            "a) autoassoiative memory",
+            "b) heteroassociative memory",
+            "c) multidirectional assocative memory",
+            "d) temporal associative memory"
+        ],
+        "Answer": "Answer: b\nExplanation: If the weight matrix stores the given patterns, then the network becomes heteroassociative memory."
+    },
+    {
+        "id": 330,
+        "Question": "If the weight matrix stores association between adjacent pairs of patterns, then network becomes?",
+        "Options": [
+            "a) autoassoiative memory",
+            "b) heteroassociative memory",
+            "c) multidirectional assocative memory",
+            "d) temporal associative memory"
+        ],
+        "Answer": "Answer: a\nExplanation: If the weight matrix stores the given patterns, then the network becomes multidirectional assocative memory."
+    },
+    {
+        "id": 331,
+        "Question": "Heteroassociative memory is also known as?",
+        "Options": [
+            "a) unidirectional memory",
+            "b) bidirectional memory",
+            "c) multidirectional assocative memory",
+            "d) temporal associative memory"
+        ],
+        "Answer": "Answer: a\nExplanation: If the weight matrix stores the given patterns, then the network becomes temporal associative memory."
+    },
+    {
+        "id": 332,
+        "Question": "What are some of desirable characteristics of associative memories?",
+        "Options": [
+            "a) ability to store large number of patterns",
+            "b) fault tolerance",
+            "c) able to recall, even for input pattern is noisy",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Heteroassociative memory is also known as bidirectional memory."
+    },
+    {
+        "id": 333,
+        "Question": "What is the objective of BAM?",
+        "Options": [
+            "a) to store pattern pairs",
+            "b) to recall pattern pairs",
+            "c) to store a set of pattern pairs and they can be recalled by giving either of pattern as input",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all are desirable characteristics of associative memories."
+    },
+    {
+        "id": 334,
+        "Question": "What is the use of MLFFNN?",
+        "Options": [
+            "a) to realize structure of MLP",
+            "b) to solve pattern classification problem",
+            "c) to solve pattern mapping problem",
+            "d) to realize an approximation to a MLP"
+        ],
+        "Answer": "Answer: d\nExplanation: MLFFNN stands for multilayer feedforward network and MLP stands for multilayer perceptron."
+    },
+    {
+        "id": 335,
+        "Question": "What is the advantage of basis function over mutilayer feedforward neural networks?",
+        "Options": [
+            "a) training of basis function is faster than MLFFNN",
+            "b) training of basis function is slower than MLFFNN",
+            "c) storing in basis function is faster than MLFFNN",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The main advantage of basis function is that the  training of basis function is faster than MLFFNN."
+    },
+    {
+        "id": 336,
+        "Question": "Why is the training of basis function is faster than MLFFNN?",
+        "Options": [
+            "a) because they are developed specifically for pattern approximation",
+            "b) because they are developed specifically for pattern classification",
+            "c) because they are developed specifically for pattern approximation or classification",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation:  Training of basis function is faster than MLFFNN because they are developed specifically for pattern approximation or classification."
+    },
+    {
+        "id": 337,
+        "Question": "Pattern recall takes more time for?",
+        "Options": [
+            "a) MLFNN",
+            "b) Basis function",
+            "c) Equal for both MLFNN and basis function",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The first layer of basis function involves computations."
+    },
+    {
+        "id": 338,
+        "Question": "In which type of networks training is completely avoided?",
+        "Options": [
+            "a) GRNN",
+            "b) PNN",
+            "c) GRNN and PNN",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: In GRNN and PNN networks training is completely avoided."
+    },
+    {
+        "id": 339,
+        "Question": "What does GRNN do?",
+        "Options": [
+            "a) function approximation task",
+            "b) pattern classification task",
+            "c) function approximation and pattern classification task",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: GRNN stand for Generalized Regression Neural Networks."
+    },
+    {
+        "id": 340,
+        "Question": "What does PNN do?",
+        "Options": [
+            "a) function approximation task",
+            "b) pattern classification task",
+            "c) function approximation and pattern classification task",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: PNN stand for Probabilistic Neural Networks."
+    },
+    {
+        "id": 341,
+        "Question": "Th CPN provides practical approach for implementing?",
+        "Options": [
+            "a) patter approximation",
+            "b) pattern classification",
+            "c) pattern mapping",
+            "d) pattern clustering"
+        ],
+        "Answer": "Answer: c\nExplanation: CPN i.e counterpropagation network provides a practical approach for implementing pattern mapping."
+    },
+    {
+        "id": 342,
+        "Question": "What consist of a basic counterpropagation network?",
+        "Options": [
+            "a) a feedforward network only",
+            "b) a feedforward network with hidden layer",
+            "c) two feedforward network with hidden layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Counterpropagation network consist of two feedforward network with a common hidden layer."
+    },
+    {
+        "id": 343,
+        "Question": "How does the name counterpropagation signifies its architecture?",
+        "Options": [
+            "a) its ability to learn  inverse mapping functions",
+            "b) its ability to learn  forward mapping functions",
+            "c) its ability to learn  forward and inverse mapping functions",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Counterpropagation network has ability to learn  forward and inverse mapping functions."
+    },
+    {
+        "id": 344,
+        "Question": "An auto – associative network is?",
+        "Options": [
+            "a) network in neural which contains feedback",
+            "b) network in neural which contains loops",
+            "c) network in neural which no loops",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: An auto – associative network contains feedback."
+    },
+    {
+        "id": 345,
+        "Question": "What is true about sigmoidal neurons?",
+        "Options": [
+            "a) can accept any vectors of real numbers as input",
+            "b) outputs a real number between 0 and 1",
+            "c) they are the most common type of neurons",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These all statements itself defines sigmoidal neurons."
+    },
+    {
+        "id": 346,
+        "Question": "The bidirectional associative memory is similar in principle to?",
+        "Options": [
+            "a) hebb learning model",
+            "b) boltzman model",
+            "c) Papert model",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The bidirectional associative memory is similar in principle to Hopfield model."
+    },
+    {
+        "id": 347,
+        "Question": "What does ART stand for?",
+        "Options": [
+            "a) Automatic resonance theory",
+            "b) Artificial resonance theory",
+            "c) Adaptive resonance theory",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: ART stand for Adaptive resonance theory."
+    },
+    {
+        "id": 348,
+        "Question": "What is the purpose of ART?",
+        "Options": [
+            "a) take care of approximation in a network",
+            "b) take care of update of weights",
+            "c) take care of pattern storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Adaptive resonance theory take care of stability plasticity dilemma."
+    },
+    {
+        "id": 349,
+        "Question": "hat type learning is involved in ART?",
+        "Options": [
+            "a) supervised",
+            "b) unsupervised",
+            "c) supervised and unsupervised",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: CPN is a unsupervised learning."
+    },
+    {
+        "id": 350,
+        "Question": "What type of inputs does ART – 1 receives?",
+        "Options": [
+            "a) bipolar",
+            "b) binary",
+            "c) both bipolar and binary",
+            "d) none of the mentiobned"
+        ],
+        "Answer": "Answer: b\nExplanation: ART – 1 receives only binary inputs."
+    },
+    {
+        "id": 351,
+        "Question": "A greater value of ‘p’ the vigilance parameter leads to?",
+        "Options": [
+            "a) small clusters",
+            "b) bigger clusters",
+            "c) no change",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Input samples associated with same neuron get reduced."
+    },
+    {
+        "id": 352,
+        "Question": "ART is made to tackle?",
+        "Options": [
+            "a) stability problem",
+            "b) hard problems",
+            "c) storage problems",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: ART is made to tackle stability – plasticity dilemma."
+    },
+    {
+        "id": 353,
+        "Question": "What does vigilance parameter in ART determines?",
+        "Options": [
+            "a) number of possible outputs",
+            "b) number of desired outputs",
+            "c) number of acceptable inputs",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Vigilance parameter in ART determines the tolerance of matching process."
+    },
+    {
+        "id": 354,
+        "Question": "Which application out of these of robots can be made of single layer feedforward network?",
+        "Options": [
+            "a) wall climbing",
+            "b) rotating arm and legs",
+            "c) gesture control",
+            "d) wall following"
+        ],
+        "Answer": "Answer: d\nExplanation: Wall folloing is a simple task and doesn’t require any feedback."
+    },
+    {
+        "id": 355,
+        "Question": "Which is the most direct application of neural networks?",
+        "Options": [
+            "a) vector quantization",
+            "b) pattern mapping",
+            "c) pattern classification",
+            "d) control applications"
+        ],
+        "Answer": "Answer: c\nExplanation: Its is the most direct and multilayer feedforward networks became popular because of this."
+    },
+    {
+        "id": 356,
+        "Question": "What are pros of neural networks over computers?",
+        "Options": [
+            "a) they have ability to learn b examples",
+            "b) they have real time high computational rates",
+            "c) they have more tolerance",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Because of their parallel structure, they have high computational rates than conventional computers, so all are true."
+    },
+    {
+        "id": 357,
+        "Question": "what is true about single layer associative neural networks?",
+        "Options": [
+            "a) performs pattern recognition",
+            "b) can find the parity of a picture",
+            "c) can determine whether two or more  shapes in a picture are connected or not",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It can only perform pattern recognition, rest is not true for a single layer neural."
+    },
+    {
+        "id": 358,
+        "Question": "which of the following is false?",
+        "Options": [
+            "a) neural networks are artificial copy of the human brain",
+            "b) neural networks have high computational rates than conventional computers",
+            "c) neural networks learn by examples",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All statements are true for a neural network."
+    },
+    {
+        "id": 359,
+        "Question": "For what purpose, hamming network is suitable?",
+        "Options": [
+            "a) classification",
+            "b) association",
+            "c) pattern storage",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Hamming network performs template matching between stored templates and inputs."
+    },
+    {
+        "id": 360,
+        "Question": "What happens in upper subnet of the hamming network?",
+        "Options": [
+            "a) classification",
+            "b) storage",
+            "c) output",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In upper subnet, competitive interaction among units take place. "
+    },
+    {
+        "id": 361,
+        "Question": "The competition in upper subnet of hamming network continues till?",
+        "Options": [
+            "a) only one unit remains negative",
+            "b) all units are destroyed",
+            "c) output of only one unit remains positive",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The competition in upper subnet of hamming network continues till output of only one unit remains positive."
+    },
+    {
+        "id": 362,
+        "Question": "What does the activation value of winner unit is indicative of?",
+        "Options": [
+            "a) greater the degradation more is the activation value of winning units",
+            "b) greater the degradation less is the activation value of winning units",
+            "c) greater the degradation more is the activation value of other units",
+            "d) greater the degradation less is the activation value of other units"
+        ],
+        "Answer": "Answer: b\nExplanation: Simply, greater the degradation less is the activation value of winning units."
+    },
+    {
+        "id": 363,
+        "Question": "What does the matching score at first layer in recognition hamming network  is indicative of?",
+        "Options": [
+            "a) dissimilarity of input pattern with patterns stored",
+            "b) noise immunity",
+            "c) similarity of input pattern with patterns stored",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Matching score is simply a indicative of similarity of input pattern with patterns stored."
+    },
+    {
+        "id": 364,
+        "Question": "What is the objective of associative memories?",
+        "Options": [
+            "a) to store patters",
+            "b) to recall patterns",
+            "c) to store association between patterns",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Invariances have to be dynamically estimated from data."
+    },
+    {
+        "id": 365,
+        "Question": "Is it possible to capture implicit reasoning process by patten classification network?",
+        "Options": [
+            "a) yes",
+            "b) maybe",
+            "c) no",
+            "d) cannot be determined"
+        ],
+        "Answer": "Answer: d\nExplanation: The objective of associative memories is to store association between patterns for later recall of one of patterns given the other."
+    },
+    {
+        "id": 366,
+        "Question": "Associative memory, if used in feedback structure of hopfield type can function as?",
+        "Options": [
+            "a) data memory",
+            "b) cluster",
+            "c) content addressable memory",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: For example neural network for contract bridge game."
+    },
+    {
+        "id": 367,
+        "Question": "In feedforward network, the associations corresponding to input – output patterns are stored in?",
+        "Options": [
+            "a) activation state",
+            "b) output layer",
+            "c) hidden layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Because different parts of handwritten characters are deformed differently."
+    },
+    {
+        "id": 368,
+        "Question": "Which is one of the application of associative memories?",
+        "Options": [
+            "a) direct pattern recall",
+            "b) voice signal recall",
+            "c) mapping of the signal",
+            "d) image pattern recall from noisy clues"
+        ],
+        "Answer": "Answer: c\nExplanation: Associative memory, if used in feedback structure of hopfield type can function as content addressable memory."
+    },
+    {
+        "id": 369,
+        "Question": "How can optimization be applied in images?",
+        "Options": [
+            "a) by use of simulated annealing",
+            "b) by attaching a feedback  network",
+            "c) by adding an additional hidden layer",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In feedforward network, the associations corresponding to input – output patterns are stored in weights of the network."
+    },
+    {
+        "id": 370,
+        "Question": "In control applications, how many ways are there to control a  plant?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 4",
+            "d) infinite"
+        ],
+        "Answer": "Answer: d\nExplanation: The objective of associative memories is to store association between patterns for later recall of one of patterns given the other, so noisy versions of the same image can be recalled."
+    },
+    {
+        "id": 371,
+        "Question": "Neuro – Fuzzy systems can lead to more powerful neural network?",
+        "Options": [
+            "a) yes",
+            "b) no",
+            "c) may be",
+            "d) cannot be determined"
+        ],
+        "Answer": "Answer: a\nExplanation: Optimization be applied in images by use of simulated annealing  to formulate the problem as energy minimization problem."
+    }
+]

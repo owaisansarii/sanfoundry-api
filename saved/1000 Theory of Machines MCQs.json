@@ -1,0 +1,3050 @@
+[
+    {
+        "id": 1,
+        "Question": "If the relative motions of the rigid bodies are in one plane or in parallel planes, then the mechanism is called",
+        "Options": [
+            "a) spherical mechanism",
+            "b) planar mechanism",
+            "c) spatial mechanism",
+            "d) flexure mechanism"
+        ],
+        "Answer": "Answer: b\nExplanation: In a planar mechanism, all particles describe plane curves in space and all the curves lie in a single or parallel planes. The relative motions are constrained to a single plane. Hence, the planar mechanism is a 2 – D mechanism."
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following are not included under planar mechanisms?",
+        "Options": [
+            "a) Hooke’s universal joint",
+            "b) Plate cam and follower",
+            "c) Plane four bar linkage",
+            "d) Slide crank mechanism"
+        ],
+        "Answer": "Answer: c\nExplanation: The given diagram is of a plane four bar linkage which is included under planar mechanisms as the motions are constrained in a single plane. Thus, it is planar."
+    },
+    {
+        "id": 3,
+        "Question": "In a mechanical system, if the bodies move in a way such that the trajectories of points in the system lie on concentric sphere, then the mechanism is called",
+        "Options": [
+            "a) spatial mechanism",
+            "b) flexure mechanism",
+            "c) planar mechanism",
+            "d) spherical mechanism"
+        ],
+        "Answer": "Answer: a\nExplanation: Hooke’s universal joint is an example of spherical mechanism as the relative motion of the particles is three dimensional, whereas the rest are examples of planar mechanisms (the relative motion is two dimensional.)"
+    },
+    {
+        "id": 4,
+        "Question": "A mechanism where there are no restrictions on the relative motion between the particles, the mechanism is called",
+        "Options": [
+            "a) planar mechanism",
+            "b) flexure mechanism",
+            "c) spherical mechanism",
+            "d) spatial mechanism"
+        ],
+        "Answer": "Answer: a\nExplanation: As all the relative motions of the rigid bodies are in a single plane or in parallel plane, the motion transformation is coplanar. Thus, the statement is true."
+    },
+    {
+        "id": 5,
+        "Question": "Planar mechanisms are ___________ dimensional whereas spatial mechanisms are ___________ dimensional.",
+        "Options": [
+            "a) 1, 2",
+            "b) 2, 1",
+            "c) 2, 3",
+            "d) 3, 2"
+        ],
+        "Answer": "Answer: d\nExplanation: In a spherical mechanism, the locus of every point is a curve contained in a spherical surface. These spherical surfaces are concentric."
+    },
+    {
+        "id": 6,
+        "Question": "A linkage containing a screw pair is an example of",
+        "Options": [
+            "a) Planar mechanism",
+            "b) Spatial mechanism",
+            "c) Flexure mechanism",
+            "d) Spherical mechanism"
+        ],
+        "Answer": "Answer: b\nExplanation: Hooke’s universal joint is a joint in a rigid rod which allows the rod to bend in any direction. It is included under spherical mechanisms. Thus, the given statement is false."
+    },
+    {
+        "id": 7,
+        "Question": "According to Kutzbach criterion, the mobility of a rigid body is given by the formula:",
+        "Options": [
+            "a) 3(n+1)-2j1-j2",
+            "b) 3(n+1)+2j1+j2",
+            "c) 3(n-1)+2j1+j2",
+            "d) 3(n-1)-2j1-j2"
+        ],
+        "Answer": "Answer: b\nExplanation: The mobility or number of degrees of freedom of a rigid body is defined as the number of independent movement the body has. The number of parameters that must be controlled independently to get the device in a particular position is mobility. Mobility and number of degrees of freedom are the same thing."
+    },
+    {
+        "id": 8,
+        "Question": "What is the equation for Grubler’s criterion for plane mechanisms with constrained motion?",
+        "Options": [
+            "a) 3n-2j1-4=0",
+            "b) 3n-3j1-4=0",
+            "c) 3n+2j1+4=0",
+            "d) 3n+3j1+4=0"
+        ],
+        "Answer": "Answer: d\nExplanation: The Kutzbach criterion is used to determine the number of degree of freedoms of a kinematic chain or a linkage. According to Kutzbach criterion, mobility (m) = 3(n-1)-2j1-j2; where n = number of links, j1 = number of lower pairs, j2 = number of higher pairs."
+    },
+    {
+        "id": 9,
+        "Question": "State the three dimensional form of Kutzbach criterion.",
+        "Options": [
+            "a) 6(n-1)+5j1+4j2+3j3+2j4+j5",
+            "b) 6(n-1)-5j1-4j2-3j3-2j4-j5",
+            "c) 6(n+1)+5j1+4j2+3j3+2j4+j5",
+            "d) 6(n+1)-5j1-4j2-3j3-2j4-j5"
+        ],
+        "Answer": "Answer: a\nExplanation: Equation for Grubler’s criterion for plane mechanisms with constrained motion can be derived by putting m = 1 and j2 = 0 in the equation of mobility according to Kutzbach criterion.\n1 = 3(n-1)-2j1-0\nTherefore, 3n-2j1-4=0"
+    },
+    {
+        "id": 10,
+        "Question": "If there are redundant constraints in the chain and it forms a statically indeterminate structure, what is the degree of freedom or the mobility of this structure?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) Less than 0"
+        ],
+        "Answer": "Answer: b\nExplanation: According to the three dimensional form of Kutzbach criterion, mobility (m) = 6(n-1)-5j1-4j2-3j3-2j4-j5. It is also called as Kutzbach criterion to determine the degree of freedom of a spatial mechanism."
+    },
+    {
+        "id": 11,
+        "Question": "State the equation for the three dimensional form of Grubler’s criterion.",
+        "Options": [
+            "a) 6n-5j1-7=0",
+            "b) 6n-6j1-6=0",
+            "c) 6n+5j1+7=0",
+            "d) 6n+6j1+6=0"
+        ],
+        "Answer": "Answer: c\nExplanation: Here, n = 3, j1 = 3, j2 = 0.\nHence, m = 3(3-1)-(2×3)-0 = 0\nAs the degree of freedom is 0, there is no relative motion between the links and the mechanism forms a structure."
+    },
+    {
+        "id": 12,
+        "Question": "Which of these is an inversion of a single slider crank chain?",
+        "Options": [
+            "a) Coupling rod of a locomotive",
+            "b) Beam engine",
+            "c) Watt’s indicator mechanism",
+            "d) Pendulum pump"
+        ],
+        "Answer": "Answer: a\nExplanation: Many mechanisms can be obtained as the number of links in a kinematic chain by fixing, different links in a kinematic chain one by one. Here the relative motions of the links of the mechanisms do not change. Fixing different links would result in different types of motions. This method is called as inversion of mechanism."
+    },
+    {
+        "id": 13,
+        "Question": "What is the use of beam engine?",
+        "Options": [
+            "a) To convert rotary motion into oscillatory motion",
+            "b) To convert rotary motion into reciprocating motion",
+            "c) To convert reciprocating motion into rotary motion",
+            "d) To convert oscillatory motion into rotary motion"
+        ],
+        "Answer": "Answer: d\nExplanation: Beam engine, coupling rod of a locomotive, watt’s indicator mechanism are all inversions of a four bar chain whereas the pendulum pump is an inversion of a single slider crank chain."
+    },
+    {
+        "id": 14,
+        "Question": "What is the purpose of the oscillating cylinder engine?",
+        "Options": [
+            "a) To convert rotary motion into oscillatory motion",
+            "b) To convert reciprocating motion into rotary motion",
+            "c) To convert rotary motion into reciprocating motion",
+            "d) To convert oscillatory motion into rotary motion"
+        ],
+        "Answer": "Answer: a\nExplanation: CD is a coupling rod and link AB is fixed so as to maintain a constant centre to centre distance between them. This mechanism is used to transmit rotary motion from one wheel to the other wheel. When a wheel rotates, the connecting rod starts reciprocating. The other end of the connecting rod is fixed with the second circle which also starts moving."
+    },
+    {
+        "id": 15,
+        "Question": "The pressure of gas or steam which acts on the indicator plunger can be measured using a ______________",
+        "Options": [
+            "a) Rotary internal combustion engine",
+            "b) Watt’s indicator mechanism",
+            "c) Bull engine",
+            "d) Oscillating cylinder engine"
+        ],
+        "Answer": "Answer: b\nExplanation: In this, due to the rotation of the crank about the fixed centre A, the lever oscillates about the point D. Point E of the lever CDE is connected to a piston rod which reciprocates due to the rotation of the crank i.e. this mechanism converts rotary motion into reciprocating motion."
+    },
+    {
+        "id": 16,
+        "Question": "What is the condition involved in Grashof’s law?",
+        "Options": [
+            "a) s+l≥p+q",
+            "b) s-l ≥ p-q",
+            "c) s+l≤p+q",
+            "d) s-l ≤ p-q"
+        ],
+        "Answer": "Answer: c\nExplanation: According to Grashof’s law, in a four bar mechanism, the sum of the lengths of the shortest and the longest link should be less than or equal to the sum of the lengths of two remaining links for continuous relative motion between them.\nTherefore, s+l≤p+q."
+    },
+    {
+        "id": 17,
+        "Question": "If the link next to the shortest link is fixed, what type of mechanism is obtained?",
+        "Options": [
+            "a) Double crank mechanism",
+            "b) Linkage is not planar",
+            "c) Double rocker mechanism",
+            "d) Crank rocker mechanism"
+        ],
+        "Answer": "Answer: b\nExplanation: According to Grashof’s law, in a four bar mechanism, the sum of the lengths of the shortest and the longest link should be less than or equal to the sum of the lengths of two remaining links for continuous relative motion between them. Thus, the given statement is false."
+    },
+    {
+        "id": 18,
+        "Question": "If the shortest link is fixed, what type of mechanism is obtained?",
+        "Options": [
+            "a) Double crank mechanism",
+            "b) Double rocker mechanism",
+            "c) Linkage is not planar",
+            "d) Crank rocker mechanism"
+        ],
+        "Answer": "Answer: d\nExplanation: When the link next to the shortest link is fixed, the short link is able to rotate continuously and is called crank. The link opposite to it can only oscillate between limits and is called the rocker. Thus, the mechanism obtained is the crank rocker mechanism."
+    },
+    {
+        "id": 19,
+        "Question": "If the link opposite to the shortest link is fixed, what type of mechanism is obtained?",
+        "Options": [
+            "a) Double crank mechanism",
+            "b)Linkage is not planar",
+            "c) Double rocker mechanism",
+            "d) Crank rocker mechanism"
+        ],
+        "Answer": "Answer: a\nExplanation: When the shortest link is fixed, the links adjacent to it rotate continuously and can be described as proper cranks. Thus, this mechanism is called as double crank mechanism."
+    },
+    {
+        "id": 20,
+        "Question": "If the s+l=p+q, what is the type of linkage?",
+        "Options": [
+            "a) Trapezium",
+            "b) Parallelogram",
+            "c) Circular",
+            "d) Six bar"
+        ],
+        "Answer": "Answer: c\nExplanation: When the link opposite to the shortest link if fixed, the shortest link is able to make a complete revolution but the two links adjacent to it oscillate between limits and are called rockers.\nThus, this mechanism is called as double rocker mechanism."
+    },
+    {
+        "id": 21,
+        "Question": "Which of these is an approximate straight line motion mechanism?",
+        "Options": [
+            "a) Scott Russell’s mechanism",
+            "b) Hart’s mechanism",
+            "c) Peaucellier mechanism",
+            "d) Watt’s mechanism"
+        ],
+        "Answer": "Answer: b\nExplanation: The given straight line mechanism is called Peaucellier mechanism. Peaucellier mechanism is used for converting an input circular motion to an exact straight line motion. This mechanism has 8 members and 6 joints. Two links having equal length are connected at opposite ends to a rhombus. "
+    },
+    {
+        "id": 22,
+        "Question": "Which of the given mechanisms is an exact straight line motion mechanism?",
+        "Options": [
+            "a) Grasshopper mechanism",
+            "b) Robert’s mechanism",
+            "c) Peaucellier mechanism",
+            "d) Tchebicheff’s mechanism"
+        ],
+        "Answer": "Answer: d\nExplanation: The given straight line mechanism is called Watt’s mechanism. It consists of three links. Two of them are of equal length whereas one is shorter. Due to the rotation motion of the longer links, the centre of the shorter link traces an approximate straight line. Hence, this mechanism is classified under approximate straight line mechanisms."
+    },
+    {
+        "id": 23,
+        "Question": "__________ mechanism is a crossed four bar chain mechanism in early steam engines to guide the piston rod in a cylinder to have an approximate straight line motion.",
+        "Options": [
+            "a) Peaucellier’s",
+            "b) Chebychev’s",
+            "c) Grasshopper",
+            "d) Watt’s"
+        ],
+        "Answer": "Answer: c\nExplanation: The given straight line mechanism is called Scott Russell’s mechanism. It consists of one short and a long link. The length of the shorter link is approximately equal to the half of the longer link. The bottom part of the longer link traces a straight line."
+    },
+    {
+        "id": 24,
+        "Question": "For what purpose are the quick return mechanisms used?",
+        "Options": [
+            "a) To convert reciprocating motion into oscillatory motion",
+            "b) To convert oscillatory motion into reciprocating motion",
+            "c) To convert reciprocating motion into rotary motion",
+            "d) To convert rotary motion into reciprocating motion"
+        ],
+        "Answer": "Answer: d\nExplanation: Due to the rotation motion of the disc, the ram moves forward and backwards. During half rotation, the ram moves forward whereas during the other half rotation. The ram quickly returns. Thus it converts rotary motion into reciprocating motion."
+    },
+    {
+        "id": 25,
+        "Question": "For a crank and slotted lever quick return mechanism, α = 150°. Find the ratio of time of cutting stroke to time of return stroke.",
+        "Options": [
+            "a) 1.2",
+            "b) 1.3",
+            "c) 1.4",
+            "d) 1.5"
+        ],
+        "Answer": "Answer: b\nExplanation: In a quick return mechanism, the forward reciprocating motion is slower rate as compared to the backward stroke. That is why it is called a quick return mechanism.\nThus, the statement is false."
+    },
+    {
+        "id": 26,
+        "Question": "For a crank and slotted lever quick return mechanism,β = 260°. Find the ratio of time of cutting stroke to time of quick return stroke.",
+        "Options": [
+            "a) 2.6",
+            "b) 1.6",
+            "c) 0.2",
+            "d) 0.4"
+        ],
+        "Answer": "Answer: c\nExplanation: Ratio of the time of cutting stroke to the time of return stroke for a crank and slotted lever quick return mechanism = (360-α)/α = (360-150)/150 = 1.4."
+    },
+    {
+        "id": 27,
+        "Question": "For a Whitworth quick return motion mechanism α = 200°. Find the ratio of time of cutting stroke to time of return stroke.",
+        "Options": [
+            "a) 1.25",
+            "b) 1.35",
+            "c) 1.30",
+            "d) 1.40"
+        ],
+        "Answer": "Answer: a\nExplanation: : Ratio of time of cutting stroke to time of return stroke for a crank and slotted lever quick return mechanism = β/(360-β) = 260/(360-260) = 2.6."
+    },
+    {
+        "id": 28,
+        "Question": "For a Whitworth quick return motion mechanism β = 110°. Find the ratio of time of cutting stroke to time of return stroke.",
+        "Options": [
+            "a) 0.44",
+            "b) 2.27",
+            "c) 2.37",
+            "d) 0.42"
+        ],
+        "Answer": "Answer: a\nExplanation: : Ratio of time of cutting stroke to time of return stroke for a Whitworth quick return motion mechanism= α/(360-α) = 200/(360-200) = 1.25."
+    },
+    {
+        "id": 29,
+        "Question": "Which of these is not a type of clutch?",
+        "Options": [
+            "a) Single disc",
+            "b) Conical",
+            "c) Centrifugal",
+            "d) Cylindrical"
+        ],
+        "Answer": "Answer: d\nExplanation: Single disc, conical and centrifugal are types of clutches. Clutches are used for the transmission of power in shafts and machines which are started and stopped frequently. It is also used to deliver power to the machine which are partially or fully loaded."
+    },
+    {
+        "id": 30,
+        "Question": "In a single plate clutch, considering uniform pressure, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) 2(r13 + r23) / 3(r12 + r22)",
+            "b) 2(r13 – r23) / 3(r12 – r22)",
+            "c) (r1 – r2)/2",
+            "d) (r1 + r2)/2"
+        ],
+        "Answer": "Answer: a\nExplanation: The given diagram is of a single plate clutch. It consists of a clutch plate whose both sides are faced with Ferrodo (a friction material). It is mounted on the hub which moves along the splines of the shaft which is driven."
+    },
+    {
+        "id": 31,
+        "Question": "In a single plate clutch, considering uniform wear, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) 2(r13 + r23) / 3(r12 + r22)",
+            "b) 2(r13 – r23) / 3(r12 – r22)",
+            "c) (r1 – r2)/2",
+            "d) (r1 + r2)/2"
+        ],
+        "Answer": "Answer: b\nExplanation: For uniform pressure theory, T = nµW(2(r13 – r23) / 3(r12 – r22))\nTherefore, considering uniform pressure theory in a single plate clutch, T = nµWR where R = 2(r13 – r23) / 3(r12 – r22)."
+    },
+    {
+        "id": 32,
+        "Question": "In a single plate clutch, the pressure is uniformly distributed. If the outer and inner radii are 100 mm and 70 mm respectively, find the value of R.",
+        "Options": [
+            "a) 76.39 mm",
+            "b) 23.48 mm",
+            "c) 85.88 mm",
+            "d) 34.98 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: For uniform wear, T = nµW((r1 + r2)/2)\nTherefore, considering uniform pressure theory in a single plate clutch, T = nµWR where R = (r1 + r2)/2."
+    },
+    {
+        "id": 33,
+        "Question": "Maximum intensity of pressure is given by ____",
+        "Options": [
+            "a) C/R",
+            "b) C/R2",
+            "c) C/r2",
+            "d) C/r1"
+        ],
+        "Answer": "Answer: a\nExplanation: The intensity of pressure is minimum at the outer radius that is r1. It is given by C/r1. The intensity of pressure is maximum at the inner radius which is r2."
+    },
+    {
+        "id": 34,
+        "Question": "When the pressure is uniformly distributed over entire area, then the intensity of pressure is _______________",
+        "Options": [
+            "a) W/ (π(r12 – r22)",
+            "b) W/ (π(r12 + r22)",
+            "c) W/ (π(r22 – r12))",
+            "d) W/ (π(r22 x r12))"
+        ],
+        "Answer": "Answer: c\nExplanation: Considering uniform pressure theory in a single plate clutch, T = nµWR where R = 2(r13 + r23) / 3(r12 + r22)\nThus, here, R = 2(1003 – 703) / 3(1002 – 702) = 85.88 mm."
+    },
+    {
+        "id": 35,
+        "Question": "For uniform wear, the axial thrust W = ______________",
+        "Options": [
+            "a) 2 π C (r2 + r1)",
+            "b) 2 π C (r1 – r2)",
+            "c) 2 π C (r2 – r1)",
+            "d) 2 π C (r1 x r2)"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that, pmax x r2 = C.\nThus, pmax = C/r2\nSimilarly, pmin = C/r1"
+    },
+    {
+        "id": 36,
+        "Question": "Find the axial thrust to be provided by the springs if the maximum intensity of pressure in a single plate clutch should not exceed 0.2 N/mm2. The outer and the inner radius is 75 mm and 35 mm. Assume theory of uniform wear.",
+        "Options": [
+            "a) 1792.01 N",
+            "b) 1789.21 N",
+            "c) 1723.41 N",
+            "d) 1759.29 N"
+        ],
+        "Answer": "Answer: a\nExplanation: Pressure = Force / Area\nTherefore, the intensity of pressure considering uniform pressure is W/ (π(r12 – r22)."
+    },
+    {
+        "id": 37,
+        "Question": "Find the average pressure in a single plate clutch if the axial force is 5 kN. The inside radius and the outer radius is 30 mm and 70 mm respectively. Assume uniform wear.",
+        "Options": [
+            "a) 398 N/mm2",
+            "b) 0.398 N/m2",
+            "c) 0.398 N/mm2",
+            "d) 398 N/m2"
+        ],
+        "Answer": "Answer: b\nExplanation: In uniform wear theory, C = W/(2 π (r1 – r2))\nThus, W = 2 π C (r1 – r2)."
+    },
+    {
+        "id": 38,
+        "Question": "In a single plate clutch if the axial force is equal to 8 kN, find the minimum and maximum intensity of pressure. The outer radius = 100 mm and inner radius = 65 mm.",
+        "Options": [
+            "a) 0.36 N/mm2, 0.56 N/mm2",
+            "b) 0.56 N/mm2, 0.36 N/mm2",
+            "c) 0.36 N/m2, 0.56 N/m2",
+            "d) 0.56 N/m2, 0.36 N/m2"
+        ],
+        "Answer": "Answer: d\nExplanation: Given: pmax = 0.2 N/mm2, r1 = 75 mm and r2 = 35 mm\nThus, W = 2 π C (r1 – r2) = 2 π C (r1 – r2) = 2 π x pmax x r2 (r1 – r2) = 2 π x 0.2 x 35 (75 – 35) = 1759.29 N."
+    },
+    {
+        "id": 39,
+        "Question": "A single plate clutch, having n = 2, has outer and inner radii 150 mm and 100 mm respectively. The maximum intensity of pressure at any point is 0.1 N/mm2. If the µ is 0.3, determine the power transmitted by a clutch at a speed 3000 r.p.m.",
+        "Options": [
+            "a) 74031 kW",
+            "b) 740.31 kW",
+            "c) 74.031 kW",
+            "d) 706.95 kW"
+        ],
+        "Answer": "Answer: c\nExplanation: Given: W = 5 kN = 5 x 103 N, r1 = 70 mm and r2 = 30 mm\nAverage pressure = Total normal force on the surface/ Cross sectional area of those surfaces = W/ (π(r12 – r22)) = 5 x 103/(π(702 – 302)) = 0.398 N/mm2."
+    },
+    {
+        "id": 40,
+        "Question": "A single plate clutch, having n = 2, has outer and inner radii 200 mm and 175 mm respectively. The maximum intensity of pressure at any point is 0.05 N/mm2. If the µ is 0.4 and the power generated by the clutch is equal to 32.384 kW, determine the speed of the clutch.",
+        "Options": [
+            "a) 209.44 r.p.m.",
+            "b) 2000 r.p.m.",
+            "c) 157.08 r.p.m.",
+            "d) 1500 r.p.m."
+        ],
+        "Answer": "Answer: a\nExplanation: Given : W = 8 kN = 8 x 103 N, r1 = 100 mm and r2 = 65 mm\nMaximum intensity of pressure = pmin = C/r1\nThus, C = 100 x pmin\nW = 2 π C (r1 – r2)\nThus,\nC = W/(2 π (r1 – r2)) = 8 x 103/ (2 π (100 – 65))\nC = 100 x pmin = 36.378\npmin = 0.36 N/mm2\nMaximum intensity of pressure = pmax = C/r2\nThus, C = 65 x pmax\nW = 2 π C (r1 – r2)\nThus,\nC = W/(2 π (r1 – r2)) = 8 x 103/ (2 π (100 – 65))\nC = 65 x pmax = 36.378\npmax = 0.56 N/mm2."
+    },
+    {
+        "id": 41,
+        "Question": "A single plate clutch, where n = 2, is required to transmit 30 kW at 3000 r.p.m. Determine the outer and inner radii if the coefficient of friction is 0.3, the ratio of radii is 1.5. pmax = 0.1 N/mm2.",
+        "Options": [
+            "a) 0.111 mm, 0.074 mm",
+            "b) 111 mm, 74 mm",
+            "c) 74 mm, 111 mm",
+            "d) 0.074 mm, 0.111 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: Given : n = 2, r1 = 150 mm ; r2 = 100 mm ; p = 0.1 N/mm2 ; µ = 0.3 ; N = 3000 r.p.m. or ω = 2π × 3000/60 = 314.16 rad/s.\nSince the intensity of pressure (p) is maximum at the inner radius (r2), considering uniform wear, pmax x r2 = C    or   C = 0.1 × 100 = 10 N/mm.\nAxial thrust, W = 2 π C (r1 – r2) = 2π × 10 (150 – 100) = 3142 N\nMean radius = R = (r1 + r2)/2 = 125 mm = 0.125 m.\nWe know that torque transmitted,\nT = n.µ.W.R = 2 × 0.3 × 3142 × 0.125 = 235.65 N-m\nThus, power transmitted,\nP = T.ω = 235.65 × 314.16 = 74031 W = 74.031 kW."
+    },
+    {
+        "id": 42,
+        "Question": "In a multi plate clutch, the formula for T is given by ______",
+        "Options": [
+            "a) n.µ.W.R",
+            "b) n.µ.W.r1",
+            "c) n.µ.W.r2",
+            "d) n.µ.W.(r1+r2)"
+        ],
+        "Answer": "Answer:a\nExplanation: In a multi plate clutch, the formula for T is given by n.µ.W.R\nThe formula is the same for torque in a single plate clutch. But for large amount of torque to be transmitted, multi plate clutch is used. Multi plate clutches are used in motor vehicles and machine tools."
+    },
+    {
+        "id": 43,
+        "Question": "In a multi plate clutch, considering uniform pressure, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) 2(r13 + r23) / 3(r12 + r22)",
+            "b) 2(r13 – r23) / 3(r12 – r22)",
+            "c) (r1 – r2)/2",
+            "d) (r1 + r2)/2"
+        ],
+        "Answer": "Answer: b\nExplanation: Considering uniform pressure theory in a multi plate clutch, T = nµWR where R = 2(r13 – r23) / 3(r12 – r22). This value is the same as that for the single plate clutch considering uniformly distributed pressure."
+    },
+    {
+        "id": 44,
+        "Question": "In a multi plate clutch, considering uniform wear, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) 2(r13 + r23) / 3(r12 + r22)",
+            "b) 2(r13 – r23) / 3(r12 – r22)",
+            "c) (r1 – r2)/2",
+            "d) (r1 + r2)/2"
+        ],
+        "Answer": "Answer: d\nExplanation: Considering uniform pressure theory in a multi plate clutch, T = nµWR where R = (r1 + r2)/2. This value is the same as that for the single plate clutch considering uniform wear."
+    },
+    {
+        "id": 45,
+        "Question": "In a multi plate clutch, T = 150 N-m, n = 4, µ = 0.3 and R = 0.1 m. Find the axial thrust.",
+        "Options": [
+            "a) 18",
+            "b) 1800",
+            "c) 1250",
+            "d) 200"
+        ],
+        "Answer": "Answer: c\nExplanation: T = nµWR\n150 = 4 x 0.3 x W x 0.1\nW = 1250 N\nThus, the axial thrust = 1250 N."
+    },
+    {
+        "id": 46,
+        "Question": "Maximum intensity of pressure for multi plate clutch is given by ____",
+        "Options": [
+            "a) C/R",
+            "b) C/R2",
+            "c) C/r2",
+            "d) C/r1"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that, pmax x r2 = C.\nThus, pmax = C/r2\nSimilarly, pmin = C/r1."
+    },
+    {
+        "id": 47,
+        "Question": "In a multi plate clutch, number of pairs of contact surfaces (n) = ________",
+        "Options": [
+            "a) n1 – n2 + 1",
+            "b) n1 – n2 – 1",
+            "c) n1 + n2 – 1",
+            "d) n1 + n2 + 1"
+        ],
+        "Answer": "Answer: a\nExplanation: A single plate clutch has both sides effective, thus n = 2. In a multi plate clutch, the value of n can be equal or greater than 2, which helps in transmitting large amounts of torque.  "
+    },
+    {
+        "id": 48,
+        "Question": "A multi-disc clutch has 6 discs on the driving shaft and 4 on the driven shaft. Find the number of pairs of contact surfaces.",
+        "Options": [
+            "a) 3",
+            "b) 10",
+            "c) 9",
+            "d) 11"
+        ],
+        "Answer": "Answer: a\nExplanation: In a multi plate clutch, number of discs on the driving shaft is given by n1, whereas number of discs on the driven shaft is given by n2. With the help of these two variables we can find out the number of pairs of contact surfaces."
+    },
+    {
+        "id": 49,
+        "Question": "Calculate the maximum and minimum intensity of pressure in multi plate clutch when the axial force is 5 kN assuming uniform wear. Inner radius = 20 mm and outer radius = 40 mm.",
+        "Options": [
+            "a) 1.989 N/mm2, 0.994 N/mm2",
+            "b) 0.994 N/mm2, 1.989 N/mm2",
+            "c) 1.989 N/m2, 0.994 N/m2",
+            "d) 0.994 N/m2, 1.989 N/m2"
+        ],
+        "Answer": "Answer: c\nExplanation: In a multi plate clutch, number of pairs of contact surfaces (n) is equal to n1 + n2 – 1. Due to the high number of pairs of contact surfaces, the torque transmitted is higher.\nn is always a whole number."
+    },
+    {
+        "id": 50,
+        "Question": "A multi-disc clutch has 3 discs on the driving shaft and 2 on the driven shaft. The outer radius is 120 mm and inside radius 60 mm. Considering uniform wear and µ = 0.3, find the Find the value of W for transmitting 25 kW at 1500r.p.m.",
+        "Options": [
+            "a) 651 N/m2",
+            "b) 651 N/mm2",
+            "c) 0.0651 N/m2",
+            "d) 0.0651 N/mm2"
+        ],
+        "Answer": "Answer: c\nExplanation: In a multi plate clutch, number of pairs of contact surfaces (n) is equal to n1 + n2 – 1 = 6+4-1 = 9\nThus, T = n.µ.W.R = 9.µ.W.R"
+    },
+    {
+        "id": 51,
+        "Question": "A multi-disc clutch has 3 discs on the driving shaft and 2 on the driven shaft. The outer radius is 100 mm and inside radius 40 mm. Considering uniform wear and µ = 0.25, find the maximum axial intensity of pressure between the discs for transmitting 30 kW at 1000 r.p.m.",
+        "Options": [
+            "a) 0.4071 N/m2",
+            "b) 40.71 N/mm2",
+            "c) 407.1 N/m2",
+            "d) 0.4071 N/mm2"
+        ],
+        "Answer": "Answer: a\nExplanation: We know that, pmax x r2 = C\npmax x 20 = C\nNow, W = 2 π C (r1 – r2)\n5 x 103 = 2 π x pmax x 20 x (40-20)\npmax= 1.989 N/mm2\nWe know that, pmin x r1 = C\npmin x 40 = C\nNow, W = 2 π C (r1 – r2)\n5 x 103 = 2 π x pmax x 40 x (40-20)\npmax= 0.994 N/mm2."
+    },
+    {
+        "id": 52,
+        "Question": "A single plate clutch, having n1 = 3 and n2 = 2, has outer and inner radii 200 mm and 175 mm respectively. The maximum intensity of pressure at any point is 0.05 N/mm2. If the µ is 0.4, determine the power transmitted by a clutch at a speed 1500 r.p.m.",
+        "Options": [
+            "a) 32384 x 103W",
+            "b) 64.768 W",
+            "c) 64768 kW",
+            "d) 64768 W"
+        ],
+        "Answer": "Answer: d\nExplanation: Given : n1 = 3 ; n2 = 2 ; r1 = 120 mm ; r2 = 60 mm ; µ = 0.3 ; P = 25 kW = 25 × 103 W ; N = 1500 r.p.m. or ω = 2 π × 1500/60 = 157.08 rad/s\nPower transmitted P = 25 × 103 = T.ω = T × 157.08\nT = 25 × 103/157.08 = 159.15 N-m\nn = n1 + n2 – 1 = 4\nMean radius = R = (r1 + r2)/2 = 90 mm = 0.09 m\n159.15 = n.µ.W.R = 4 × 0.3 × W × 0.09 = 0.108 W\nW = 1473.65 N."
+    },
+    {
+        "id": 53,
+        "Question": "A plate clutch has three discs on driving shaft and two discs on driven shaft. The outer radius of the contact surfaces is 100 mm and inner radius 50 mm. Assuming uniform pressure and µ = 0.3; find the total spring load pressing plates together to transmit 35 kW at 1600r.p.m.",
+        "Options": [
+            "a) 2372.3 N",
+            "b) 2260.7 N",
+            "c) 2401.8 N",
+            "d) 2131.4 N"
+        ],
+        "Answer": "Answer: d\nExplanation: Explanation: Given : n1 = 3 ; n2 = 2 ; r1 = 100 mm ; r2 = 40 mm ; µ = 0.25 ; P = 30 kW = 30 × 103 W ; N = 1000 r.p.m. or ω = 2 π × 1000/60 = 104.71 rad/s\nPower transmitted P = 30 × 103 = T.ω = T × 104.71\nT = 30 × 103/157.08 = 286.48 N-m\nn = n1 + n2 – 1 = 4\nMean radius = R = (r1 + r2)/2 = 70 mm = 0.07 m\n286.48 = n.µ.W.R = 4 × 0.25 × W × 0.07\nW = 4092.55 N\nW = 4092.55 = 2 π C (r1 – r2) = 80 π C\nC = 16.283 = pmax x 40\npmax= 0.4071 N/mm2."
+    },
+    {
+        "id": 54,
+        "Question": "A multi plate clutch, having n1= 2 and n2 = 1, has outer and inner radii 1000 mm and 600 mm respectively. The maximum intensity of pressure at any point is 0.2 N/mm2. If the µ is 0.25, determine the speed of the clutch if the power generated = 31582.807 kW.",
+        "Options": [
+            "a) 2500 r.p.m.",
+            "b) 261.8 r.p.m.",
+            "c) 2000 r.p.m.",
+            "d) 209.44 r.p.m."
+        ],
+        "Answer": "Answer: d\nExplanation: Given : n = 4, r1 = 200 mm ; r2 = 175 mm ; p = 0.05 N/mm2 ; µ = 0.4 ; N = 1500 r.p.m. or ω = 2π × 1500/60 = 157.08 rad/s.\nSince the intensity of pressure (p) is maximum at the inner radius (r2), considering uniform wear, pmaxx r2 = C    or   C = 0.05 × 175 = 8.75 N/mm\nAxial thrust, W = 2 π C (r1 – r2) = 2π × 8.75 (200 – 175) = 1374.44 N\nMean radius = R = (r1 + r2)/2 = 187.5 mm = 0.1875 m.\nWe know that torque transmitted,\nT = 4.µ.W.R = 4 × 0.4 × 1374.44 × 0.1875 = 412.32 N-m\nThus, power transmitted,\nP = T.ω = 412.32 × 157.08 = 64768 W = 64.368 kW."
+    },
+    {
+        "id": 55,
+        "Question": "In a conical clutch, pn = ______________",
+        "Options": [
+            "a) W/(π(r12 – r22))",
+            "b) W/(π(r12 + r22))",
+            "c) W/(π(r22 – r12))",
+            "d) W/(π(r22 x r12))"
+        ],
+        "Answer": "Answer: c\nExplanation: The given diagram is that of a conical clutch. Conical clutch was used in automobiles earlier but nowadays single plate and multi plate clutches are used instead of it."
+    },
+    {
+        "id": 56,
+        "Question": "In a conical clutch, the formula for T is given by ______",
+        "Options": [
+            "a) n.µ.W.R",
+            "b) n.µ.W.r1",
+            "c) n.µ.W.r2",
+            "d) n.µ.W.(r1+r2)"
+        ],
+        "Answer": "Answer: a\nExplanation: Pressure = Force/ Area.\nThus, here, intensity of pressure considering uniform pressure pn is W/(π(r12 – r22)). "
+    },
+    {
+        "id": 57,
+        "Question": "In a conical clutch, considering uniform pressure, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) {2(r13 + r23) / 3(r12 + r22)} x cosec α",
+            "b) {2(r13 – r23) / 3(r12 – r22)} x cosec α",
+            "c) {(r1 – r2)/2} x cosec α",
+            "d) {(r1 + r2)/2} x cosec α"
+        ],
+        "Answer": "Answer: a\nExplanation: In a multi plate clutch, the formula for T is given by n.µ.W.R\nIt is same as that of single plate and multi plate clutch but the value of R is different for conical clutch. "
+    },
+    {
+        "id": 58,
+        "Question": "In a conical clutch, considering uniform wear, T = nµWR. What is R equal to?",
+        "Options": [
+            "a) {2(r13 + r23) / 3(r12 + r22)} x cosec α",
+            "b) {2(r13 – r23) / 3(r12 – r22)} x cosec α",
+            "c) {(r1 – r2)/2} x cosec α",
+            "d) {(r1 + r2)/2} x cosec α"
+        ],
+        "Answer": "Answer: b\nExplanation: Considering uniform pressure theory in a single plate clutch, T = nµWR where R = {2(r13 – r23) / 3(r12 – r22)} x cosec α\nα = the semi cone angle."
+    },
+    {
+        "id": 59,
+        "Question": "In a conical clutch, what is the axial force required for engaging the clutch (We)?",
+        "Options": [
+            "a) Wn (sin α + µ cos α)",
+            "b) Wn (sin α – µ cos α)",
+            "c) Wn (µ sin α + cos α)",
+            "d) Wn (µ sin α – cos α)"
+        ],
+        "Answer": "Answer: d\nExplanation: Considering uniform pressure theory in a single plate clutch, T = nµWR where R = {(r1 + r2)/2} x cosec α."
+    },
+    {
+        "id": 60,
+        "Question": "In a conical clutch, what is the axial force required for disengaging the clutch (Wd)?",
+        "Options": [
+            "a) Wn(µcosα + sinα)",
+            "b) Wn(µcosα – sinα)",
+            "c) Wn(cosα – µsinα)",
+            "d) Wn(cosα + µsinα)"
+        ],
+        "Answer": "Answer: a\nExplanation: We = W + µ.Wn cos α = Wn sinα + µ.Wn cosα = Wn (sinα + µcosα). If the semi cone angle of the clutch decreases, the torque produced by the clutch increases which in turn reduces the axial force W."
+    },
+    {
+        "id": 61,
+        "Question": "In a conical clutch, the breadth of the contact surface is given by ______",
+        "Options": [
+            "a) (r1 + r2)/sinα",
+            "b) (r2-r1)/sinα",
+            "c) (r1 – r2)/sinα",
+            "d) (r12 + r22)/sinα"
+        ],
+        "Answer": "Answer: b\nExplanation: The axial force required for disengaging the clutch i.e. Wd = Wn(µcosα – sinα). The axial force for disengagement is only required if the value of tan α is less than µ."
+    },
+    {
+        "id": 62,
+        "Question": "In a conical clutch, the mean radius of the bearing surface is 300 mm whereas the breadth is 20 mm. Find the inner and outer radii. The semi cone angle is 30°.",
+        "Options": [
+            "a) 145 mm, 155 mm",
+            "b) 140 mm, 160 mm",
+            "c) 160 mm, 140 mm",
+            "d) 155 mm, 145 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: In a conical clutch b sinα = r1-r2\nThus, b = (r1-r2)/sinα"
+    },
+    {
+        "id": 63,
+        "Question": "If the outer and inner radius of the contact surfaces are 100 mm and 75 mm respectively and the semi cone angle is 22.5°, find the value of the face width required.",
+        "Options": [
+            "a) 89.43 mm",
+            "b) 78.94 mm",
+            "c) 65.33 mm",
+            "d) 23.87 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: In a conical clutch b sinα = r1 – r2\nr1 – r2 = 10 and r1 + r2 = 300\nr1 = 155 mm and r2 = 145 mm."
+    },
+    {
+        "id": 64,
+        "Question": "A conical friction clutch is used to transmit 75 kW at 1500 r.p.m. The semi cone angle is 20° and the coefficient of friction is 0.3. If the mean diameter of the bearing surface is 500 mm and the intensity of normal pressure is not to exceed 0.1 N/mm2, find the dimensions of the conical bearing surface.",
+        "Options": [
+            "a) 118.07 mm, 131.93 mm",
+            "b) 131.93 mm, 118.07 mm",
+            "c) 121.72 mm, 128.28 mm",
+            "d) 128.28 mm, 121.72 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: In a conical clutch b sinα = r1 – r2\nb x sin 22.5° = 100 – 75\nb = 65.33 mm."
+    },
+    {
+        "id": 65,
+        "Question": "A conical friction clutch is used to transmit 50 kW at 1000 r.p.m. The semi cone angle is 15° and the coefficient of friction is 0.2. If the mean diameter of the bearing surface is 450 mm and the intensity of normal pressure is not to exceed 0.15 N/mm2, find the axial spring force necessary to engage the clutch.",
+        "Options": [
+            "a) 4796 N",
+            "b) 4774 N",
+            "c) 4785 N",
+            "d) 4742 N"
+        ],
+        "Answer": "Answer: b\nExplanation: Given : P = 75 kW = 75 × 103 W ; N = 1500 r.p.m. or ω = 2 π × 1400/60 = 157.08 rad/s ; α = 20° ; µ = 0.3 ; D = 500 mm or R = 250 mm ; pn = 0.1 N/mm2\nPower transmitted (P) = 75 × 103 = T.ω = T × 157.08\nT = 75× 103/157.08 = 477.4 N-m = 477.4× 103 N-mm\nTorque transmitted (T) = 477.4 × 103 = 2 π µ pn.R2.b = 2π × 0.3 × 0.1 (250)2 b = 11780.97 b\nb = 40.52 mm\nWe know that, r1+r2 = 250 and r1-r2 = 40.52 sin 20 = 13.86\nTherefore, r1 = 131.93 mm, r2 = 118.07 mm."
+    },
+    {
+        "id": 66,
+        "Question": "A conical friction clutch is used to transmit 40 kW at 1300 r.p.m. The semi cone angle is 12.5° and the coefficient of friction is 0.25. If the mean diameter of the bearing surface is 400 mm and the intensity of normal pressure is not to exceed 0.2 N/mm2, find the axial spring force necessary to disengage the clutch.",
+        "Options": [
+            "a) 154.28 N",
+            "b) 121.45 N",
+            "c) 201.78 N",
+            "d) 162.39 N"
+        ],
+        "Answer": "Answer: a\nExplanation: Given : P = 50 kW = 50 × 103 W ; N = 1000 r.p.m. or ω = 2 π × 1000/60 = 104.72 rad/s ; α = 15° ; µ = 0.2 ; D = 450 mm or R = 225 mm ; pn = 0.15 N/mm2\nPower transmitted (P) = 50 × 103 = T.ω = T × 104.72\nT = 50× 103/104.72 = 477.4 N-m\n477.4 = µ.Wn.R = 0.2 × Wn × 0.225\nWn= 10610.33 N\nAxial spring force = We = Wn(sin α + µ cos α) = 10610.33 (sin 15° + 0.2 cos 15°) = 4796 N."
+    },
+    {
+        "id": 67,
+        "Question": "Which of the following clutches include shoes and spider inside the rim of the pulley?",
+        "Options": [
+            "a) Centrifugal clutch",
+            "b) Cone clutch",
+            "c) Multi plate clutch",
+            "d) Single plate clutch"
+        ],
+        "Answer": "Answer: a\nExplanation: Centrifugal clutches are incorporated into motor pulleys which consist of a number of shoes on inside of the rim of the pulley. These clutches are generally incorporated into the motor pulleys. The outer surfaces of the shoe are covered with a layer of a friction material."
+    },
+    {
+        "id": 68,
+        "Question": "In a centrifugal clutch, what is ω?",
+        "Options": [
+            "a) Angular acceleration of the pulley",
+            "b) Angular running speed of the pulley",
+            "c) Angular acceleration at which the engagement begins to take place",
+            "d) Angular running speed at which the engagement takes place"
+        ],
+        "Answer": "Answer: b\nExplanation: In a centrifugal clutch, ω is the angular running speed of the body. ω1 is the angular speed at which the engagement begins to take place."
+    },
+    {
+        "id": 69,
+        "Question": "What is the formula for the total frictional torque transmitted?",
+        "Options": [
+            "a) µ(Pc – Ps)R × n",
+            "b) µ(Pc – Ps)R",
+            "c)µ(Pc + Ps)R",
+            "d)µ(Pc + Ps)R x n"
+        ],
+        "Answer": "Answer: a\nExplanation: Frictional torque acting on each shoe = µ(Pc – Ps)R. Therefore, total frictional torque transmitted = µ(Pc – Ps)R × n; where n is the number of shoes."
+    },
+    {
+        "id": 70,
+        "Question": "In a centrifugal clutch, total frictional torque transmitted = µ(Pc – Ps)R × n; where Pc is the ____________________ acting on each shoe and is given by the formula Pc = _______",
+        "Options": [
+            "a) centrifugal force, mω12r",
+            "b) inward force, mω2r",
+            "c) centrifugal force, mω2r",
+            "d) inward force, mω12r"
+        ],
+        "Answer": "Answer: c\nExplanation: Pc is the centrifugal force acting on each shoe at the running speed; Pc = mω2r.\nA little consideration will show that Pc is greater than Ps. The net outward radial force of the shoe is given as Pc – Ps. "
+    },
+    {
+        "id": 71,
+        "Question": "In a centrifugal clutch, total frictional torque transmitted = µ(Pc – Ps)R × n; where Ps is the ____________________ acting on each shoe and is given by the formula Ps = _______",
+        "Options": [
+            "a) centrifugal force, mω12r",
+            "b) inward force, mω2r",
+            "c) centrifugal force, mω2r",
+            "d) inward force, mω12r"
+        ],
+        "Answer": "Answer: d\nExplanation: Ps is the inward force acting on each shoe at the running speed; Ps = mω12r. A little consideration will show that Pc is greater than Ps. The net outward radial force of the shoe is given as Pc – Ps. "
+    },
+    {
+        "id": 72,
+        "Question": "If the radial clearance (c) is specified and is not negligible, then what is the operating radius of the mass centre of the show from the axis of the clutch?",
+        "Options": [
+            "a) r1 = r – c",
+            "b) r1 = c – r",
+            "c) r1 = r + c",
+            "d) r1 = r x c"
+        ],
+        "Answer": "Answer: c\nExplanation: If the radial clearance (c) is specified and is not negligible, then the operating radius of the mass centre of the show from the axis of the clutch is r1 = r + c. So now, Pc = mω2r1."
+    },
+    {
+        "id": 73,
+        "Question": "If the inside radius of the pulley rim is equal to 150 mm and the angle subtended by shoes at the centre of the spider is 60°, find the net outward radial force of the centrifugal clutch. The intensity of pressure is equal to 0.1 N/mm2 and the width is given to be 100 mm.",
+        "Options": [
+            "a) 1570.8 N",
+            "b) 1823.7 N",
+            "c) 1289.4 N",
+            "d) 1438.9 N"
+        ],
+        "Answer": "Answer: a\nExplanation: l.b.p = Area x p; which is also equal to the net outward force with which the show presses against the rim at running speed. Thus, l.b.p = Pc – Ps."
+    },
+    {
+        "id": 74,
+        "Question": "A centrifugal clutch is to transmit 25 kW at 1200 r.p.m. There are four shoes. The speed at which the engagement begins is 0.5 times the running speed. The inside radius of the pulley rim is 100 mm and the centre of gravity of the shoe lies at 75 mm from the centre of the spider. Coefficient of friction may be taken as 0.3. Determine mass of the shoes.",
+        "Options": [
+            "a) 1.955 kg",
+            "b) 1.866 kg",
+            "c) 2.272 kg",
+            "d) 2.139 kg"
+        ],
+        "Answer": "Answer: a\nExplanation: θ = 60° = π/3 rad, R = 150 mm, b = 100 mm and p = 0.1 N/mm2\nl = θ R = 157.08 mm\nNet outward radial force of the centrifugal clutch = l.b.p = Pc – Ps\nPc – Ps = 157.08 x 100 x 0.1 = 1570.8 N."
+    },
+    {
+        "id": 75,
+        "Question": "A centrifugal clutch is to transmit 22.5 kW at 1250 r.p.m. There are four shoes. The speed at which the engagement begins is 0.5 times the running speed. The inside radius of the pulley rim is 175 mm and the centre of gravity of the shoe lies at 120 mm from the centre of the spider. Coefficient of friction may be taken as 0.3. Determine the width of the shoe if the angle subtended by the shoes at the centre of the spider is 60° and the intensity of pressure exerted on the shoes is 0.05 N/mm2.",
+        "Options": [
+            "a) 104.493 mm",
+            "b) 89.198 mm",
+            "c) 52. 837 mm",
+            "d) 113.983 mm"
+        ],
+        "Answer": "Answer: b\nExplanation: Given : P = 25 kW = 25 × 103 W ; N = 1200 r.p.m. or ω =  2 π × 1200/60 = 125.66 rad/s ; n = 4 ; R = 100 mm = 0.1 m ; r = 75 mm = 0.075 m ; µ = 0.3 ; ω1 = 0.5 ω.\nω1 = 0.5 ω = 0.5 x 125.66 = 62.83 rad/s\nPower transmitted = Tω = T x 125.66\nT = 198.95 N-m\nPc = mω2r = m x 125.662 x 0.075 = 1184.28 m N\nPs = mω12r = m x 62.832 x 0.075 = 296.07 m N\nFrictional force acting tangentially on each shoe, F = µ(Pc–Ps) = 0.3 (1184.28 m – 296.07 m) = 266.46m N\nTorque transmitted (T), 198.95 = n.F.R = 4 × 266.46 m × 0.1 = 106.584 m\nm = 1.866 kg."
+    },
+    {
+        "id": 76,
+        "Question": "A centrifugal clutch has four shoes. When the clutch is at rest, each shoe is pulled against a stop by a spring so that it leaves a radial clearance of 10 mm between the shoe and the rim. The pull exerted by the spring is then 700 N. The mass centre of the shoe is 150 mm from the axis of the clutch. If the internal diameter of the rim is 500 mm, the mass of each shoe is 6 kg, the stiffness of each spring is 75 N/mm and the coefficient of friction between the shoe and the rim is 0.35; find the power transmitted by the clutch at 400 r.p.m.",
+        "Options": [
+            "a) 3.439 kW",
+            "b) 34.39 kW",
+            "c) 3439 kW",
+            "d) 3.439 W"
+        ],
+        "Answer": "Answer: b\nExplanation: Given : P = 22.5 kW = 22.5 × 103 W ; N = 1250 r.p.m. or ω =  2 π × 1250/60 = 130.9 rad/s ; n = 4 ; R = 175 mm = 0.175 m ; r = 120 mm = 0.12 m ; µ = 0.3 ; ω1 = 0.5ω ; θ = 60° = π/3 rad ; p = 0.05 N/mm2\nω1 = 0.5ω = 0.5 x 130.9 = 65.45 rad/s\nPower transmitted = Tω = T x 130.9\nT = 171.887 N-m\nPc = mω2r = m x 130.92 x 0.12 = 2056.17 m N\nPs = mω12r = m x 65.452 x 0.12 = 514.04 m N\nFrictional force acting tangentially on each shoe, F = µ(Pc– Ps) = 0.3 (2056.17 m – 514.04 m) = 462.64 m N\nTorque transmitted (T), 171.887 = n.F.R = 4 × 462.64 m × 0.175 = 323.847 m\nm = 0.53 kg\nl = θ x R = π/3 x 175 = 183.26 mm\nl.b.p = Pc – Ps = 1542.13 m\n183.26 x b x 0.05 = 1542.13 x 0.53\nb = 89.198 mm."
+    },
+    {
+        "id": 77,
+        "Question": "A centrifugal clutch has four shoes. When the clutch is at rest, each shoe is pulled against a stop by a spring so that it leaves a radial clearance of 7.5 mm between the shoe and the rim. The pull exerted by the spring is then 600 N. The mass centre of the shoe is 120 mm from the axis of the clutch. If the internal diameter of the rim is 350 mm, the mass of each shoe is 5 kg, the stiffness of each spring is 60 N/mm and the coefficient of friction between the shoe and the rim is 0.2; find the speed of the centrifugal clutch, if the power transmitted is 40.168 kW.",
+        "Options": [
+            "a) 83.779 r.p.m.",
+            "b) 800 r.p.m.",
+            "c) 104.66 r.p.m.",
+            "d) 1000 r.p.m."
+        ],
+        "Answer": "Answer: a\nExplanation: Given : n = 4 ; c = 10 mm ; S = 700 N ; r = 150 mm ; D = 500 mm or R = 250 mm = 0.25 m ; m = 6 kg ; s = 75 N/mm ; µ = 0.35 ; N = 400 r.p.m. or ω = 2 π × 400/60 = 41.89 rad/s\nr1 = r + c = 150 + 10 = 160 mm = 0.16 m\nPc = m.ω2.r1 = 6 x (41.89)2 × 0.16 = 1684.58 N\nPs = S + c.s = 700 + 10 x 75 = 1450 N\nF = µ (P¬c – Ps) = 0.35 (1684.58 – 1450) = 82.1 N\nT = n.F.R = 4 × 82.1 × 0.25 = 82.1 N-m\nPower transmitted (P) = Tω = 82.1  x 41.89 = 3439.31 W = 3.439 kW."
+    },
+    {
+        "id": 78,
+        "Question": "A centrifugal clutch is to transmit 35 kW at 1500 r.p.m. There are four shoes. The speed at which the engagement begins is 0.7 times the running speed. The inside radius of the pulley rim is 120 mm and the centre of gravity of the shoe lies at 80 mm from the centre of the spider. Coefficient of friction may be taken as 0.35. Determine intensity of pressure exerted on the shoes if the angle subtended by the shoes at the centre of the spider is 60° and the width of the shoes is 105.52 mm.",
+        "Options": [
+            "a) 109.32 mm",
+            "b) 186.45 mm",
+            "c) 150.57 mm",
+            "d) 105.52 mm"
+        ],
+        "Answer": "Answer: b\nExplanation: Given : n = 4 ; c = 7.5 mm ; S = 600 N ; r = 120 mm ; D = 350 mm or R = 175 mm = 0.175 m ; m = 5 kg ; s = 60 N/mm ; µ = 0.2; P = 40.168 kW = 40.168 x 103 W\nr1 = r + c = 120 + 7.5 = 127.5 mm = 0.1275 m\nPc = m.ω2.r1 = 5 x (83.78)2 × 0.1275 = 4474.67 N\nPs = S + c.s = 600 + 7.5 x 60 = 1050 N\nF = µ (Pc – Ps) = 0.2 (4474.67 – 1050) = 684.93 N\nT = n.F.R = 4 × 684.93 × 0.175 = 479.45 N-m\nPower transmitted (P) = Tω = 479.45 x ω\n40.168 x 103 W = 479.45 x ω\nω = 83.779 rad/s\nTherefore, N = 60 x ω / (2 π) = 800 r.p.m."
+    },
+    {
+        "id": 79,
+        "Question": "Which is the false statement about the properties of instantaneous centre?",
+        "Options": [
+            "a) at the instantaneous centre of rotation, one rigid link rotates instantaneously relative to another for the configuration of mechanism considered",
+            "b) the two rigid links have no linear velocities relative to each other at the instantaneous centre",
+            "c) the two rigid links which have no linear velocity relative to each other at this centre have the same linear velocity to the third rigid link",
+            "d) the double centre can be denoted either by O21 or O12, but proper selection should be made"
+        ],
+        "Answer": "Answer: d\nExplanation: The following properties of the instantaneous centre are important from the subject point of view :\n1. A rigid link rotates instantaneously relative to another link at the instantaneous centre for the configuration of the mechanism considered.\n2. The two rigid links have no linear velocity relative to each other at the instantaneous centre. At this point (i.e. instantaneous centre), the two rigid links have the same linear velocity relative to the third rigid link. In other words, the velocity of the instantaneous centre relative to any third rigid link will be same whether the instantaneous centre is regarded as a point on the first rigid link or on the second rigid link."
+    },
+    {
+        "id": 80,
+        "Question": "Instantaneous center of rotation of a link in a four bar mechanism lies on",
+        "Options": [
+            "a) right side pivot of this link",
+            "b) left side pivot of this link",
+            "c) a point obtained by intersection on extending adjoining links",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None."
+    },
+    {
+        "id": 81,
+        "Question": "The total number of instantaneous centers for a mechanism of n links is",
+        "Options": [
+            "a) n(n – 1)/2",
+            "b) n",
+            "c) n – 1",
+            "d) n(n – 1)"
+        ],
+        "Answer": "Answer: a\nExplanation: The number of pairs of links or the number of instantaneous centres is the number of combinations of n links taken two at a time. Mathematically, number of instantaneous centres,\nN = n(n – 1)/2. "
+    },
+    {
+        "id": 82,
+        "Question": "The number of links and instantaneous centers in a reciprocating engine mechanism are",
+        "Options": [
+            "a) 4,4",
+            "b) 4,5",
+            "c) 5,4",
+            "d) 4,6"
+        ],
+        "Answer": "Answer: d\nExplanation: First of all, determine the number of instantaneous centres (N) by using the relation\nN = n(n – 1)/2\nIn present case, N = 4(4 – 1)/2                               (n = 4)\n                   = 6."
+    },
+    {
+        "id": 83,
+        "Question": "According to Kennedy’s theorem, if three bodies have plane motions, their instantaneous centres lie on",
+        "Options": [
+            "a) a triangle",
+            "b) a point",
+            "c) two lines",
+            "d) a straight line"
+        ],
+        "Answer": "Answer: d\nExplanation: The Aronhold Kennedy’s theorem states that if three bodies move relatively to each other, they have three instantaneous centres and lie on a straight line."
+    },
+    {
+        "id": 84,
+        "Question": "In a rigid link OA, velocity of A w.r.t. O will be",
+        "Options": [
+            "a) parallel to OA",
+            "b) perpendicular to OA",
+            "c) at 450 to OA",
+            "d) along AO"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 85,
+        "Question": "Two systems shall be dynamically equivalent when",
+        "Options": [
+            "a) the mass of two are same",
+            "b) c.g. of two coincides",
+            "c) M.I. of two about an axis through c.g. is equal",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None."
+    },
+    {
+        "id": 86,
+        "Question": "A link is rotating about O. Velocity of point P on link w.r.t. point Q on link will be perpendicular to",
+        "Options": [
+            "a) OP",
+            "b) OQ",
+            "c) PQ",
+            "d) line in between OP and OQ"
+        ],
+        "Answer": "Answer: c\nExplanation: A link is rotating about O. Velocity of point P on link w.r.t. point Q on link will be perpendicular to PQ.\nThe velocity of any point in mechanism relative to any other point on the mechanism on velocity polygon is represented by the line joining the corresponding points."
+    },
+    {
+        "id": 87,
+        "Question": "The velocity of any point in mechanism relative to any other point on the mechanism on velocity polygon is represented by the line",
+        "Options": [
+            "a) joining the corresponding points",
+            "b) perpendicular to line",
+            "c) at 450 to line",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A link is rotating about O. Velocity of point P on link w.r.t. point Q on link will be perpendicular to PQ.\nThe velocity of any point in mechanism relative to any other point on the mechanism on velocity polygon is represented by the line joining the corresponding points."
+    },
+    {
+        "id": 88,
+        "Question": "The absolute acceleration of any point P in a link about center of rotation O is",
+        "Options": [
+            "a) along PO",
+            "b) perpendicular to PO",
+            "c) at 450 to PO",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The coriolis component of acceleration is always perpendicular to the link."
+    },
+    {
+        "id": 89,
+        "Question": "Angular acceleration of a link can be determined by dividing the",
+        "Options": [
+            "a) centripetal component of acceleration with length of link",
+            "b) tangential component of acceleration with length of link",
+            "c) resultant acceleration with length of link",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The angular acceleration of the link AB is obtained by dividing the tangential components of the acceleration of B with respect to A to the length of the link."
+    },
+    {
+        "id": 90,
+        "Question": "There are two points P and Q on a planar rigid body. The relative velocity between the two points",
+        "Options": [
+            "a) should always be along PQ",
+            "b) can be oriented along any direction",
+            "c) should always be perpendicular to PQ",
+            "d) should be along QP when the body undergoes pure translation"
+        ],
+        "Answer": "Answer: c\nExplanation: Velocity of any point on a link with respect to another point (relative velocity) on the same link is always perpendicular to the line joining these points on the configuration (or space) diagram.\nvQP = Relative velocity between P & Q\n               = vP − vQ always perpendicular to PQ."
+    },
+    {
+        "id": 91,
+        "Question": "For a four-bar linkage in toggle position, the value of mechanical advantage is",
+        "Options": [
+            "a) 0.0",
+            "b) 0.5",
+            "c) 1.0",
+            "d) ∞"
+        ],
+        "Answer": "Answer: d\nExplanation: When the mechanism is toggle,then β = 00 and 1800.\nSo M.A = ∞."
+    },
+    {
+        "id": 92,
+        "Question": "The number of inversion for a slider crank mechanism is",
+        "Options": [
+            "a) 6",
+            "b) 5",
+            "c) 4",
+            "d) 3"
+        ],
+        "Answer": "Answer: c\nExplanation: For a 4 bar slider crank mechanism, there are the number of links or inversions are 4. These different inversions are obtained by fixing different links once at a time for one inversion. Hence, the number of inversions for a slider crank mechanism is 4."
+    },
+    {
+        "id": 93,
+        "Question": "In a four-bar linkage, S denotes the shortest link length, L is the longest link length, P and Q are the lengths of other two links. At least one of the three moving links will rotate by 3600 if",
+        "Options": [
+            "a) S + L < P + Q",
+            "b) S + L > P + Q",
+            "c) S + P < L + Q",
+            "d) S + P > L + Q"
+        ],
+        "Answer": "Answer: b\nExplanation: Column I                              Column II\n            P. Addendum                                4. Gear\n            Q. Instantaneous centre of velocity        3. Linkage\n            R. Section modulus                         2. Beam\n            S. Prime circle                            1. Cam\nSo correct pairs are, P-4, Q-3, R-2, S-1."
+    },
+    {
+        "id": 94,
+        "Question": "The number of degrees of freedom of a planar linkage with 8 links and 9 simple revolute joints is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: d\nExplanation: In this question pair or mechanism is related to contact & machine related to it.\nColumn I                          Column II\nP. Higher Kinematic Pair            2. Line Contact\nQ. Lower Kinematic Pair             6. Surface Contact\nR. Quick Return Mechanism           5. Shaper\nS. Mobility of a Linkage            1. Grubler’s Equation\n\n\n        So correct pairs are, P-2, Q-6, R-5, S-1."
+    },
+    {
+        "id": 95,
+        "Question": "The lengths of the links of a 4-bar linkage with revolute pairs are p,q,r, and s units. given that p<q<r<s. Which of these links should be the fixed one, for obtaining a “double crank” mechanism ?",
+        "Options": [
+            "a) link of length p",
+            "b) link of length q",
+            "c) link of length r",
+            "d) link of length s"
+        ],
+        "Answer": "Answer: a\nExplanation: Here P,Q,R, & S are the lengths of the links.\nAccording to Grashof’s law : “For a four bar mechanism, the sum of the shortest and longest link lengths should not be greater than the sum of remaining two link lengths, if there is to be continuous relative motion between the two links\nS + L < P + Q. "
+    },
+    {
+        "id": 96,
+        "Question": "When a cylinder is located in a Vee-block, the number of degrees of freedom which are arrested is",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 7",
+            "d) 8"
+        ],
+        "Answer": "Answer: c\nExplanation: Given l= 8, j= 9\nWe know that, Degree of freedom,\nn =3(l − 1)−2j = 3(8 − 1)−2 x 9 = 3."
+    },
+    {
+        "id": 97,
+        "Question": "The minimum number of links in a single degree-of-freedom planar mechanism with both higher and lower kinematic pairs is",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: Given p<q<r<s\n“Double crank” mechanism occurs, when the shortest link is fixed. From the given pairs p is the shortest link. So, link of length p should be fixed."
+    },
+    {
+        "id": 98,
+        "Question": "The total number of instantaneous centres for a mechanism consisting of n links are",
+        "Options": [
+            "a) n/2",
+            "b) n",
+            "c) n – 1/2",
+            "d) n(n – 1)/2"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of degrees of freedom = 2 & movability includes the six degrees of freedom of the device as a whole, as the ground link were not fixed. So, 4 degrees of freedom are constrained or arrested."
+    },
+    {
+        "id": 99,
+        "Question": "According to Aronhold Kennedy’s theorem, if three bodies move relatively to each other, their instantaneous centres will lie on a",
+        "Options": [
+            "a) straight line",
+            "b) parabolic curve",
+            "c) ellipse",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: From the Kutzbach criterion the degree of freedom,\nn = 3(l − 1) − 2j − h\nFor single degree of Freedom (n = 1),\n1 = 3(l − 1) − 2j − h\n3l − 2j − 4 − h = 0                   …(i)\nThe simplest possible mechanisms of single degree of freedom is four-bar mechanism. For this mechanism j = 4, h = 0\nFrom equation (i), we have\n3l − 2 x 4 − 4 − 0 = 0\nor, l = 4."
+    },
+    {
+        "id": 100,
+        "Question": "In a mechanism, the fixed instantaneous centres are those centres which",
+        "Options": [
+            "a) remain in the same place for all configurations of the mechanism",
+            "b) vary with the configuration of the mechanism",
+            "c) moves as the mechanism moves, but joints are of permanent nature",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The number of instantaneous centres in a constrained kinematic chain is equal to the number of possible combinations of two links. The number of pairs of links or the number of instantaneous centres is the number of combinations of n links taken two at a time. Mathematically, number of instantaneous centres, N = n(n – 1)/2                          where n = Number of links."
+    },
+    {
+        "id": 101,
+        "Question": "The instantaneous centres which vary with the configuration of the mechanism, are called",
+        "Options": [
+            "a) permanent instantaneous centres",
+            "b) fixed instantaneous centres",
+            "c) neither fixed nor permanent instantaneous centres",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The Aronhold Kennedy’s theorem states that if three bodies move relatively to each other, they have three instantaneous centres and lie on a straight line."
+    },
+    {
+        "id": 102,
+        "Question": "When a slider moves on a fixed link having curved surface, their instantaneous centre lies",
+        "Options": [
+            "a) on their point of contact",
+            "b) at the centre of curvature",
+            "c) at the centre of circle",
+            "d) at the pin joint"
+        ],
+        "Answer": "Answer: a\nExplanation: Fixed instantaneous centres remain in the same place for all configurations of the mechanism. The permanent instantaneous centres move when the mechanism moves, but the joints are of permanent nature."
+    },
+    {
+        "id": 103,
+        "Question": "If the crank and the connecting rod are 300 mm and 1 m long respectively and the crank rotates at a constant speed of 250 r.p.m., determine the crank angle at which the maximum velocity occurs is ____",
+        "Options": [
+            "a) 45",
+            "b) 75",
+            "c) 90",
+            "d) 60"
+        ],
+        "Answer": "Answer: b\nExplanation: For maximum velocity of the piston : cosθ + 2cos(2θ)/2n = 0\nn = l/r : 1/.3 = 3.33\ntherefore, θ = 75°"
+    },
+    {
+        "id": 104,
+        "Question": "If the crank and the connecting rod are 600 mm and 2 m long respectively and the crank rotates at a constant speed of 250 r.p.m, determine maximum velocity of the piston in m/s is _____",
+        "Options": [
+            "a) 15",
+            "b) 17.5",
+            "c) 20",
+            "d) 10.5"
+        ],
+        "Answer": "Answer: b\nExplanation: maximum velocity is given by V=w.r( sinθ + sin2θ/2n)\nMaximum velocity occurs at 75, n = 2/.6 = 3.33\nsubstituting values gives Vmax = 17.5 m/s."
+    },
+    {
+        "id": 105,
+        "Question": "The crank and connecting rod of a steam engine are 0.3 m and 1.5 m in length. The crank rotates at 150 r.p.m. clockwise, determine velocity of the piston when the crank is at an angle 40 degrees from IDC.",
+        "Options": [
+            "a) 4.19",
+            "b) 5",
+            "c) 3.49",
+            "d) 3.36"
+        ],
+        "Answer": "Answer: c\nExplanation:  We know that ratio of lengths of the connecting rod and crank, n = l/r = 1.5/0.3 = 5,\nsubstituting the values into the formula of velocity  V=w.r(sinθ + sin2 θ / 2n) gives V = 3.49 m/s."
+    },
+    {
+        "id": 106,
+        "Question": "Which of the following expression represent the angular acceleration α of the connecting rod?",
+        "Options": [
+            "a) −ω2 . sin θ/n",
+            "b) −ω2 . cos θ.n",
+            "c) ω2. cos θ/n",
+            "d) ω2 . sin θ.n"
+        ],
+        "Answer": "Answer: a\nExplanation:  We know that ratio of lengths of the connecting rod and crank, n = l/r = 1.5/0.3 = 5,\nsubstituting the values into the formula of acceleration a= ω2.r ( cosθ + cos2θ /n ) = 59.27 m/s2."
+    },
+    {
+        "id": 107,
+        "Question": "In a slider crank mechanism, the length of the crank and connecting rod are 150 mm and 600 mm respectively. The crank position is 60° from inner dead centre. The crank shaft speed is 400 r.p.m. (clockwise). Velocity of the slider is ________",
+        "Options": [
+            "a) 6.9 m/s",
+            "b) 6.12 m/s",
+            "c) 7.32 m/s",
+            "d) 6.66 m/s"
+        ],
+        "Answer": "Answer: a\nExplanation: Angular acceleration is the rate of change of angular velocity, for the connecting rod it depends on the length of the rod and crank’s radius. The negative signs indicate that the sense of rotation tends to reduce the angle phi."
+    },
+    {
+        "id": 108,
+        "Question": "In a slider crank mechanism, the length of the crank and connecting rod are 180 mm and 540 mm respectively. The crank position is 45° from inner dead centre. The crank shaft speed is 450 r.p.m. (clockwise), calculate angular velocity of the connecting rod in rad/s.",
+        "Options": [
+            "a) 10.3",
+            "b) 11.1",
+            "c) 12.2",
+            "d) 11.8"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that ratio of the length of connecting rod and crank, n = l / r = 0.6 / 0.15 = 4, substituting the values into the formula of velocity  V=w.r( sinθ + sin2 θ / 2n) gives V = 6.12 m/s."
+    },
+    {
+        "id": 109,
+        "Question": "The smaller and generally the driving gear of a pair of mated gears is called _________",
+        "Options": [
+            "a) pitch",
+            "b) module",
+            "c) rack",
+            "d) pinion"
+        ],
+        "Answer": "Answer: d\nExplanation: Pinion is the smaller and the driving gear of a pair of mated gears. It is used in gear train drives and is usually the smaller gear. The pinion engages the larger gear or rack that helps in the turning of the wheels of the vehicle."
+    },
+    {
+        "id": 110,
+        "Question": "The distance measured along the circumference of the pitch circle from a point on one tooth to the same point on the adjacent tooth is called ________________",
+        "Options": [
+            "a) pitch diameter",
+            "b) circular pitch",
+            "c) pitch point",
+            "d) line of centres"
+        ],
+        "Answer": "Answer: b\nExplanation: Circular pitch is the distance measured along the circumference of the pitch circle from a point on one tooth to the same point on the adjacent tooth. So basically, it is the distance between corresponding points of consecutive gear teeth.\np = d π/ N; where, p is the circular pitch, d is the standard pitch diameter and N is the number of teeth."
+    },
+    {
+        "id": 111,
+        "Question": "The number of teeth per unit length of the pitch circle diameter is called ________________",
+        "Options": [
+            "a) diametral pitch",
+            "b) module",
+            "c) clearance",
+            "d) gear ratio"
+        ],
+        "Answer": "Answer: a\nExplanation: Diametral pitch is the number of teeth per unit length of the pitch circle diameter.\nIt is used to classify different types and sizes of gears. It is a function of the pitch circle.\nP = T/d."
+    },
+    {
+        "id": 112,
+        "Question": "The ratio of the number of teeth on the gear to the number of teeth on the pinion is called ______",
+        "Options": [
+            "a) velocity ratio",
+            "b) module",
+            "c) gear ratio",
+            "d) pitch point"
+        ],
+        "Answer": "Answer: c\nExplanation: Gear ratio is given by T/t and is defined as the ratio of the number of teeth on the gear to the number of teeth on the pinion. Velocity ratio is the inverse of gear ratio.\nGear ratio is inversely proportional to the radius of the pitch circle and also the number of teeth on the driving gear."
+    },
+    {
+        "id": 113,
+        "Question": "The ratio of pitch diameter to the number of teeth is called _________",
+        "Options": [
+            "a) module",
+            "b) addendum",
+            "c) dedendum",
+            "d) backlash"
+        ],
+        "Answer": "Answer: a\nExplanation: Module is the ratio of pitch diameter to the number of teeth.\nModule indicates the size of the gear and classifies whether the gear is big or small as module is a unit of size.\nm = d/T or m = p/π."
+    },
+    {
+        "id": 114,
+        "Question": "The circle passing through the upper tips of the teeth is called _________________",
+        "Options": [
+            "a) pitch circle",
+            "b) circular pitch",
+            "c) dedendum circle",
+            "d) addendum circle"
+        ],
+        "Answer": "Answer: d\nExplanation: Addendum circle is the circle passing through the upper tips of the teeth. The addendum circle lies on the outside cylinder for external gears whereas the addendum circle lies on the internal cylinder for internal gears. The diameter for the addendum circle of an internal gear is called as inside diameter."
+    },
+    {
+        "id": 115,
+        "Question": "The radial height of a tooth above the pitch circle is called ____________",
+        "Options": [
+            "a) addendum",
+            "b) dedendum",
+            "c) rack",
+            "d) line of centres"
+        ],
+        "Answer": "Answer: a\nExplanation: Addendum is the radial height of a tooth above the pitch circle. Basically, it is the radial distance between pitch diameter and diameter of the outside circle. Addendum angle is the angle between the face cone and the pitch cone."
+    },
+    {
+        "id": 116,
+        "Question": "The circle passing through the roots of the teeth is called ________________",
+        "Options": [
+            "a) addendum",
+            "b) addendum circle",
+            "c) dedendum circle",
+            "d) rack"
+        ],
+        "Answer": "Answer: c\nExplanation: Dedendum circle is the circle passing through the roots of the teeth. It touches the bottom of the spaces between the teeth of a gear."
+    },
+    {
+        "id": 117,
+        "Question": "The radial depth of a tooth below the pitch circle is called _______________",
+        "Options": [
+            "a) dedendum",
+            "b) addendum",
+            "c) rack",
+            "d) line of centres"
+        ],
+        "Answer": "Answer: a\nExplanation: Dedendum is the radial depth of a tooth below the pitch circle. It is the radial distance between the pitch circle and the root circle. Dedendum angle is the angle between the root cone and the pitch cone. "
+    },
+    {
+        "id": 118,
+        "Question": "The radial difference between the addendum and the dedendum of the tooth is called _________",
+        "Options": [
+            "a) clearance",
+            "b) rack",
+            "c) line of action",
+            "d) line of centres"
+        ],
+        "Answer": "Answer: a\nExplanation: Clearance is the radial difference between addendum and dedendum of the tooth. Clearance circle is a tangent to the addendum circle on the gear. It has a clearance which equal to the distance between the dedendum of the gear and the addendum of the mating gear."
+    },
+    {
+        "id": 119,
+        "Question": "The locus of the point of contact on two mating teeth from beginning of engagement to end of engagement is known as the _______________",
+        "Options": [
+            "a) angle of action",
+            "b) arc of contact",
+            "c) path of contact",
+            "d) line of action"
+        ],
+        "Answer": "Answer: c\nExplanation: Path of contact is the locus of the point of contact on two mating teeth from beginning of engagement to end of engagement. It is also called as contact length. It is the tangent to both the base circles and passes through the pitch point."
+    },
+    {
+        "id": 120,
+        "Question": "The portion of path of contact from the beginning of contact to the pitch point is called _______",
+        "Options": [
+            "a) arc of recess",
+            "b) arc of approach",
+            "c) path of recess",
+            "d) path of approach"
+        ],
+        "Answer": "Answer: d\nExplanation: Path of approach is the portion of path of contact from the beginning of contact to the pitch point. It is given by the formula (Ra2 – R2cos2 φ)0.5 – Rsinφ; where Ra is the radius of addendum of the larger gear, R is the radius of the larger gear and φ is the pressure angle between the two gears."
+    },
+    {
+        "id": 121,
+        "Question": "The portion of the path of contact from the pitch point to the end of contact is called _________",
+        "Options": [
+            "a) arc of recess",
+            "b) arc of approach",
+            "c) path of recess",
+            "d) path of approach"
+        ],
+        "Answer": "Answer: c\nExplanation: Path of recess is the portion of the path of contact from the pitch point to the end of contact. It is given by the formula (ra2 – r2cos2 φ)0.5 – rsinφ; where ra is the radius of addendum of the smaller gear, r is the radius of the smaller gear and φ is the pressure angle between the two gears. Path of approach + Path of recess = Path of contact."
+    },
+    {
+        "id": 122,
+        "Question": "Arc of contact = ___________________ Complete the equation.",
+        "Options": [
+            "a) Path of contact / cos θ",
+            "b) Path of contact / sin θ",
+            "c) Path of contact x cos θ",
+            "d) Path of contact x sin θ"
+        ],
+        "Answer": "Answer: a\nExplanation: Arc of contact = Path of contact / cos θ; θ = the pressure angle between the two gears."
+    },
+    {
+        "id": 123,
+        "Question": "The locus of a point on the pitch circle from the beginning to end of engagement of two mating gears is called as ___________",
+        "Options": [
+            "a) Arc of contact",
+            "b) Path of contact",
+            "c) Path of approach",
+            "d) Arc of approach"
+        ],
+        "Answer": "Answer: a\nExplanation: Arc of contact is defined as the locus of a point on the pitch circle from beginning to end of engagement of two mating gears. It is subdivided into two sections namely arc of approach and arc of recess. Arc of approach + arc of recess = arc of contact."
+    },
+    {
+        "id": 124,
+        "Question": "The ratio of angle of action to the pitch angle is called ___________",
+        "Options": [
+            "a) space width",
+            "b) angle of recess",
+            "c) angle of approach",
+            "d) contact ratio"
+        ],
+        "Answer": "Answer: d\nExplanation: Contact ratio is the ratio of angle of action to the pitch angle. It is also defined as the number of pairs of teeth in contact. Contact ratio = arc of contact / circular pitch."
+    },
+    {
+        "id": 125,
+        "Question": "The angle turned by the gear from the beginning to the end of engagement of a pair of teeth is called ______________",
+        "Options": [
+            "a) angle of approach",
+            "b) angle of recess",
+            "c) angle of action",
+            "d) angle of contact"
+        ],
+        "Answer": "Answer: d\nExplanation: Angle of action is the angle turned by the gear from the beginning to the end of engagement of a pair of teeth. Angle of action = Arc of contact / r; where r is the radius of the pinion."
+    },
+    {
+        "id": 126,
+        "Question": "The formula to calculate path of contact is ______________________",
+        "Options": [
+            "a) (Ra2 + R2cos2 φ)0.5 + (ra2 + r2cos2 φ)0.5 – (R+r)sin φ",
+            "b) (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 + (R+r)sin φ",
+            "c) (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R+r)sin φ",
+            "d) (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R-r)sin φ"
+        ],
+        "Answer": "Answer: a\nExplanation: Path of contact is the locus of the point of contact on two mating teeth from the beginning of engagement to the end of it. Thus CD is the path of contact. It is also called as contact length. It is the tangent to both the base circles and passes through the pitch point."
+    },
+    {
+        "id": 127,
+        "Question": "The condition which must be fulfilled by two gear tooth profiles to maintain a constant angular velocity ratio between them is called __________________",
+        "Options": [
+            "a) arc of contact",
+            "b) path of contact",
+            "c) law of gearing",
+            "d) interference"
+        ],
+        "Answer": "Answer: c\nExplanation:\n   <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-path-contact-q1.png\" alt=\"theory-machines-questions-answers-path-contact-q1\" width=\"434\" height=\"209\" class=\"alignnone size-full wp-image-203461\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-path-contact-q1.png 434w, https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-path-contact-q1-300x144.png 300w\" sizes=\"(max-width: 434px) 100vw, 434px\" />\nFrom the diagram of two gears in a mesh, we can clearly see that, CD = CP + PD = (CF – PF) + (DE – PE) =(Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R+r)sin φ."
+    },
+    {
+        "id": 128,
+        "Question": "Find the path of contact if r = 20 mm, ra= 25 mm, R = 50 mm, Ra = 55 mm and φ = 20°.",
+        "Options": [
+            "a) 11.836 mm",
+            "b) 21.135 mm",
+            "c) 69.018 mm",
+            "d) 36.046 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: Law of gearing is the condition which must be fulfilled by two gear tooth profiles to maintain a constant angular velocity ratio between them. In order to maintain this constant angular velocity, the common normal of the tooth profiles should always pass through a fixed point on the line of centres, called fixed point."
+    },
+    {
+        "id": 129,
+        "Question": "What is the formula for the path of approach?",
+        "Options": [
+            "a) (Ra2 – R2cos2 φ)0.5 – Rsinφ",
+            "b) (Ra2 + R2cos2 φ)0.5 + Rcosφ",
+            "c) (Ra2 + R2cos2 φ)0.5 + Rsinφ",
+            "d) (Ra2 + R2cos2 φ)0.5 – Rcosφ"
+        ],
+        "Answer": "Answer: b\nExplanation: Path of contact = (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R+r)sin φ = 21.135 mm."
+    },
+    {
+        "id": 130,
+        "Question": "To avoid interference what is the maximum length of the path of approach?",
+        "Options": [
+            "a) Rsinφ",
+            "b) rsinφ",
+            "c) Rcosφ",
+            "d) rcosφ"
+        ],
+        "Answer": "Answer: a\nExplanation: The path of approach is given by the formula (Ra2 + R2cos2 φ)0.5 – Rsinφ; where Ra = The addendum radius of the larger gear, R = The radius of the larger gear and φ is the pressure angle. Path of approach is the portion of path of contact from the beginning of contact to the pitch point. Similarly, the formula for the path of recess is (Ra2 + R2cos2 φ)0.5 – rsinφ."
+    },
+    {
+        "id": 131,
+        "Question": "Two gears in a mesh have 45 teeth each and the module is 5 mm. The pressure angle is given to be φ = 15°. The addendum is equal to 1 module. Find the path of contact.",
+        "Options": [
+            "a) 31.159 mm",
+            "b) 48.201 mm",
+            "c) 34. 356 mm",
+            "d) 42.543 mm"
+        ],
+        "Answer": "Answer: b\nExplanation: The maximum length of the path of approach is equal to rsinφ. Similarly, the maximum length of the path of recess is equal to Rsinφ; where r is the radius of the smaller gear, R is the radius of the larger gear and φ is the pressure angle between these two gears."
+    },
+    {
+        "id": 132,
+        "Question": "The pressure angle of two gears in a mesh is φ = 20°. The gear ratio is 3 and the number of teeth on the pinion is 20. The module is given to be 8 mm. The addendum is one module. Find the path of contact of these two gears.",
+        "Options": [
+            "a) 21.324 mm",
+            "b) 12.543 mm",
+            "c) 56.343 mm",
+            "d) 39.458 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: φ = 15°, t = T = 45 and m = 5 mm. Addendum = 1 module.\nR = r = mT/2 = 112.5 mm and Ra = ra = 112.5 + 5 = 117.5 mm\nPath of contact = (Ra2 – R2cos2 φ)0.5+ (Ra2 – R2cos2 φ)0.5 – (R+r)sin φ= 31.159 mm."
+    },
+    {
+        "id": 133,
+        "Question": "The pressure angle of two gears in a mesh is φ = 25°. The number of teeth on the pinion is 25 and the number of teeth on the gear is 70. The module is given to be 10 mm. The addendum is 1.1 times the module. Find the path of approach and path of contact of these gears.",
+        "Options": [
+            "a) 24.421 mm, 22.417 mm",
+            "b) 22.417 mm, 24.421 mm",
+            "c) 26.407 mm, 20.431 mm",
+            "d) 20.431 mm, 26.407 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: φ = 20°, t = 20. Hence, T = 20 x 3 = 60. Addendum = 1 module\nr = mt/2 = 80 mm, R = mT/2 = 240 mm\nra = r + a = 88 mm, Ra = r + a = 248 mm\nPath of contact = (Ra2 – R2cos2 φ)0.5+ (Ra2 – R2cos2 φ)0.5 – (R+r)sin φ = 39.458 mm."
+    },
+    {
+        "id": 134,
+        "Question": "The pressure angle of two gears in a mesh is φ = 15°. The number of teeth on the larger gear is 50. The module is 4 mm. The addendum is equal to be 1.25 module. Find the path of approach of these gears.",
+        "Options": [
+            "a) 39.211 mm",
+            "b) 15.287 mm",
+            "c) 31.092 mm",
+            "d) 21.122 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: φ = 25°, t = 25, T = 70, m = 10 mm and addendum = 1.1 module = 11 mm.\nr = mt/2 = 125 mm, R = mT/2 = 350 mm\nra = r + a = 136 mm, Ra = R + a = 361 mm\nPath of approach = (Ra2 – R2cos2 φ)0.5 – Rsinφ = 24.421 mm\nPath of recess = (ra2 – R2cos2 φ)0.5– rsinφ = 22.417 mm."
+    },
+    {
+        "id": 135,
+        "Question": "The pressure angle of two gears in a mesh is φ = 35°. The number of teeth on the pinion is 20. The module is 10 mm and the addendum is 1 module. Find the path of recess of these gears.",
+        "Options": [
+            "a) 34.213 mm",
+            "b) 23.328 mm",
+            "c) 16.058 mm",
+            "d) 32.091 mm"
+        ],
+        "Answer": "Answer: b\nExplanation: φ = 15°, T = 50, m = 4 mm and addendum = 1.25 x module = 5 mm\nR = mT/2 = 100 mm, Ra = R + a = 105 mm\nPath of approach = (Ra2 – R2cos2 φ)0.5 – Rsinφ = 15.287 mm."
+    },
+    {
+        "id": 136,
+        "Question": "Velocity of sliding at the beginning of engagement of the two gears = (ωp + ωg) x ______________",
+        "Options": [
+            "a) path of contact",
+            "b) arc of contact",
+            "c) arc of approach",
+            "d) path of approach"
+        ],
+        "Answer": "Answer: d\nExplanation: Velocity of sliding at the beginning of engagement = (ωp + ωg) x path of approach. Similarly, the velocity of sliding at the end of engagement = (ωp + ωg) x Path of recess."
+    },
+    {
+        "id": 137,
+        "Question": "Velocity of sliding at the pitch point = (ωp + ωg) x _____________",
+        "Options": [
+            "a) path of contact",
+            "b) 0",
+            "c) arc of approach",
+            "d) path of recess"
+        ],
+        "Answer": "Answer: b\nExplanation: At the pitch point, there is no relative motion between the gears. Thus, the velocity of sliding is 0. Velocity of sliding at the pitch point = (ωp + ωg) x 0 = 0. "
+    },
+    {
+        "id": 138,
+        "Question": "The angular velocity of the pinion is 25 rad/s and that of the gear is 10 rad/s. The path of approach is equal to 15 mm. Find the velocity of sliding at the beginning of contact.",
+        "Options": [
+            "a) 394 mm/s",
+            "b) 525 mm/s",
+            "c) 134 mm/s",
+            "d) 348 mm/s"
+        ],
+        "Answer": "Answer: b\nExplanation: ωp= 25 rad/s and ωg= 10 rad/s. Path of approach = 15 mm.\nVelocity of sliding = (ωp + ωg) x Path of approach = (25 + 10) x 15 = 525 mm/s."
+    },
+    {
+        "id": 139,
+        "Question": "The angular velocity of the pinion is 40 rad/s and that of the gear is 12 rad/s. The path of recess is equal to 16 mm. Find the velocity of sliding at the end of the contact.",
+        "Options": [
+            "a) 832 mm/s",
+            "b) 213 mm/s",
+            "c) 1029 mm/s",
+            "d) 720 mm/s"
+        ],
+        "Answer": "Answer: a\nExplanation: ωp= 40 rad/s and ωg= 12 rad/s. Path of recess = 16 mm.\nVelocity of sliding = (ωp + ωg) x Path of recess = (40 + 12) x 16 = 832 mm/s."
+    },
+    {
+        "id": 140,
+        "Question": "The angular velocity of the pinion is 100 rpm and that of the gear is 30 rpm. The path of recess is equal to 50 mm and the path of contact = 100 mm. Find the velocity of sliding at the beginning of the contact.",
+        "Options": [
+            "a) 1033.29 mm/s",
+            "b) 902.93 mm/s",
+            "c) 394.02 mm/s",
+            "d) 680.58 mm/s"
+        ],
+        "Answer": "Answer: d\nExplanation: Np = 100 rpm. Therefore, ωp= 10.47 rad/s\nNg = 30 rpm. Therefore, ωg= 3.14 rad/s\nPath of approach = Path of contact – Path of recess = 100 mm – 50 mm = 50 mm.\nVelocity of sliding = (ωp + ωg) x Path of approach = (10.47 + 3.14) x 50 = 680.58 mm/s."
+    },
+    {
+        "id": 141,
+        "Question": "The angular velocity of the pinion is 200 rpm and that of the gear is 50 rpm. The maximum addendum radius of the larger wheel is 85 mm and the radius of the gear is equal to 75 mm. The pressure angle between the gears is equal to 30°. Find the velocity of sliding at the beginning of the contact.",
+        "Options": [
+            "a) 1289.129 mm/s",
+            "b) 732.324 mm/s",
+            "c) 453.681  mm/s",
+            "d) 239.238 mm/s"
+        ],
+        "Answer": "Answer: c\nExplanation: Np = 200 rpm. Therefore, ωp= 20.944 rad/s\nNg = 50 rpm. Therefore,  ωg= 5.236 rad/s\nRa = 85 mm and R = 75 mm; φ = 30°\nPath of approach = (Ra2 – R2cos2 φ)0.5 – Rsinφ = 17.33 mm\nVelocity of sliding = (ωp + ωg) x Path of approach = (20.944 + 5.236) x 17.33 = 453.68 mm/s."
+    },
+    {
+        "id": 142,
+        "Question": "The angular velocity of the pinion is 325 rpm and that of the gear is 155 rpm. The number of teeth on the larger wheel is 60 and the module is equal to 7 mm. Addendum is 1.1 times the module. The pressure angle is 20°. Find the velocity of sliding at the beginning of the contact.",
+        "Options": [
+            "a) 1010.858 mm/s",
+            "b) 1317.858 mm/s",
+            "c) 1217.858 mm/s",
+            "d) 1117.858 mm/s"
+        ],
+        "Answer": "Answer: a\nExplanation: Np = 325 rpm. Therefore, ωp= 34.034 rad/s\nNg = 155 rpm. Therefore, ωg= 16.231 rad/s\nm = 7 mm, T = 60 mm and R = mT/2 = 210 mm\nRa = R + a = 210 + 7.7 = 217.7 mm\nPath of approach= (Ra2 – R2cos2 φ)0.5 – Rsinφ = 20.11 mm\nVelocity of sliding = (ωp + ωg) x Path of recess = (34.034 + 16.231) x 20.11 = 1010.858 mm/s."
+    },
+    {
+        "id": 143,
+        "Question": "The angular velocity of the pinion is 75 rpm and that of the gear is 25 rpm. The addendum radius is 45 mm for the pinion and the radius of the pinion is 40 mm. The pressure angle between the gears is 25°. Find the velocity of sliding at the end of the contact.",
+        "Options": [
+            "a) 89.92 mm/s",
+            "b) 91.01 mm/s",
+            "c) 94.29 mm/s",
+            "d) 97.77 mm/s"
+        ],
+        "Answer": "Answer: d\nExplanation: Np = 75 rpm. Therefore, ωp= 7.854 rad/s\nNg = 25 rpm. Therefore,  ωg= 2.168 rad/s\nr = 40 mm, ra = 45 mm, φ = 25°\nPath of recess = (ra2 – r2cos2 φ)0.5 – rsinφ = 9.755 mm\nVelocity of sliding = (ωp + ωg) x Path of recess = (7.854 + 2.168) x 9.755 = 97.77 mm/s."
+    },
+    {
+        "id": 144,
+        "Question": "The angular velocity of the pinion is 150 rpm and that of the gear is 75 rpm. The number of teeth on the pinion is equal to 20 and the module = 6 mm. The value of addendum is equal to 1 module. The pressure angle between the two gears is 20°. Find the velocity of sliding at the end of the contact.",
+        "Options": [
+            "a) 591.29 mm/s",
+            "b) 601.12 mm/s",
+            "c) 324.87mm/s",
+            "d) 512.02 mm/s"
+        ],
+        "Answer": "Answer: c\nExplanation: Np = 150 rpm. Therefore, ωp= 15.708 rad/s\nNg = 75 rpm. Therefore, ωg= 7.854 rad/s\nt = 20 and m = 6 mm.\nr = mt/2 = 60 mm and ra = r + a = 66 mm; φ = 20°\nPath of recess = (ra2 – r2cos2 φ)0.5 – rsinφ = 13.79 mm\nVelocity of sliding = (ωp + ωg) x Path of recess = (15.708 + 7.854) x 13.79 = 324.87 mm/s."
+    },
+    {
+        "id": 145,
+        "Question": "What is the formula for rolling velocity?",
+        "Options": [
+            "a) ωp x r",
+            "b) ωg x R",
+            "c) 0",
+            "d) ωg x r"
+        ],
+        "Answer": "Answer: a\nExplanation: We know that v = r. ω. The rolling velocity is also represented by the same formula ωp x r; where ωp is the angular velocity of the pinion and r is the radius of the  smaller gear. Rolling velocity is also called as pitch line velocity."
+    },
+    {
+        "id": 146,
+        "Question": "The distance travelled by a point on either pitch circle of the two wheels during the period of contact of a pair of teeth is called ____________________",
+        "Options": [
+            "a) path of contact",
+            "b) arc of contact",
+            "c) contact ratio",
+            "d) angle of action"
+        ],
+        "Answer": "Answer: b\nExplanation: The arc of contact is defined as the distance travelled by a point on either pitch circle of the two wheels during the period of contact of a pair of teeth. Simply, it is traced out along the pitch circle while one pair of the teeth is in contact."
+    },
+    {
+        "id": 147,
+        "Question": "The contact ratio is the ratio of arc of contact to the ____________",
+        "Options": [
+            "a) circular pitch",
+            "b) dedendum",
+            "c) circular pitch",
+            "d) module"
+        ],
+        "Answer": "Answer: c\nExplanation: Contact ratio is the of the arc od contact to the circular pitch. The number of teeth in contact = arc of contact / circular pitch = path of contact / (circular pitch x cos φ)."
+    },
+    {
+        "id": 148,
+        "Question": "If the contact ratio is 2.7, two pairs of teeth are always in contact and three pairs of teeth are in contact for _________ % of the time.",
+        "Options": [
+            "a) 100",
+            "b) 50",
+            "c) 45",
+            "d) 70"
+        ],
+        "Answer": "Answer:  d\nExplanation: If the contact ratio is 2.7, two pairs of teeth are always in contact and three pairs of teeth are in contact for 70 % of the time."
+    },
+    {
+        "id": 149,
+        "Question": "For continuous transmission of motion, the contact ratio i.e. n must always be _______",
+        "Options": [
+            "a) equal to 1",
+            "b) equal to 0",
+            "c) more than unity",
+            "d) less than unity"
+        ],
+        "Answer": "Answer: c\nExplanation: For a continuous transmission of motion, at least one tooth of the wheel must be in contact with another tooth of the second wheel. Hence, n must be greater than unity. If the contact ratio is less than unity, then it implies that the even a single tooth of the two gears are not in contact with each other. "
+    },
+    {
+        "id": 150,
+        "Question": "Two involute gears have path of contact 40 mm and the pressure angle is 50°. Find the arc of contact.",
+        "Options": [
+            "a) 62.23 mm",
+            "b) 25.71 mm",
+            "c) 30.64 mm",
+            "d) 52.21 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: Arc of contact = Path of contact/cos φ = 40/cos 50° = 62.23 mm."
+    },
+    {
+        "id": 151,
+        "Question": "Two gears in a mesh have the arc of contact = 27 mm. The pressure angle is 15°. Find the path of contact.",
+        "Options": [
+            "a) 104.32 mm",
+            "b) 6.98 mm",
+            "c) 27.95 mm",
+            "d) 26.08 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Path of contact = Arc of contact x cos φ = 27 x cos 15° = 26.08 mm."
+    },
+    {
+        "id": 152,
+        "Question": "Two involute gears in a mesh have a circular pitch of 25 mm. The arc of contact is 55 mm. Find the number of pairs of teeth in contact.",
+        "Options": [
+            "a) 2.2",
+            "b) 0.45",
+            "c) 13.75",
+            "d) 1.3"
+        ],
+        "Answer": "Answer: a\nExplanation: Contact ratio = Arc of contact/ Circular pitch = 55/25 = 2.2."
+    },
+    {
+        "id": 153,
+        "Question": "Two involute gear have a module of 5 mm, the arc of contact is 25 mm. Find the contact ratio of these two gears.",
+        "Options": [
+            "a) 5",
+            "b) 1.59",
+            "c) 0.2",
+            "d) 3"
+        ],
+        "Answer": "Answer: b\nExplanation: Contact ratio = Arc of contact/ Circular pitch = Arc of contact / πm = 25/(5xπ) = 1.59."
+    },
+    {
+        "id": 154,
+        "Question": "The path of contact of two gears in a mesh is 50 mm and the pressure angle is 45°. The module is 8 mm. Find the contact ratio of these two gears.",
+        "Options": [
+            "a) 4.2",
+            "b) 1.9",
+            "c) 3.7",
+            "d) 2.8"
+        ],
+        "Answer": "Answer: d\nExplanation: Arc of contact = Path of contact/cos φ = 50/cos 45° = 70.71 mm\nContact ratio = Arc of contact/ Circular pitch = Arc of contact / πm = 70.71/(πx8) = 2.8."
+    },
+    {
+        "id": 155,
+        "Question": "The path of approach = 13.92 mm and path of recess = 11.56 mm. The pressure angle is 22.5°. The module is 4 mm. Find the contact ratio of these two gears.",
+        "Options": [
+            "a) 2.19",
+            "b) 3.54",
+            "c) 3.12",
+            "d) 2.53"
+        ],
+        "Answer": "Answer: a\nExplanation: Path of contact = Path of approach + Path of recess = 13.92 + 11.56 = 25.48 mm\nArc of contact = Path of contact/cos φ = 25.48/cos 22.5° = 27.58 mm\nContact ratio = Arc of contact/ Circular pitch = Arc of contact / πm = 27.58/(πx4) = 2.19."
+    },
+    {
+        "id": 156,
+        "Question": "Two involute gears in a mesh have a module of 10 mm and the pressure angle is 35°. The larger gear has 45 teeth whereas the pinion has 15 teeth. The addendum is equal to one module. Find the arc of contact.",
+        "Options": [
+            "a) 36. 832 mm",
+            "b) 32.460 mm",
+            "c) 39.626 mm",
+            "d) 27.239 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: φ = 35°, t = 15, T = 45, m = 10 mm and addendum = 1 module = 10 mm.\nr = mt/2 = 75 mm, R = mT/2 = 225 mm\nra = r + a = 85 mm, Ra = R + a = 235 mm\nPath of contact = (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R + r)sinφ = 32.46 mm\nArc of contact = Path of contact/cos φ = 32.46/cos 35° = 39.626 mm."
+    },
+    {
+        "id": 157,
+        "Question": "The pressure angle of two gears in a mesh is φ = 22.5°. The number of teeth on the pinion is 25 and the gear ratio is 2. The module is 7 mm and addendum = 1 module. Find the angle of action of these two gears.",
+        "Options": [
+            "a) 32.056°",
+            "b) 34.697°",
+            "c) 22.72°",
+            "d) 28.531°"
+        ],
+        "Answer": "Answer: c\nExplanation: φ = 22.5°, t = 25 and T = 25 x 2 = 50, m = 7 mm and addendum = 7 mm.\nr = mt/2 = 87.5 mm and ra = r + a = 94.5 mm\nR = mT/2 = 175 mm and Ra = R + a = 182 mm\nPath of contact = (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R + r)sinφ = 32.056 mm\nArc of contact = Path of contact/cos φ = 32.056/cos 22.5° = 34.697 mm.\nAngle of action = Arc of contact / r = 0.3965 rad = 22.72°."
+    },
+    {
+        "id": 158,
+        "Question": "The pressure angle of two gears in a mesh is φ = 25°. The number of teeth on the pinion is 45 and the gear ratio is 2. The module is 6 mm and addendum = 1.1 module. Find the contact ratio of these two gears.",
+        "Options": [
+            "a) 1.7",
+            "b) 2.3",
+            "c) 4.2",
+            "d) 3.5"
+        ],
+        "Answer": "Answer: a\nExplanation: φ = 25°, t = 45 and T = 45 x 2 = 90, m = 6 mm and addendum = 6.6 mm.\nr = mt/2 = 135 mm and ra = r + a = 141.6 mm\nR = mT/2 = 270 mm and Ra = R + a = 276.6 mm\nPath of contact = (Ra2 – R2cos2 φ)0.5 + (ra2 – r2cos2 φ)0.5 – (R + r)sinφ = 29.068 mm\nArc of contact = Path of contact/cos φ = 29.068/cos 25° = 32.073 mm.\nContact ratio = Arc of contact / Circular pitch = 32.073 / πm = 32.073 / (πx6) = 1.7."
+    },
+    {
+        "id": 159,
+        "Question": "The maximum radius of addendum to avoid interference is given by the formula ____________",
+        "Options": [
+            "a) ((R cosφ)2 + (R sinφ + r sinφ)2)0.5",
+            "b) ((R cosφ)2 + (R sinφ – r sinφ)2)0.5",
+            "c) ((R cosφ)2 – (R sinφ + r sinφ)2)0.5",
+            "d) ((R cosφ)2 – (R sinφ – r sinφ)2)0.5"
+        ],
+        "Answer": "Answer: b\nExplanation:  BE is the maximum value of addendum radius of the wheel or the larger gear to avoid interference of the gears. It is given by Ra max. When two gears are in mesh at one instant there is a chance to mate involute portion with non involute portion of mating gear. This phenomenon is described as interference. In case  of a pinion, AF is the maximum value of the addendum radius of the pinion."
+    },
+    {
+        "id": 160,
+        "Question": "What is the formula for calculating the minimum number of teeth on the wheel ?",
+        "Options": [
+            "a) T = 2aw/((1+(1/G)((1/G)+2)sin2φ)0.5 – 1)",
+            "b) T = aw/((1+(1/G)((1/G)+2)sin2φ)0.5 – 1)",
+            "c) T = 2aw/((1+(1/G)((1/G)+2)sin2φ)0.5",
+            "d) T = 2aw/((1+(1/G)((1/G)+2)sin2φ)0.5 + 1)"
+        ],
+        "Answer": "Answer: a\nExplanation:\n  <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-minimum-number-teeth-interference-q1.png\" alt=\"theory-machines-questions-answers-minimum-number-teeth-interference-q1\" width=\"390\" height=\"222\" class=\"alignnone size-full wp-image-203470\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-minimum-number-teeth-interference-q1.png 390w, https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-minimum-number-teeth-interference-q1-300x171.png 300w\" sizes=\"(max-width: 390px) 100vw, 390px\" />\nWe know that the maximum value of addendum radius is equal to BE. From the given diagram it is evident that BE = ((BF)2 + (FP + PE)2)0.5 = ((R cosφ)2 + (R sinφ + r sinφ)2)0.5. If the actual value of the addendum radius is less than the maximum value of the addendum radius, then interference does not occur."
+    },
+    {
+        "id": 161,
+        "Question": "What is the maximum value of the addendum of the pinion?",
+        "Options": [
+            "a) mt((1+G(G+2)sin2 φ)0.5+1)/2",
+            "b) mt((1-G(G+2)sin2 φ)0.5-1)/2",
+            "c) mt((1-G(G+2)sin2 φ)0.5+1)/2",
+            "d) mt((1+G(G+2)sin2 φ)0.5-1)/2"
+        ],
+        "Answer": "Answer: a\nExplanation: T ≥ 2aw/((1+(1/G)((1/G)+2)sin2φ)0.5 – 1)\nThis implies that the minimum teeth must always be greater than the value obtained using this formula.\nIn the limit, T = (2aw/(1+(1/G)((1/G)+2)sin2φ)0.5 – 1). The minimum number of teeth on the pinion is given by t = T/G."
+    },
+    {
+        "id": 162,
+        "Question": "Two involute gears have a pressure angle of 20°. The gear ratio is given to be 3. The module is 5 mm and the value of addendum is equal to 1 module. Determine the minimum number of teeth on each wheel to avoid interference, if the pinion rotates at 100 rpm.",
+        "Options": [
+            "a) T = 51, t= 17",
+            "b) T = 45, t =15",
+            "c) T = 60, t =20",
+            "d) T = 54, t = 18"
+        ],
+        "Answer": "Answer: d\nExplanation: Since, aw max = mT((1+(1/G)((1/G)+2)sin2φ)0.5 – 1)/2 is the maximum value of addendum for the wheel, similarly, for pinion, the maximum value of addendum is given by mt((1+G(G+2)sin2 φ)0.5-1)/2. If the maximum value of addendum is less than the actual value of addendum, then interference occurs."
+    },
+    {
+        "id": 163,
+        "Question": "Find the maximum value of addendum radius of the larger gear if the pressure angle between two teeth is equal to 25°. T = 50 and t = 25. The gears have a module of 8 mm and the addendum is equal to one module.",
+        "Options": [
+            "a) 211. 202 mm",
+            "b) 231. 202 mm",
+            "c) 221. 202 mm",
+            "d) 201. 202 mm"
+        ],
+        "Answer": "Answer: b\nExplanation: As the value of Ra obtained is less than the value of the maximum addendum radius, the interference does not occur. It only occurs if the value of the addendum radius obtained is more than the maximum addendum radius. Thus, the given statement is false."
+    },
+    {
+        "id": 164,
+        "Question": "The number of teeth on a pinion is equal to 20 and the gear ratio is 3. The pressure angle is equal to 15°. If the module is equal to 6 mm, find the path of contact when interference is just avoided.",
+        "Options": [
+            "a) 62.116 mm",
+            "b) 73.324 mm",
+            "c) 42.831 mm",
+            "d) 51.483 mm"
+        ],
+        "Answer": "Answer: b\nExplanation:  Given: φ = 20°, G = T/t = 3, m = 5 mm and addendum = 1 module.\nNow, T = (2aw/(1+(1/G)((1/G)+2)sin2φ)0.5 – 1) is the minimum number of teeth on the larger gear.\nT = ((2×1)/(1+(1/3)((1/3)+2)sin2(20))0.5 – 1) =  44.94 ~ 45.\nTherefore, T = 45 and t = 45/3 = 15."
+    },
+    {
+        "id": 165,
+        "Question": "Find the maximum value of addendum radius of the pinion if the pinion has 25 teeth, the larger gear has 100 teeth and the pressure angle is equal to 20°. Take the value of module as 6 mm.",
+        "Options": [
+            "a) 78.943 mm",
+            "b) 71.345 mm",
+            "c) 78.431 mm",
+            "d) 74.459 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: Given: φ = 25°, T = 50 and t = 25, m = 8 mm and addendum = 1 module = 8 mm\nR = mT/2 = 200 and r = mt/2 = 100\nRa = 200 + 8 = 208 mm.\n Ra max = ((R cosφ)2 + (R sinφ + r sinφ)2)0.5 = 221. 202 mm."
+    },
+    {
+        "id": 166,
+        "Question": "Find the maximum value of addendum radius of the larger gear if the pinion has 17 teeth, the larger gear has 51 teeth and the pressure angle is equal to 15°. Take the value of module as 8 mm.",
+        "Options": [
+            "a) 9.092 mm",
+            "b) 8.923 mm",
+            "c) 5.247 mm",
+            "d) 4.389 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: Given: φ = 15°, t = 20 and G = T/20 = 3, T = 20 x 3 = 60, m = 6 mm\nr = mt/2 = 60 mm and R = mT/2 = 180 mm\nPath of contact when interference is just avoided = maximum path of approach + maximum path of recess = r sinφ + R sinφ = 60 sin15° + 180 sin15° = 62.116 mm."
+    },
+    {
+        "id": 167,
+        "Question": "Two 20° involute spur gears have a module of 12 mm. The addendum is equal to 1.5 module. If the larger gear has 40 teeth and the pinion has 20 teeth, find the pressure angle at which interference can be avoided.",
+        "Options": [
+            "a) 20.66°",
+            "b) 21.96°",
+            "c) 22.23°",
+            "d) 21.24°"
+        ],
+        "Answer": "Answer: b\nExplanation: Given: φ = 20°, t = 25 and T = 100, G = T/t = 100/25 = 4, m = 6 mm\nr = mt/2 = 75 mm\na p max = r((1+G(G+2)sin2 φ)0.5-1) = 71.345 mm."
+    },
+    {
+        "id": 168,
+        "Question": "The angle at which the teeth of the gear are inclined to the axis of a gear is called as __________",
+        "Options": [
+            "a) pitch angle",
+            "b) normal angle",
+            "c) helix angle",
+            "d) gear angle"
+        ],
+        "Answer": "Answer: b\nExplanation:  The given diagram is of a helical gear. In helical gears, the teeth are inclined to the axis of the gear. The gears can be either left handed or can be right handed depending on the direction in which the helix slopes when viewed. Here, 1 is left handed gear and 2 is a right handed gear."
+    },
+    {
+        "id": 169,
+        "Question": "The distance between the corresponding points on adjacent teeth measured on the pitch circle is called ______________",
+        "Options": [
+            "a) helical pitch",
+            "b) normal pitch",
+            "c) gear pitch",
+            "d) circular pitch"
+        ],
+        "Answer": "Answer: c\nExplanation: Helix angle is the angle at which the teeth are inclined to the axis of a gear.\n  <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-helical-gears-q1.png\" alt=\"theory-machines-questions-answers-helical-gears-q1\" width=\"151\" height=\"226\" class=\"alignnone size-full wp-image-203473\" />\nIn the diagram above, Ψ is called as helix angle. Depending upon the direction of this angle, the gear can be either left handed or right handed."
+    },
+    {
+        "id": 170,
+        "Question": "The shortest distance measured along the normal to the helix between corresponding points on the adjacent teeth is called ____________",
+        "Options": [
+            "a) gear pitch",
+            "b) helical pitch",
+            "c) circular pitch",
+            "d) normal circular pitch"
+        ],
+        "Answer": "Answer: d\nExplanation: Circular pitch is the distance between the corresponding points on adjacent teeth measured on the pitch circle.\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-helical-gears-q3.png\" alt=\"theory-machines-questions-answers-helical-gears-q3\" width=\"104\" height=\"167\" class=\"alignnone size-full wp-image-203474\" />\nHere, the distance p is called as circular pitch.\np = πm, where m is the module."
+    },
+    {
+        "id": 171,
+        "Question": "Two spiral gears have a normal module of 10 mm and the angle between the skew shaft axes is 50°. The driver has 20 teeth and the helix angle of it is 30°. If the velocity ratio is 1/3 and the driver as well as the follower are both left handed, find the centre distance between the shafts.",
+        "Options": [
+            "a) 434.72 mm",
+            "b) 452.83 mm",
+            "c) 582.19 mm",
+            "d) 523.39 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Normal circular pitch or normal pitch is  the shortest distance measured along the normal to the helix between corresponding points on the adjacent teeth.\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/02/theory-machines-questions-answers-helical-gears-q4.png\" alt=\"theory-machines-questions-answers-helical-gears-q4\" width=\"104\" height=\"167\" class=\"alignnone size-full wp-image-203475\" />\nIn the given figure, pn is the normal circular pitch.\npn = p cos Ψ\nTherefore, mn = m cos Ψ."
+    },
+    {
+        "id": 172,
+        "Question": "The centre distance between two meshing gears is 250 mm and the angle between the shafts is 60°. The normal circular pitch is 10 mm and the gear ratio is 2. Ψ1 = 35°. Find the value of number of teeth on both the wheels.",
+        "Options": [
+            "a) 46,92",
+            "b) 45, 90",
+            "c) 54,108",
+            "d) 62, 124"
+        ],
+        "Answer": "Answer: a\nExplanation: Ψ1 = 30°, mn = 10 mm and Ψ2 = 50° – 30° = 20°, T1 = 20.\nVR = 1/3 = T1/T2\nT2 = 3 x T1 = 3 x 20 = 60\nCentre distance = C = (mn/2) ((T1/cos Ψ1) + (T2/cos Ψ2)) = 434.72 mm."
+    },
+    {
+        "id": 173,
+        "Question": "The centre distance between two meshing gears is 250 mm and the angle between the shafts is 60°. The normal circular pitch is 10 mm and the gear ratio is 2. Ψ1 = 35°. Find the exact centre distance.",
+        "Options": [
+            "a) 248.992 mm",
+            "b) 250.934 mm",
+            "c) 251.831 mm",
+            "d) 251.029 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: Given: Ψ1 = 35°, Ψ2 = 60° – 35° = 25°, G = T2/T1 = 2, pn = 10 mm and C = 250 mm\nCentre distance = C = 250 = (mn/2) ((T1/cos Ψ1) + (T2/cos Ψ2)) = (pn/2π) ((T1/cos Ψ1) + (T2/cos Ψ2)) = 1.59 x (1.22T1 + 2.207T1) = 5.45 T1\nT1 = 250/5.45 = 45.88 ~ 46\nT2 = 2 x T1 = 92."
+    },
+    {
+        "id": 174,
+        "Question": "The centre distance between two meshing gears is 250 mm and the angle between the shafts is 60°. The normal circular pitch is 10 mm and the gear ratio is 2. Ψ1 = 35°.Find the efficiency if the friction angle is 6°.",
+        "Options": [
+            "a) 89.23 %",
+            "b) 91.02 %",
+            "c) 88.58 %",
+            "d) 85.69 %"
+        ],
+        "Answer": "Answer: b\nExplanation: Ψ1 = 35°, Ψ2 = 60° – 35° = 25°, pn = 10 mm\nWe found out that T1  = 46 and T2 = 92.\nCentre distance = (pn/2π) ((T1/cos Ψ1) + (T2/cos Ψ2)) = 250.934 mm."
+    },
+    {
+        "id": 175,
+        "Question": "The shaft angle of two helical gears is 60°. The normal module is 6 mm. The larger gear has 50 teeth and the gear ratio is 2. The centre distance is 300 mm. Find the helix angles of the two gears.",
+        "Options": [
+            "a) Ψ1 = 11.68°, Ψ2 = 48.32°",
+            "b) Ψ1 = 13.02°, Ψ2 = 46.98°",
+            "c) Ψ1 = 10.11°, Ψ2 = 49.89°",
+            "d) Ψ1 = 12.21°, Ψ2 = 47.79°"
+        ],
+        "Answer": "Answer: c\nExplanation: Given: φ = 6°, Ψ1 = 35°, Ψ2 = 60° – 35° = 25°\nEfficiency = η = (cos (Ψ2+ φ) x cos Ψ1¬)/ (cos (Ψ1 – φ) x cos Ψ2 ¬) = 0.8858 = 88.58 %."
+    },
+    {
+        "id": 176,
+        "Question": "Find the spiral angles of the two helical gears for maximum efficiency if the shaft angle is 100° and the friction angle is 10°.",
+        "Options": [
+            "a) 55°,55°",
+            "b) 50°,50°",
+            "c) 55°,45°",
+            "d) 65°,45°"
+        ],
+        "Answer": "Answer: d\nExplanation: Given: Ψ1 + Ψ2 = 60°; Ψ1 = 60° – Ψ2; mn = 6 mm; T2 = 50 and T1 = T2/G = 25. C = 300 mm\nC = 300 = (mn/2) ((T1/cos Ψ1) + (T2/cos Ψ2)) = 3((25/cos(60° – Ψ2))+(50/cos Ψ2)\n100 = ((25/cos(60° – Ψ2))+(50/cos Ψ2)\nBy trial and error method, we get Ψ2 = 47.79°, Ψ1 = 12.21°."
+    },
+    {
+        "id": 177,
+        "Question": "Find the normal circular pitch as well as the normal module if the larger gear has 40 teeth and the gear ratio is 4. The helix angle is 20° and the shaft angle is 50°. Assume the centre distance between the gears to be 200 mm.",
+        "Options": [
+            "a) 22.12 mm, 7.04 mm",
+            "b) 21.31 mm, 6.78 mm",
+            "c) 20.37 mm, 6.48 mm",
+            "d) 21.98 mm, 6.996 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: For maximum efficiency of the helical gears, Ψ1 = (θ + φ)/2 = (100° + 10°)/2 = 55°\nΨ2 = 100° – 55° = 45°."
+    },
+    {
+        "id": 178,
+        "Question": "The normal circular pitch of two helical gears in a mesh is 7 mm. If the number of teeth on the smaller gear is 22 and the gear ratio is 2, find the pitch diameters of the gears. Ψ1 = 40° and Ψ2 = 25°.",
+        "Options": [
+            "a) 83.01 mm, 109.93 mm",
+            "b) 63.99 mm, 108.17 mm",
+            "c) 85.34 mm, 96.32 mm",
+            "d) 79.12 mm, 100.13 mm"
+        ],
+        "Answer": "Answer: a\nExplanation: Given: T2 = 40 and T1 = T2/G = 40/4 = 10, Ψ1 + Ψ2 = 50°;  Ψ1 = 20°; Therefore, Ψ2 = 30°; C = 200 mm\nC = 200 = (mn/2) ((T1/cos Ψ1) + (T2/cos Ψ2))\n400 = mn x (56.83)\nmn = 7.04 mm and thus pn = πmn = 22.12 mm."
+    },
+    {
+        "id": 179,
+        "Question": "For two gears having shaft angle 90° and friction angle 6°, find the maximum efficiency of the helical gears.",
+        "Options": [
+            "a) 89.23%",
+            "b) 85.64%",
+            "c) 79.02%",
+            "d) 81.07%"
+        ],
+        "Answer": "Answer: b\nExplanation: T1 = 22 and T2 = T1 x G = 22 x 2 = 44, pn = 7 mm, Ψ1 = 40° and Ψ2 = 25°\nd1 = P1T1/π = pnT1/(cos Ψ1 x π) = 63.99 mm\nd2 = P2T2/π = pnT2/(cos Ψ2 x π) = 108.17 mm."
+    },
+    {
+        "id": 180,
+        "Question": "When large gear reductions are needed _________ gears are used.",
+        "Options": [
+            "a) helical",
+            "b) spur",
+            "c) worm",
+            "d) bevel"
+        ],
+        "Answer": "Answer: c\nExplanation: Worm gears are used where large speed reductions are needed. The horizontal portion of the gear is called as a worm and the assembly of it with the gear is known as a worm gear. Worm can easily turn a gear but a gear cannot turn a worm because of the shallow angle on the worm."
+    },
+    {
+        "id": 181,
+        "Question": "Which is of these is an advantage of worm gear?",
+        "Options": [
+            "a) It is expensive",
+            "b) Has high power losses and low transmission efficiency",
+            "c) Produce a lot of heat",
+            "d) Used for reducing speed and increasing torque"
+        ],
+        "Answer": "Answer: a\nExplanation: The helical gear is driven in the worm gear and the driving element is the screw or the worm. Worm gears are used in transmission of power between two non-parallel and non-intersecting shafts."
+    },
+    {
+        "id": 182,
+        "Question": "The distance between corresponding points on adjacent teeth measured along the direction of the axis is called ____________",
+        "Options": [
+            "a) joint line",
+            "b) normal link",
+            "c) axial pitch",
+            "d) lead"
+        ],
+        "Answer": "Answer: d\nExplanation: Reduction of speed and increasing the torque is an advantage of worm gear. The rest are the disadvantages of the worm gear. Worm gears are used in gate control mechanisms, hoisting machines, automobile steering mechanisms, lifts, conveyors and presses."
+    },
+    {
+        "id": 183,
+        "Question": "The distance by which a helix advances along the axis of the gear for one turn around is called _____________",
+        "Options": [
+            "a) joint line",
+            "b) normal link",
+            "c) axial pitch",
+            "d) lead"
+        ],
+        "Answer": "Answer: c\nExplanation: Axial pitch is the distance between corresponding points on adjacent teeth measured along the direction of the axis. The axial pitch of the worm gear is the same thing as the circular pitch of the helical gear."
+    },
+    {
+        "id": 184,
+        "Question": "The angle at which the teeth are inclined to the normal of the axis of rotation is called _______________",
+        "Options": [
+            "a) pitch angle",
+            "b) lead angle",
+            "c) normal angle",
+            "d) joint angle"
+        ],
+        "Answer": "Answer: d\nExplanation: Lead is the distance by which a helix advances along the axis of the gear for one turn around. The axial pitch is equal to the lead in a single helix and the axial pitch is one half of the lead in a double helix and so on."
+    },
+    {
+        "id": 185,
+        "Question": "What is the velocity ratio of worm gears?",
+        "Options": [
+            "a) (lπ)/d2",
+            "b) (πd2)/l",
+            "c) l/(πd2)",
+            "d) d2/(lπ)"
+        ],
+        "Answer": "Answer: b\nExplanation: Lead angle is the angle at which the teeth are inclined to the normal of the axis of rotation. Lead angle of the worm gear is same as the helix angle of the helical gear. Thus, Ψ2 = λ1."
+    },
+    {
+        "id": 186,
+        "Question": "What is the centre distance for the worm gear?",
+        "Options": [
+            "a) (mn/2)(T1 cotλ1 – T2)",
+            "b) (mn/2)(T2 cotλ1 + T1)",
+            "c) (mn/2)(T2 cotλ1 – T1)",
+            "d) (mn/2)(T1 cotλ1 + T2)"
+        ],
+        "Answer": "Answer: c\nExplanation: Velocity ratio in worm gears is given as the ratio of the angle turned by the gear to the angle turned by the worm.\nThus, velocity ratio = (2l/d2)/(2π) = l/(πd2)."
+    },
+    {
+        "id": 187,
+        "Question": "What is the formula to calculate maximum efficiency of a worm gear?",
+        "Options": [
+            "a) (1+sinø)/(1-sinø)",
+            "b) (1-sinø)/(1+sinø)",
+            "c) (tan(λ1-ø))/tan λ1",
+            "d) (tan(λ1+ø))/tan λ1"
+        ],
+        "Answer": "Answer: d\nExplanation: C = (mn/2)(T1 cotλ1 + T2)\nThis equation can be derived by using the formula for centre distance of a helical gear which is given as C = (mn/2) ((T1/cos Ψ1) + (T2/cos Ψ2)\nAs, Ψ2 = λ1, Ψ1 = 90° – λ1."
+    },
+    {
+        "id": 188,
+        "Question": "Find the helix angle of the worm if the pitch of the worm gear is 12 mm and the pitch diameter is 50 mm.",
+        "Options": [
+            "a) 8.687°",
+            "b) 11.231°",
+            "c) 9.212°",
+            "d) 10.319°"
+        ],
+        "Answer": "Answer: b\nExplanation: The maximum efficiency of the worm gear is given to be (1-sinø)/(1+sinø), whereas the efficiency of the worm gear is given as (tan(λ1-ø))/tan λ1"
+    },
+    {
+        "id": 189,
+        "Question": "Find the speed of the gear if the worm is a three start worm rotating at 500 rpm. The gear has 20 teeth.",
+        "Options": [
+            "a) 125 rpm",
+            "b) 100 rpm",
+            "c) 75 rpm",
+            "d) 50 rpm"
+        ],
+        "Answer": "Answer: a\nExplanation: tan λ1 = Lead / Pitch circumference = 2p/πd1 = 24/50π = 0.1528\nλ1 = 8.687°."
+    },
+    {
+        "id": 190,
+        "Question": "For a two start worm gear having a pitch of 20 mm and a lead angle 12°, find the centre distance if the larger gear has 25 teeth.",
+        "Options": [
+            "a) 148.22 mm",
+            "b) 124.93 mm",
+            "c) 121.19 mm",
+            "d) 109.53 mm"
+        ],
+        "Answer": "Answer: c\nExplanation: N1/N2 = T2/T1\n500/N2 = 20/3\nN2 = 75 rpm\nThus, the gear rotates at a speed of 75 rpm."
+    },
+    {
+        "id": 191,
+        "Question": "Calculate the lead angle of the worm gear for maximum efficiency if θ = 90° and the coefficient of friction is 0.05.",
+        "Options": [
+            "a) 48.21°",
+            "b) 42.23°",
+            "c) 43.57°",
+            "d) 46.43°"
+        ],
+        "Answer": "Answer: d\nExplanation: C = (mn/2)(T1 cotλ1 + T2)\nTherefore, C = (pn/2π)(T1 cotλ1 + T2) = 109.53 mm."
+    },
+    {
+        "id": 192,
+        "Question": "Find the maximum efficiency if the lead angle is given to be 10° and the coefficient of friction is 0.07.",
+        "Options": [
+            "a) 79.82%",
+            "b) 72.23%",
+            "c) 76.29%",
+            "d) 70.72%"
+        ],
+        "Answer": "Answer: c\nExplanation: µ = 0.05°; ø = tan-1(0.05) = 2.862°; θ = 90°\nFor maximum efficiency, Ψ1 = (θ+ ø)/2 = 92.862/2 = 46.43°\nΨ1 = 90° – λ1 = 46.43°\nλ1 = 90° – 46.43° = 43.57°."
+    },
+    {
+        "id": 193,
+        "Question": "Calculate the maximum efficiency of the worm gears which have a friction angle of 0.06.",
+        "Options": [
+            "a) 88.71%",
+            "b) 83.23%",
+            "c) 89.91%",
+            "d) 86.49%"
+        ],
+        "Answer": "Answer: d\nExplanation: λ1 = 10°, ø = tan-1(0.07) = 4°\nEfficiency = tan(λ1)/ tan(λ1+ ø) = 0.7072 = 70.72%."
+    },
+    {
+        "id": 194,
+        "Question": "Bevel gears are equivalent to rolling ________",
+        "Options": [
+            "a) cubes",
+            "b) cones",
+            "c) spheres",
+            "d) cuboids"
+        ],
+        "Answer": "Answer: a\nExplanation: To have a gear drive between two intersecting shafts, bevel gears are used. Bevel wheels are used to work a gear to another gear. They are generally mounted on shafts which are perpendicular to each other but can be designed to work at other angles too. Thus, the statement is true."
+    },
+    {
+        "id": 195,
+        "Question": "What is the formula to calculate the pitch angle of gear of a bevel gear using the radius?",
+        "Options": [
+            "a) yg = tan-1 ((cos θ)/((rg/rp)+sin θ))",
+            "b) yg = tan-1 ((cos θ)/((rp/rg)+sin θ))",
+            "c) yg = tan-1 ((sin θ)/((rp/rg)+cos θ))",
+            "d) yg = tan-1 ((sin θ)/((rg/rp)+cos θ))"
+        ],
+        "Answer": "Answer: b\nExplanation: By geometry of bevel gears, it is evident that they are equivalent to rolling cones. Their pitch surface is a cone. Bevel gears exist as pairs which can be either straight or inclined at different angles. "
+    },
+    {
+        "id": 196,
+        "Question": "What is the formula to calculate the pitch angle of pinion of a bevel gear using the angular velocity?",
+        "Options": [
+            "a) yp = tan-1 ((cos θ)/((wg/wp)+sin θ))",
+            "b) yp = tan-1 ((cos θ)/((wp/wg)+sin θ))",
+            "c) yp = tan-1 ((sin θ)/((wg/wp)+cos θ))",
+            "d) yp = tan-1 ((sin θ)/((wp/wg)+cos θ))"
+        ],
+        "Answer": "Answer: d\nExplanation: The given gear is bevel gear. Here, ƴg, ƴp = pitch angles of gear and pinion respectively.\nrg, rp = pitch radii of gear and pinion respectively."
+    },
+    {
+        "id": 197,
+        "Question": "Which of the gears has the highest contact ratio?",
+        "Options": [
+            "a) Helical",
+            "b) Spur",
+            "c) Bevel",
+            "d) Worm"
+        ],
+        "Answer": "Answer: c\nExplanation: tan yg = ((sin θ)/((rp/rg)+cos θ))\nTherefore, yg = tan-1 ((sin θ)/((rp/rg)+cos θ))\nSimilarly, tan yp = ((sin θ)/((rg/rp)+cos θ))\nTherefore, yp = tan-1 ((sin θ)/((rg/rp)+cos θ))."
+    },
+    {
+        "id": 198,
+        "Question": "What is the working depth of the gear and the pinion of the bevel gears?",
+        "Options": [
+            "a) 2 m, 0.7 m",
+            "b) 0.7 m, 2 m",
+            "c) 3 m, 0.4 m",
+            "d) 0.4 m, 3 m"
+        ],
+        "Answer": "Answer: d\nExplanation: tan yp = ((sin θ)/((wp/wg)+cos θ))\nTherefore, yp = tan-1 ((sin θ)/((wp/wg)+cos θ))\nSimilarly, tan yg = ((sin θ)/((wg/wp)+cos θ))\nTherefore, yg = tan-1 ((sin θ)/((wg/wp)+cos θ))."
+    },
+    {
+        "id": 199,
+        "Question": "A pair of bevel gears is mounted on two intersecting shafts who have a shaft angle of 70°. The velocity ratio of the gears is 2. Find the pitch angles.",
+        "Options": [
+            "a) 42.21°, 27.79°",
+            "b) 48.14°, 21.86°",
+            "c) 39.29°, 30.71°",
+            "d) 46.95°, 23.05°"
+        ],
+        "Answer": "Answer: c\nExplanation: Bevel gears increase the contact ratio. It avoids interference and results in stronger pinion teeth. The gear ratio can be determined from the number of teeth, pitch diameters or pitch cone angles. "
+    },
+    {
+        "id": 200,
+        "Question": "A pair of bevel gears is mounted on two intersecting shafts who have a shaft angle of 80°. The gear ratio of the gears is 1/3. Find the pitch angles.",
+        "Options": [
+            "a) 62.76°, 17.24°",
+            "b) 49.31°, 30.69°",
+            "c) 56.97°, 23.03°",
+            "d) 64.63°, 15.37°"
+        ],
+        "Answer": "Answer: a\nExplanation: The working depth of the teeth is usually 2 m which is the same as for standard spur and helical gears, but the bevel pinion is designed with the larger addendum and has 0.7 m working depth. The gear addendum varies according to the gear ratio and is 1 m for a gear ratio 1."
+    },
+    {
+        "id": 201,
+        "Question": "Which of the following gears is not a part of an epicyclic train dynamometer?",
+        "Options": [
+            "a) Spur gear",
+            "b) Pinion gear",
+            "c) Annular gear",
+            "d) Helical gear"
+        ],
+        "Answer": "Answer: d\nExplanation: An epicyclic train dynamometer consists of simple epicyclic gear trains including spur gear, annular gear with internal toothing and pinion gear."
+    },
+    {
+        "id": 202,
+        "Question": "Which of the following statement is true regarding epicyclic train dynamometer.",
+        "Options": [
+            "a) Spur gear rotates in clockwise direction",
+            "b) Annular gear rotates in clockwise direction",
+            "c) Spur gear rotates is meshes with both annular and pinion",
+            "d) Annular gear rotates in anticlockwise direction"
+        ],
+        "Answer": "Answer: a\nExplanation: An epicyclic train dynamometer consists of simple epicyclic gear trains including pinion gear, annular gear with internal teeth and spur gear."
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following dynamometers have a pinion meshing with two gears?",
+        "Options": [
+            "a) Prony brake dynamometer",
+            "b) Epicyclic train dynamometer",
+            "c) Torsional dynamometer",
+            "d) Belt transmission dynamometer"
+        ],
+        "Answer": "Answer: b\nExplanation: The spur gear is keyed to the driving shaft and rotates in anticlockwise direction. The annular gear rotates in clockwise direction and is keyed to the engine shaft."
+    },
+    {
+        "id": 204,
+        "Question": "Which of the following dynamometer type differs from an Epicyclic train dynamometer?",
+        "Options": [
+            "a) Belt transmission",
+            "b) Torsional dynamometer",
+            "c) Transmission dynamometer",
+            "d) Prony brake dynamometer"
+        ],
+        "Answer": "Answer: b\nExplanation: In an epicyclic train dynamometer, three gears are used namely Spur gear annular gear and pinion gear. The pinion gear is in mesh with annular and spur gear. "
+    },
+    {
+        "id": 205,
+        "Question": "If the friction of the pin on which the pinion rotates is neglected, which of the following force is equal to the tangential effort exerted by the spur gear on the pinion",
+        "Options": [
+            "a) Radial effort exerted by the spur gear on the pinion",
+            "b) Tangential reaction of the annular gear on the pinion",
+            "c) Radial reaction of the annular gear on the pinion",
+            "d) Piston effort"
+        ],
+        "Answer": "Answer: d\nExplanation: Prony brake dynamometer is an absorption dynamometer and uses all the energy obtained by the engine to convert it into heat, whereas the remaining three are transmission dynamometers.  "
+    },
+    {
+        "id": 206,
+        "Question": "The upward force is balanced by ________",
+        "Options": [
+            "a) Radial effort exerted by the spur gear on the pinion",
+            "b) Tangential reaction of the annular gear on the pinion",
+            "c) Radial reaction of the annular gear on the pinion",
+            "d) Dead weight"
+        ],
+        "Answer": "Answer: b\nExplanation: If the friction of the pin on which the pinion rotates is neglected, then the tangential effort P exerted by the spur gear on the pinion and the tangential reaction of the annular gear on the pinion are equal."
+    },
+    {
+        "id": 207,
+        "Question": "The quick return mechanism which is an inversion of 4-bar linkage is",
+        "Options": [
+            "a) Drag link mechanism",
+            "b) Whitworth quick return mechanism",
+            "c) Crank and slotted lever mechanism",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Drag link mechanism is an inversion of 4-bar linkage, which is a crank mechanism with different crank lengths. It is made up of revolute pairs only."
+    },
+    {
+        "id": 208,
+        "Question": "Match list I with list II",
+        "Options": [
+            "\tList I\t\t\t\t\tList II",
+            "A. Scott-Russel\t\t\t\t     1. Intemittent mechanism motion",
+            "B. Geneva\t\t\t\t     2. Quick return mechanism motion",
+            "C. Offset slider crank\t\t\t     3. Simple motion harmonic mechanism",
+            "D. Scotch Yoke \t\t\t\t     4. Straight line mechanism motion"
+        ],
+        "Answer": "Answer: b\nExplanation: Pantograph is double lever mechanism. handpump is an inversion of single slider crank chain. Scotch yoke mechanism is an inversion of double slider crank chain.Tchebiceff’s mechanism is an approximate straight line motion mechanism."
+    },
+    {
+        "id": 209,
+        "Options": [
+            "a) A-2,B-3,C-1,D-4",
+            "b) A-3,B-2,C-4,D-1",
+            "c) A-4,B-1,C-2,D-3",
+            "d) A-4,B-3,C-1,D-2"
+        ],
+        "Answer": "Answer: c\nExplanation: Scott-Russel – Straight line mechanism motion\n Geneva – Intemittent mechanism motion\n Offset slider crank – Quick return mechanism motion\n Scotch Yoke – Simple motion harmonic mechanism."
+    },
+    {
+        "id": 210,
+        "Question": "When a cylinder is located in a Vee-block, the number of degrees of freedom which are arrested is",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 7",
+            "d) 8"
+        ],
+        "Answer": "Answer: b\nExplanation: Before placement on Vee-block, cylinder has 6 degrees of freedom. After placement on Vee-block, the cylinder has only 2 degrees of freedom. Hence, the degrees of freedom which are arrested is 6 – 2 = 4."
+    },
+    {
+        "id": 211,
+        "Question": "The number of binary links, number of binary joints and number of ternary joints in Peaucelliar mechanism is",
+        "Options": [
+            "a) 6,6,0",
+            "b) 8,2,4",
+            "c) 8,4,2",
+            "d) 8,8,0"
+        ],
+        "Answer": "Answer: c\nExplanation: For revolute pair, degree of freedom = 1 and constrained\nDOF = 6 – 1 = 5\nFor cylindrical pair, dof =2 and constrained dof = 6 – 2 = 4\nFor spherical pair, dof = 3 and constrained dof = 6 – 3 = 3."
+    },
+    {
+        "id": 212,
+        "Question": "The number of degree of freedom of a planer linkage with 8 links and 9 simple revolute joints is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: The Peaucelliar mechanism has 8 binary links, 2 binary joints nad 4 ternary joints."
+    },
+    {
+        "id": 213,
+        "Question": "",
+        "Options": [
+            "8. The following list of statements is given:",
+            "1) Grashoff’s rule states that for a planar crank-rocker 4-bar mechanism, the sum of the shortest and longest link lengths cannot be less than the sum of the remaining two link lengths.",
+            "2) Inversions of a mechanism are created by fixing different links, one at a time.",
+            "3) Geneva mechanism is an intermittent motion device.",
+            "4) Grubler’s criterion assumes mobility of a planar mechanism to be one."
+        ],
+        "Answer": "Answer: c\nExplanation: L = 8 = number of links\nP = 9 = number of simple revolute joints\n\n\n\tF = 3(L – 1) – 2P\n  = 3(8 – 1) – 2 x 9\n  = 21 – 18\n  = 3."
+    },
+    {
+        "id": 214,
+        "Question": "The number of correct statements in the above list is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: c\nExplanation: Except statement 1, all other three statements are correct."
+    },
+    {
+        "id": 215,
+        "Question": "A mechanism has 8 links, out of which 5 are binary, 2 are ternary and 1 is quaternary. The number of instantaneous centres of rotation will be",
+        "Options": [
+            "a) 28",
+            "b) 56",
+            "c) 62",
+            "d) 66"
+        ],
+        "Answer": "Answer: d\nExplanation: n = 5 + 4 + 3 = 12\nNumber of instantaneous centres, N = n(n – 1)/2\n                                   = 12 x (12 – 1)/2\n                                   = 66."
+    },
+    {
+        "id": 216,
+        "Question": "In a dynamically equivalent system, a uniformly distributed mass is divided into",
+        "Options": [
+            "a) Three point masses",
+            "b) Four point masses",
+            "c) Two point masses",
+            "d) Infinite point masses"
+        ],
+        "Answer": "Answer: c\nExplanation: Dynamically equivalent system of a rigid body is made of two point masses."
+    },
+    {
+        "id": 217,
+        "Question": "A crank and slotted lever mechanism used in a shaper has a centre distance of 300 mm between the centre of oscillation of the slotted lever and the centre of rotation of the crank. The radius of the crank is 120 mm. Find the ratio of the time of cutting to the time of return stroke.",
+        "Options": [
+            "a) 1.62",
+            "b) 1.72",
+            "c) 1.82",
+            "d) 1.92"
+        ],
+        "Answer": "Answer: b\nExplanation: Given : AC = 300 mm ; CB = 120 mm\nsin∠CAB = sin (90°−α/ 2)\nCB/AC = 120/300 = 0.4\n∠CAB = 90°−α/ 2\nor α / 2 = 90° – 23.6° = 66.4°\nα = 2 × 66.4 = 132.8°\nWe know that\nTime of cutting stroke/ Time of return stroke = 1.72."
+    },
+    {
+        "id": 218,
+        "Question": "When the pin connects one sliding member and the other turning member, the angular velocity of the sliding member is __________",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3"
+        ],
+        "Answer": "Answer: b\nExplanation: The magnitude of velocities of the points on a rigid link is inversely proportional to the distances from the points to the instantaneous centre and is perpendicular to the line joining the point to the instantaneous centre."
+    },
+    {
+        "id": 219,
+        "Question": "In a slider crank mechanism, the velocity of piston becomes maximum when",
+        "Options": [
+            "a) Crank and connecting rod are in line with each other",
+            "b) Crank is perpendicular to the line of stroke of the piston",
+            "c) Crank and connecting rod are mutually perpendicular",
+            "d) Crank is 1200 with  the line of stroke"
+        ],
+        "Answer": "Answer: b\nExplanation: The velocity of the instantaneous centre relative to any third rigid link will be same whether the instantaneous centre is regarded as a point on the first rigid link or on the second rigid link. "
+    },
+    {
+        "id": 220,
+        "Question": "What is the purpose of double hooke’s joint?",
+        "Options": [
+            "a) Have constant linear velocity ratio of driver and driven shafts",
+            "b) Have constant acceleration ratio of driver and driven shafts",
+            "c) Have constant angular velocity ratio of driver and driven shafts",
+            "d) Have constant angular acceleration ratio of driver and driven shafts"
+        ],
+        "Answer": "Answer: c\nExplanation: The velocity of the driven shaft is not constant, but varies from maximum to minimum values. In order to have a constant velocity ratio of the driving and driven shafts, an intermediate shaft with a Hooke’s joint at each end is used."
+    },
+    {
+        "id": 221,
+        "Question": "Two shafts having an included angle of 150° are connected by a Hooke’s joint. The driving shaft runs at a uniform speed of 1500 r.p.m. The driven shaft carries a flywheel of mass 12 kg and 100 mm radius of gyration. Using the above data, calculate the maximum angular acceleration of the driven shaft in rad/s2.",
+        "Options": [
+            "a) 6853",
+            "b) 6090",
+            "c) 6100",
+            "d) 6500"
+        ],
+        "Answer": "Answer: b\nExplanation: Double hooke’s joint is used to keep the velocity ratio of driver shaft and driven shaft, It does not necessarily keeps the velocity constant."
+    },
+    {
+        "id": 222,
+        "Question": "Two shafts having an included angle of 150° are connected by a Hooke’s joint. The driving shaft runs at a uniform speed of 1500 r.p.m. The driven shaft carries a flywheel of mass 12 kg and 100 mm radius of gyration. Using the above data, calculate the maximum torque required in N-m.",
+        "Options": [
+            "a) 822",
+            "b) 888",
+            "c) 890",
+            "d) 867"
+        ],
+        "Answer": "Answer: a\nExplanation: α = 180 -150 = 30⁰\ncos2θ = 2sin2 α/1-sin2 α = 0.66\nangular acc = dω/dt\n= 6853.0 rad/s2. "
+    },
+    {
+        "id": 223,
+        "Question": "Two shafts with an included angle of 160° are connected by a Hooke’s joint. The driving shaft runs at a uniform speed of 1500 r.p.m. The driven shaft carries a flywheel of mass 12 kg and 100 mm radius of gyration. Find the maximum angular acceleration of the driven shaft.",
+        "Options": [
+            "a) 3090 rad/s2",
+            "b) 4090 rad/s2",
+            "c) 5090 rad/s2",
+            "d) 6090 rad/s2"
+        ],
+        "Answer": "Answer: a\nExplanation: α = 180 -160 = 30⁰\ncos2θ = 2sin2 α/1-sin2 α = 0.66\nangular acc = dω/dt\n= 6853 rad/s2\nI = 0.12 Kg-m2\nTherefore max torque = I.ang acc.\n= 822 N-m."
+    },
+    {
+        "id": 224,
+        "Question": "The angle between the axes of two shafts connected by Hooke’s joint is 18°. Determine the angle turned through by the driving shaft when the velocity ratio is maximum.",
+        "Options": [
+            "a) 90°",
+            "b) 180°",
+            "c) 270°",
+            "d) 360°"
+        ],
+        "Answer": "Answer: a\nExplanation: Velocity ratio is ω1/ω = cosα/(1 – cos2θsin2α)\nnow this to be maximum cos2θ = 1\ntherefore θ = 0 or 180 degrees."
+    },
+    {
+        "id": 225,
+        "Question": "Which law states the when a number of loads are acting on a body, the resulting strain, according to principle of superposition, will be the algebraic sum of strains caused by individual loads?",
+        "Options": [
+            "a) Hooke’s law",
+            "b) Principle of superposition",
+            "c) Lami’s theorem",
+            "d) Strain law"
+        ],
+        "Answer": "Answer: b\nExplanation: The principle of superposition says that when a number of loads are acting on a body, the resulting strain, according to the principle of superposition, will be the algebraic sum of strains caused by individual loads."
+    },
+    {
+        "id": 226,
+        "Question": "How the total strain in any body subjected to different loads at different sections can be calculated?",
+        "Options": [
+            "a) The resultant strain is the algebraic sum of the individual strain",
+            "b) The resultant strain calculated by the trigonometry",
+            "c) The resultant will be through Lame’s theorem",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In a bar of different sections, the resultant strain is the algebraic sum of the individual stresses."
+    },
+    {
+        "id": 227,
+        "Question": "Three sections in a beam are of equal length of 100mm. All three sections are pulled axially with 50kN and due to it elongated by 0.2mm. What will be the resultant strain in the beam?",
+        "Options": [
+            "a) 0.002",
+            "b) 0.004",
+            "c) 0.006",
+            "d) 0.020"
+        ],
+        "Answer": "Answer: c\nExplanation: The strain = dL / L = 0.2/100 = 0.002\n        This strain will be for one section. By the principle of superposition the resultant strain will be the algebraic sum of individual strains I.e. = 0.002 + 0.002 + 0.002 = 0.006."
+    },
+    {
+        "id": 228,
+        "Question": "Two sections in a bar of length 10cm and 20cm respectively are pulled axially. It causes an elongation of 0.2mm and 0.4mm respectively in each section. What will be the resultant strain in the bar?",
+        "Options": [
+            "a) sd0.004",
+            "b) 0.002",
+            "c) 0.003",
+            "d) 0.006"
+        ],
+        "Answer": "Answer: a\nExplanation: The strain = dL / L\n     In column 1, strain = 0.2/100 = 0.002\n     In column 2, strain = 0.4/200 = 0.002\n  Resultant strain = 0.002 + 0.002 = 0.004."
+    },
+    {
+        "id": 229,
+        "Question": "A composite bar have four sections each of length 100mm, 150mm, 200mm, 250mm. When force is applied, all the sections causes an elongation of 0.1mm. What will the resultant strain in the bar?",
+        "Options": [
+            "a) 0.0012",
+            "b) 0.00154",
+            "c) 0.00256",
+            "d) 0.0020"
+        ],
+        "Answer": "Answer: c\nExplanation: Strain in section 1 = 0.1/100\n           Strain in section 2 = 0.1/150\n           Strain In section 3 = 0.1/200\n           Strain in section 4 = 0.1/250\nResultant strain = 0.001+0.0006+0.0005+0.0004 = 0.00256."
+    },
+    {
+        "id": 230,
+        "Question": "A brass bar, having cross sectional area of 100mm2, is subjected to axial force of 50kN. The length of two sections is 100mm and 200mm respectively. What will be the total elongation of bar if E = 1.05 x 105 N/mm2 ?",
+        "Options": [
+            "a) 1.21mm",
+            "b) 2.034mm",
+            "c) 2.31mm",
+            "d) 1.428mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Elongation in section 1 = P/AE  x L = 50,000/(100×1.05×100,000)  x 100 = 0.476mm\n          Elongation In section 2 =  P/AE  x L = 50,000/(100×1.05×100,000)  x 200 = 0.952mm\n      Total elongation = 0.476 + 0.952 = 1.428mm."
+    },
+    {
+        "id": 231,
+        "Question": "A composite bar having two sections of cross-sectional area 100mm2 and 200mm2 respectively. The length of both the sections is 100mm. What will be the total elongation of bar if it is subjected to axial force of 100kN and E = 105 N/mm2?",
+        "Options": [
+            "a) 1.0",
+            "b) 1.25",
+            "c) 1.5",
+            "d) 2.0"
+        ],
+        "Answer": "Answer: c\nExplanation: Elongation in section 1 = 100,000 x 100 / 100000 x100 = 1\n           Elongation in section 2 = 100,000 x 100 / 100000x 200 = 0.5\n          Total elongation = 1 + 0.5 = 1.5mm."
+    },
+    {
+        "id": 232,
+        "Question": "A bar having two sections of cross sectional area of 100mm2 and 200mm2 respectively. The length of both the sections is 200mm. What will be the total strain in the bar if it is subjected to axial force of 100kN and E = 105 N/mm2?",
+        "Options": [
+            "a) 0.010",
+            "b) 0.015",
+            "c) 0.020",
+            "d) 0.030"
+        ],
+        "Answer": "Answer: b\nExplanation: Strain in section 1 = P/AE = 100,000  /  100×100000  = 0.010\n           Strain is section 2 = P / AE = 100,000 /  200×100000 = 0.005\n     Resultant strain in the bar = 0.010 + 0.005 = 0.015mm."
+    },
+    {
+        "id": 233,
+        "Question": "A brass bar, having cross sectional area of 150mm2, is subjected to axial force of 50kN. What will be the total strain of bar if E= 1.05 x 104 N/mm2?",
+        "Options": [
+            "a) 0.062mm",
+            "b) 0.025mm",
+            "c) 0.068mm",
+            "d) 0.054mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Strain in section 1 = P/AE  = 50,000/(100×1.05×100,000)   = 0.031mm\n          Strain In section 2 =  P/AE  = 50,000/(100×1.05×100,000)  = 0.031mm\n       Resultant strain = 0.031 + 0.031  =  0.062mm.\n Here the calculation of strain does not requires the value of lengths of the sections."
+    },
+    {
+        "id": 234,
+        "Question": "A composite bar of two sections of each of length 100mm, 150mm. When force is applied, all the sections causes an elongation of 0.1mm. What will the resultant strain in the bar?",
+        "Options": [
+            "a) 0.0016",
+            "b) 0.00154",
+            "c) 0.00256",
+            "d) 0.0020"
+        ],
+        "Answer": "Answer: a\nExplanation: Strain in section 1 = 0.1/100\n           Strain in section 2= 0.1/150\nResultant strain = 0.001+0.0006 = 0.0016."
+    },
+    {
+        "id": 235,
+        "Question": "If the given forces P1, P2, P3, P4,and P5 which are co planar and concurrent are such that the force polygon does not close, then the system will",
+        "Options": [
+            "a) Be in equilibrium",
+            "b) Always reduce to a resultant force",
+            "c) Always reduce to a couple",
+            "d) Always be in equilibrium and will always reduce to a couple"
+        ],
+        "Answer": "Answer: b\nExplanation: For a system to be in equilibrium force polygon and funicular polygon must close. If the force polygon does not close then the forces will reduce to a resultant force. If funicular polygon does not close, then there is resultant moment on the system."
+    },
+    {
+        "id": 236,
+        "Question": "With reference to NC machines, which of the following statements is wrong",
+        "Options": [
+            "a) Both closed-loop and open-loop control systems are used",
+            "b) Paper tapes, floppy tapes and cassettes are used for data storage",
+            "c) Digitizers may be used as interactive input devices",
+            "d) Post processor is an item of hardware"
+        ],
+        "Answer": "Answer: c\nExplanation: None."
+    },
+    {
+        "id": 237,
+        "Question": "In a point-to-point type of NC system",
+        "Options": [
+            "a) Control of position and velocity of the tool is essential",
+            "b) Control of only position of the tool is sufficient",
+            "c) Control of only velocity of the tool is sufficient",
+            "d) Neither position nor velocity need to be controlled"
+        ],
+        "Answer": "Answer: b\nExplanation: Point to point is also sometimes called a positioning system. In PTP the objective of the machine tool control system is to move the cutting tool to predefined location.  The speeder path by which this movement is accomplished is not important in point to point NC.  Once the tool reaches the desired location, the machining operation is performed at that position.  "
+    },
+    {
+        "id": 238,
+        "Question": "The heart of a computer is:",
+        "Options": [
+            "a) CPU",
+            "b) ALU",
+            "c) Monitor",
+            "d) Keyboard"
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 239,
+        "Question": "The widely employed computer architecture for CAD/CAM applications is:",
+        "Options": [
+            "a) Mainframe-based system",
+            "b) Minicomputer-based system",
+            "c) Microcomputer-based system",
+            "d) Workstation-based system"
+        ],
+        "Answer": "Answer: a\nExplanation: Keyboard is input device, monitor is output device."
+    },
+    {
+        "id": 240,
+        "Question": "Keyboard is a ___________ input device.",
+        "Options": [
+            "a) Graphical",
+            "b) Text",
+            "c) Numericals",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Workstation based system is widely used for CAD/cAM architecture."
+    },
+    {
+        "id": 241,
+        "Question": "Locating devices are classified as:",
+        "Options": [
+            "a) Text input devices",
+            "b) Graphics input devices",
+            "c) Both a and b",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None"
+    },
+    {
+        "id": 242,
+        "Question": "Mouse is a __________ type of input device.",
+        "Options": [
+            "a) Text",
+            "b) Graphics",
+            "c) Locating",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 243,
+        "Question": "Light pen is a:",
+        "Options": [
+            "a) Writing device",
+            "b) Drawing device",
+            "c) Locating device",
+            "d) Lighting device"
+        ],
+        "Answer": "Answer: c\nExplanation: Through mouse we locate the required data or information."
+    },
+    {
+        "id": 244,
+        "Question": "Digitizer is constructed on the basis of:",
+        "Options": [
+            "a) Magnetic tablet mechanism",
+            "b) Acoustic tablet mechanism",
+            "c) Optical tablet mechanism",
+            "d) both (a) and (b)"
+        ],
+        "Answer": "Answer: b\nExplanation: Light pen is used to draw on screen."
+    },
+    {
+        "id": 245,
+        "Question": "In a four stroke I.C. engine, the turning moment during the compression stroke is",
+        "Options": [
+            "a) positive throughout",
+            "b) negative throughout",
+            "c) positive during major portion of the stroke",
+            "d) negative during major portion of the stroke"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the pressure inside the engine cylinder is less than the atmospheric pressure during the suction stroke, therefore a negative loop is formed. During the compression stroke, the work is done on the gases, therefore a higher negative loop is obtained."
+    },
+    {
+        "id": 246,
+        "Question": "The maximum fluctuation of energy is the",
+        "Options": [
+            "a) difference between the maximum and minimum energies",
+            "b) sum of the maximum and minimum energies",
+            "c) variations of energy above and below the mean resisting torque to the",
+            "d) ratio of the mean resisting torque to the workdone per cycle"
+        ],
+        "Answer": "Answer: a\nExplanation: The difference between the maximum and the minimum energies is known as maximum fluctuation of energy."
+    },
+    {
+        "id": 247,
+        "Question": "Which of the following statement is wrong?",
+        "Options": [
+            "a) The difference between the maximum and minimum energies is called maximum fluctuation of energy.",
+            "b) The co-efficient of fluctuation of speed is the ratio of maximum fluctuation of speed to the mean speed.",
+            "c) The variations of energy above and below the mean resisting torque line is known as fluctuation of energy.",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The co-efficient of fluctuation of energy is the ratio of the maximum fluctuation of energy to the work done per cycle."
+    },
+    {
+        "id": 248,
+        "Question": "The ratio of maximum fluctuation of energy to the workdone per cycle is called",
+        "Options": [
+            "a) fluctuation of energy",
+            "b) maximum fluctuation of energy",
+            "c) coefficient of fluctuation of speed",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All the statements are correct.\nThe difference between the maximum and minimum energies is called maximum fluctuation of energy.\nThe co-efficient of fluctuation of speed is the ratio of maximum fluctuation of speed to the mean speed.\nThe variations of energy above and below the mean resisting torque line is known as fluctuation of energy."
+    },
+    {
+        "id": 249,
+        "Question": "Maximum fluctuation of energy in a flywheel is equal to",
+        "Options": [
+            "a) Iω(ω1 – ω2)",
+            "b) Iω2CS",
+            "c) 2ECS",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The co-efficient of fluctuation of speed is the ratio of maximum fluctuation of speed to the mean speed."
+    },
+    {
+        "id": 250,
+        "Question": "A flywheel is fitted to the crankshaft of an engine having W as the amount of indicated work per revolution and permissible limits of coefficient of fluctuation of energy and speed as CE and CS respectively. The kinetic energy of the flywheel is given by",
+        "Options": [
+            "a) 2WCE/CS",
+            "b) WCE/2CS",
+            "c) WCE/CS",
+            "d) WCS/2CE"
+        ],
+        "Answer": "Answer: d\nExplanation: None"
+    },
+    {
+        "id": 251,
+        "Question": "If the rotating mass of a rim type flywheel is distributed on another rim type flywheel whose mean radius is half the mean radius of the former, then energy stored in the latter at the same speed will be",
+        "Options": [
+            "a) four times the first one",
+            "b) same as the first one",
+            "c) one fourth of the first one",
+            "d) one and a half times the first one"
+        ],
+        "Answer": "Answer: b\nExplanation: None"
+    },
+    {
+        "id": 252,
+        "Question": "The ratio of maximum fluctuation of speed to the mean speed is called",
+        "Options": [
+            "a) fluctuation of energy",
+            "b) maximum fluctuation of energy",
+            "c) coefficient of fluctuation of speed",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None"
+    },
+    {
+        "id": 253,
+        "Question": "The flywheel of a machine having weight of 4500 N and radius of gyration of 2 m has cyclic fluctuation of speed from 125 r.p.m to 120 r.p.m. Assuming g = 10m/s2, the maximum fluctuation of energy is",
+        "Options": [
+            "a) 12822 N-m",
+            "b) 24200 N-m",
+            "c) 14822 N-m",
+            "d) 12100 N-m"
+        ],
+        "Answer": "Answer: c\nExplanation: The co-efficient of fluctuation of speed is the ratio of maximum fluctuation of speed to the mean speed."
+    },
+    {
+        "id": 254,
+        "Question": "A circular solid disc of uniform thickness 20 mm, radius 200 mm and mass 20 kg, is used as a flywheel. If it rotates at 600 rpm, the kinetic energy of the flywheel, in Joules is",
+        "Options": [
+            "a) 395",
+            "b) 790",
+            "c) 1580",
+            "d) 3160"
+        ],
+        "Answer": "Answer: d\nExplanation: Mass of flywheel = weight of flywheel/Acceleration due to gravity = 4500/10kg\n Moment of Inertia = mk2\n                   = 1800 kgm2\nω1 = 2π/60 x 125rad/sec\nω2 = 2π/60 x 120rad/sec\nEmax = 1/2 I(?)2\n                = 12087.2 N-m\n                = 12100 Nm"
+    },
+    {
+        "id": 255,
+        "Question": "The speed of an engine varies from 210 rad/s to 190 rad/s. During the cycle the change in kinetic energy is found to be 400 Nm. The inertia of the flywheel in kg/m2 is",
+        "Options": [
+            "a) 0.10",
+            "b) 0.20",
+            "c) 0.30",
+            "d) 0.40"
+        ],
+        "Answer": "Answer: b\nExplanation: For flywheel K.E = 1/2Iω2\nω = 2πN/60 = 62.83 rad/s\nI (for solid circular disk) = 1/2mR2 = 0.4 kg m2\nHence, K.E = 790 Joules."
+    },
+    {
+        "id": 256,
+        "Question": "For a certain engine having an average speed of 1200 rpm, a flywheel approximated as a solid disc, is required for keeping the fluctuation of speed within 2% about the average speed. The fluctuation of kinetic energy per cycle is found to be 2 kJ. What is the least possible mass of the flywheel if its diameter is not to exceed 1 m ?",
+        "Options": [
+            "a) 40 kg",
+            "b) 51 kg",
+            "c) 62 kg",
+            "d) 73 kg"
+        ],
+        "Answer": "Answer: a\nExplanation: Given ω1 = 210 rad/ sec, ω2 = 190 rad/ sec, ΔE= 400 Nm\nAs the speed of flywheel changes from ω1 to ω2, the maximum fluctuation of energy,\nΔE = 1/2I [(ω1)2 (ω2)2]\nI = 0.10 kgm2"
+    },
+    {
+        "id": 257,
+        "Question": "The axis of precession is ____________ to the plane in which the axis of spin is going to rotate.",
+        "Options": [
+            "a) parallel",
+            "b) perpendicular",
+            "c) spiral",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The axis of precession is perpendicular to the plane in which the axis of spin is going to rotate. The gyroscopic principle is used in an instrument or toy known as gyroscope."
+    },
+    {
+        "id": 258,
+        "Question": "A disc is a spinning with an angular velocity ω rad/s about the axis of spin. The couple applied to the disc causing precession will be",
+        "Options": [
+            "a) 1/2 Iω2",
+            "b) Iω2",
+            "c) 1/2 Iωωp",
+            "d) Iωωp"
+        ],
+        "Answer": "Answer: d\nExplanation: None"
+    },
+    {
+        "id": 259,
+        "Question": "The engine of an aeroplane rotates in clockwise direction when seen from the tail end and the aeroplane takes a turn to the left. The effect of gyroscopic couple on the aeroplane will be",
+        "Options": [
+            "a) to dip the nose and tail",
+            "b) to raise the nose and tail",
+            "c) to raise the nose and dip of the tail",
+            "d) to dip the nose and raise the tail"
+        ],
+        "Answer": "Answer: c\nExplanation: The engine of an aeroplane rotates in clockwise direction when seen from the tail end and the aeroplane takes a turn to the left. The effect of gyroscopic couple on the aeroplane will be to raise the nose and dip of the tail.\nThe engine of an aeroplane rotates in clockwise direction when seen from the tail end and the aeroplane takes a turn to the right. The effect of gyroscopic couple on the aeroplane will be to dip the nose and raise the tail."
+    },
+    {
+        "id": 260,
+        "Question": "The steering of a ship means",
+        "Options": [
+            "a) movement of a complete ship up and down in vertical plane about transverse axis",
+            "b) turning of a complete ship in a curve towards right or left, while it moves forward",
+            "c) rolling of a complete ship side-ways",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The engine of an aeroplane rotates in clockwise direction when seen from the tail end and the aeroplane takes a turn to the left. The effect of gyroscopic couple on the aeroplane will be to raise the nose and dip of the tail.\nThe engine of an aeroplane rotates in clockwise direction when seen from the tail end and the aeroplane takes a turn to the right. The effect of gyroscopic couple on the aeroplane will be to dip the nose and raise the tail."
+    },
+    {
+        "id": 261,
+        "Question": "The rotor of a ship rotates in clockwise direction when viewed from stern and the ship takes a left turn. The effect of gyroscopic couple acting on it will be",
+        "Options": [
+            "a) to raise the bow and stern",
+            "b) to lower the bow and stern",
+            "c) to raise the bow and lower the stern",
+            "d) to raise the stern and lower the bow"
+        ],
+        "Answer": "Answer: b\nExplanation: The steering is the turning of a complete ship in a curve towards right or left, while it moves forward."
+    },
+    {
+        "id": 262,
+        "Question": "When the pitching of a ship is upward, the effect of gyroscopic couple acting on it will be",
+        "Options": [
+            "a) to move the ship towards star-board",
+            "b) to move the ship towards port side",
+            "c) to raise the bow and lower the stern",
+            "d) to raise the stern and lower the bow"
+        ],
+        "Answer": "Answer: b\nExplanation: The pitching is the movement of a complete ship up and down in a vertical plane about transverse axis."
+    },
+    {
+        "id": 263,
+        "Question": "The height of a Watt’s governor (in metres) in equal to",
+        "Options": [
+            "a) 8.95/N2",
+            "b) 89.5/N2",
+            "c) 895/N2",
+            "d) 8950/N2"
+        ],
+        "Answer": "Answer: c\nExplanation: Height of a Watt governor = g/ω2\n                                                           = 9.81/(2πN/60)2\n                                                           = 895/N2\nwhere N = Speed of the arm and ball about the spindle axis."
+    },
+    {
+        "id": 264,
+        "Question": "The ratio of the height of a Porter governor (when the length of arms and links are equal) to the height of a Watt’s governor is",
+        "Options": [
+            "a) m/m+M",
+            "b) M/m+M",
+            "c) m + M/m",
+            "d) m + M/M"
+        ],
+        "Answer": "Answer: c\nExplanation: Mass of the central load (M) increases the height of governor in the ratio m + M/m\nwhere m = Mass of the ball, and\nM = Mass of the load on the sleeve."
+    },
+    {
+        "id": 265,
+        "Question": "When the sleeve of a Porter governor moves upwards, the governor speed",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) remains unaffected",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: When the loaded sleeve moves up and down the spindle, the frictional force acts on it in a direction opposite to that of the motion of sleeve. The + sign is used when the sleeve moves upwards or the governor speed increases and negative sign is used when the sleeve moves downwards or the governor speed decreases."
+    },
+    {
+        "id": 266,
+        "Question": "A Hartnell governor is a",
+        "Options": [
+            "a) pendulum type governor",
+            "b) spring loaded governor",
+            "c) dead weight governor",
+            "d) inertia governor"
+        ],
+        "Answer": "Answer: b\nExplanation: Since in hartnell governor spring is used, therefore it is the spring loaded governor."
+    },
+    {
+        "id": 267,
+        "Question": "Which of the following governor is used to drive a gramophone ?",
+        "Options": [
+            "a) Watt governor",
+            "b) Porter governor",
+            "c) Pickering governor",
+            "d) Hartnell governor"
+        ],
+        "Answer": "Answer: c\nExplanation: A Pickering governor is mostly used for driving gramophone. It consists of three straight leaf springs arranged at equal angular intervals round the spindle. Each spring carries a weight at the centre. The weights move outwards and the springs bend as they rotate about the spindle axis with increasing speed."
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following is a spring controlled governor?",
+        "Options": [
+            "a) Hartnell",
+            "b) Hartung",
+            "c) Pickering",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None"
+    },
+    {
+        "id": 269,
+        "Question": "For two governors A and B, the lift of sleeve of governor A is more than that of governor B, for a given fractional change in speed. It indicates that",
+        "Options": [
+            "a) governor A is more sensitive than governor B",
+            "b) governor B is more sensitive than governor A",
+            "c) both governors A and B are equally sensitive",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The greater the lift of the sleeve corresponding to a given fractional change in speed, the greater is the sensitiveness of the governor. It may also be stated in another way that for a given lift of the sleeve, the sensitiveness of the governor increases as the speed range decreases."
+    },
+    {
+        "id": 270,
+        "Question": "The sensitiveness of a governor is given by",
+        "Options": [
+            "a) ωmean/ω2 – ω1",
+            "b) ω2 – ω1/ ωmean",
+            "c) ω2 – ω1/ 2ωmean",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Let N1 = Minimum equilibrium speed,\n                         N2 = Maximum equilibrium speed, and\n                         N = Mean equilibrium speed = N1 + N2 / 2\nSensitiveness of the governor = N1 – N2 / 2\n                              = 2(N1 + N2) / N1 + N2\n                              = ω2 – ω1/ ωmean\nwhere ω1 and ω2 = Minimum and maximum angular speed, and\nωmean = Mean angular speed."
+    },
+    {
+        "id": 271,
+        "Question": "In a Hartnell governor, if a spring of greater stiffness is used, then the governor will be",
+        "Options": [
+            "a) more sensitive",
+            "b) less sensitive",
+            "c) isochronous",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Stiffness is directly proportional to sensitiveness. Therefore, it stifness is greater, the governor will be less sensitive."
+    },
+    {
+        "id": 272,
+        "Question": "A governor is said to be hunting, if the speed of the engine",
+        "Options": [
+            "a) remains constant at the mean speed",
+            "b) is above the mean speed",
+            "c) is below the mean speed",
+            "d) fluctuates continuously above and below the mean speed"
+        ],
+        "Answer": "Answer: d\nExplanation: A governor is said to be hunt if the speed of the engine fluctuates continuously above and below the mean speed. This is caused by a too sensitive governor which changes the fuel supply by a large amount when a small change in the speed of rotation takes place."
+    },
+    {
+        "id": 273,
+        "Question": "A hunting governor is",
+        "Options": [
+            "a) more stable",
+            "b) less sensitive",
+            "c) more sensitive",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None"
+    },
+    {
+        "id": 274,
+        "Question": "Isochronism in a governor is desirable when",
+        "Options": [
+            "a) the engine operates at low speeds",
+            "b) the engine operates at high speeds",
+            "c) the engine operates at variable speeds",
+            "d) one speed is desired under one load"
+        ],
+        "Answer": "Answer: d\nExplanation: The isochronous governor is not of practical use because the sleeve will move to one of its extreme positions immediately the speed deviates from the isochronous speed."
+    },
+    {
+        "id": 275,
+        "Question": "The power of a governor is equal to",
+        "Options": [
+            "a) (c2/1 + 2c )(m + M) h",
+            "b) (2c2/1 + 2c )(m + M) h",
+            "c) (3c2/1 + 2c )(m + M) h",
+            "d) (4c2/1 + 2c )(m + M) h"
+        ],
+        "Answer": "Answer: d\nExplanation: None"
+    },
+    {
+        "id": 276,
+        "Question": "When the relation between the controlling force (FC) and radius of rotation (r) for a spring controlled governor is FC = a.r + b, then the governor will be",
+        "Options": [
+            "a) stable",
+            "b) unstable",
+            "c) isochronous",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For the governor to be stable, the controlling force (FC) must increase as the radius of rotation (r) increases, i.e. FC / r must increase as r increases."
+    },
+    {
+        "id": 277,
+        "Question": "For a governor, if FC is the controlling force, r is the radius of rotation of the balls, the stability of the governor will be ensured when",
+        "Options": [
+            "a) dFC /dr > FC/r",
+            "b) dFC /dr < FC /r",
+            "c) dFC /dr = 0",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None"
+    }
+]

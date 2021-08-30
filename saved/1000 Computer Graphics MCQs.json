@@ -1,0 +1,3060 @@
+[
+    {
+        "id": 1,
+        "Question": "Which devices provides positional information to the graphics system ?",
+        "Options": [
+            "a) Input devices",
+            "b) Output devices",
+            "c) Pointing devices",
+            "d) Both a and c"
+        ],
+        "Answer": " Answer: d\nExplanation: Input devices positional information to the system they often called pointing devices.\n"
+    },
+    {
+        "id": 2,
+        "Question": "The number of pixels stored in the frame buffer of a graphics system is known as",
+        "Options": [
+            "a) Resolution",
+            "b) Depth",
+            "c) Resalution",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: Number of pixels determines the resolution .\n"
+    },
+    {
+        "id": 3,
+        "Question": "In graphical system, the array of pixels in the picture are stored in",
+        "Options": [
+            "a) Memory",
+            "b) Frame buffer",
+            "c) Processor",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Frame buffer is mainly used to store pixels.\n"
+    },
+    {
+        "id": 4,
+        "Question": "Heat supplied to the cathode by directing a current through a coil of wire is called",
+        "Options": [
+            "a) Electron gun",
+            "b) Electron beam",
+            "c) Filament",
+            "d) Anode and cathode"
+        ],
+        "Answer": " Answer: c\nExplanation: In CRT the filament is responsible for supply of power.\n"
+    },
+    {
+        "id": 5,
+        "Question": "The maximum number of points that can be displayed without overlap on a CRT is referred as",
+        "Options": [
+            "a) Picture",
+            "b) Resolution",
+            "c) Persistence",
+            "d) Neither b nor c"
+        ],
+        "Answer": " Answer: b\nExplanation: none.\n"
+    },
+    {
+        "id": 6,
+        "Question": "6.________ stores the picture information as a charge distribution behind the phosphor-coated screen.",
+        "Options": [
+            "a) Cathode ray tube",
+            "b) Direct-view storage tube",
+            "c) Flat panel displays",
+            "d) 3D viewing device"
+        ],
+        "Answer": " Answer: b\nExplanation: Instead of refreshing, DVST stores the picture information behind the screen.\n"
+    },
+    {
+        "id": 7,
+        "Question": "The devices which converts the electrical energy into light is called",
+        "Options": [
+            "a) Liquid-crystal displays",
+            "b) Non-emitters",
+            "c) Plasma panels",
+            "d) Emitters"
+        ],
+        "Answer": " Answer: d\nExplanation: Emissive displays are devices that convert electrical energy into light.\n"
+    },
+    {
+        "id": 8,
+        "Question": "In which system, the Shadow mask methods are commonly used",
+        "Options": [
+            "a) Raster-scan system",
+            "b) Random-scan system",
+            "c) Only b",
+            "d) Both a and b"
+        ],
+        "Answer": " Answer: a\nExplanation: Raster-scan system uses shadow-mask method because they produce wide range of colors.\n"
+    },
+    {
+        "id": 9,
+        "Question": "The process of digitizing a given picture definition into a set of pixel-intensity for storage in the frame buffer is called",
+        "Options": [
+            "a) Rasterization",
+            "b) Encoding",
+            "c) Scan conversion",
+            "d) True color system"
+        ],
+        "Answer": " Answer: c\nExplanation: The digitization process is called scan conversion.\n"
+    },
+    {
+        "id": 10,
+        "Question": "Which display devices allows us to walk around an object and view it from different sides.",
+        "Options": [
+            "a) Direct view storage tubes",
+            "b) Three-dimensional devices",
+            "c) Flat panel display devices",
+            "d) Plasma panel display devices"
+        ],
+        "Answer": " Answer: b\nExplanation: 3D display devices allows user to view the object from different sides.\n"
+    },
+    {
+        "id": 11,
+        "Question": "In LCD, the refresh rate of the screen is",
+        "Options": [
+            "a) 60 frames/sec",
+            "b) 80 frames/sec",
+            "c) 30 frames/sec",
+            "d) 100 frames/sec"
+        ],
+        "Answer": " Answer: a\nExplanation: LCD screen is refreshed at 60 frames per second.\n"
+    },
+    {
+        "id": 12,
+        "Question": "Random-scan system mainly designed for",
+        "Options": [
+            "a) Realistic shaded screen",
+            "b) Fog effect",
+            "c) Line-drawing applications",
+            "d) Only b"
+        ],
+        "Answer": " Answer: c\nExplanation: Random-scan system mainly designed for Line-drawing applications.\n"
+    },
+    {
+        "id": 13,
+        "Question": "The primary output device in a graphics system is_________",
+        "Options": [
+            "a) Scanner",
+            "b) Video monitor",
+            "c) Neither a nor b",
+            "d) Printer"
+        ],
+        "Answer": " Answer: b\nExplanation: The video monitor is the commonly used output device.\n"
+    },
+    {
+        "id": 14,
+        "Question": "On a black and white system  with one bit per pixel, the frame buffer is commonly called as",
+        "Options": [
+            "a) Pix map",
+            "b) Multi map",
+            "c) Bitmap",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: Bit map frame buffer is always 1 bit per pixel.\n"
+    },
+    {
+        "id": 15,
+        "Question": "Aspect ratio means",
+        "Options": [
+            "a) Number of pixels",
+            "b) Ratio of vertical points to horizontal points",
+            "c) Ratio of horizontal points to vertical points",
+            "d) Both b and c"
+        ],
+        "Answer": " Answer: d\nExplanation: none.\n"
+    },
+    {
+        "id": 16,
+        "Question": "The most commonly used input device is",
+        "Options": [
+            "a) Mouse",
+            "b) Keyboard",
+            "c) Scanner",
+            "d) Printer"
+        ],
+        "Answer": " Answer: b\nExplanation: Keyboard is the most commonly used input device.\n"
+    },
+    {
+        "id": 17,
+        "Question": "Which keys allows user to enter frequently used operations in a single key stroke?",
+        "Options": [
+            "a) Function keys",
+            "b) Cursor control keys",
+            "c) Trackball",
+            "d) Control keys"
+        ],
+        "Answer": " Answer: a\nExplanation: Function keys are used to access frequently used areas.\n"
+    },
+    {
+        "id": 18,
+        "Question": "________ are used to measure dial rotations.",
+        "Options": [
+            "a) Potentiometers",
+            "b) Volta meter",
+            "c) Parameter",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: Potentiometer measures the dial rotations.\n"
+    },
+    {
+        "id": 19,
+        "Question": "The device which is used to position the screen cursor is",
+        "Options": [
+            "a) Mouse",
+            "b) Joystick",
+            "c) Data glove",
+            "d) Both a and c"
+        ],
+        "Answer": " Answer: a\nExplanation: A mouse is small hand-held box used to position the screen cursor.\n"
+    },
+    {
+        "id": 20,
+        "Question": "_________ is used for detecting mouse motion.",
+        "Options": [
+            "a) Optical sensor",
+            "b) Rollers on the bottom of mouse",
+            "c) Both a and b",
+            "d) Sensor"
+        ],
+        "Answer": " Answer: c\nExplanation: Rollers and optical sensors are used to record the amount and direction of movement.\n"
+    },
+    {
+        "id": 21,
+        "Question": "Trackball is",
+        "Options": [
+            "a) Two-dimensional positioning device",
+            "b) Three- dimensional positioning device",
+            "c) Pointing device",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Trackball is two-dimensional positioning device.\n"
+    },
+    {
+        "id": 22,
+        "Question": "Space ball provide________ degree of freedom.",
+        "Options": [
+            "a) 10 degree",
+            "b) 6 degree",
+            "c) 8 degree",
+            "d) 12 degree"
+        ],
+        "Answer": " Answer: b\nExplanation: Space ball provide 6 degree of freedom.\n"
+    },
+    {
+        "id": 23,
+        "Question": "Which is the ball that can be rotated with the fingers or palm of the hand?",
+        "Options": [
+            "a) Space ball",
+            "b) Trackball",
+            "c) Only a",
+            "d) Both b and c"
+        ],
+        "Answer": " Answer: b\nExplanation: Trackball is a ball that can be rotated with the fingers or palm of the hand.\n"
+    },
+    {
+        "id": 24,
+        "Question": "________ is used for 3D positioning and modeling, animation and other application.",
+        "Options": [
+            "a) Space ball",
+            "b) Trackball",
+            "c) Spac ball",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Space ball is a 3D positioning device.\n"
+    },
+    {
+        "id": 25,
+        "Question": "Potentiometers mounted at the base of the joystick measures",
+        "Options": [
+            "a) The amount of movement",
+            "b) The direction",
+            "c) Position",
+            "d) Resolution"
+        ],
+        "Answer": " Answer: a\nExplanation: Potentiometers mounted at the base of the joystick measures the amount of movement.\n"
+    },
+    {
+        "id": 26,
+        "Question": "Pressure-sensitive joysticks are also called",
+        "Options": [
+            "a) Non movable stick",
+            "b) Joystick",
+            "c) Isometric joystick",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 27,
+        "Question": "Which is the device that is constructed with the series of sensors that detects hand and finger motion?",
+        "Options": [
+            "a) Digitizers",
+            "b) Data glove",
+            "c) Joystick",
+            "d) Track ball"
+        ],
+        "Answer": " Answer: b\nExplanation: Data glove senses, detects hand and finger motion.\n"
+    },
+    {
+        "id": 28,
+        "Question": "A common device for drawing, painting, or interactively selecting coordinate positions on an object is a",
+        "Options": [
+            "a) Image scanner",
+            "b) Digitizers",
+            "c) Data glove",
+            "d) Touch panels"
+        ],
+        "Answer": " Answer: b\nExplanation: Digitizers can be used for drawing, painting and selecting positions.\n"
+    },
+    {
+        "id": 29,
+        "Question": "Which device is used to input two-dimensional coordinates by activating a hand cursor on a flat surface?",
+        "Options": [
+            "a) Graphic tablet",
+            "b) Data tablet",
+            "c) Only b",
+            "d) Both a and b"
+        ],
+        "Answer": " Answer: d\nExplanation: Graphic tablet are also called data tablet.\n"
+    },
+    {
+        "id": 30,
+        "Question": "___________ can be used to determine the position on the data tablet.",
+        "Options": [
+            "a) Strip microphones",
+            "b) Signal strength",
+            "c) Coded pulse",
+            "d) Either Signal strength or coded pulse"
+        ],
+        "Answer": " Answer: d\nExplanation: Either Signal strength or coded pulse determine the position on the data tablet.\n"
+    },
+    {
+        "id": 31,
+        "Question": "__________ allows screen positions to be selected with the touch of a finger.",
+        "Options": [
+            "a) Touch panels",
+            "b) Image scanner",
+            "c) Light pen",
+            "d) Mouse"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 32,
+        "Question": "What is the disadvantage of the light pen?",
+        "Options": [
+            "a) It’s shape",
+            "b) They cannot detect positions",
+            "c) Accurate reading",
+            "d) Cannot detect positions within black areas"
+        ],
+        "Answer": " Answer: d\nExplanation: light pen requires special implementations and sometimes gives false reading due to background lighting in a room.\n"
+    },
+    {
+        "id": 33,
+        "Question": "________ is used in graphics workstation as input devices to accept voice commands.",
+        "Options": [
+            "a) Touch panels",
+            "b) Speech recognizers",
+            "c) Only a",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation:  Through speech recognizers user can give voice commands.\n"
+    },
+    {
+        "id": 34,
+        "Question": "What voice the use of voice system?",
+        "Options": [
+            "a) To initiate graphics operation",
+            "b) To enter data",
+            "c) Neither a nor  b",
+            "d) Both a and  b"
+        ],
+        "Answer": " Answer: d\nExplanation: The voice system input can be used to initiate graphics operations or to enter data.\n"
+    },
+    {
+        "id": 35,
+        "Question": "When a voice command is given, the system searches the _____________for a frequency-pattern match.",
+        "Options": [
+            "a) Memory",
+            "b) Input data",
+            "c) Dictionary",
+            "d) Hard disk"
+        ],
+        "Answer": " Answer: c\nExplanation: System searches the dictionary for frequency pattern matching.\n"
+    },
+    {
+        "id": 36,
+        "Question": "The device which is designed to minimize the background sound is",
+        "Options": [
+            "a) Microphone",
+            "b) Digitizers",
+            "c) Data glove",
+            "d) Joy stick"
+        ],
+        "Answer": " Answer: a\nExplanation: Microphone is designed to minimize the background sound.\n"
+    },
+    {
+        "id": 37,
+        "Question": "The quality of  a picture obtained from a device depends on",
+        "Options": [
+            "a) Dot size",
+            "b) Number of dots per inch",
+            "c) Number of lines per inch",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: quality depends on these attributes.\n"
+    },
+    {
+        "id": 38,
+        "Question": "Which of the following device is not the input device?",
+        "Options": [
+            "a) Trackball and space ball",
+            "b) Data glove",
+            "c) Only d",
+            "d) Impact printers"
+        ],
+        "Answer": " Answer: c\nExplanation: printer is an output device.\n"
+    },
+    {
+        "id": 39,
+        "Question": " Which device contains thumbwheel, trackball and a standard mouse ball?",
+        "Options": [
+            "a) Z mouse",
+            "b) Joystick",
+            "c) Mouse",
+            "d) Trackball"
+        ],
+        "Answer": " Answer: a\nExplanation: These 3 buttons are the Z mouse features.\n"
+    },
+    {
+        "id": 40,
+        "Question": "Virtual reality, CAD, and animations are the application of",
+        "Options": [
+            "a) Z mouse",
+            "b) Digitizers",
+            "c) Data tablets",
+            "d) Image scanners"
+        ],
+        "Answer": " Answer: a\nExplanation: Application of  Z mouse includes virtual reality, CAD, and animations.\n"
+    },
+    {
+        "id": 41,
+        "Question": "The Cartesian slope-intercept equation for a straight line is",
+        "Options": [
+            "a) y = m.x + b",
+            "b) y = b.x + m",
+            "c) y = x.x + m",
+            "d) y = b + m.m"
+        ],
+        "Answer": " Answer: a\nExplanation: Equation for a straight line is y = m.x + b.\n"
+    },
+    {
+        "id": 42,
+        "Question": "For lines with slope magnitude |m|<1, ?x can be_________",
+        "Options": [
+            "a) A set corresponding vertical deflection",
+            "b) A set proportional to a small horizontal deflection voltage",
+            "c) Only a",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation:?x can be a set proportional to a small horizontal deflection voltage only if slope magnitude |m| < 1.\n"
+    },
+    {
+        "id": 43,
+        "Question": "On raster system, lines are plotted with",
+        "Options": [
+            "a) Lines",
+            "b) Dots",
+            "c) Pixels",
+            "d) None  of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: Using pixels lines can be plotted.\n"
+    },
+    {
+        "id": 44,
+        "Question": "Expansion of  line DDA algorithm is",
+        "Options": [
+            "a) Digital difference analyzer",
+            "b) Direct differential analyzer",
+            "c) Digital  differential analyzer",
+            "d) Data differential analyzer"
+        ],
+        "Answer": " Answer: c\nExplanation: DDA stands for digital differential analyzer.\n"
+    },
+    {
+        "id": 45,
+        "Question": "Which algorithm is a faster method for calculating pixel positions?",
+        "Options": [
+            "a) Bresenham’s line algorithm",
+            "b) Parallel line algorithm",
+            "c) Mid-point algorithm",
+            "d) DDA line algorithm"
+        ],
+        "Answer": " Answer: d\nExplanation: The DDA is a faster method for calculating pixel positions.\n"
+    },
+    {
+        "id": 46,
+        "Question": "The disadvantage of lineDDA is",
+        "Options": [
+            "a) Time consuming",
+            "b) Faster",
+            "c) Neither a nor b",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: The DDA algorithm takes more time than other algorithm.\n"
+    },
+    {
+        "id": 47,
+        "Question": "An accurate and efficient raster line-generating algorithm is",
+        "Options": [
+            "a) DDA algorithm",
+            "b) Mid-point algorithm",
+            "c) Parallel line algorithm",
+            "d) Bresenham’s line algorithm"
+        ],
+        "Answer": " Answer: d\nExplanation: Bresenham’s line algorithm is a very efficient and accurate algorithm.\n"
+    },
+    {
+        "id": 48,
+        "Question": "In Bresenham’s line algorithm, if the  distances d1 < d2 then decision parameter Pk is______",
+        "Options": [
+            "a) Positive",
+            "b) Equal",
+            "c) Negative",
+            "d) Option a or c"
+        ],
+        "Answer": " Answer: c\nExplanation: If d1 < d2 then the decision variable is always negative.\n"
+    },
+    {
+        "id": 49,
+        "Question": "Which is the best line algorithm to balance the processing load among the processers?",
+        "Options": [
+            "a) Parallel line algorithm",
+            "b) DDA line algorithm",
+            "c) Bresenham’s line algorithm",
+            "d) Position Bresenham’s line algorithm"
+        ],
+        "Answer": " Answer: a\nExplanation: If there are ‘n’ processes then this algorithm divides it into number of partitions and generates line segments.\n"
+    },
+    {
+        "id": 50,
+        "Question": "The algorithm which uses multiple processors to calculate  pixel positions is",
+        "Options": [
+            "a) Midpoint algorithm",
+            "b) Parallel line algorithm",
+            "c) Bresenham’s line algorithm",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation: In Parallel line algorithm each processors calculates pixel positions.\n"
+    },
+    {
+        "id": 51,
+        "Question": "Coordinate references in the polyline function are stated as",
+        "Options": [
+            "a) Relative coordinate values",
+            "b) Absolute coordinate values",
+            "c) Current position",
+            "d) Real coordinate values"
+        ],
+        "Answer": " Answer: b\nExplanation: Coordinate references in the polyline function are stated as absolute coordinate values.\n"
+    },
+    {
+        "id": 52,
+        "Question": "To apply the midpoint method, we define",
+        "Options": [
+            "a) ?circle(x, y)= x 2+ y 2-? r?2",
+            "b) ?circle(x, y)= x+ y 2-? r?2",
+            "c) ?circle(x, y)= x 2– y 2-? r?2",
+            "d) ?circle(x, y)= x2+ y 2-? z?2"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 53,
+        "Question": "_______ is defined as set of points such that the sum of the distances is same for all points.",
+        "Options": [
+            "a) Ellipses",
+            "b) Lines",
+            "c) Circles",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: Ellipses is defined as set of points.\n"
+    },
+    {
+        "id": 54,
+        "Question": "If the boundary is specified in a single color, and if the algorithm proceeds pixel by pixel until the boundary color is encountered is called",
+        "Options": [
+            "a) Scan-line fill algorithm",
+            "b) Boundary-fill algorithm",
+            "c) Flood-fill algorithm",
+            "d) Parallel curve algorithm"
+        ],
+        "Answer": " Answer: b\nExplanation: This algorithm proceeds outward pixel by pixel until the boundary color is encountered.\n"
+    },
+    {
+        "id": 55,
+        "Question": "If we want to recolor an area that is not defined within a single color boundary is known as",
+        "Options": [
+            "a) Boundary-fill algorithm",
+            "b) Parallel curve algorithm",
+            "c) Flood-fill algorithm",
+            "d) Only b"
+        ],
+        "Answer": " Answer: c\nExplanation: We can paint such areas by replacing a specified interior color.\n"
+    },
+    {
+        "id": 56,
+        "Question": "The basic attributes of a straight line segment are",
+        "Options": [
+            "a) Type",
+            "b) Width",
+            "c) Color",
+            "d) All of these"
+        ],
+        "Answer": " Answer: d\nExplanation: Type, width and colors are the basic attributes of line.\n"
+    },
+    {
+        "id": 57,
+        "Question": "A dashed line could be displayed by generating_________.",
+        "Options": [
+            "a) Inter dash spacing",
+            "b) Very short dashes",
+            "c) Botha a and b",
+            "d) A or B"
+        ],
+        "Answer": " Answer: a\nExplanation: The inter dash spacing that is equal to the length of the solid sections displays dashed line.\n"
+    },
+    {
+        "id": 58,
+        "Question": "A dotted line can be displayed by generating",
+        "Options": [
+            "a) Very short dashes with spacing equal to and greater than dash size",
+            "b) Very long dashes with spacing equal to or greater than dash size",
+            "c) Very short dashes with spacing equal to and greater than dash size",
+            "d) Dots"
+        ],
+        "Answer": " Answer: c\nExplanation: Very long dashes with spacing equal to or greater than dash size can displays dotted line.\n"
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following is not a line-type?",
+        "Options": [
+            "a) Dashed line",
+            "b) Dark line",
+            "c) Dotted line",
+            "d) Only b"
+        ],
+        "Answer": " Answer: d\nExplanation: Except dark line those are the types of the line.\n"
+    },
+    {
+        "id": 60,
+        "Question": "In an application program, to set line-type attributes the following statement is used.",
+        "Options": [
+            "a) SetLinetype(lt)",
+            "b) setLinetype(lt)",
+            "c) SETLINETYPE(lt)",
+            "d) SETLINE()"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 61,
+        "Question": "The algorithm which displays line-type attributes by plotting pixel spans is",
+        "Options": [
+            "a) Raster line algorithm",
+            "b) Raster scan algorithm",
+            "c) Random line algorithm",
+            "d) Random scan algorithm"
+        ],
+        "Answer": " Answer: a\nExplanation:  Raster line algorithm displays line-type attributes.\n"
+    },
+    {
+        "id": 62,
+        "Question": "Pixel mask means",
+        "Options": [
+            "a) A string containing only 1;s",
+            "b) A string containing only 0’s",
+            "c) A string containing 1 and 0",
+            "d) A string containing 0 and 0"
+        ],
+        "Answer": " Answer: c\nExplanation: Inter span spacing can be specified in a pixel mask that contains digits 1 and 0.\n"
+    },
+    {
+        "id": 63,
+        "Question": "A heavy line on a video monitor could be displayed as",
+        "Options": [
+            "a) Adjacent perpendicular lines",
+            "b) Adjacent parallel lines",
+            "c) Both a and b",
+            "d) Neither a nor b"
+        ],
+        "Answer": " Answer: b\nExplanation: A heavy line displayed as adjacent parallel lines, while pen plotter might require pen changes.\n"
+    },
+    {
+        "id": 64,
+        "Question": "To set the line-width attribute the following command is used.",
+        "Options": [
+            "a) SETLINEWIDTHSCALEFACTOR (lw)",
+            "b) Setlinewidth()",
+            "c) Setlinewidthscalefacto (lw)",
+            "d) setLineWidthScaleFactor (lw)"
+        ],
+        "Answer": " Answer: d\nExplanation: setLineWidthScaleFactor (lw) function can be used to set line-width attribute.\n"
+    },
+    {
+        "id": 65,
+        "Question": "The parameter to “setLineWidthScaleFactor (lw) “function specifies?",
+        "Options": [
+            "a) Standard width",
+            "b) Relative width of the line",
+            "c) Thickness of the line",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation: The positive value to lw indicates the  relative width of the line.\n                    Standard width, if Value=1\n                    Thickness, if value>1.\n"
+    },
+    {
+        "id": 66,
+        "Question": "We can adjust the shape of the line ends to give them a better appearance by using",
+        "Options": [
+            "a) Line spacing",
+            "b) More dots",
+            "c) Line caps",
+            "d) Round cap"
+        ],
+        "Answer": " Answer: c\nExplanation: Line caps are obtained by adjusting the end points of the line.\n"
+    },
+    {
+        "id": 67,
+        "Question": "Thick line drawn with",
+        "Options": [
+            "a) Butt caps",
+            "b) Round caps",
+            "c) Projecting square caps",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 68,
+        "Question": "We set the line-color value in PHIGS with the function",
+        "Options": [
+            "a) setPolylineColorIndex (lc)",
+            "b) setline Color()",
+            "c) SETPOLYLINECOLORINDEX (lc)",
+            "d) Only b"
+        ],
+        "Answer": " Answer: a\nExplanation: The setPolylineColorIndex (lc) function is used to set the line color.\n"
+    },
+    {
+        "id": 69,
+        "Question": "If the angle between 2 connected line segments is very small then ________ can generate a long spike that distorts the appearance of the polyline.",
+        "Options": [
+            "a) Miter join",
+            "b) Round join",
+            "c) Bevel join",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Miter join provides long spikes that distort the appearance of the polyline.\n"
+    },
+    {
+        "id": 70,
+        "Question": "A line drawn in the background color is",
+        "Options": [
+            "a) Visible",
+            "b) Invisible",
+            "c) Visible or Invisible",
+            "d) Only b"
+        ],
+        "Answer": " Answer: d\nExplanation: A line drawn in the background color is always invisible because both are same color.\n"
+    },
+    {
+        "id": 71,
+        "Question": "The basic parameter to curved attributes are",
+        "Options": [
+            "a) Type",
+            "b) Width",
+            "c) Color",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: Type, width and colors are the basic parameters to curved attributes.\n"
+    },
+    {
+        "id": 72,
+        "Question": "Raster curves of various widths can be displayed using",
+        "Options": [
+            "a) Horizontal or vertical spans",
+            "b) Horizontal spans",
+            "c) Vertical spans",
+            "d) Horizontal and vertical spans"
+        ],
+        "Answer": " Answer: a\nExplanation: Raster curves of various widths can be displayed using Horizontal or vertical spans.\n"
+    },
+    {
+        "id": 73,
+        "Question": "If the magnitude of the curve slope is lesser than 1, then",
+        "Options": [
+            "a) We can plot horizontal spans",
+            "b) We can plot vertical spans",
+            "c) Only b",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: if slope magnitude<1 then we can plot vertical spans Magnitude > 1 then we can plot vertical spans.\n"
+    },
+    {
+        "id": 74,
+        "Question": "If the slope magnitude is 1, then circles, ellipse and other curves will appear",
+        "Options": [
+            "a) Thick",
+            "b) Thinnest",
+            "c) Big",
+            "d) Rough"
+        ],
+        "Answer": " Answer: b\nExplanation: The magnitude value 1 displays thinnest curves, circles and ellipses.\n"
+    },
+    {
+        "id": 75,
+        "Question": "One of the method for displaying thick curves is",
+        "Options": [
+            "a) Curve slope",
+            "b) Curve width",
+            "c) Curve cap",
+            "d) Only c"
+        ],
+        "Answer": " Answer: a\nExplanation: This method fills the area b/w 2 parallel curves, whose separation distance=desired width.\n"
+    },
+    {
+        "id": 76,
+        "Question": "The pixel masks for implementing line-type options are also used in the following algorithm to generate dashed and dotted patterns.",
+        "Options": [
+            "a) Raster line algorithm",
+            "b) Raster scan algorithm",
+            "c) Raster curve  algorithm",
+            "d) Random curve  algorithm"
+        ],
+        "Answer": " Answer: c\nExplanation: Raster curve algorithm generates dashed and dotted patterns.\n"
+    },
+    {
+        "id": 77,
+        "Question": "We can generate the dashes in the various octants and the circle path with vertical path using",
+        "Options": [
+            "a) Circles",
+            "b) Circle symmetry",
+            "c) Circle simmetry",
+            "d) Curve slope"
+        ],
+        "Answer": " Answer: b\nExplanation: Circle symmetry generates dashes in the various octants, but we must shift the pixel positions to maintain the correct sequence.\n"
+    },
+    {
+        "id": 78,
+        "Question": "The function of the pixel mask is",
+        "Options": [
+            "a) To display dashes and inter dash spaces according to the slope",
+            "b) To display curved attributes",
+            "c) To display  the thick curves",
+            "d) None of these"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 79,
+        "Question": "If we want to display constant-length dashes, then we need to do the following.",
+        "Options": [
+            "a) We need to adjust the number of pixels plotted in each dash",
+            "b) We need to adjust the number of dots",
+            "c) We must use line-type functions",
+            "d) Neither a nor c"
+        ],
+        "Answer": " Answer: a\nExplanation: Number of pixels plotted in each dash, will displays constant-length dashes.\n"
+    },
+    {
+        "id": 80,
+        "Question": "The curves displayed with a rectangular pen will be",
+        "Options": [
+            "a) Thinner",
+            "b)  Thicker and magnitude slope is 1",
+            "c) Thicker and magnitude slope >1",
+            "d) B or C"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 81,
+        "Question": "The color options are numerically coded with the following values.",
+        "Options": [
+            "a) Ranging from 0 through the positive integer",
+            "b) Ranging from 0 to 1",
+            "c) Ranging from 0 to -0",
+            "d) Only c"
+        ],
+        "Answer": " Answer: a\nExplanation: Color options can have any value from 0 to any positive number.\n"
+    },
+    {
+        "id": 82,
+        "Question": "In color raster system, the number of color choices available depends on",
+        "Options": [
+            "a) colors in frame buffer",
+            "b) Amount of storage provided per pixel in frame buffer",
+            "c) RGB color",
+            "d) Neither a nor b"
+        ],
+        "Answer": " Answer: b\nExplanation: The amount of storage provided per pixels in frame buffer provides verity range of colors.\n"
+    },
+    {
+        "id": 83,
+        "Question": "The color code “000” is for",
+        "Options": [
+            "a) White",
+            "b) Black",
+            "c) Blue",
+            "d) Green"
+        ],
+        "Answer": " Answer: b\nExplanation: All zero means it is black color (the mixture of red, green and blue).\n"
+    },
+    {
+        "id": 84,
+        "Question": "Color information can be stored in",
+        "Options": [
+            "a) Main memory",
+            "b) Secondary memory",
+            "c) Graphics card",
+            "d) Frame buffer"
+        ],
+        "Answer": " Answer: d\nExplanation: The frame buffer is a space that is used to store the color information.\n"
+    },
+    {
+        "id": 85,
+        "Question": "Whenever a particular color code is specified in an application program, the corresponding binary value is placed in?",
+        "Options": [
+            "a) Color look-up table",
+            "b) Directly in frame buffer",
+            "c) a or b",
+            "d) Video lookup table"
+        ],
+        "Answer": " Answer: b\nExplanation: With the direct storage scheme, the binary values of color are stored in frame buffer.\n"
+    },
+    {
+        "id": 86,
+        "Question": "The range that specifies the gray or grayscale levels is",
+        "Options": [
+            "a) The value range from -1 to 1",
+            "b) The value range from 0 to -1",
+            "c) The value range from 0 to 1",
+            "d) Any one of the above"
+        ],
+        "Answer": " Answer: c\nExplanation: Any value ranging from 0 to 1 can specify grayscale levels.\n"
+    },
+    {
+        "id": 87,
+        "Question": "With 3 bits per pixel, we can accommodate 8 gray levels. If we use 8 bits per pixel then what is the value of gray levels?",
+        "Options": [
+            "a) 18 gray levels",
+            "b) 128 gray levels",
+            "c) 256 gray levels",
+            "d) No color"
+        ],
+        "Answer": " Answer: c\nExplanation: 8 bits per pixel means 2 power 8 i.e. 256.\n"
+    },
+    {
+        "id": 88,
+        "Question": "With the display intensity corresponding to a given color index ci calculated as",
+        "Options": [
+            "a) Intensity=0.5[max(r, g, b)+ max(r, g, b)] ",
+            "b) Intensity=0.5[min(r, g, b)+ min(r, g, b)] ",
+            "c) Intensity=0.5[max(r, g, b)- max(r, g, b)] ",
+            "d) Intensity=0.5[min(r, g, b)+ max(r, g, b)]"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 89,
+        "Question": "A user can set color-table entries in a PHIGS application program with the function",
+        "Options": [
+            "a) setColourRepresentation (ws, ci, colorptr)",
+            "b) setColorRepresentation (ws, ci, colorptr)",
+            "c) setColour (ws, ci, colorptr)",
+            "d) setColourRepresentation ()"
+        ],
+        "Answer": " Answer: a\nExplanation: By using setColourRepresentation (ws, ci, colorptr) we can set the color-table.\n"
+    },
+    {
+        "id": 90,
+        "Question": "If any intensity input value near 0.33 would be stored as the binary value 1 in the frame buffer, then it displays",
+        "Options": [
+            "a) Dark green color",
+            "b) Light gray color",
+            "c) Dark gray color",
+            "d) White or black"
+        ],
+        "Answer": " Answer: c\nExplanation: The intensity value 0.0 and 1 for black white respectively, and it is 0.33 for dark gray and 0.67 for light gray.\n"
+    },
+    {
+        "id": 91,
+        "Question": "A basic fill style is selected in a PHIGS program with the function",
+        "Options": [
+            "a) setInteriorStyle (fs)",
+            "b) setStyle (fs)",
+            "c) SetfillStyle (fs)",
+            "d) setInteriorStyleIndex (fs)"
+        ],
+        "Answer": " Answer: a\nExplanation: We can select the basic fill style by using setInteriorStyle (fs).\n"
+    },
+    {
+        "id": 92,
+        "Question": "Which one is not a type of basic fill styles?",
+        "Options": [
+            "a) Hollow",
+            "b) solid color",
+            "c) Pattern",
+            "d) Dark"
+        ],
+        "Answer": " Answer: d\nExplanation: Dark fill is not a type of basic fill style, rest of them is the basic fill styles.\n"
+    },
+    {
+        "id": 93,
+        "Question": "The process of filling an area with rectangular pattern is called",
+        "Options": [
+            "a) Tiling",
+            "b) Linear fill",
+            "c) Tint-fill",
+            "d) Soft-fill"
+        ],
+        "Answer": " Answer: a\nExplanation: Rectangular fill pattern is called tiling or tiling pattern.\n"
+    },
+    {
+        "id": 94,
+        "Question": "The algorithm which repaints an area that was originally painted by merging a foreground color F and background color B where F!=B.",
+        "Options": [
+            "a) Tint fill",
+            "b) Flood fill",
+            "c) Linear soft-fill",
+            "d) Boundary fill"
+        ],
+        "Answer": " Answer: c\nExplanation: Linear soft-fill algorithm used to repaint the area.\n"
+    },
+    {
+        "id": 95,
+        "Question": "The fill color that is combined with the background color is known as",
+        "Options": [
+            "a) Soft fill",
+            "b) Tint fill",
+            "c) Both a and b",
+            "d) None"
+        ],
+        "Answer": " Answer: c\nExplanation: soft fill is also called tint fill.\n"
+    },
+    {
+        "id": 96,
+        "Question": "Hatch fill procedures are implemented to draw",
+        "Options": [
+            "a) Single hatching",
+            "b) Cross hatching",
+            "c) Either a or b",
+            "d) Only b"
+        ],
+        "Answer": " Answer: c\nExplanation: This procedure is used to draw either single or cross hatching.\n"
+    },
+    {
+        "id": 97,
+        "Question": "When 2 background colors B1 and B2 are mixed with foreground color F, the resulting pixel color P is",
+        "Options": [
+            "a) P=t0*F+t1*B1+(1-t0-t1)B2",
+            "b) P=t0*F-t1*B1+(1-t0-t1)B2",
+            "c) P=t0*F+t1*B1+(1+t0+t1)B2",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 98,
+        "Question": "The operator that is used for combining a fill pattern with a background pattern is",
+        "Options": [
+            "a) AND operator",
+            "b) OR operator",
+            "c) X-OR operator",
+            "d) All of these"
+        ],
+        "Answer": " Answer: d\nExplanation: The pattern and background colors can be combined using Boolean operators.\n"
+    },
+    {
+        "id": 99,
+        "Question": "Hollow areas are displayed using only the",
+        "Options": [
+            "a) Boundary outline",
+            "b) Line-drawing routine",
+            "c) Hatched patterns",
+            "d) Closed poly line"
+        ],
+        "Answer": " Answer: a\nExplanation: Using boundary outline the hollow areas can be displayed.\n"
+    },
+    {
+        "id": 100,
+        "Question": "Options for filling a defined region include a choice between__________",
+        "Options": [
+            "a) Solid color or a pattern fill",
+            "b) Choices for particular colors and pattern",
+            "c) Both a and b",
+            "d) None"
+        ],
+        "Answer": " Answer: c\nExplanation: The filling options can be applied to polygon region and areas can be painted using various brush styles, colors, and transparency parameters.\n"
+    },
+    {
+        "id": 101,
+        "Question": "The function which references a single attribute that specifies how a primitive is to be displayed with that attribute setting is called",
+        "Options": [
+            "a) Individual attribute",
+            "b) Unbundled attribute",
+            "c) Bundled attribute",
+            "d) A or B"
+        ],
+        "Answer": " Answer: d\nExplanation: Individual attribute are also known as unbundled attribute.\n"
+    },
+    {
+        "id": 102,
+        "Question": "A particular set of attribute values for a primitive on each output device is chosen by specifying appropriate table index is known as?",
+        "Options": [
+            "a) Individual attribute",
+            "b) Unbundled attribute",
+            "c) Bundled attribute",
+            "d) A or B"
+        ],
+        "Answer": " Answer: c\nExplanation: Bundle attributes specifies group of attribute values. And these values can be bundled into the workstation table.\n"
+    },
+    {
+        "id": 103,
+        "Question": "A table for which, a primitive defines groups of attribute values to be used when displaying that primitive on a particular output device is called",
+        "Options": [
+            "a) Bundle table",
+            "b) Index table",
+            "c) Both a and b",
+            "d) None of these"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 104,
+        "Question": "The choice between a bundled attribute or an unbundled attribute is made by",
+        "Options": [
+            "a) Setting switch",
+            "b) Setting bundle table",
+            "c) Index table",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: By setting switch the user can change their choice between  bundled attribute or an unbundled attribute.\n"
+    },
+    {
+        "id": 105,
+        "Question": "Entries in the bundle table for line attributes are set using the function",
+        "Options": [
+            "a) Setlineattributes ()",
+            "b) setPolylineRepresentation (ws, li, lt, lc)",
+            "c) setPolylineRepresentation()",
+            "d) only a"
+        ],
+        "Answer": " Answer: b\nExplanation: Entries in the bundle table for line attributes are set using the function setPolylineRepresentation (ws, li, lt, lc).\n"
+    },
+    {
+        "id": 106,
+        "Question": "A poly-line that is assigned a table index value of 3 would be displayed using",
+        "Options": [
+            "a) Dashed line",
+            "b) Dotted line",
+            "c) Same index",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Using dashed line at half thickness the index value of 3 would be displayed.\n"
+    },
+    {
+        "id": 107,
+        "Question": "Table entries for bundled area-fill attributes are set using the function",
+        "Options": [
+            "a) setInteriorRepresentation (ws, fi, fs, pi, fc)",
+            "b) SetInteriorRepresentation ()",
+            "c) Only b",
+            "d) Both a and b"
+        ],
+        "Answer": "  Answer: a\nExplanation: The function setInteriorRepresentation (ws, fi, fs, pi, fc) can be used to set the bundled area-fill attributes.\n"
+    },
+    {
+        "id": 108,
+        "Question": "The choice between a bundled attribute or an unbundled attribute is made by switch called?",
+        "Options": [
+            "a) Aspect flag",
+            "b) Aspect ratio",
+            "c) Aspect source flag",
+            "d) Aspect destination flag"
+        ],
+        "Answer": "  Answer: c\nExplanation: We can chose any one of the above attributes by setting switch for each of the attributes.\n"
+    },
+    {
+        "id": 109,
+        "Question": "We can check the attribute values by",
+        "Options": [
+            "a) Stating the name of the attribute in the inquiry function",
+            "b) Setting attribute values",
+            "c) Only a",
+            "d) Neither a nor b"
+        ],
+        "Answer": "  Answer: c\nExplanation: We can check the attribute values by stating the name of the attribute in the inquiry function.\n"
+    },
+    {
+        "id": 110,
+        "Question": "A particular text index value is chosen with the function",
+        "Options": [
+            "a) setTextIndex()",
+            "b) settextindex(ti)",
+            "c) SetTextIndex(ti)",
+            "d) setTextIndex(ti)"
+        ],
+        "Answer": "  Answer: d\nExplanation: The function setTextIndex(ti) is used to chose the particular text index value.\n"
+    },
+    {
+        "id": 111,
+        "Question": "Which of the following is the basic attribute of a character?",
+        "Options": [
+            "a) Font",
+            "b) Size and color",
+            "c) Orientation",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: Font, size, color and orientation are the basic attribute of a character.\n"
+    },
+    {
+        "id": 112,
+        "Question": "Attribute can be set for",
+        "Options": [
+            "a) Entire character strings",
+            "b) Individual characters defined as marker symbol",
+            "c) Neither a nor b",
+            "d) Both a and b"
+        ],
+        "Answer": " Answer: d\nExplanation: Character attributes can be set to text as well as marker symbols defined as individual characters.\n"
+    },
+    {
+        "id": 113,
+        "Question": "A particular font and associated styles can be set using the function",
+        "Options": [
+            "a) setTextfont (tf)",
+            "b) setfont (tf)",
+            "c) setFont (tf)",
+            "d) setTextFont()"
+        ],
+        "Answer": " Answer: a\nExplanation: The function setTextfont (tf) can be used to set the font and its style. Where “tf” specifies the available fonts style.\n"
+    },
+    {
+        "id": 114,
+        "Question": "When a character string is to be displayed, the which color is used to set the pixel value in frame buffer?",
+        "Options": [
+            "a) White color",
+            "b) Current color",
+            "c) Black color",
+            "d) Any color"
+        ],
+        "Answer": " Answer: b\nExplanation: The current color is used to set the pixel value corresponding to the character shape and positions.\n"
+    },
+    {
+        "id": 115,
+        "Question": "The Character size is specified by",
+        "Options": [
+            "a) Printers",
+            "b) Compositors",
+            "c) Frame buffer",
+            "d) Both a and b"
+        ],
+        "Answer": " Answer: d\nExplanation: The Character size is specified by printers and compositors in points where 1 point is 0.013837 inch.\n"
+    },
+    {
+        "id": 116,
+        "Question": "The distance between the bottom-line and the top-line of the character body is",
+        "Options": [
+            "a) Same for all character",
+            "b) Different for all character",
+            "c) Same for some character",
+            "d) Different for some character"
+        ],
+        "Answer": " Answer: a\nExplanation: The distance between the bottom-line and the top-line of the character body is always same for all the characters.\n"
+    },
+    {
+        "id": 117,
+        "Question": "The width of the text or character can be set using the function",
+        "Options": [
+            "a) setCharacterExpansionFactor (cw)",
+            "b) SetCharacterExpansionFactor (cw)",
+            "c) setCharacterFactor (cw)",
+            "d) setCharacterExpansionfactor (cw)"
+        ],
+        "Answer": " Answer: a\nExplanation: In this function the parameter cw (character-width) sets the width of the character.\n"
+    },
+    {
+        "id": 118,
+        "Question": "8.__________ is a single character that can be displayed in different colors and in different sizes.",
+        "Options": [
+            "a) String",
+            "b) Marker symbol",
+            "c) Only a",
+            "d) Symbols"
+        ],
+        "Answer": " Answer: b\nExplanation: A marker symbols can be displayed in any colors and in any size.\n"
+    },
+    {
+        "id": 119,
+        "Question": "A function that allows the user to select a particular character to be as marker symbol is",
+        "Options": [
+            "a) setmarkertype (mt)",
+            "b) setMarkersymbol(mt)",
+            "c) setMarkerType (mt)",
+            "d) SETMARKER()"
+        ],
+        "Answer": " Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 120,
+        "Question": "The orientation for a displayed character string is set according to, which of the following function?",
+        "Options": [
+            "a) Setcharacterupvector()",
+            "b) setcharacterUpvector(upvect)",
+            "c) setCharacterUpVector(upvec)",
+            "d) only b"
+        ],
+        "Answer": " Answer: c\nExplanation: According to the direction of the character up vector, the orientation for a displayed character string is set.\n"
+    },
+    {
+        "id": 121,
+        "Question": "Which of the following is a video editing tool that produces an animated text which can be inserted into video streams?",
+        "Options": [
+            "a) Character generator",
+            "b) Title generator",
+            "c) Video generator",
+            "d) Animation generator"
+        ],
+        "Answer": "Answer: a\nExplanation: Character generator also called as CG in video editing is the software or hardware that produces animated text video streams."
+    },
+    {
+        "id": 122,
+        "Question": "Which type of character generators are used in television production studios?",
+        "Options": [
+            "a) Hardware character generators",
+            "b) Software character generators",
+            "c) Both Hardware and software character generators can be used",
+            "d) Title generators are used"
+        ],
+        "Answer": "Answer: a\nExplanation: Character generators can be both hardware or software. Hardware character generators are used in television studios and video editing suites, whereas software CG(s) are used in animation."
+    },
+    {
+        "id": 123,
+        "Question": "  Why aren’t camcorder CG used more frequently in the titler market?",
+        "Options": [
+            "a) They don’t record for longer time period",
+            "b) They use a background of video for title super imposition",
+            "c) They have low storage capacity",
+            "d) They are not economically feasible"
+        ],
+        "Answer": "Answer: a\nExplanation: Generally, only Hardware character generators are used in television studios. They provide a key signal. While the compositing vision mixer can use an alpha channel to determine which areas of the CG video are translucent."
+    },
+    {
+        "id": 124,
+        "Question": " How many Methods of character generations are there?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: c\nExplanation:  They have 2 drawbacks, first is that you have to give titles as you shoot and second, they have very low capacity in comparison to others."
+    },
+    {
+        "id": 125,
+        "Question": "Which method of character generation is also called Dot-matrix method?",
+        "Options": [
+            "a) Stroke method",
+            "b) Bitmap method",
+            "c) Starbust method",
+            "d) There isn’t that type of method"
+        ],
+        "Answer": "Answer: b\nExplanation: There are three methods. Those 3 methods are Stroke method, Bitmap method and Starbust method. Each of them has different types of function."
+    },
+    {
+        "id": 126,
+        "Question": "In which method, graph is used in form of line to line?",
+        "Options": [
+            "a) Stroke method",
+            "b) Bitmap method",
+            "c) Starbust method",
+            "d) Dot-matrix method"
+        ],
+        "Answer": "Answer: b\nExplanation: Bitmap method is also called a dot-matrix method as it uses arrays of dots for character generation. These dots are the points for an array whose size is fixed."
+    },
+    {
+        "id": 127,
+        "Question": "In which method, fixed pattern of a line is used to generate characters?",
+        "Options": [
+            "a) Stroke method",
+            "b) Bitmap method",
+            "c) Starbust method",
+            "d) Dot-matrix method"
+        ],
+        "Answer": "Answer: a\nExplanation: In Stroke method, graph is drawn in the form of line by line. Line drawing algorithm DDA follows this method for line drawing."
+    },
+    {
+        "id": 128,
+        "Question": "Which method has the poorest character quality?",
+        "Options": [
+            "a) Stroke method",
+            "b) Bitmap method",
+            "c) Starbust method",
+            "d) Dot-matrix method"
+        ],
+        "Answer": "Answer: c\nExplanation: In Starbust method, a combination of 24bit line segment is used. It is a method in which there is a particular pattern where only 24 strokes are defined for character generation."
+    },
+    {
+        "id": 129,
+        "Question": "Character generators can produce _________________",
+        "Options": [
+            "a) Different type size but same fonts",
+            "b) Same type size but different fonts",
+            "c) Same type size and fonts",
+            "d) Different type size and fonts"
+        ],
+        "Answer": "Answer: c\nExplanation:  Character quality is poor in Starbust method and is worse for curved characters. Whereas in Bitmap method and stroke method, it is very good as they use new technologies."
+    },
+    {
+        "id": 130,
+        "Question": "We can think a line as a _____________________ in the grid.",
+        "Options": [
+            "a) Parallelogram",
+            "b) Rectangle",
+            "c) Circle",
+            "d) Triangle"
+        ],
+        "Answer": "Answer: b\nExplanation: A line can be viewed as a rectangle of defined thickness. It covers a desired area in the grid. Even the thinnest horizontal line has a thickness of one pixel."
+    },
+    {
+        "id": 131,
+        "Question": "A signal can also be represented as ____________________",
+        "Options": [
+            "a) Amplitude domain",
+            "b) Signal domain",
+            "c) Frequency domain",
+            "d) Phase domain"
+        ],
+        "Answer": "Answer: b\nExplanation: A line should not set an intensity of a single pixel in a column to black, but rather should contribute some amount of intensity to each pixel in the column, whose area it intersects."
+    },
+    {
+        "id": 132,
+        "Question": "What is lower bound on the sampling rate known as?",
+        "Options": [
+            "a) Syquist rate",
+            "b) Nyquist rate",
+            "c) Hartley rate",
+            "d) Sampling rate"
+        ],
+        "Answer": "Answer: c\nExplanation: The signal can also be represented as a frequency domain, that is why we may represent it as a sum of two different sine waves."
+    },
+    {
+        "id": 133,
+        "Question": "The equal area in area sampling contributes _______________",
+        "Options": [
+            "a) Equal intensity",
+            "b) Greater intensity",
+            "c) Lower intensity",
+            "d) Area is not dependent on the intensity"
+        ],
+        "Answer": "Answer: b\nExplanation: Sampling theory tells us that a signal can be reconstructed by its samples. The original signal is sampled at a frequency larger than twice. This sampling rate is called Nyquist rate."
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following is NOT a type of area sampling?",
+        "Options": [
+            "a) Weighted area sampling",
+            "b) Unweighted area sampling",
+            "c) Anti-aliasing",
+            "d) Point sampling"
+        ],
+        "Answer": "Answer: a\nExplanation: The equal area contributes to equal intensity in area sampling. Only the total amount of overlapped area matters, regardless of the distance between the pixel’s centre."
+    },
+    {
+        "id": 135,
+        "Question": "What happens to intensity if an area of overlapping increases?",
+        "Options": [
+            "a) Intensity remains same",
+            "b) Intensity decreases",
+            "c) Intensity increases",
+            "d) Can’t say anything"
+        ],
+        "Answer": "Answer: d\nExplanation: Weighted and unweighted area sampling are types of area sampling classified on the basis of proportionality of intensity. Anti-aliasing is another name of unweighted area sampling whereas, point sampling is not a type of area sampling."
+    },
+    {
+        "id": 136,
+        "Question": "What is the effect of weighted area sampling on adjacent pixels?",
+        "Options": [
+            "a) Intensity is increased",
+            "b) Intensity is decreased",
+            "c) Contrast is increased",
+            "d) Contrast is decreased"
+        ],
+        "Answer": "Answer: b\nExplanation: The technique of setting the intensity proportional to the amount of area covered is used in unweighted area sampling. This technique produces noticeably better results than others."
+    },
+    {
+        "id": 137,
+        "Question": "What is the name of the effect that causes different signals to become indistinguishable?",
+        "Options": [
+            "a) Aliasing",
+            "b) Anti-aliasing",
+            "c) Sampling",
+            "d) Staircase effect"
+        ],
+        "Answer": "Answer: c\nExplanation: When the line covers pixel completely the intensity is a maximum while when the line doesn’t touch the pixel the intensity is zero. Hence we can say, the intensity is directly proportional to the overlapping area."
+    },
+    {
+        "id": 138,
+        "Question": "A translation is applied to an object by",
+        "Options": [
+            "a) Repositioning it along with straight line path",
+            "b) Repositioning it along with circular path",
+            "c) Only b",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: A translation is applied to an object by repositioning it along with straight line path from one location to another.\n"
+    },
+    {
+        "id": 139,
+        "Question": "We translate a two-dimensional point by adding",
+        "Options": [
+            "a) Translation distances",
+            "b) Translation difference",
+            "c) X and Y",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: We can translate 2D point by adding translation distances dx and dy.\n"
+    },
+    {
+        "id": 140,
+        "Question": "The translation distances (dx, dy) is called as",
+        "Options": [
+            "a) Translation vector",
+            "b) Shift vector",
+            "c) Both a and b",
+            "d) Neither a nor b"
+        ],
+        "Answer": " Answer: c\nExplanation: The translation distances (dx, dy) from its original position is called as translation vector or shift vector.\n"
+    },
+    {
+        "id": 141,
+        "Question": "In 2D-translation, a point (x, y) can  move to the new position (x’, y’) by using the equation",
+        "Options": [
+            "a) x’=x+dx and y’=y+dx",
+            "b) x’=x+dx and y’=y+dy",
+            "c) X’=x+dy and Y’=y+dx",
+            "d) X’=x-dx and y’=y-dy"
+        ],
+        "Answer": " Answer: b\nExplanation: By adding translation distance dx and dy to its originsl position (x, y) we can obtain a new position (x’, y’).\n"
+    },
+    {
+        "id": 142,
+        "Question": "5.The two-dimensional translation equation in the matrix form is",
+        "Options": [
+            "a) P’=P+T",
+            "b) P’=P-T",
+            "c) P’=P*T",
+            "d) P’=p"
+        ],
+        "Answer": " Answer: a\nExplanation: The 2D translation equation is P’=P+T.\n"
+    },
+    {
+        "id": 143,
+        "Question": "_________ is a rigid body transformation that moves objects without deformation.",
+        "Options": [
+            "a) Rotation",
+            "b) Scaling",
+            "c) Translation",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: Translation a rigid body transformation that moves objects without deformation.\n"
+    },
+    {
+        "id": 144,
+        "Question": "A straight line segment is translated by applying the transformation equation",
+        "Options": [
+            "a) P’=P+T",
+            "b) Dx and Dy",
+            "c) P’=P+P",
+            "d) Only c"
+        ],
+        "Answer": " Answer: a\nExplanation: A straight line segment is translated by applying the transformation equation P’=P+T to each of line endpoints.\n"
+    },
+    {
+        "id": 145,
+        "Question": "Polygons are translated by adding __________ to the coordinate position of each vertex and the current attribute setting.",
+        "Options": [
+            "a) Straight line path",
+            "b) Translation vector",
+            "c) Differences",
+            "d) Only b"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 146,
+        "Question": "To change the position of a circle or ellipse we translate",
+        "Options": [
+            "a) Center coordinates",
+            "b) Center coordinates and redraw the figure in new location",
+            "c) Outline coordinates",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation: By translating the center coordinates and redraw the figure in new location we can change the position of a circle or ellipse.\n"
+    },
+    {
+        "id": 147,
+        "Question": "10.The basic geometric transformations are",
+        "Options": [
+            "a) Translation",
+            "b) Rotation",
+            "c) Scaling",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: These are the basic geometric transformations and other transformations are reflection and shear.\n"
+    },
+    {
+        "id": 148,
+        "Question": "A two dimensional rotation is applied to an object by",
+        "Options": [
+            "a) Repositioning it along with straight line path",
+            "b) Repositioning it along with circular path",
+            "c) Only b",
+            "d) Any of the mentioned"
+        ],
+        "Answer": " Answer: c\nExplanation: A two dimensional rotation is applied to an object by repositioning it along with circular path.\n"
+    },
+    {
+        "id": 149,
+        "Question": "To generate a rotation , we must specify",
+        "Options": [
+            "a) Rotation angle ϴ",
+            "b) Distances dx and dy",
+            "c) Rotation distance",
+            "d) All of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: Generate a rotation, we must specify rotation angle ϴ of the rotation point or pivot point which the object is to be rotated.\n"
+    },
+    {
+        "id": 150,
+        "Question": "Positive values for the rotation angle ϴ defines",
+        "Options": [
+            "a) Counterclockwise rotations about the end points",
+            "b) Counterclockwise translation about the pivot point",
+            "c) Counterclockwise rotations about the pivot point",
+            "d) Negative direction"
+        ],
+        "Answer": " Answer: c\nExplanation: A positive value for the rotation angle ϴ defines counterclockwise rotations about the pivot point.\n"
+    },
+    {
+        "id": 151,
+        "Question": "The rotation axis that is perpendicular to the xy plane and passes through the pivot point is known as",
+        "Options": [
+            "a) Rotation",
+            "b) Translation",
+            "c) Scaling",
+            "d) Shearing"
+        ],
+        "Answer": " Answer: a\nExplanation: The rotation transformation is also described as a rotation about a rotation axis that is perpendicular to the xy plane and passes through the pivot point.\n"
+    },
+    {
+        "id": 152,
+        "Question": "The original coordinates of the point in polor coordinates are",
+        "Options": [
+            "a) X’=r cos (Ф +ϴ) and Y’=r cos (Ф +ϴ)",
+            "b) X’=r cos (Ф +ϴ) and Y’=r sin (Ф +ϴ)",
+            "c) X’=r cos (Ф -ϴ) and Y’=r cos (Ф -ϴ)",
+            "d) X’=r cos (Ф +ϴ) and Y’=r sin (Ф -ϴ)"
+        ],
+        "Answer": " Answer: b\nExplanation: The original coordinates of the point in polor coordinates are X’=r cos (Ф +ϴ) and Y’=r sin (Ф +ϴ).\n"
+    },
+    {
+        "id": 153,
+        "Question": "The two-dimensional rotation equation in the matrix form is",
+        "Options": [
+            "a) P’=P+T",
+            "b) P’=R*P",
+            "c) P’=P*P",
+            "d) P’=R+P"
+        ],
+        "Answer": " Answer: b\nExplanation: The 2D translation equation is P’=R*P.\n"
+    },
+    {
+        "id": 154,
+        "Question": "________ is the rigid body transformation that moves object without deformation.",
+        "Options": [
+            "a) Translation",
+            "b) Scaling",
+            "c) Rotation",
+            "d) Shearing"
+        ],
+        "Answer": " Answer: c\nExplanation: Rotation is the rigid body transformation that moves object without deformation.\n"
+    },
+    {
+        "id": 155,
+        "Question": "An ellipse can also be rotated about its center coordinates by rotating",
+        "Options": [
+            "a) End points",
+            "b) Major and minor axes",
+            "c) Only a",
+            "d) None"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 156,
+        "Question": "The transformation that is used to alter the size of an object is",
+        "Options": [
+            "a) Scaling",
+            "b) Rotation",
+            "c) Translation",
+            "d) Reflection"
+        ],
+        "Answer": " Answer: a\nExplanation: Scaling is used to alter the size of an object.\n"
+    },
+    {
+        "id": 157,
+        "Question": "The two-dimensional scaling equation in the matrix form is",
+        "Options": [
+            "a) P’=P+T",
+            "b) P’=S*P",
+            "c) P’=P*R",
+            "d) P’=R+S"
+        ],
+        "Answer": " Answer: b\nExplanation: The 2d scaling equation is P’=S*P.\n"
+    },
+    {
+        "id": 158,
+        "Question": "Scaling of a polygon is done by computing",
+        "Options": [
+            "a) The product of (x, y) of each vertex",
+            "b) (x, y) of end points",
+            "c) Center coordinates",
+            "d) Only a"
+        ],
+        "Answer": " Answer: d\nExplanation: Scaling of a polygon is done by computing the product of (x, y) of each vertex with scaling factor sx and sy to produce the transformation coordinates ( Xnew, Ynew).\n"
+    },
+    {
+        "id": 159,
+        "Question": "If the scaling factors values sx and sy < 1 then",
+        "Options": [
+            "a) It reduces the size of object",
+            "b) It increases the size of object",
+            "c) It stunts the shape of an object",
+            "d) None"
+        ],
+        "Answer": " Answer: a\nExplanation:  If the scaling factors values sx and sy < 1 then it reduces the size of object.\n"
+    },
+    {
+        "id": 160,
+        "Question": "If the scaling factors values sx and sy are assigned to the same value then",
+        "Options": [
+            "a) Uniform rotation is produced",
+            "b) Uniform scaling is produced",
+            "c) Scaling cannot be done",
+            "d) Scaling can be done or cannot be done"
+        ],
+        "Answer": " Answer: b\nExplanation: When sx and sy are assigned the same value then uniform scaling is produced that maintains relative object proportions.\n"
+    },
+    {
+        "id": 161,
+        "Question": "If the scaling factors values sx and sy are assigned to unequal values then",
+        "Options": [
+            "a) Uniform rotation is produced",
+            "b) Uniform scaling is produced",
+            "c) Differential scaling is produced",
+            "d) Scaling cannot be done"
+        ],
+        "Answer": " Answer: c\nExplanation: Unequal values for sx and sy results in differential scaling that is often used in design applications.\n"
+    },
+    {
+        "id": 162,
+        "Question": "The objects transformed using the equation  P’=S*P should be",
+        "Options": [
+            "a) Scaled",
+            "b) Repositioned",
+            "c) Both a and b",
+            "d) Neither a nor b"
+        ],
+        "Answer": " Answer: c\nExplanation: The objects transformed using the equation P’=S*P should be scaled and repositioned.\n"
+    },
+    {
+        "id": 163,
+        "Question": "We control the location of a scaled object by choosing the position is known as",
+        "Options": [
+            "a) Pivot point",
+            "b) Fixed point",
+            "c) Differential scaling",
+            "d) Uniform scaling"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 164,
+        "Question": "If the value of sx=1  and sy=1 then",
+        "Options": [
+            "a) Reduce the size of object",
+            "b) Distort the picture",
+            "c) Produce an enlargement",
+            "d) No change in the size of an object"
+        ],
+        "Answer": " Answer: d\nExplanation: sx=sx=1 does not change the size of the object.\n"
+    },
+    {
+        "id": 165,
+        "Question": "The polygons are scaled by applying the following transformation.",
+        "Options": [
+            "a) X’=x * Sx + Xf(1-Sx) and Y’=y * Sy + Yf(1-Sy)",
+            "b) X’=x * Sx + Xf(1+Sx) and Y’=y * Sy + Yf(1+Sy)",
+            "c) X’=x * Sx + Xf(1-Sx) and Y’=y * Sy – Yf(1-Sy)",
+            "d) X’=x * Sx * Xf(1-Sx) and Y’=y * Sy * Yf(1-Sy)"
+        ],
+        "Answer": " Answer: a\nExplanation: The polygons are scaled by applying the transformation X’=x * Sx + Xf(1-Sx) and Y’=y * Sy + Yf(1-Sy).\n"
+    },
+    {
+        "id": 166,
+        "Question": "1.The matrix representation for translation in homogeneous coordinates is",
+        "Options": [
+            "a) P’=T+P",
+            "b) P’=S*P",
+            "c) P’=R*P",
+            "d) P’=T*P"
+        ],
+        "Answer": " Answer: d\nExplanation: The matrix representation for translation is P’=T*P.\n"
+    },
+    {
+        "id": 167,
+        "Question": "The matrix representation for scaling in homogeneous coordinates is",
+        "Options": [
+            "a) P’=S*P",
+            "b) P’=R*P",
+            "c) P’=dx+dy",
+            "d) P’=S*S"
+        ],
+        "Answer": " Answer: a\nExplanation: The matrix representation for scaling is P’=S*P.\n"
+    },
+    {
+        "id": 168,
+        "Question": "The matrix representation for rotation in homogeneous coordinates is",
+        "Options": [
+            "a) P’=T+P",
+            "b) P’=S*P",
+            "c) P’=R*P",
+            "d) P’=dx+dy"
+        ],
+        "Answer": " Answer: c\nExplanation: The matrix representation for rotation is P’=R*P.\n"
+    },
+    {
+        "id": 169,
+        "Question": "What is the use of homogeneous coordinates and matrix representation?",
+        "Options": [
+            "a) To treat all 3 transformations in a consistent way",
+            "b) To scale",
+            "c) To rotate",
+            "d) To shear the object"
+        ],
+        "Answer": " Answer: a\nExplanation: To treat all 3 transformations in a consistent way, we use homogeneous coordinates and matrix representation.\n"
+    },
+    {
+        "id": 170,
+        "Question": "If point are expressed in  homogeneous coordinates then the pair of (x, y) is represented as",
+        "Options": [
+            "a) (x’, y’, z’)",
+            "b) (x, y, z)",
+            "c) (x’, y’, w)",
+            "d) (x’, y’, w)"
+        ],
+        "Answer": " Answer: d\nExplanation:  If point are expressed in homogeneous coordinates then we add 3rd coordinate to the point (x, y), that is represented as (x’, y’, w).\n"
+    },
+    {
+        "id": 171,
+        "Question": "For 2D transformation the value of third coordinate i.e. w=?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) -1",
+            "d) Any value"
+        ],
+        "Answer": " Answer: a\nExplanation: For 2D we have (x, y, 1) i.e. w=1.\n"
+    },
+    {
+        "id": 172,
+        "Question": "We can combine the multiplicative and translational terms for 2D into a single matrix representation by expanding",
+        "Options": [
+            "a) 2 by 2 matrix into 4*4 matrix",
+            "b) 2 by 2 matrix into 3*3",
+            "c) 3 by 3 matrix into 2 by 2",
+            "d) Only c"
+        ],
+        "Answer": " Answer: b\nExplanation: We can combine the multiplicative and translational terms for 2D into a single matrix representation by expanding 2 by 2 matrix representation into 3 by 3.\n"
+    },
+    {
+        "id": 173,
+        "Question": "The general homogeneous coordinate representation can also be written as",
+        "Options": [
+            "a) (h.x, h.y, h.z)",
+            "b) (h.x, h.y, h)",
+            "c) (x, y, h.z)",
+            "d) (x,y,z)"
+        ],
+        "Answer": " Answer: b\nExplanation: The general homogeneous coordinate representation can also be written as (h.x, h.y, h).\n"
+    },
+    {
+        "id": 174,
+        "Question": " Two successive translations are___________________",
+        "Options": [
+            "a) Multiplicative",
+            "b) Inverse",
+            "c) Subtractive",
+            "d) Additive"
+        ],
+        "Answer": "Answer: d\nExplanation: Successive translations are additive.\nP’= T(tx1, ty1) .[T(tx2, ty2)] P\n= {T(tx1, ty1). T(tx2, ty2)}.P\nOr T(tx1, ty1). T(tx2, ty2) = T(tx1+tx2 , ty1 + ty2)."
+    },
+    {
+        "id": 175,
+        "Question": " General pivot point rotation can be expressed as _____________________",
+        "Options": [
+            "a) T(zr,yr).R(θ).T(-zr,-yr) = R(xr,yr,θ)",
+            "b) T(xr,yr).R(θ).T(-xr,-yr) = R(xr,yr,θ)",
+            "c) T(xr,yr).R(θ).T(-xr,-yr) = R(zr,yr,θ)",
+            "d) T(xr,yr).R(θ).T(-xr,-yr) = R(xr,yr,Q)"
+        ],
+        "Answer": "Answer: b\nExplanation: According to commutative property, the order does not matter. Same as in the case of successive translations. Hence we can say that two successive translations are commutative."
+    },
+    {
+        "id": 176,
+        "Question": "Which of the following is NOT correct? (A, B and C are matrices)",
+        "Options": [
+            "a) A.B = B.A",
+            "b) A.B.C = (A.B).C = A.(B.C)",
+            "c) C(A+B) = C.A + C.B",
+            "d) 1 A = A 1"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the first two parameters are in 2D, hence only ‘x’ and ‘y’ can be variable along with ‘θ’. In other options, there is one more parameter ‘z’."
+    },
+    {
+        "id": 177,
+        "Question": "Reflection about the line y=0, the axis, is accomplished with the transformation matrix with how many elements as ‘0’?",
+        "Options": [
+            "a) 8",
+            "b) 9",
+            "c) 4",
+            "d) 6"
+        ],
+        "Answer": "Answer: a\nExplanation: Matrix multiplication does not commute. We cannot switch the order of the factors and expect to end up with the same result. Hence, A.B ≠ B.A. "
+    },
+    {
+        "id": 178,
+        "Question": "Which transformation distorts the shape of an object such that the transformed shape appears as if the object were composed of internal layers that had been caused to slide over each other?",
+        "Options": [
+            "a) Rotation",
+            "b) Scaling up",
+            "c) Scaling down",
+            "d) Shearing"
+        ],
+        "Answer": "Answer: d\nExplanation: The matrix used for reflection about y=0 is an identity matrix with 6 ‘0’s and two ‘1’s and one element as ‘-1’."
+    },
+    {
+        "id": 179,
+        "Question": "Transpose of a column matrix is________________",
+        "Options": [
+            "a) Zero matrix",
+            "b) Identity matrix",
+            "c) Row matrix",
+            "d) Diagonal matrix"
+        ],
+        "Answer": "Answer: d\nExplanation: Two common shearing transformations are the type of transformation that shift coordinate x values coordinate y values. In shear transformation, the transformed shape appears as if the object were composed of internal layers that had been caused to slide over each other."
+    },
+    {
+        "id": 180,
+        "Question": "Which one of the following is the correct notation of a matrix with ‘m’ rows and ’n’ columns?",
+        "Options": [
+            "a) m + n",
+            "b) m – n",
+            "c) m x n",
+            "d) m/n"
+        ],
+        "Answer": "Answer: c\nExplanation: Transpose of a matrix is a matrix which is made by interchanging the rows and columns of the original matrix. Hence the transpose of column matrix is row matrix and vice versa. "
+    },
+    {
+        "id": 181,
+        "Question": "How many minimum numbers of zeros are there in ‘3 x 3’ triangular matrix?",
+        "Options": [
+            "a) 4",
+            "b) 3",
+            "c) 5",
+            "d) 6"
+        ],
+        "Answer": "Answer: a\nExplanation: As we know that, matrix transformations are not commutative and the order of transformation matters. So it will affect the position of the object."
+    },
+    {
+        "id": 182,
+        "Question": "In a rotation, by how much angle is the object rotated?",
+        "Options": [
+            "a) 45 degree",
+            "b) 90 degree",
+            "c) 180 degree",
+            "d) 360 degree"
+        ],
+        "Answer": "Answer: c\nExplanation: Reflection is the mirror image of the original object. It rotates the object 1890 degrees. The left side image is formed into right side and vice versa."
+    },
+    {
+        "id": 183,
+        "Question": "If two pure reflections about a line passing through the origin are applied successively the result is ___________________",
+        "Options": [
+            "a) Pure rotation",
+            "b) Quarter rotation",
+            "c) Half rotation",
+            "d) True reflection"
+        ],
+        "Answer": "Answer: b\nExplanation: Reflection is a special case of rotation of 180° about a line in xy plane passing through the origin."
+    },
+    {
+        "id": 184,
+        "Question": "What is the determinant of the pure reflection matrix?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) -1",
+            "d) 2"
+        ],
+        "Answer": "Answer: a\nExplanation: When we apply reflection one time, it rotates the image by 180 degrees. So, if we repeat it 2 times the total reflection will be of 360 degrees. "
+    },
+    {
+        "id": 185,
+        "Question": "Which of the following represents shearing?",
+        "Options": [
+            "a) (x, y) → (x+a, y+b)",
+            "b) (x, y) → (ax, by)",
+            "c) (x, y) → (x cos(θ)+y sin(θ), -x sin(θ)+y cos(θ))",
+            "d) (x, y) → (x+ay, y+bx)"
+        ],
+        "Answer": "Answer: c\nExplanation: The pure reflection matrix is:\n[T] =   | 1  0 |\n         | 0  -1|\nSo, the determinant will be = (1) (-1) – (0) (0) = 0."
+    },
+    {
+        "id": 186,
+        "Question": "If a ‘3 x 3’ matrix shears in X direction, how many elements of it are ‘1’?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 6",
+            "d) 5"
+        ],
+        "Answer": "Answer: b\nExplanation: In the image formed by reflection through a plane mirror, the right is turned into left and left is turned into right, hence changing the orientation. So the image formed by reflection through a plane mirror is not of the same orientation."
+    },
+    {
+        "id": 187,
+        "Question": " If a ‘3 x 3’ matrix shears in Y direction, how many elements of it are ‘0’?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 6",
+            "d) 5"
+        ],
+        "Answer": "Answer: d\nExplanation: The first one represent translation, the second one represents scaling, third one rotation and the last one is representing shearing."
+    },
+    {
+        "id": 188,
+        "Question": "Shearing is also termed as ________________",
+        "Options": [
+            "a) Selecting",
+            "b) Sorting",
+            "c) Scaling",
+            "d) Skewing"
+        ],
+        "Answer": "Answer: b\nExplanation: The ‘3 x 3’ matrix which shears in ‘x’ direction will have total 9 elements, 3 of which are ‘1’, 5 zeroes and 1 variable in an upper triangle which is the scaling factor."
+    },
+    {
+        "id": 189,
+        "Question": "Which of this is compulsory for 2D reflection.",
+        "Options": [
+            "a) Reflection plane.",
+            "b) Origin",
+            "c) Reflection axis",
+            "d) Co-ordinate axis."
+        ],
+        "Answer": "Answer: d\nExplanation: The ‘3 x 3’ matrix which shears in ‘y’ direction will have total 9 elements, 3 of which are ‘1’, 5 zeroes and 1 variable in a lower triangle which is the scaling factor."
+    },
+    {
+        "id": 190,
+        "Question": "A ___________ is a system which uses one or more numbers, or coordinates, to uniquely determine the position of a point.",
+        "Options": [
+            "a) co-ordinate system",
+            "b) binary-system",
+            "c) vector-system",
+            "d) euclid geometry"
+        ],
+        "Answer": "Answer: a\nExplanation: A coordinate system is a system which uses one or more numbers, or coordinates, to uniquely determine the position of a point. It also determines the other geometric elements on a manifold on Euclid space."
+    },
+    {
+        "id": 191,
+        "Question": "Which of the co-ordinate represents X co-ordinate in (6,8,9)?",
+        "Options": [
+            "a) 6",
+            "b) 8",
+            "c) 9",
+            "d) 0"
+        ],
+        "Answer": "Answer: a\nExplanation: In a co-ordinate system, any position of a point is denoted as (x,y,z). Where x denotes the perpendicular distance of the point from the x-axis. Hence x is the X co-ordinate."
+    },
+    {
+        "id": 192,
+        "Question": "Which of the co-ordinate represents Y co-ordinate in (6,8,9)?",
+        "Options": [
+            "a) 6",
+            "b) 8",
+            "c) 9",
+            "d) 0"
+        ],
+        "Answer": "Answer: b\nExplanation: In a co-ordinate system, any position of a point is denoted as (x,y,z). Where y denotes the perpendicular distance of the point from the y-axis. Hence y is the Y co-ordinate."
+    },
+    {
+        "id": 193,
+        "Question": "Which of the co-ordinate represents Z co-ordinate in (6,8,9)?",
+        "Options": [
+            "a) 6",
+            "b) 8",
+            "c) 9",
+            "d) 0"
+        ],
+        "Answer": "Answer: c\nExplanation: In a co-ordinate system, any position of a point is denoted as (x,y,z). Where z denotes the perpendicular distance of the point from the z-axis. Hence z is the Z co-ordinate."
+    },
+    {
+        "id": 194,
+        "Question": "_______________ and ___________ are two types of transformations.",
+        "Options": [
+            "a) quadratic, cubic",
+            "b) variable, affine",
+            "c) linear, quadratic",
+            "d) linear, affine"
+        ],
+        "Answer": "Answer: d\nExplanation: Linear and affine transformations are two different types of transformations of matrices. In linear, points are in vector space but in affine, points are in affine space."
+    },
+    {
+        "id": 195,
+        "Question": "Which of the following properties are preserved in affine transformation?",
+        "Options": [
+            "a) co-linearity",
+            "b) convexity",
+            "c) concavity",
+            "d) parallelism"
+        ],
+        "Answer": "Answer: b\nExplanation: Adding a vector to a point gives a point, but Subtracting points gives a vector.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/12/computer-graphics-interview-questions-answers-q6.png\" alt=\"Find the points to vector from the given diagram\" width=\"85\" height=\"35\" class=\"alignnone size-full wp-image-232582\" />"
+    },
+    {
+        "id": 196,
+        "Question": "Which co-ordinates allow common vector operations such as translation, rotation, scaling and perspective projection to be represented as a matrix by which the vector is multiplied.",
+        "Options": [
+            "a) vector co-ordinates",
+            "b) 3d co-ordinates",
+            "c) affine co-ordinates",
+            "d) homogenous co-ordinates"
+        ],
+        "Answer": "Answer: c\nExplanation: The col-linearity, convexity and parallelism of bunch of points are conserved in affine transformations but any 3 or more points which are concave can turn parallel, so we can say concavity is not conserved. "
+    },
+    {
+        "id": 197,
+        "Question": "For orthonormal basis, which of these is correct?",
+        "Options": [
+            "a) M-1 = Mt",
+            "b) M-1 = Mt",
+            "c) M = M",
+            "d) Mt = I"
+        ],
+        "Answer": "Answer: a\nExplanation: The ratio of length gets preserved, for example, distinct collinear points x1,x2,x3. The ratio of x1x2 and x2x3 is same as that of f(x1)f(x2) and f(x2)f(x3)."
+    },
+    {
+        "id": 198,
+        "Question": "A view is selected by specifying a sub-area of the __________ picture area.",
+        "Options": [
+            "a) half",
+            "b) total",
+            "c) full",
+            "d) quarter"
+        ],
+        "Answer": "Answer: b\nExplanation: We consider a formal mechanism of view, that is, which part of the picture is to be displayed. That’s why we select a view by specifying a sub-area of the total picture area."
+    },
+    {
+        "id": 199,
+        "Question": "Any convenient co-ordinate system or Cartesian co-ordinates which can be used to define the picture is called ___________",
+        "Options": [
+            "a) spherical co-ordinates",
+            "b) vector co-ordinates",
+            "c) viewport co-ordinates",
+            "d) world co-ordinates"
+        ],
+        "Answer": "Answer: a\nExplanation: When we display a scene, only those objects which have a particular window are displayed. So for that mechanism to work, co-ordinates are made to range themselves according to the screen resolution.  "
+    },
+    {
+        "id": 200,
+        "Question": "Which of the following co-ordinates are NOT used in 2d viewing transformation?",
+        "Options": [
+            "a) modelling co-ordinates",
+            "b) viewing co-ordinates",
+            "c) vector co-ordinates",
+            "d) device co-ordinates"
+        ],
+        "Answer": "Answer: d\nExplanation: World Coordinate Systems (WCS) are the type of coordinate systems which describe the physical coordinates associated with a data array, such as sky coordinates. It is also used to denote wavelengths of a spectrum and to draw astronomical images."
+    },
+    {
+        "id": 201,
+        "Question": " The process of elimination of parts of a scene outside a window or a viewport is called _____________",
+        "Options": [
+            "a) cutting",
+            "b) plucking",
+            "c) clipping",
+            "d) editing"
+        ],
+        "Answer": "Answer: c\nExplanation: Vector co-ordinates are used to denote vectors which are physical quantities having magnitude as well as direction. In 2d viewing transformations- Modelling co-ordinates, viewing co-ordinates, Normalised co-ordinates and Device co-ordinates are used."
+    },
+    {
+        "id": 202,
+        "Question": "For a 2d transformation viewing, in how many ways a clipping algorithm can be applied?",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 1",
+            "d) 5"
+        ],
+        "Answer": "Answer: c\nExplanation: Clipping is the process of cutting out extra material. In the context of computer graphics, clipping is a method to selectively enable or disable rendering operations within a defined region of interest."
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following is NOT a type of clipping algorithm used on the raster system?",
+        "Options": [
+            "a) line clipping",
+            "b) point clipping",
+            "c) area clipping",
+            "d) solid clipping"
+        ],
+        "Answer": "Answer: b\nExplanation: Clipping algorithm can be applied in two ways for 2d transformation viewing. Two ways in which clipping algorithms can be applied are- 1) world co-ordinate clipping.  2) viewport clipping."
+    },
+    {
+        "id": 204,
+        "Question": "For a point to be clipped, which of the following conditions must be satisfied by the point?",
+        "Options": [
+            "a) xwmin < x < xwmax",
+            "b) xwmin = x = xwmax",
+            "c) xwmin > x > xwmax",
+            "d) ywmin = y = ywmax"
+        ],
+        "Answer": "Answer: d\nExplanation: Since clipping is done in 2 dimensional viewing and solid is a 3 dimensional object so clipping algorithm can’t be applied on a solid object. Instead of solid clipping, there is another type of clipping algorithm known as curve clipping.  "
+    },
+    {
+        "id": 205,
+        "Question": "For a point to be clipped, which of the following conditions must be satisfied by the point?",
+        "Options": [
+            "a) ywmin < y < ywmax",
+            "b) ywmin > y > ywmax",
+            "c) ywmin = y = ywmax",
+            "d) xwmin < x < xwmax"
+        ],
+        "Answer": "Answer: c\nExplanation: A point P(x,y) is NOT clipped if x is more than the minimum value of x and less than the maximum value of x. Mathematically, it can be written as  “xwmin  ≤ x ≤ xwmax“. "
+    },
+    {
+        "id": 206,
+        "Question": "Which type of clipping is used to clip character strings?",
+        "Options": [
+            "a) text clipping",
+            "b) line clipping",
+            "c) sentence clipping",
+            "d) word clipping"
+        ],
+        "Answer": "Answer: b\nExplanation: A point P(x,y) is NOT clipped if y is more than the minimum value of y and less than the maximum value of y. Mathematically, it can be written as  “ywmin ≤ y ≤ ywmax“. "
+    },
+    {
+        "id": 207,
+        "Question": "The object space or the space in which the application model is defined is called ____________",
+        "Options": [
+            "a) World co-ordinate system",
+            "b) Screen co-ordinate system",
+            "c) World window",
+            "d) Interface window"
+        ],
+        "Answer": "Answer: a\nExplanation: World Coordinate System also called as WCS is any coordinate systems that describe the physical coordinates associated with a data array. They also used for an astronomical image, or for determining the wavelength scale for a spectrum."
+    },
+    {
+        "id": 208,
+        "Question": "What is the name of the space in which the image is displayed?",
+        "Options": [
+            "a) World co-ordinate system",
+            "b) Screen co-ordinate system",
+            "c) World window",
+            "d) Interface window"
+        ],
+        "Answer": "Answer: b\nExplanation:  The coordinate system of the screen is a Cartesian coordinate system. The origin (0,0) is at the top left of the screen. Point is denoted by (x,y), where x is x co-ordinate and y is y co-ordinate."
+    },
+    {
+        "id": 209,
+        "Question": "What is the rectangle in the world defining the region that is to be displayed?",
+        "Options": [
+            "a) World co-ordinate system",
+            "b) Screen co-ordinate system",
+            "c) World window",
+            "d) Interface window"
+        ],
+        "Answer": "Answer: c\nExplanation: The world window specifies which part of the window needs to be drawn. It also defines which part of the window should be drawn and which part outside the window should not be drawn and should be clipped away."
+    },
+    {
+        "id": 210,
+        "Question": "The window opened on the raster graphics screen in which the image will be displayed is called _____________",
+        "Options": [
+            "a) World co-ordinate system",
+            "b) Screen co-ordinate system",
+            "c) World window",
+            "d) Interface window"
+        ],
+        "Answer": "Answer: d\nExplanation: In common words, it is termed as a Graphic user interface. It allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation."
+    },
+    {
+        "id": 211,
+        "Question": "The scale factor of viewport transformation for x co-ordinate is ________",
+        "Options": [
+            "a) Sx = (svmax – svmin)/ (swmax – swmin)",
+            "b) Sx = (svmax – svmin)/ (swmax + swmin)",
+            "c) Sx = (svmin – svmax)/ (swmax – swmin)",
+            "d) Sx = (svmax + svmin)/ (swmax – swmin)"
+        ],
+        "Answer": "Answer: a\nExplanation: The viewing transformation is the operation of computer graphics in which the maps are the perspective view of an object in world coordinates into a physical device’s display space."
+    },
+    {
+        "id": 212,
+        "Question": " The scale factor of viewport transformation for x co-ordinate is ________",
+        "Options": [
+            "a) Sy = (svmax + svmin)/ (swmax + swmin)",
+            "b) Sy = (svmax – svmin)/ (swmax + swmin)",
+            "c) Sy = (svmax – svmin)/ (swmax – swmin)",
+            "d) Sy = (svmax + svmin)/ (swmax – swmin)"
+        ],
+        "Answer": "Answer: a\nExplanation: The mapping or transformation involves developing formulas that start with a point in the world window, say (xw, yw). The formula is used to produce a corresponding point in viewport coordinates, say (xv, yv). So after keeping it proportional in ‘x’ co-ordinate, we get, (svmax– svmin)/ (swmax – swmin)."
+    },
+    {
+        "id": 213,
+        "Question": "Drawing of number of copies of the same image in rows and columns across the interface window so that they cover the entire window is called ____________",
+        "Options": [
+            "a) Roaming",
+            "b) Panning",
+            "c) Zooming",
+            "d) Tiling"
+        ],
+        "Answer": "Answer: c\nExplanation: The mapping or transformation involves developing formulas that start with a point in the world window, say (xw, yw). The formula is used to produce a corresponding point in viewport coordinates, say (xv, yv). So after keeping it proportional in ‘y’ co-ordinate, we get, (svmax – svmin)/ (swmax – swmin)."
+    },
+    {
+        "id": 214,
+        "Question": "By changing the dimensions of the viewport, the _________ and ___________ of the objects being displayed can be manipulated.",
+        "Options": [
+            "a) Number of pixels and image quality",
+            "b) X co-ordinate and Y co-ordinate",
+            "c) Size and proportions",
+            "d) All of these"
+        ],
+        "Answer": "Answer: b\nExplanation: The technique in which users can change the size of the area to be viewed in order to see more detail or less detail is called ‘Zooming’. Panning means sliding the camera."
+    },
+    {
+        "id": 215,
+        "Question": "What is the primary use of clipping in computer graphics?",
+        "Options": [
+            "a) adding graphics",
+            "b) removing objects and lines",
+            "c) zooming",
+            "d) copying"
+        ],
+        "Answer": "Answer: b\nExplanation: The primary use of clipping in computer graphics is to remove objects, lines, or line segments that are outside the viewing pane. "
+    },
+    {
+        "id": 216,
+        "Question": "Which vertex of the polygon is clipped first in polygon clipping?",
+        "Options": [
+            "a) top right",
+            "b) bottom right",
+            "c) bottom left",
+            "d) top left"
+        ],
+        "Answer": "Answer: a\nExplanation: A polygon can also be clipped by specifying the clipping window. Sutherland Hodgeman polygon clipping algorithm is used for polygon clipping."
+    },
+    {
+        "id": 217,
+        "Question": "How many methods of text clipping are there?",
+        "Options": [
+            "a) 5",
+            "b) 4",
+            "c) 3",
+            "d) 2"
+        ],
+        "Answer": "Answer:  d\nExplanation: In polygon clipping, first the polygon is clipped against the left edge of the polygon window to get new vertices of the polygon. So, it is the top left which is clipped first."
+    },
+    {
+        "id": 218,
+        "Question": "A bitmap is collection of ___________________ that describes an image.",
+        "Options": [
+            "a) bits",
+            "b) colors",
+            "c) algorithms",
+            "d) pixels"
+        ],
+        "Answer": "Answer: c\nExplanation: There are three methods for text clipping which are −\n1) All or none string clipping      2) All or none character clipping    3) Text clipping."
+    },
+    {
+        "id": 219,
+        "Question": "In line clipping, the portion of line which is _____________ of window is cut and the portion that is _____________ the window is kept.",
+        "Options": [
+            "a) outside, inside",
+            "b) inside, outside",
+            "c) exact copy, different",
+            "d) different, an exact copy"
+        ],
+        "Answer": "Answer: d\nExplanation: A bitmap is a collection of pixels that describe an image. It is a type of computer graphics that the computer uses to store and display pictures."
+    },
+    {
+        "id": 220,
+        "Question": "‘Skala’ is an example of which type of clipping?",
+        "Options": [
+            "a) curve clipping",
+            "b) point clipping",
+            "c)  polygon clipping",
+            "d) line clipping"
+        ],
+        "Answer": "Answer: b\nExplanation: We can’t resize the bitmap image. When the bitmap image is resized, the image pixels get distorted. It is one of the main disadvantages of the bitmap."
+    },
+    {
+        "id": 221,
+        "Question": "‘Vatti’ clipping algorithm is used in _________________",
+        "Options": [
+            "a) curve clipping",
+            "b) point clipping",
+            "c)  polygon clipping",
+            "d) line clipping"
+        ],
+        "Answer": "Answer: a\nExplanation: Line clipping follows the same algorithm that is in the case of point clipping. So, in line clipping also, we will cut the portion of the line which is outside of the window and keep only the portion that is inside the window."
+    },
+    {
+        "id": 222,
+        "Question": "The process of removal of hidden surfaces is termed as _______________",
+        "Options": [
+            "a) clipping",
+            "b) copying",
+            "c) culling",
+            "d) shorting"
+        ],
+        "Answer": "Answer: d\nExplanation: Skala is a type of clipping operation which can be used for a line or line-segment clipping against a rectangular window, as well as against a convex polygon. Its algorithm is based on homogenous co-ordinates and duality. "
+    },
+    {
+        "id": 223,
+        "Question": "Cohen-Sutherland clipping is an example of _________________",
+        "Options": [
+            "a) polygon clipping",
+            "b) text clipping",
+            "c) line clipping",
+            "d) curve clipping"
+        ],
+        "Answer": "Answer: c\nExplanation: It is a type of algorithm which is used for line clipping or in other words it is line clipping algorithm. Other examples of line clipping algorithms are a Liang-Barsky algorithm and Cyrus-Beck algorithm."
+    },
+    {
+        "id": 224,
+        "Question": "The Cohen-Sutherland algorithm divides the region into _____ number of spaces.",
+        "Options": [
+            "a) 8",
+            "b) 6",
+            "c) 7",
+            "d) 9"
+        ],
+        "Answer": "Answer: d\nExplanation: The Cohen-Sutherland algorithm divides a two-dimensional space into 9 regions and then efficiently determines the lines and portions of lines that are visible. The portions are visible in the central region of interest."
+    },
+    {
+        "id": 225,
+        "Question": "What is the name of the small integer which holds a bit for the result of every plane test?",
+        "Options": [
+            "a) setcode",
+            "b) outcode",
+            "c) incode",
+            "d) bitcode"
+        ],
+        "Answer": "Answer:  b\nExplanation: A small integer holding a bit for the result of every plane test failed in clipping is termed as outcode. Primitives may be trivially rejected if the bitwise of all its vertices outcodes is non zero."
+    },
+    {
+        "id": 226,
+        "Question": "An outcode can have ____ bits for two-dimensional clipping and ____ bits for three-dimensional clipping.",
+        "Options": [
+            "a) 4,6",
+            "b) 6,8",
+            "c) 2,4",
+            "d) 1,3"
+        ],
+        "Answer": "Answer: a\nExplanation: The outcode will have 4 bits for two-dimensional clipping, or 6 bits in the three-dimensional case. The first bit is set to 1 if the point is above the viewport. The bits in the 2D outcode represent: top, bottom, right, left."
+    },
+    {
+        "id": 227,
+        "Question": "The centre region of the screen and the window can be represented as________",
+        "Options": [
+            "a) 0000",
+            "b) 1111",
+            "c) 0110",
+            "d) 1001"
+        ],
+        "Answer": "Answer: a\nExplanation: In any co-ordinate system, the origin is the centre of the various axis and is represented as (0,0). So in this case also the origin, or the centre of the window, will be represented as 0000."
+    },
+    {
+        "id": 228,
+        "Question": "If both codes are 0000, (bitwise OR of the codes yields 0000) line lies __________________ the window.",
+        "Options": [
+            "a) completely outside",
+            "b) half inside half outside",
+            "c) completely inside",
+            "d) can’t say anything"
+        ],
+        "Answer": "Answer: a\nExplanation: The Cohen–Sutherland algorithm can be used only on a rectangular clip window. For other convex polygon clipping windows, use the Cyrus–Beck algorithm."
+    },
+    {
+        "id": 229,
+        "Question": "The 4-bit code of top-left region of the window is ____________",
+        "Options": [
+            "a) 1001",
+            "b) 1100",
+            "c) 0101",
+            "d) 1010"
+        ],
+        "Answer": "Answer: c\nExplanation: To perform the trivial acceptance and rejection tests, we extend the edges of the window to divide the plane of the window into the nine regions. If both codes are 0000 and 1111, (bitwise OR of the codes yields 0000) line lies completely inside the window and outside the window respectively."
+    },
+    {
+        "id": 230,
+        "Question": "The 4-bit code of bottom-right region of the window is ____________",
+        "Options": [
+            "a) 1001",
+            "b) 0101",
+            "c) 1010",
+            "d) 0110"
+        ],
+        "Answer": "Answer: a\nExplanation: The sequence for reading the codes’ bits is LRBT (Left, Right, Bottom, Top). Since it is in the top-left corner of the window, hence its code will be 1001."
+    },
+    {
+        "id": 231,
+        "Question": "The logical ______ of the endpoint codes determines if the line is completely inside the window.",
+        "Options": [
+            "a) AND",
+            "b) OR",
+            "c) NOT",
+            "d) NOR"
+        ],
+        "Answer": "Answer: d\nExplanation: The sequence for reading the codes’ bits is LRBT (Left, Right, Bottom, Top). Since it is in the bottom-right corner of the window, hence its code will be 0110. "
+    },
+    {
+        "id": 232,
+        "Question": "Liang–Barsky algorithm is a __________ clipping algorithm.",
+        "Options": [
+            "a) circle",
+            "b) text",
+            "c) line",
+            "d) pixel"
+        ],
+        "Answer": "Answer: c\nExplanation: Liang–Barsky algorithm is a line clipping algorithm. The Liang–Barsky algorithm uses the parametric equation of a line for clipping operations."
+    },
+    {
+        "id": 233,
+        "Question": "The ideas of the Liang-Barsky algorithm are the same with which algorithm?",
+        "Options": [
+            "a) Cyrus Beck algorithm",
+            "b) Liam-Chopsky algorithm",
+            "c) Cohen Sutherland algorithm",
+            "d) All have the same"
+        ],
+        "Answer": "Answer:  a\nExplanation: The ideas for clipping line of Liang-Barsky and Cyrus-Beck are the same. The only difference is Liang-Barsky algorithm has been optimized for an upright rectangular clip window."
+    },
+    {
+        "id": 234,
+        "Question": "This algorithm uses the ____________ equations for a line and solves four inequalities.",
+        "Options": [
+            "a) linear",
+            "b) quadratic",
+            "c) cubic",
+            "d) parametric"
+        ],
+        "Answer": "Answer: a\nExplanation: Liang Barsky algorithm can be used for 1-D lines, 2-D lines, and 3-D line clipping. This algorithm can be used for line clipping of 4-D lines too."
+    },
+    {
+        "id": 235,
+        "Question": "When the line is parallel to the boundaries then what is the value of pk?",
+        "Options": [
+            "a) pk < 0",
+            "b) pk > 0",
+            "c) pk = 0",
+            "d) pk = 1"
+        ],
+        "Answer": "Answer: d\nExplanation: This algorithm uses the parametric equations for a line and solves four inequalities to find the range of the parameter for which the line is in the viewport."
+    },
+    {
+        "id": 236,
+        "Question": "Which type of arithmetic is used in Liang Barsky algorithm?",
+        "Options": [
+            "a) simple arithmetic operations",
+            "b) floating point arithmetic",
+            "c) fixed point arithmetic",
+            "d) logarithmic operations"
+        ],
+        "Answer": "Answer: a\nExplanation: Liang–Barsky clipping algorithm does as much testing as possible before computing line intersections, hence it is much more efficient than others."
+    },
+    {
+        "id": 237,
+        "Question": "When pk < 0, then the line is ___________",
+        "Options": [
+            "a) parallel to the boundaries",
+            "b) exceeding the boundaries",
+            "c) bounded inside the boundaries",
+            "d) can’t say"
+        ],
+        "Answer": "Answer: c\nExplanation: When pk < 0 line starts exceeding the boundary while if pk > 0 line is bounded inside the boundary. When the line is parallel then pk = 0."
+    },
+    {
+        "id": 238,
+        "Question": "How many inequalities are solved in this algorithm?",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 1",
+            "d) 4"
+        ],
+        "Answer": "Answer:b\nExplanation: Liang and Barsky have created an algorithm that uses floating-point arithmetic but finds the appropriate endpoints with at most four computations with use of parametric equations."
+    },
+    {
+        "id": 239,
+        "Question": "What is the relative speed improvement over Cohen-Sutherland algorithm for 2-D lines?",
+        "Options": [
+            "a) 40%",
+            "b) 50%",
+            "c) 70%",
+            "d) 36%"
+        ],
+        "Answer": "Answer: b\nExplanation: When pk < 0 line starts exceeding the boundary while if pk > 0 line is bounded inside the boundary. When the line is parallel then pk = 0."
+    },
+    {
+        "id": 240,
+        "Question": "Cohen Sutherland clipping algorithm computes _______ number of intersections than NLN line clipping.",
+        "Options": [
+            "a) more",
+            "b) less",
+            "c) same",
+            "d) can’t be predicted"
+        ],
+        "Answer": "Answer: a\nExplanation: One of the problems common to both the Cohen-Sutherland and the Liang-Barsky algorithm is that more intersections are computed than necessary."
+    },
+    {
+        "id": 241,
+        "Question": "Liang-Barsky clipping algorithm computes _______ number of intersections than NLN line clipping.",
+        "Options": [
+            "a) more",
+            "b) less",
+            "c) same",
+            "d) can’t be predicted"
+        ],
+        "Answer": "Answer: a\nExplanation: One of the problems common to both the Cohen-Sutherland and the Liang-Barsky algorithm is that more intersections are computed than necessary."
+    },
+    {
+        "id": 242,
+        "Question": "What is full form of NLN line clipping algorithm?",
+        "Options": [
+            "a) Nicholl-Liang-Nicholl algorithm",
+            "b) Nicholai-Liang-Nicholl algorithm",
+            "c) Nicholai-Lee-Nicholl algorithm",
+            "d) Nicholl-Lee-Nicholl algorithm"
+        ],
+        "Answer": "Answer: d\nExplanation: The full form of NLN clipping algorithm is Nicholl-Lee-Nicholl algorithm. It is a fast method of clipping."
+    },
+    {
+        "id": 243,
+        "Question": "The area around the clipping window is divided into a number of different ______________",
+        "Options": [
+            "a) pixels",
+            "b) squares",
+            "c) areas",
+            "d) lines"
+        ],
+        "Answer": "Answer: b\nExplanation: The Nicholl–Lee–Nicholl algorithm is a fast line clipping algorithm that reduces the chances of clipping a single line segment multiple times."
+    },
+    {
+        "id": 244,
+        "Question": "In how many areas the initial point should be present?",
+        "Options": [
+            "a) 3",
+            "b) 5",
+            "c) 2",
+            "d) 8"
+        ],
+        "Answer": "Answer: c\nExplanation: The area around the clipping window is divided into a number of different areas, depending on the position of the initial point of the line to be clipped."
+    },
+    {
+        "id": 245,
+        "Question": "These areas are given names depending on the location of ___________________",
+        "Options": [
+            "a) endpoints",
+            "b) initial points",
+            "c) intermediate points",
+            "d) intersection points"
+        ],
+        "Answer": "Answer: a\nExplanation: The initial point should be in three predetermined areas; so that the line may have to be translated or rotated to bring it into the desired region. "
+    },
+    {
+        "id": 246,
+        "Question": "What is the denotation of a ray if it intersects the top boundary?",
+        "Options": [
+            "a) L",
+            "b) T",
+            "c) P",
+            "d) B"
+        ],
+        "Answer": "Answer:b\nExplanation: These areas are then designated as L, LT, LB, or TR, depending on the location of the initial point."
+    },
+    {
+        "id": 247,
+        "Question": "What is the denotation of a ray if it intersects the top and right boundary?",
+        "Options": [
+            "a) RT",
+            "b) TR",
+            "c) LR",
+            "d) LT"
+        ],
+        "Answer": "Answer: b\nExplanation: T – ray intersects top boundary; LT – ray intersects left and top boundary."
+    },
+    {
+        "id": 248,
+        "Question": "Which method of clipping is based on duality?",
+        "Options": [
+            "a) Skala",
+            "b) Sutherland clipping",
+            "c) Liam Barsky method",
+            "d) NLN clipping"
+        ],
+        "Answer": "Answer: a\nExplanation: Skala is a method of clipping whose algorithm is based on homogeneous coordinates and duality."
+    },
+    {
+        "id": 249,
+        "Question": "Which method of clipping is used against convex polygon?",
+        "Options": [
+            "a) Lg N clipping algorithm",
+            "b) Skala",
+            "c) NLN clipping",
+            "d) Sutherland clipping"
+        ],
+        "Answer": "Answer: b\nExplanation: Skala can be used for a line or line-segment clipping against a rectangular window, as well as against a convex polygon."
+    },
+    {
+        "id": 250,
+        "Question": "Which algorithm classifies vertices against the given line?",
+        "Options": [
+            "a) P algorithm",
+            "b) NLN clipping algorithm",
+            "c) Skala",
+            "d) O algorithm"
+        ],
+        "Answer": "Answer: d\nExplanation: O algorithm classifies vertices against the given line in the implicit form p: ax + by + c = 0. Another name of O algorithm is Lg N algorithm."
+    },
+    {
+        "id": 251,
+        "Question": "O algorithm is also known as __________________",
+        "Options": [
+            "a) Lg N algorithm",
+            "b) Lg P algorithm",
+            "c) Lg M algorithm",
+            "d) Lg O algorithm"
+        ],
+        "Answer": "Answer: a\nExplanation: Another name of O algorithm is Lg N algorithm. This algorithm classifies vertices against the given line in the implicit form p: ax + by + c = 0. "
+    },
+    {
+        "id": 252,
+        "Question": "Which type of search can be applied to O algorithm?",
+        "Options": [
+            "a) interpolation search",
+            "b) binary search",
+            "c) simple search",
+            "d) hexadecimal search"
+        ],
+        "Answer": "Answer: b\nExplanation: Binary search can be applied to O algorithm which leads to run-time complexity."
+    },
+    {
+        "id": 253,
+        "Question": "The polygon is assumed to be _____________ and vertices are ordered clockwise or anti-clockwise while applying line clipping algorithms.",
+        "Options": [
+            "a) cylindrical",
+            "b)concave",
+            "c) plane",
+            "d) convex"
+        ],
+        "Answer": "Answer: b\nExplanation: Skala is simple and easy to implement whereas O algorithm shows run time complexity."
+    },
+    {
+        "id": 254,
+        "Question": "A plane duality is a map from a ______________________ to its dual plane.",
+        "Options": [
+            "a) projective plane",
+            "b) incident plane",
+            "c) parallel plane",
+            "d) reference plane"
+        ],
+        "Answer": "Answer: d\nExplanation: The polygon is assumed to be convex and vertices are ordered clockwise or anti-clockwise while applying line clipping algorithms. Anti-convex polygons are not used."
+    },
+    {
+        "id": 255,
+        "Question": "Fast clipping algorithm is an example of ____________ clipping algorithm.",
+        "Options": [
+            "a) text",
+            "b) polygon",
+            "c) line",
+            "d) curve"
+        ],
+        "Answer": "Answer: a\nExplanation: A plane duality is a map from a projective plane C = (P, L, I) to its dual plane C∗ = (L, P, I); which preserves incidence."
+    },
+    {
+        "id": 256,
+        "Question": "Sutherland-Hodgeman clipping is an example of_________________ algorithm.",
+        "Options": [
+            "a) line clipping",
+            "b) polygon clipping",
+            "c) text clipping",
+            "d) curve clipping"
+        ],
+        "Answer": "Answer: b\nExplanation: The Sutherland–Hodgman algorithm is used for clipping polygons. Cohen- Sutherland is line clipping algorithm."
+    },
+    {
+        "id": 257,
+        "Question": "How many polygons are used in this method?",
+        "Options": [
+            "a) 4",
+            "b) 3",
+            "c) 2",
+            "d) 1"
+        ],
+        "Answer": "Answer: c\nExplanation: Two polygons are used in this algorithm namely clip polygon and subject polygon."
+    },
+    {
+        "id": 258,
+        "Question": "Only vertices from the subject polygon that are on the _______________ are selected.",
+        "Options": [
+            "a) lower half",
+            "b) boundary",
+            "c) opaque side",
+            "d) visible side"
+        ],
+        "Answer": "Answer: d\nExplanation: Only vertices from the subject polygon which are on the visible side are selected and rest of the vertices are clipped."
+    },
+    {
+        "id": 259,
+        "Question": "We can correctly clip a polygon by processing the polygon boundary as a whole against each ___________",
+        "Options": [
+            "a) side wall",
+            "b) top edge",
+            "c) window edge",
+            "d) bottom edge"
+        ],
+        "Answer": "Answer: a\nExplanation: The process is repeated iteratively for each clip polygon side, using the output list from one stage as the input list for the next. When the process is completed, a new polygon is generated."
+    },
+    {
+        "id": 260,
+        "Question": "How many edges of the clipping are/is present in 2D?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: c\nExplanation: We can correctly clip a polygon by processing the polygon boundary as a whole against each window edge which can be accomplished by processing all polygon vertices against each rectangle."
+    },
+    {
+        "id": 261,
+        "Question": "If we used Left->Right->Up->Bottom, the final output will be the vertex list outputted by the ___________ edge.",
+        "Options": [
+            "a) left edge",
+            "b)right edge",
+            "c) top edge",
+            "d) bottom edge"
+        ],
+        "Answer": "Answer: d\nExplanation: If the algorithm is done in 2D, we have 4 edges of the clipping area. Left edge, right edge, top edge and bottom edge."
+    },
+    {
+        "id": 262,
+        "Question": "In a convex polygon, each of the interior angles is less than ____degrees.",
+        "Options": [
+            "a) 90",
+            "b) 180",
+            "c) 360",
+            "d) 45"
+        ],
+        "Answer": "Answer: d\nExplanation: If we used Left->Right->Up->Bottom, the final output will be the vertex list outputted by the bottom edge. The final result is given by the last edge which is a bottom edge in this case."
+    },
+    {
+        "id": 263,
+        "Question": "One of the drawbacks of Sutherland- Hodgeman algorithm is that it can’t produce ____________ areas.",
+        "Options": [
+            "a) connected",
+            "b) multiple",
+            "c) discrete",
+            "d) circular"
+        ],
+        "Answer": "Answer: a\nExplanation: If the subject polygon was concave at vertices outside the clipping polygon, the new polygon may have coincident edges. The result will be the same in case of overlapping edges too."
+    },
+    {
+        "id": 264,
+        "Question": "The distortion of information due to low-frequency sampling is known as",
+        "Options": [
+            "a) Sampling",
+            "b) Aliasing",
+            "c) Inquiry function",
+            "d) Anti-aliasing"
+        ],
+        "Answer": " Answer: b\nExplanation: The distortion of information is called aliasing.\n"
+    },
+    {
+        "id": 265,
+        "Question": "To avoid losing information from periodic objects we need",
+        "Options": [
+            "a) Sampling frequency twice",
+            "b) Nyquist sampling frequency",
+            "c) Both a or b",
+            "d) Neither a nor b"
+        ],
+        "Answer": " Answer: c\nExplanation: Because nyquist sampling frequency means sampling frequency twice.\n"
+    },
+    {
+        "id": 266,
+        "Question": "Nyquist sampling frequency formula is",
+        "Options": [
+            "a) fs=2fmax",
+            "b) fs=2fmin",
+            "c) fs=fmax",
+            "d) fs=fmin"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 267,
+        "Question": "The sampling of object characteristic at a high resolution and displaying the result at a lower resolution is called?",
+        "Options": [
+            "a) Super-sampling",
+            "b) Post-filtering",
+            "c) Anti-aliasing",
+            "d) a or b"
+        ],
+        "Answer": " Answer: d\nExplanation: Super-sampling is also called Post-filtering by computing intensities and combines results to obtain the pixel intensities.\n"
+    },
+    {
+        "id": 268,
+        "Question": "Anti-aliasing by computing overlap areas is referred to as",
+        "Options": [
+            "a) Area-sampling",
+            "b) Super-sampling",
+            "c) Pixel phasing",
+            "d) Only b"
+        ],
+        "Answer": " Answer: a\nExplanation: The intensity of pixel as a whole is determined without calculating sub-pixel intensity.\n"
+    },
+    {
+        "id": 269,
+        "Question": "Area-sampling is also known as",
+        "Options": [
+            "a) Pre-filtering",
+            "b) Pixel phasing",
+            "c) Post-filtering",
+            "d) Anti-aliasing"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 270,
+        "Question": "Raster objects can also be anti-aliased by shifting the display location of pixel areas is known as",
+        "Options": [
+            "a) Super-sampling",
+            "b) Pixel shaping",
+            "c) Pixel phasing",
+            "d) Any of these"
+        ],
+        "Answer": " Answer: c\nExplanation: This technique is applied by micro-positioning the electron beam in relation to object geometry.\n"
+    },
+    {
+        "id": 271,
+        "Question": "If we want to use more intensity levels to anti-alias the line, then",
+        "Options": [
+            "a) We increase the number of sampling positions",
+            "b) We decrease the number of sampling positions",
+            "c) We increase the number of pixels",
+            "d) Only c"
+        ],
+        "Answer": " Answer: a\nExplanation: We increase the number of sampling positions across each pixel to use more intensity levels.\n"
+    },
+    {
+        "id": 272,
+        "Question": "The procedure that increases the number of intensity levels for each pixel to total number of sub-pixels is",
+        "Options": [
+            "a) Area-sampling",
+            "b) Anti-aliasing",
+            "c) Super-sampling procedure",
+            "d) Only c"
+        ],
+        "Answer": " Answer: d\nExplanation: The super-sampling procedure increases the number of intensity levels for each pixel to total number of sub-pixels.\n"
+    },
+    {
+        "id": 273,
+        "Question": "For a 45% line, the line path is________ on the polygon area.",
+        "Options": [
+            "a) Horizontal",
+            "b) Centered",
+            "c) Vertical",
+            "d) Any of these"
+        ],
+        "Answer": " Answer: b\nExplanation: The line path is centered on the polygon area only if a line is 45%.\n"
+    },
+    {
+        "id": 274,
+        "Question": "An array of values specifying the relative importance of sub-pixel is referred as________ of sub-pixel weights.",
+        "Options": [
+            "a) Sub-mask",
+            "b) Mask",
+            "c) Pixel phasing",
+            "d) Pixel weighting"
+        ],
+        "Answer": " Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 275,
+        "Question": "The technique that is  more accurate method for anti-aliasing lines is",
+        "Options": [
+            "a) Filtering",
+            "b) Area-sampling",
+            "c) Super-sampling",
+            "d) None"
+        ],
+        "Answer": " Answer: a\nExplanation: In this technique we can imagine a continuous weighting surface covering the pixel.\n"
+    },
+    {
+        "id": 276,
+        "Question": "Super-sampling methods can be applied by",
+        "Options": [
+            "a) Sub-dividing the total area",
+            "b) Determining the number of sub-pixels inside the area",
+            "c) Both a and b",
+            "d) Only b"
+        ],
+        "Answer": " Answer: c\nExplanation: Super-sampling methods can be applied by sub-dividing the total area and determining the number of sub-pixels inside the area boundary.\n"
+    },
+    {
+        "id": 277,
+        "Question": "Another method for determining the percentage of pixel area within a boundary is",
+        "Options": [
+            "a) Mid-print algorithm",
+            "b) Mid-point algorithm",
+            "c) Pixel intensity",
+            "d) By using inquiry functions"
+        ],
+        "Answer": " Answer: b\nExplanation: This algorithm selects the next pixel along a line by determining which of 2 pixels is closer to the line between 2 pixels.\n"
+    },
+    {
+        "id": 278,
+        "Question": "What is the use of Coherence techniques along and between scan lines?",
+        "Options": [
+            "a) To simplify the calculations",
+            "b) To determine the area edges",
+            "c) To find polygon region",
+            "d) To correct interior area"
+        ],
+        "Answer": " Answer: a\nExplanation: Coherence techniques are used along and between scan lines to simplify the calculations.\n"
+    }
+]

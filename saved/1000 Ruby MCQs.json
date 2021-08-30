@@ -1,0 +1,1936 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following is supported by Ruby?",
+        "Options": [
+            "a) Multiple Programming Paradigms",
+            "b) Dynamic Type System",
+            "c) Automatic Memory Management",
+            "d) All of the Mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Ruby allow users to manipulate data structures called objects to build and execute programs."
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following features does the 2.0 version of ruby supports?",
+        "Options": [
+            "a) Method keyword arguments",
+            "b) New literals",
+            "c) Security fixes",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Ruby supports all the features because it is a object oriented programming language."
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following languages syntax matches with the Ruby’s syntax?",
+        "Options": [
+            "a) Perl",
+            "b) PHP",
+            "c) Java",
+            "d) Jquery"
+        ],
+        "Answer": "Answer: d\nExplanation: Ruby2.0 has several new added features and it is much stable than its older versions."
+    },
+    {
+        "id": 4,
+        "Question": "What is the extension used for saving the ruby file?",
+        "Options": [
+            "a) .ruby extension",
+            "b) .rb extension",
+            "c) .rrb extension",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Most of the syntax of perl language matches with that of Ruby’s."
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following are valid floating point literal?",
+        "Options": [
+            "a) .5",
+            "b) 2",
+            "c) 0.5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Ruby files must be saved with the extension .rb."
+    },
+    {
+        "id": 6,
+        "Question": "Which of the following datatypes are valid in Ruby?",
+        "Options": [
+            "a) Numbers",
+            "b) Boolean",
+            "c) String",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Ruby supports all the three (numbers,strings,boolean) data types."
+    },
+    {
+        "id": 7,
+        "Question": "What will any variable  evaluate to if it is of Boolean data type?",
+        "Options": [
+            "a) True",
+            "b) Nil",
+            "c) False",
+            "d) Either True or False"
+        ],
+        "Answer": "Answer: d\nExplanation: Boolean data types will give the value either as True or False depending on the condition."
+    },
+    {
+        "id": 8,
+        "Question": "Why can not we use quotation marks (‘ or “) with boolean?",
+        "Options": [
+            "a) It indicates that we are talking about a string",
+            "b) It indicates that we are assining a value",
+            "c) It indicates that that we are replacing boolean data type with string data type",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Quotation marks are used only with strings."
+    },
+    {
+        "id": 9,
+        "Question": "What is the size of an integer data type in ruby?",
+        "Options": [
+            "a) -230 to 230",
+            "b) -230 to 2(30-1)",
+            "c) -229 to 230",
+            "d) -260 to 261"
+        ],
+        "Answer": "Answer: a\nExplanation: Ruby differentiates between small and capital letters and their meaning."
+    },
+    {
+        "id": 10,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">boolean_1 = <span class=\"nu0\">77</span><span class=\"sy0\">&lt;</span><span class=\"nu0\">78</span>\n   <span class=\"kw3\">puts</span><span class=\"br0\">(</span>boolean_1<span class=\"br0\">)</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Nil",
+            "b) True",
+            "c) False",
+            "d) Error"
+        ],
+        "Answer": "Answer: b\nExplanation: Integer ranges from -230 to 229 and lies in object of class Fixnum."
+    },
+    {
+        "id": 11,
+        "Question": "Objects of which class does the integer from the range -2^30 to 2^(30-1) belong to?",
+        "Options": [
+            "a) Bignum",
+            "b) Octal",
+            "c) Fixnum",
+            "d) Binary"
+        ],
+        "Answer": "Answer: a\nExplanation: We can assingn a integer and a floating point value to a variable."
+    },
+    {
+        "id": 12,
+        "Question": "What does the notataion \\b stands for?",
+        "Options": [
+            "a) Escape",
+            "b) Space",
+            "c) Backspace",
+            "d) Newline"
+        ],
+        "Answer": "Answer: b\nExplanation: As 77 is less than 78 hence the boolean value will be printed as true.\n\n\n\t\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 13,
+        "Question": "What is the sequence of ruby strings?",
+        "Options": [
+            "a) 16-bit bytes",
+            "b) 8-bit bytes",
+            "c) 10-bit bytes",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Integer within this range are objects of the class fixnum."
+    },
+    {
+        "id": 14,
+        "Question": "11. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">my_string=Ruby\n    <span class=\"kw3\">puts</span><span class=\"br0\">(</span>my_string<span class=\"br0\">)</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Ruby",
+            "b) Nil",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: This notataion is used for backspace."
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is not a valid datatype?",
+        "Options": [
+            "a) Float",
+            "b) Integer",
+            "c) Binary",
+            "d) Timedate"
+        ],
+        "Answer": "Answer: b\nExplanation: They are simply the sequence of 8-bit bytes."
+    },
+    {
+        "id": 16,
+        "Question": "What is the range of octal notation (\\nnn)?",
+        "Options": [
+            "a) 0-8",
+            "b) 0-7",
+            "c) 0-A",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Ruby should be written in double quotes inorder to indicate a string.\n\n\nOutput:\nError\n\n\n"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following is not a valid library function?",
+        "Options": [
+            "a) Puts",
+            "b) Print",
+            "c) Gets",
+            "d) Get"
+        ],
+        "Answer": "Answer: d\nExplanation: gets is used for taking input from the user."
+    },
+    {
+        "id": 18,
+        "Question": "Why is the library function ‘puts’used for?",
+        "Options": [
+            "a) Prints whatever is given and print it to the screen",
+            "b) Prints whatever is given and insert a new(blank) line",
+            "c) Gets input from the user",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Puts is a library function which prints and then insert a new blank line."
+    },
+    {
+        "id": 19,
+        "Question": "a) Error",
+        "Options": [
+            "b) Hey everyone we are learning Ruby",
+            "c) Hey everyone",
+            "d) Hey Everyone",
+            "   We are learning Ruby"
+        ],
+        "Answer": "Answer: d\nExplanation: Print prints whatever is given and puts in addition to printing it inserts a new blank line.\n\n\n        \n\nOutput:\nHey Everyone\nWe are learning Ruby\n\n\n"
+    },
+    {
+        "id": 20,
+        "Question": "For getting an input from the user which method is used?",
+        "Options": [
+            "a) get",
+            "b) gets.chomp",
+            "c) get-s",
+            "d) chomp"
+        ],
+        "Answer": "Answer: b\nExplanation: No semicolon or parentheses is required."
+    },
+    {
+        "id": 21,
+        "Question": "Which sequence can be used to substitute the value of any ruby expression in a string?",
+        "Options": [
+            "a) #(expr)",
+            "b) #{expr}",
+            "c) #expr",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The method gets.chomp takes the input from the user."
+    },
+    {
+        "id": 22,
+        "Question": "Why is gets not preferred instead of gets.chomp?",
+        "Options": [
+            "a) Gets add an extra new line while chomp removes it",
+            "b) Gets remove an extra new line",
+            "c) Chomp erases the value stored in the variable",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It will print and ask you to input the name and surname\n\n\nOutput:\n  What is your first name?\n  xyz(enter any name)\n  What is your surname?\n  wtu(enter your surname)\n\n\n"
+    },
+    {
+        "id": 23,
+        "Question": "11. What is the output of the the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"kw3\">puts</span> <span class=\"st0\">\"My name is #{Name}\"</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Error in compilation",
+            "b) Name variable not defined earlier",
+            "c) My name is #{Name}",
+            "d) Undefined Error"
+        ],
+        "Answer": "Answer: b\nExplanation: #{expr} is valid."
+    },
+    {
+        "id": 24,
+        "Question": "13. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">Ans=Ruby\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"#[Ans] is an oop language\"</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Error, no output",
+            "b) Ruby is an oop language",
+            "c) Warning:already initialized constant Ans",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: gets.chomp will remove the extra blank space."
+    },
+    {
+        "id": 25,
+        "Question": "Which of the following is the valid string method?",
+        "Options": [
+            "a) The .length method",
+            "b) The .upcase method",
+            "c) The .downcase method",
+            "d) The .irreverse method"
+        ],
+        "Answer": "Answer: d\nExplanation: There is no predefined method which can reverse an already reversed string."
+    },
+    {
+        "id": 26,
+        "Question": "3. What is the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"st0\">\"Iam learning ruby language\"</span>.<span class=\"me1\">length</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 26",
+            "b) 23",
+            "c) 20",
+            "d) 18"
+        ],
+        "Answer": "Answer: b\nExplanation: The .length method is used to check number of characters, spaces and even symbols."
+    },
+    {
+        "id": 27,
+        "Question": "4. What is the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> ruby.<span class=\"me1\">reverse</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Error in compilation",
+            "b) ybur",
+            "c) 4",
+            "d) Undefined local variable ruby"
+        ],
+        "Answer": "Answer: a\nExplanation: It checks the number of blanks, number of characters and symbols in the given string.\n\n\n        \n\nOutput:\n26\n\n\n"
+    },
+    {
+        "id": 28,
+        "Question": "5. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"Eric\"</span>.<span class=\"me1\">irreverse</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Eric",
+            "b) cirE",
+            "c) undefined method",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: String should always be in double quotes and then the .reverse method can be used.\n\n\n\t\n\nOutput:\nundefined local variable or method `ruby' for #<Context:0x7420ac>\n\n\n"
+    },
+    {
+        "id": 29,
+        "Question": "What does the .upcase method do?",
+        "Options": [
+            "a) Convert the string to uppercase",
+            "b) Convert only lowercase string to uppercase and vice-versa",
+            "c) Convert the string to lowercase",
+            "d) None o the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: There is no predefined method named irreverse in ruby.\n\n\nOutput:\nundefined method `irreverse' for \"eric\":String\n\n\n"
+    },
+    {
+        "id": 30,
+        "Question": "7. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"Ruby\"</span>.<span class=\"me1\">reverse</span>.<span class=\"me1\">upcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) RUBY",
+            "b) ybuR",
+            "c) YBUR",
+            "d) YBUr"
+        ],
+        "Answer": "Answer: a\nExplanation: .upcase method is used to change the given string to uppercase."
+    },
+    {
+        "id": 31,
+        "Question": "8. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"I'am learning Ruby Language\"</span>.<span class=\"me1\">length</span>.<span class=\"me1\">reverse</span>.<span class=\"me1\">upcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 27",
+            "b) egaugnal ybuR gninreal ma’I",
+            "c) ERAUGNAL YBUR GNINREAL MA’I",
+            "d) Undefined method `reverse’ for 27:Fixnum"
+        ],
+        "Answer": "Answer: c\nExplanation: First the given string is reversed and then .upcase method is used to capitalize it.\n\n\nOutput:\n\"YBUR\"\n\n\n"
+    },
+    {
+        "id": 32,
+        "Question": "9. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"I'am learning Ruby Language\"</span>.<span class=\"me1\">reverse</span>.<span class=\"me1\">upcase</span>.<span class=\"me1\">length</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 27",
+            "b) egaugnal ybuR gninreal ma’I",
+            "c) ERAUGNAL YBUR GNINREAL MA’I",
+            "d) Undefined method `reverse’ for 27:Fixnum"
+        ],
+        "Answer": "Answer: d\nExplanation: The .length method finds the length which is a number and can’t be reversed.\n\n\nOutput:\nundefined method `reverse' for 27:Fixnum\n\n\n"
+    },
+    {
+        "id": 33,
+        "Question": "11. What will we the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"st0\">\"I'am Learning RUBY Language\"</span>.<span class=\"me1\">downcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) iam learning ruby language",
+            "b) i’AM lEARNING ruby lANGUAGE",
+            "c) “i’am learning ruby language”",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The .reverse will reverse it then .upcase will capitalize it and .length method give the length.\n\n\nOutput:\n27\n\n\n"
+    },
+    {
+        "id": 34,
+        "Question": "12. What is the output of given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"kw3\">string</span>=<span class=\"st0\">\"I'am Learning RUBY Language\"</span>.<span class=\"me1\">downcase</span>\n    <span class=\"kw3\">string</span>.<span class=\"me1\">upcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Undefined method",
+            "b) “I’AM LEARNING RUBY LANGUAGE”",
+            "c) I’am Learning RUBY Language",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Changes everything to smallcase."
+    },
+    {
+        "id": 35,
+        "Question": "13. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"Come let's learn.reverse Ruby.length language\"</span>.<span class=\"me1\">upcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) nreal s’tel emoC 4 LANGUAGE",
+            "b) Undefined error",
+            "c) “COME LET’S LEARN.REVERSE RUBY.LENGTH LANGUAGE”",
+            "d) None of the above"
+        ],
+        "Answer": "Answer: c\nExplanation: Everything is changed to smallcase because of downcase method is used.\n\n\nOutput:\n\"i'am learning ruby language\"\n\n\n"
+    },
+    {
+        "id": 36,
+        "Question": "14. What will we the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">I<span class=\"st0\">'am Learning RUBY Language.downcase</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) iam learning ruby language",
+            "b) i’AM lEARNING ruby lANGUAGE",
+            "c) “i’am learning ruby language”",
+            "d) unterminated string meets end of file"
+        ],
+        "Answer": "Answer: b\nExplanation: First the given string is changed to uppercase and stored in variable named string and then the string is changed to uppercase.\n\n\nOutput:\n\"I'AM LEARNING RUBY LANGUAGE\"\n\n\n"
+    },
+    {
+        "id": 37,
+        "Question": "What is the use of .capitalize method?",
+        "Options": [
+            "a) It capitalizes the entire string",
+            "b) It capitalize on the first letter of the string",
+            "c) It capitalize the strings which are in small case",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The .capitalize method doesn’t change the whole string to uppercase, it just capitalizes the first letter."
+    },
+    {
+        "id": 38,
+        "Question": "What is the role of ! at the end of the capitalize method?",
+        "Options": [
+            "a) It is the syntax for using capitalize method",
+            "b) It modifies the value stored in the variable",
+            "c) It indicates the termination of string",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It capitalizes only the first letter."
+    },
+    {
+        "id": 39,
+        "Question": "a) amil jones",
+        "Options": [
+            "b) What’s your first name? amil",
+            "   My name is amil",
+            "c) My name is lima",
+            "d) My name is limA"
+        ],
+        "Answer": "Answer: b\nExplanation: It is used for modifying the variable."
+    },
+    {
+        "id": 40,
+        "Question": "a) amil jones",
+        "Options": [
+            "b) What’s your first name? amil",
+            "   My name is Amil",
+            "c) My name is lima",
+            "d) My name is limA"
+        ],
+        "Answer": "Answer: b\nExplanation: Capitalize method was not called at the time of last name, jones was not printed correctly it was not modified because ! was not used.\n\n\n\t\n\nOutput :\nWhat's your first name? amil\nWhat's your last name? jones\nMy name is Amil jones\n\n\n"
+    },
+    {
+        "id": 41,
+        "Question": "What do we mean by expression substitution?",
+        "Options": [
+            "a) Embedding the value of Ruby expression into a string using #{  }",
+            "b) Substituting string functions",
+            "c) Storing string value",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: “first_name.capitalize!” can not be in double quotes because it is a method.\n\n\nOutput:\nWhat's your first name? amil\nMy name is amil\n\n\n"
+    },
+    {
+        "id": 42,
+        "Question": "What does %{Learn ruby language} represents?",
+        "Options": [
+            "a) “Learn Ruby language”",
+            "b) “%{Learn Ruby language}”",
+            "c) ” Learn Ruby language ”",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The string is reversed  but it is not stored in any variable.\n\n\nOutput:\nWhat's your first name? amil\nMy name is amil\n\n\n"
+    },
+    {
+        "id": 43,
+        "Question": "What does %Q{ Learn ruby language } represents?",
+        "Options": [
+            "a) ” Learn Ruby language ”",
+            "b) “%{ Learn Ruby language }”",
+            "c) ” Learn Ruby language ”",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The string is reversed then and stored in a variable.\n\n\nOutput:\nwhat's your first name? amil\nMy name is limA\n\n\n"
+    },
+    {
+        "id": 44,
+        "Question": "What does %x!ls! represents?",
+        "Options": [
+            "a) Same as back tick command output `ls`",
+            "b) Same as ‘x’",
+            "c) Same as “xls”",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Strings are displayed #{} sequence."
+    },
+    {
+        "id": 45,
+        "Question": "Why do we use comments?",
+        "Options": [
+            "a) For later use to understand the working of the program",
+            "b) It is an efficient way of programming",
+            "c) It makes easy for the third person to understand",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: It is the efficient way of programming and easy to understand."
+    },
+    {
+        "id": 46,
+        "Question": "Which of the following type of comments are valid in ruby?",
+        "Options": [
+            "a) Single line comments",
+            "b) Multi line comments",
+            "c) Double line comments",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Double line comments comes under multiline comment."
+    },
+    {
+        "id": 47,
+        "Question": "How to comment multiple lines in ruby?",
+        "Options": [
+            "a) Using multiline comments",
+            "b) Using single line comments",
+            "c) No option to comment",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Multiple lines can be commented using multiline comments."
+    },
+    {
+        "id": 48,
+        "Question": "How to comment a single line?",
+        "Options": [
+            "a) Using #",
+            "b) Using begin and end",
+            "c) Using //",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Use # to comment single line."
+    },
+    {
+        "id": 49,
+        "Options": [
+            "5. This the right way to comment a single line.",
+            "   “Ruby”.length # I’m a single line comment!",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: a\nExplanation: We use # in a single line comment."
+    },
+    {
+        "id": 50,
+        "Question": "Why do we use =begin and =end?",
+        "Options": [
+            "a) To mark the start and end of multiline comment",
+            "b) To comment multiple lines",
+            "c) To avoid the use of # again and again",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It finds the length of string."
+    },
+    {
+        "id": 51,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"Ruby Language\"</span>.<span class=\"me1\">length</span>\n       <span class=\"coMULTI\">=begin\n       calculate length\n       =end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 13",
+            "b) 13 calculate length",
+            "c) 12",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: We use =begin and =end to mark the beginning and end of the comment."
+    },
+    {
+        "id": 52,
+        "Question": "11. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"st0\">\"Ruby Language\"</span>.<span class=\"me1\">length</span>\n       = <span class=\"kw1\">begin</span>\n       calculate length\n       = <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 13",
+            "b) 12",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: No space should be given between = and begin and = or end."
+    },
+    {
+        "id": 53,
+        "Question": "What error does the if condition gives if not terminated with end statement?",
+        "Options": [
+            "a) Syntax error",
+            "b) Unexpected end",
+            "c) Expecting keyword end",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The condition is true then only the code inside will execute."
+    },
+    {
+        "id": 54,
+        "Question": "4. What is the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">if</span> <span class=\"nu0\">1</span><span class=\"sy0\">&lt;</span><span class=\"nu0\">2</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"one is less than two\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) One is less than two",
+            "b) Syntax error",
+            "c) 1<2",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The condition must be true then if statement works."
+    },
+    {
+        "id": 55,
+        "Question": "5. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"kw1\">if</span> <span class=\"nu0\">11</span><span class=\"sy0\">&lt;</span><span class=\"nu0\">2</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"Eleven is less than two\"</span>\n   <span class=\"kw1\">end</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"11 is greater\"</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 11 is greater",
+            "b) Eleven is less than two",
+            "c) Eleven is less than two 11 is greater",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: We will get all the three errors."
+    },
+    {
+        "id": 56,
+        "Question": "a) Eleven is greater than two",
+        "Options": [
+            "b) You’r right",
+            "c) Eleven is greater than two",
+            "   You’r right",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The condition given in the if statement is not true hence it comes out of the if block.\n\n\nOutput:\n11 is greater\n\n\n"
+    },
+    {
+        "id": 57,
+        "Question": "a) True",
+        "Options": [
+            "b) Error",
+            "c) True,error",
+            "d) TRUE",
+            "   Undefined method `Upcase’ for String"
+        ],
+        "Answer": "Answer: c\nExplanation: If condition is true then code is executed and then it comes out and then execute the remaining code.\n\n\nOutput:\nEleven is greater than two\nYou'r right\n\n\n"
+    },
+    {
+        "id": 58,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">x=<span class=\"nu0\">1</span>\n    <span class=\"kw1\">if</span> x <span class=\"sy0\">&gt;</span> <span class=\"nu0\">2</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"x is greater than 2\"</span>\n    <span class=\"kw1\">elsif</span> x <span class=\"sy0\">&lt;</span>= <span class=\"nu0\">2</span> <span class=\"kw1\">and</span> x!=<span class=\"nu0\">0</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"x is 1\"</span>\n    <span class=\"kw1\">else</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"I can't guess the number\"</span>\n    <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) x is greater than 2",
+            "b) x is 1",
+            "c) I can’t guess the number",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The given condition is true so print statement gets executed.\n\n\n\t\n\nOutput:\nOne is less than two\n\n\n"
+    },
+    {
+        "id": 59,
+        "Question": "What is the use of else statement?",
+        "Options": [
+            "a) When the if condition is false then the next else condition will get executed",
+            "b) When the if condition is false then the elsif condition will get executed",
+            "c) When the if condition is false and if else condition is true then only it will get executed",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: When the if expression gives false value and the else condition is true then only it will get executed."
+    },
+    {
+        "id": 60,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">if</span> <span class=\"nu0\">1</span><span class=\"sy0\">&gt;</span><span class=\"nu0\">2</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"True\"</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: All the three statements execute only when it’s true."
+    },
+    {
+        "id": 61,
+        "Question": "4. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"kw1\">if</span> <span class=\"nu0\">1</span><span class=\"sy0\">&gt;</span><span class=\"nu0\">2</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">end</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"True\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: End statement is always must after the completion of else statement.\n\n\n\t\n\nOutput:\nSyntax error\n\n\n"
+    },
+    {
+        "id": 62,
+        "Question": "5. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">variable=<span class=\"kw2\">true</span>\n   <span class=\"kw1\">if</span> variable\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"true\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: No two end statements required after if and else just one end statement is sufficient.\n\n\nOutput:\nSyntax error\n\n\n"
+    },
+    {
+        "id": 63,
+        "Question": "6. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> variable=<span class=\"st0\">\"true\"</span>.<span class=\"me1\">reverse</span>\n   <span class=\"kw1\">if</span> variable\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"true\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The condition is satisfied hence the if block code is executed.\n\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 64,
+        "Question": "7. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">variable=<span class=\"kw2\">true</span>\n   <span class=\"kw1\">if</span> !variable\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"true\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Condition is satisfied and value is not changed.\n\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 65,
+        "Question": "8. What is the output of the code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">variable=<span class=\"st0\">\"true\"</span>.<span class=\"me1\">length</span>\n   <span class=\"kw1\">if</span> variable\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"true\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) 4"
+        ],
+        "Answer": "Answer: a\nExplanation: Condition is not satisfied so else part is executed.\n\n\nOutput:\nFalse\n\n\n"
+    },
+    {
+        "id": 66,
+        "Question": "Which of the following is valid conditional statement?",
+        "Options": [
+            "a) else",
+            "b) els",
+            "c) if else",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Condition is satisfied, and it is not effected by length method.\n\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 67,
+        "Question": "a) 1, 2",
+        "Options": [
+            "b) 1,2,3,4,5",
+            "c) 1 2 1",
+            "d) 1",
+            "   2"
+        ],
+        "Answer": "Answer: d\nExplanation: Value of counter is printed and then incremented.\n\n\nOutput:\n1\n2\n\n\n"
+    },
+    {
+        "id": 68,
+        "Question": "a) Undefined local variable counter",
+        "Options": [
+            "b) 1,2,3,4,5",
+            "c) 1 2 1",
+            "d) 1",
+            "   2"
+        ],
+        "Answer": "Answer: a\nExplanation: Counter value must not be commented.\n\n\nOutput:\nUndefined local variable counter\n\n\n"
+    },
+    {
+        "id": 69,
+        "Question": "Which of the following is valid conditional statement in Ruby?",
+        "Options": [
+            "a) elseif",
+            "b) elsif",
+            "c) else if",
+            "d) elseiff"
+        ],
+        "Answer": "Answer: b\nExplanation: We use elsif conditional statement in Ruby."
+    },
+    {
+        "id": 70,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> <span class=\"kw1\">if</span> !<span class=\"kw2\">true</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"False\"</span>\n   <span class=\"kw1\">elsif</span> !<span class=\"kw2\">true</span> <span class=\"sy0\">||</span> <span class=\"kw2\">true</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"True\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Syntax eroor",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The syntax of elsif conditional statement is elsif with an expression."
+    },
+    {
+        "id": 71,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">variable = <span class=\"kw2\">false</span>\n   <span class=\"kw1\">if</span> variable\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"false\"</span>\n   <span class=\"kw1\">elsif</span> !variable\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"true\"</span> \n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) False",
+            "b) True",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: We can add many conditions between if/else statements using elsif conditional statement."
+    },
+    {
+        "id": 72,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">x=<span class=\"nu0\">7</span>\n   y=<span class=\"nu0\">9</span>\n   <span class=\"kw1\">if</span> x==y\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"equal\"</span>\n   <span class=\"kw1\">elsif</span> x<span class=\"sy0\">&gt;</span>y\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"greater\"</span> \n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">print</span> <span class=\"st0\">\"less\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) equal",
+            "b) greater",
+            "c) less",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The counter value is 6 hence elsif part will get executed.\n\n\n        \n\nOutput:\n6\n12\n\n\n"
+    },
+    {
+        "id": 73,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"kw2\">true</span>\n   b=<span class=\"kw2\">false</span>\n   <span class=\"kw1\">if</span> a <span class=\"sy0\">&amp;&amp;</span> b\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"False\"</span>\n   <span class=\"kw1\">elsif</span> a <span class=\"sy0\">||</span> b\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"True\"</span>\n   <span class=\"kw1\">else</span>\n   <span class=\"kw3\">puts</span> <span class=\"st0\">\"neither true nor false\"</span>\n   <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) false",
+            "b) true",
+            "c) neither true nor false",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  As the counter value is negative the if condition is true hence the if block is executed.\n\n\n\t\n\nOutput:\n-3\n-2\n\n\n"
+    },
+    {
+        "id": 74,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"nu0\">10</span>\n    b=<span class=\"nu0\">2</span>\n    <span class=\"kw1\">if</span> a<span class=\"sy0\">&gt;</span>b\n    a=a<span class=\"sy0\">*</span>b\n    <span class=\"kw3\">puts</span> <span class=\"br0\">(</span>a<span class=\"br0\">)</span>\n    <span class=\"kw1\">elsif</span> a<span class=\"sy0\">&lt;</span>b\n    a=a<span class=\"sy0\">*</span>a<span class=\"sy0\">+</span>b\n    <span class=\"kw3\">puts</span> <span class=\"br0\">(</span>a<span class=\"br0\">)</span>\n    <span class=\"kw1\">else</span>\n    a=a<span class=\"sy0\">-</span>b\n    <span class=\"kw3\">puts</span> <span class=\"br0\">(</span>a<span class=\"br0\">)</span>\n    <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 20",
+            "b) 102",
+            "c) -98",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: !true || true evaluates to true, hence elsif block gets executed.\n\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 75,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">x=<span class=\"nu0\">3</span>\n<span class=\"kw1\">unless</span> x<span class=\"sy0\">&gt;</span><span class=\"nu0\">2</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"x is less than 2\"</span>\n<span class=\"kw1\">else</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"x is greater than 2\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) x is greater than 2",
+            "b) x is less than 2",
+            "c) 3",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Executes code if condition is false. If the condition is true, code specified in the else clause is executed."
+    },
+    {
+        "id": 76,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">hungry=<span class=\"kw2\">false</span>\n<span class=\"kw1\">unless</span> hungry\n <span class=\"kw3\">print</span> <span class=\"st0\">\"Not hungry\"</span>\n<span class=\"kw1\">else</span>\n <span class=\"kw3\">print</span> <span class=\"st0\">\"Hungry\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Not hungry",
+            "b) Hungry",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The unless conditional statement is true so the unless clause is not executed.\n\n\n        \n\nOutput: \nx is greater than 2\n\n\n"
+    },
+    {
+        "id": 77,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter=<span class=\"nu0\">12</span>\n<span class=\"kw1\">unless</span> counter\n <span class=\"kw3\">print</span> counter<span class=\"sy0\">+</span><span class=\"nu0\">1</span>\n<span class=\"kw1\">else</span>\n <span class=\"kw3\">print</span> counter<span class=\"sy0\">+</span><span class=\"nu0\">2</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 13",
+            "b) 14",
+            "c) 15",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: if condition is evaluated to true so it is executed and the second unless condition is evaluated to false so it is also executed.\n\n\n\t\n\nOutput:\n   1--Value is set\n   3--Value is set\n\n\n"
+    },
+    {
+        "id": 78,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">unless</span> <span class=\"kw2\">true</span> <span class=\"sy0\">&amp;&amp;</span> <span class=\"kw2\">false</span>\n<span class=\"kw3\">print</span> <span class=\"st0\">\"false\"</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"ruby\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Nil",
+            "d) Syntax error"
+        ],
+        "Answer": "Answer: a\nExplanation: As hungry is initialized to false hence the unless condition is executed.\n\n\nOutput:\nNot hungry\n\n\n"
+    },
+    {
+        "id": 79,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw3\">print</span> <span class=\"st0\">\"2 is less than 3\"</span> <span class=\"kw1\">unless</span> <span class=\"nu0\">2</span><span class=\"sy0\">&gt;</span><span class=\"nu0\">3</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 2>3",
+            "b) 2 is less than 3",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The unless condition must be false in order to execute the code."
+    },
+    {
+        "id": 80,
+        "Question": "a) x is less than y",
+        "Options": [
+            "b) x is less than y+1",
+            "c) x is less than y",
+            "   x is less than y+1",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Counter is assigned the value 1, so the unless conditional statement is true and hence it is not executed.\n\n\nOutput:\n14\n\n\n"
+    },
+    {
+        "id": 81,
+        "Question": "a) x is less than y",
+        "Options": [
+            "b) x is less than y+1",
+            "c) x is less than y",
+            "   x is less than y+1",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: true && false will evaluate to false so unless block will get executed.\n\n\nOutput:\nfalse\n\n\n"
+    },
+    {
+        "id": 82,
+        "Question": "1. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">age =  <span class=\"nu0\">5</span>\n<span class=\"kw1\">case</span> age\n<span class=\"kw1\">when</span> <span class=\"nu0\">0</span> .. <span class=\"nu0\">2</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"baby\"</span>\n<span class=\"kw1\">when</span> <span class=\"nu0\">3</span> .. <span class=\"nu0\">6</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"little child\"</span>\n<span class=\"kw1\">when</span> <span class=\"nu0\">7</span> .. <span class=\"nu0\">12</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"child\"</span>\n<span class=\"kw1\">when</span> <span class=\"nu0\">13</span> .. <span class=\"nu0\">18</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"youth\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">puts</span> <span class=\"st0\">\"adult\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) baby",
+            "b) adult",
+            "c) little child",
+            "d) youth"
+        ],
+        "Answer": "Answer: c\nExplanation: The age is already assigned the value 5 and so the case statement will check in which range does 5 lies and execute it.\n\n\n\t\n\n        \n\nOutput:\nlittle child\n\n\n"
+    },
+    {
+        "id": 83,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">age =  <span class=\"nu0\">4</span>\n<span class=\"kw1\">case</span> age\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"baby\"</span> <span class=\"kw1\">when</span> <span class=\"nu0\">0</span> .. <span class=\"nu0\">2</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"little child\"</span> <span class=\"kw1\">when</span> <span class=\"nu0\">3</span> .. <span class=\"nu0\">6</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"child\"</span> <span class=\"kw1\">when</span> <span class=\"nu0\">7</span> .. <span class=\"nu0\">12</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"youth\"</span> <span class=\"kw1\">when</span> <span class=\"nu0\">13</span> .. <span class=\"nu0\">18</span>\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"adult\"</span> <span class=\"kw1\">else</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) adult",
+            "b) youth",
+            "c) child",
+            "d) syntax error"
+        ],
+        "Answer": "Answer: a\nExplanation: The following syntax is used for ruby case statement."
+    },
+    {
+        "id": 84,
+        "Question": "a) alphabet a",
+        "Options": [
+            "b) b",
+            "   alphabet b",
+            "c) alphabet c",
+            "d) Syntax error"
+        ],
+        "Answer": "Answer:c\nExplanation: The for loop will keep on incrementing from 1 to 5 and then prints the value in particular case statements.\n\n\nOutput:\n1\nbaby\n2\nbaby\n3\nlittle child\n4\nlittle child\n5\nlittle child\n\n\n"
+    },
+    {
+        "id": 85,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">l=<span class=\"nu0\">9</span>\n<span class=\"kw1\">case</span> l\n<span class=\"kw3\">print</span> <span class=\"st0\">\"ruby\"</span> <span class=\"kw1\">when</span> l==<span class=\"nu0\">9</span>\n<span class=\"kw3\">print</span> <span class=\"st0\">\"language\"</span> <span class=\"kw1\">when</span> l==<span class=\"nu0\">10</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) l==9",
+            "b) l==10",
+            "c) Syntax error",
+            "d) Ruby"
+        ],
+        "Answer": "Answer: b\nExplanation: After taking input from the user will check which string is entered and goes to particular case statement.\n\n\nOutput:\nb\nalphabet b\n\n\n"
+    },
+    {
+        "id": 86,
+        "Question": "3. What will the following code evaluate to?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"nu0\">9</span>!=<span class=\"nu0\">10</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The == is used to compare two things are equal or not and hence it is known as comparator/relational operator."
+    },
+    {
+        "id": 87,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">test_1 = <span class=\"nu0\">17</span> <span class=\"sy0\">&gt;</span> <span class=\"nu0\">16</span>\n<span class=\"kw3\">puts</span><span class=\"br0\">(</span>test_1<span class=\"br0\">)</span>\ntest_2 = <span class=\"nu0\">21</span> <span class=\"sy0\">&lt;</span>= <span class=\"nu0\">30</span>\n<span class=\"kw3\">puts</span><span class=\"br0\">(</span>test_2<span class=\"br0\">)</span>\ntest_3 = <span class=\"nu0\">9</span> <span class=\"sy0\">&gt;</span>= <span class=\"nu0\">9</span>\n<span class=\"kw3\">puts</span><span class=\"br0\">(</span>test_3<span class=\"br0\">)</span>\ntest_4 = <span class=\"sy0\">-</span><span class=\"nu0\">11</span> <span class=\"sy0\">&gt;</span> <span class=\"nu0\">4</span>\n<span class=\"kw3\">puts</span><span class=\"br0\">(</span>test_4<span class=\"br0\">)</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True false true false",
+            "b) True True True False",
+            "c) False False True True",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The ‘=’ is known as assignment operator."
+    },
+    {
+        "id": 88,
+        "Question": "5. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"st0\">\"string\"</span>\nb=<span class=\"st0\">\"strings\"</span>\n<span class=\"kw1\">if</span><span class=\"br0\">(</span>a==b<span class=\"br0\">)</span>\n    <span class=\"kw3\">print</span> <span class=\"br0\">(</span><span class=\"st0\">\"a and b are same\"</span><span class=\"br0\">)</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not same\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) a and b are same",
+            "b) Not same",
+            "c) a==b",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: 9 is not equal to 10 hence it will evaluate to true.\n\n\n        \n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 89,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"nu0\">10</span>\nb=<span class=\"nu0\">9</span>\n<span class=\"kw1\">if</span><span class=\"br0\">(</span>a<span class=\"sy0\">&gt;</span>b<span class=\"br0\">)</span>\n    <span class=\"kw3\">print</span> <span class=\"br0\">(</span><span class=\"st0\">\"a greater than b\"</span><span class=\"br0\">)</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not greater\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) a greater than b",
+            "b) Not greater",
+            "c) Syntax error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: All the expressions which are correct will evluate to true rest all will evaluate to false.\n\n\n\t\n\nOutput:\ntrue\ntrue\ntrue\nfalse\n\n\n"
+    },
+    {
+        "id": 90,
+        "Question": "Which of the following are used for comparison?",
+        "Options": [
+            "a) Equal to",
+            "b) Not equal to",
+            "c) Less than or greater than",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: a and b are not similar hence the else condition will get executed.\n\n\nOutput:\nNot same\n\n\n"
+    },
+    {
+        "id": 91,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">if</span><span class=\"br0\">(</span>a==<span class=\"nu0\">10</span> <span class=\"sy0\">&amp;&amp;</span> b=<span class=\"nu0\">9</span><span class=\"br0\">)</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"true\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"false\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Assignment operator is used for assigning a value."
+    },
+    {
+        "id": 92,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter=<span class=\"nu0\">1</span>\n<span class=\"kw1\">if</span> counter<span class=\"sy0\">&lt;</span>=<span class=\"nu0\">5</span>\n    <span class=\"kw3\">puts</span> <span class=\"br0\">(</span>counter<span class=\"br0\">)</span>\n    counter=counter<span class=\"sy0\">+</span><span class=\"nu0\">1</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Syntax error",
+            "b) 1 2",
+            "c) 1",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Assigning the value to the variable and checking the condition.\n\n\nOutput:\na greater than b\n\n\n"
+    },
+    {
+        "id": 93,
+        "Question": "Which of the following is a valid boolean operator?",
+        "Options": [
+            "a) and(&&)",
+            "b) or(||)",
+            "c) not(!)",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Boolean operators result in boolean values like true or false."
+    },
+    {
+        "id": 94,
+        "Question": "5. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">boolean_1 = <span class=\"nu0\">77</span> <span class=\"sy0\">&lt;</span> <span class=\"nu0\">78</span> <span class=\"sy0\">&amp;&amp;</span> <span class=\"nu0\">77</span> <span class=\"sy0\">&lt;</span> <span class=\"nu0\">77</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: We have three boolean operators which are and, or, not."
+    },
+    {
+        "id": 95,
+        "Question": "9. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = <span class=\"br0\">(</span><span class=\"nu0\">3</span> <span class=\"sy0\">&lt;</span> <span class=\"nu0\">4</span> <span class=\"sy0\">||</span> <span class=\"kw2\">false</span><span class=\"br0\">)</span> <span class=\"sy0\">&amp;&amp;</span> <span class=\"br0\">(</span><span class=\"kw2\">false</span> <span class=\"sy0\">||</span> <span class=\"kw2\">true</span><span class=\"br0\">)</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The && operator only results in true when both the values are true rest all cases it evaluates to false."
+    },
+    {
+        "id": 96,
+        "Question": "10. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = !<span class=\"br0\">(</span><span class=\"nu0\">3</span> <span class=\"sy0\">&lt;</span> <span class=\"nu0\">4</span> <span class=\"sy0\">||</span> <span class=\"kw2\">false</span><span class=\"br0\">)</span> <span class=\"sy0\">&amp;&amp;</span> <span class=\"br0\">(</span><span class=\"kw2\">false</span> <span class=\"sy0\">||</span> <span class=\"kw2\">true</span><span class=\"br0\">)</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boolean operator && evaluates to true only when both the values are true."
+    },
+    {
+        "id": 97,
+        "Question": "11. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = <span class=\"nu0\">2</span><span class=\"sy0\">**</span><span class=\"nu0\">3</span> != <span class=\"nu0\">3</span><span class=\"sy0\">**</span><span class=\"nu0\">2</span> <span class=\"sy0\">||</span> <span class=\"kw2\">true</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: 77<78 is true but 77<77 is false hence the overall expression will evaluate to false.\n\n\n\n\n\t\n\nOutput:\nFalse\n\n\n"
+    },
+    {
+        "id": 98,
+        "Question": "12. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = <span class=\"kw2\">false</span> <span class=\"sy0\">||</span> <span class=\"sy0\">-</span><span class=\"nu0\">10</span> <span class=\"sy0\">&gt;</span> <span class=\"sy0\">-</span><span class=\"nu0\">9</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Boolean operator || evaluates to true only when both the values are true or one is true and other is false."
+    },
+    {
+        "id": 99,
+        "Question": "13. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = !<span class=\"br0\">(</span><span class=\"nu0\">700</span> <span class=\"sy0\">/</span> <span class=\"nu0\">10</span> == <span class=\"nu0\">70</span><span class=\"br0\">)</span>\n<span class=\"kw3\">puts</span> boolean_1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boolean operator && evaluates to true only when both the values are true and !true means false hence the whole expression will evaluate to false."
+    },
+    {
+        "id": 100,
+        "Question": "14. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_1 = !<span class=\"kw2\">true</span>\n<span class=\"kw3\">puts</span> boolean_1  \nboolean_2 = !<span class=\"kw2\">true</span> <span class=\"sy0\">&amp;&amp;</span> !<span class=\"kw2\">true</span>\n<span class=\"kw3\">puts</span> boolean_2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True True",
+            "b) False False",
+            "c) True False",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boolean operator && evaluates to true only when both the values are true."
+    },
+    {
+        "id": 101,
+        "Question": "15. What will be the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> boolean_2 = !<span class=\"kw2\">true</span> <span class=\"sy0\">&amp;&amp;</span> <span class=\"br0\">(</span>!<span class=\"kw2\">true</span> <span class=\"sy0\">||</span> <span class=\"nu0\">100</span> != <span class=\"nu0\">5</span><span class=\"sy0\">**</span><span class=\"nu0\">2</span><span class=\"br0\">)</span>\n<span class=\"kw3\">puts</span> boolean_2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: 3<4 is true and true or false will evaluate to true hence the overall expression will evaluate to true.\n\n\n\n\nOutput:\nTrue\n\n\n"
+    },
+    {
+        "id": 102,
+        "Question": "Which of the following is a valid assignment operator?",
+        "Options": [
+            "a) +=",
+            "b) -=",
+            "c) *=",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Assignment operators are +=, -=, *=, /=, **=."
+    },
+    {
+        "id": 103,
+        "Question": "What does the **= assignment operator do?",
+        "Options": [
+            "a) Multiplies the value twice",
+            "b) It is used as exponent like 2**3=8",
+            "c) It is the multiplication operator.",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: a**=2 means a to the power of two.\n"
+    },
+    {
+        "id": 104,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">2</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&lt;</span> <span class=\"nu0\">68</span>\n  <span class=\"kw3\">puts</span> counter\n  counter<span class=\"sy0\">**</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 2 4 16 64",
+            "b) 2 4 16",
+            "c) 2 4 16 256",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The counter will increment by the power of two.\n\n\n        \n\nOutput:\n2\n4\n16\n\n\n"
+    },
+    {
+        "id": 105,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">1</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&lt;</span> <span class=\"nu0\">11</span>\n  <span class=\"kw3\">puts</span> counter\n  counter<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5",
+            "b) 1…10",
+            "c) 1..10",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: 1..10 inclusive 10 also. The counter will increment by one.\n\n\n\t\n\nOutput:\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\n\n"
+    },
+    {
+        "id": 106,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">100</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&gt;</span> <span class=\"nu0\">0</span>\n  <span class=\"kw3\">puts</span> counter\n  counter<span class=\"sy0\">/</span>=<span class=\"nu0\">5</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 100 20 4",
+            "b) 100 20 5",
+            "c) 100..5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Ruby does not support ++ or — operator. It only supports += or -= operator.\n"
+    },
+    {
+        "id": 107,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">100</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&gt;</span> <span class=\"nu0\">0</span>\n  <span class=\"kw3\">puts</span> counter\n  counter<span class=\"sy0\">-</span>=<span class=\"nu0\">25</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 100 75 50 25",
+            "b) 100 25 5",
+            "c) 100..5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: First counter will be 100 then after division it will become 20 then again it will become 4 and then it will come out of the loop.\n\n\nOutput: \n100\n20\n4\n\n\n"
+    },
+    {
+        "id": 108,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"sy0\">-</span><span class=\"nu0\">50</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&lt;</span><span class=\"nu0\">0</span>\n  <span class=\"kw3\">puts</span> counter\n  counter<span class=\"sy0\">+</span>=<span class=\"nu0\">10</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 100 75 50 25",
+            "b) -50 -40 -30 -20 -10",
+            "c) 100..5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The counter value will decrement by 25.\n\n\nOutput: \n100\n75\n50\n25\n\n\n"
+    },
+    {
+        "id": 109,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a = <span class=\"nu0\">22.5</span>\n<span class=\"kw1\">while</span> a <span class=\"sy0\">&gt;</span><span class=\"nu0\">11.5</span>\n  <span class=\"kw3\">puts</span> a\n  a<span class=\"sy0\">-</span>=<span class=\"nu0\">3.5</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 22.5 19.0 15.5 12.0",
+            "b) 22.5 11.5",
+            "c) 100..5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The counter value will decrement by 10 till the counter value reaches zero.\n\n\nOutput: \n-50\n-40\n-30\n-20\n-10\n\n\n"
+    },
+    {
+        "id": 110,
+        "Question": "11. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a = <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> a <span class=\"sy0\">&lt;</span><span class=\"nu0\">10</span> <span class=\"sy0\">&amp;&amp;</span> b<span class=\"sy0\">&lt;</span><span class=\"nu0\">20</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">+</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 20",
+            "b) 15 19 23",
+            "c) 15 16 17 18 19 20",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Both the expression increments the value by 1."
+    },
+    {
+        "id": 111,
+        "Question": "12. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a = <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> a <span class=\"sy0\">&lt;</span><span class=\"nu0\">10</span> <span class=\"sy0\">&amp;&amp;</span> b<span class=\"sy0\">&lt;</span><span class=\"nu0\">20</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">*</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 20",
+            "b) 15 19 23",
+            "c) 50 84 126",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The counter value will decrement by 3.5 till the counter value reaches 11.5.\n\n\nOutput: \n22.5\n19.0\n15.5\n12.0\n\n\n"
+    },
+    {
+        "id": 112,
+        "Question": "13.  What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> a= <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> a <span class=\"sy0\">&lt;</span><span class=\"nu0\">10</span> <span class=\"sy0\">&amp;&amp;</span> b<span class=\"sy0\">&lt;</span><span class=\"nu0\">20</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">-</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 20",
+            "b) 15 19 23",
+            "c) -5 -5 -5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The counter value will increment by two till a<10 and b<20.\n\n\n\n\nOutput: \n15 \n19 \n23\n\n\n"
+    },
+    {
+        "id": 113,
+        "Question": "14. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> a = <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> a <span class=\"sy0\">&lt;</span><span class=\"nu0\">10</span> <span class=\"sy0\">||</span> b<span class=\"sy0\">&lt;</span><span class=\"nu0\">20</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">*</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 20",
+            "b) 50 84 126 176 234",
+            "c) -5 -5 -5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The counter value will increment by two till a<10 and b<20 and multiply a and b.\n\n\n\n\nOutput: \n50\n84\n126\n\n\n"
+    },
+    {
+        "id": 114,
+        "Question": "15. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"> a = <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> <span class=\"br0\">(</span>a <span class=\"sy0\">&lt;</span><span class=\"nu0\">10</span> <span class=\"sy0\">||</span> b<span class=\"sy0\">&lt;</span><span class=\"nu0\">20</span><span class=\"br0\">)</span><span class=\"sy0\">&amp;&amp;</span><span class=\"kw2\">true</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">*</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 20",
+            "b) 50 84 126 176 234",
+            "c) -5 -5 -5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Even if both the values are incremented by two the difference remains the same.\n\n\nOutput: \n-5\n-5\n-5\n\n\n"
+    },
+    {
+        "id": 115,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">1</span>\n<span class=\"kw1\">while</span> counter <span class=\"sy0\">&lt;</span> <span class=\"nu0\">11</span>\n  <span class=\"kw3\">puts</span> counter\n  counter = counter <span class=\"sy0\">+</span> <span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Prints the number from 1 to 10",
+            "b) Prints the number from 1 to 11",
+            "c) Prints the number from 2 to 10",
+            "d) Infinite loop"
+        ],
+        "Answer": "Answer: a\nExplanation: While condition is true keep on looping.\n"
+    },
+    {
+        "id": 116,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"kw2\">true</span>\n<span class=\"kw1\">while</span> counter !=<span class=\"kw2\">false</span>\n  <span class=\"kw3\">puts</span> counter\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Syntax error",
+            "d) Infinite loop"
+        ],
+        "Answer": "Answer: a\nExplanation: Counter value is initialized to 1 and it keeps on looping till the counter is less than 11.\n\n\n\t\n\n        \n\nOutput:\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\n\n"
+    },
+    {
+        "id": 117,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i = <span class=\"nu0\">0</span>\n<span class=\"kw1\">while</span> i <span class=\"sy0\">&lt;</span> <span class=\"nu0\">5</span>\n  <span class=\"kw3\">puts</span> i\n   i=<span class=\"br0\">(</span>i<span class=\"sy0\">+</span><span class=\"nu0\">1</span><span class=\"br0\">)</span><span class=\"sy0\">**</span><span class=\"nu0\">2</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5",
+            "b) 0 1 4",
+            "c) 0 1",
+            "d) 1 4"
+        ],
+        "Answer": "Answer: d\nExplanation: Counter value is true in all cases hence true will be printed infinite times.\n\n\n\t\n\nOutput:\ntrue\ntrue\n...Infinite loop\n\n\n"
+    },
+    {
+        "id": 118,
+        "Question": "5. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"nu0\">5</span>\nb=<span class=\"nu0\">15</span>\n<span class=\"kw1\">while</span> a<span class=\"sy0\">&amp;&amp;</span>b\n<span class=\"kw3\">puts</span> a<span class=\"sy0\">+</span>b\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 5..15",
+            "b) 20",
+            "c) Infinite loop",
+            "d) 5 15"
+        ],
+        "Answer": "Answer: b\nExplanation: (i+1)**2 means i+1 to the power of 2 and hence the loop continues till i<5.\n\n\n\n\nOutput:\n0\n1\n4\n\n\n"
+    },
+    {
+        "id": 119,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"nu0\">5</span>\nb=<span class=\"nu0\">15</span>\n<span class=\"kw1\">while</span> b<span class=\"sy0\">&gt;</span>a\n<span class=\"kw3\">puts</span> a<span class=\"sy0\">*</span><span class=\"br0\">(</span>b<span class=\"sy0\">-</span>a<span class=\"br0\">)</span>\n<span class=\"kw1\">while</span> a<span class=\"sy0\">&gt;</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span>\n  b<span class=\"sy0\">-</span>=<span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 5..15",
+            "b) 50",
+            "c) Infinite loop",
+            "d) 5 50"
+        ],
+        "Answer": "Answer: c\nExplanation: a && b will always be true so the looping will never come to an end.\n\n\nOutput:\n20\n20\n....infinite loop\n\n\n"
+    },
+    {
+        "id": 120,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i = <span class=\"nu0\">3</span>\n<span class=\"kw1\">while</span> i <span class=\"sy0\">&gt;</span> <span class=\"nu0\">0</span> <span class=\"kw1\">do</span>\n  <span class=\"kw3\">print</span> i\n  i <span class=\"sy0\">-</span>= <span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 3",
+            "b) 321",
+            "c) Infinite loop",
+            "d) 3 2 1 0"
+        ],
+        "Answer": "Answer: c\nExplanation: b>a will always be true so the looping will never come to an end and as a>b will always be false it will never enter the other while loop.\n\n\nOutput:\n50\n50\n....infinite loop\n\n\n"
+    },
+    {
+        "id": 121,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i = <span class=\"nu0\">50</span>\n<span class=\"kw1\">while</span> i <span class=\"sy0\">&gt;</span> <span class=\"nu0\">25</span> <span class=\"kw1\">do</span>\n  <span class=\"kw3\">print</span> <span class=\"nu0\">50</span><span class=\"sy0\">/</span>i\n  i <span class=\"sy0\">-</span>= <span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 50..25",
+            "b) 50..1",
+            "c) Infinite loop",
+            "d) 1111111111111111111111111"
+        ],
+        "Answer": "Answer: b\nExplanation: The do statement here indicates that till the while condition is true execute the instructions.\n\n\nOutput:\n321\n\n\n"
+    },
+    {
+        "id": 122,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a = <span class=\"nu0\">5</span>\nb=<span class=\"nu0\">10</span>\n<span class=\"kw1\">while</span> a<span class=\"sy0\">&lt;</span>b <span class=\"kw1\">do</span>\n  <span class=\"kw3\">puts</span> a<span class=\"sy0\">*</span>b\n  a<span class=\"sy0\">+</span>=<span class=\"nu0\">2</span>\n  b<span class=\"sy0\">-</span>=<span class=\"nu0\">2</span>\n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 5 10",
+            "b) 50 56",
+            "c) Infinite loop",
+            "d) 5 6 7 8 9 10"
+        ],
+        "Answer": "Answer: d\nExplanation: The do statement here indicates that till the while condition is true execute the instructions, so here it will print all the integer values of (50/i) which\nwill always be one.\n\n\nOutput:\n1111111111111111111111111\n\n\n"
+    },
+    {
+        "id": 123,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">1</span>\n<span class=\"kw1\">until</span> counter <span class=\"sy0\">&gt;</span> <span class=\"nu0\">10</span>\n  <span class=\"kw3\">puts</span> counter\ncounter<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span> \n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5 6 7 8 9 10",
+            "b) 11 12 13 14 … infinite loop",
+            "c) 0 1 2 3 4 5 6 7 8 9",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The until loop is sort of like backward while.\n"
+    },
+    {
+        "id": 124,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">counter = <span class=\"nu0\">0</span>\n<span class=\"kw1\">until</span> counter <span class=\"sy0\">&gt;</span>= <span class=\"nu0\">10</span>\n  <span class=\"kw3\">puts</span> counter\ncounter<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span> \n  <span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5 6 7 8 9 10",
+            "b) 11 12 13 14 … infinite loop",
+            "c) 0 1 2 3 4 5 6 7 8 9",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Until the condition is false continue looping.\n\n\n\t\n\n        \n\nOutput:\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\n\n"
+    },
+    {
+        "id": 125,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i = <span class=\"nu0\">3</span>\n<span class=\"kw1\">while</span> i <span class=\"sy0\">&gt;</span> <span class=\"nu0\">0</span> <span class=\"kw1\">do</span>\n  <span class=\"kw3\">puts</span> i\n  i <span class=\"sy0\">-</span>= <span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span>\n&nbsp;\nj = <span class=\"nu0\">3</span>\n<span class=\"kw1\">until</span> j == <span class=\"nu0\">0</span> <span class=\"kw1\">do</span>\n  <span class=\"kw3\">puts</span> j\n  j <span class=\"sy0\">-</span>= <span class=\"nu0\">1</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 1 2 3",
+            "b) 3 2 1 3 2 1",
+            "c) 0 1 2 3 4 5 6 7 8 9",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Until the condition is false continue looping and here 10 will not be included because condition becomes true when counter is 10.\n\n\n\t\n\nOutput:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n"
+    },
+    {
+        "id": 126,
+        "Question": "5. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"st0\">\"hungry\"</span>\n<span class=\"kw1\">until</span> !a\n<span class=\"kw3\">puts</span> <span class=\"st0\">\"hungry\"</span>\na=!a\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) hungry",
+            "b) Nil",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: When it comes out of the while loop the until loop starts executing.\n\n\nOutput:\n3\n2\n1\n3\n2\n1\n\n\n"
+    },
+    {
+        "id": 127,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m= <span class=\"nu0\">8</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    m <span class=\"sy0\">+</span>= <span class=\"nu0\">2</span>\n    <span class=\"kw3\">puts</span> m\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m == <span class=\"nu0\">16</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 10 12 14 16",
+            "b) Nil",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Until the condition is not met execute the loop.\n\n\nOutput:\nhungry\n\n\n"
+    },
+    {
+        "id": 128,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m=<span class=\"nu0\">0</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"ruby\"</span>\n    m<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span>\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m==<span class=\"nu0\">5</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) rubyrubyrubyrubyrubyruby",
+            "b) rubyrubyrubyrubyruby",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Execute the loop till the condition is met.\n\n\nOutput:\n10\n12\n14\n16\n\n\n"
+    },
+    {
+        "id": 129,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m=<span class=\"nu0\">0</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    <span class=\"kw3\">puts</span> m<span class=\"sy0\">*</span><span class=\"nu0\">10</span>\n    m<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span>\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m==<span class=\"nu0\">5</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 0 10 20 30 40",
+            "b) 10 20 30 40 50",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Execute the loop till m!=5 and then break when m=5.\n\n\nOutput:\nrubyrubyrubyrubyruby\n\n\n"
+    },
+    {
+        "id": 130,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m=<span class=\"nu0\">0</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    <span class=\"kw3\">puts</span> <span class=\"nu0\">101</span>\n    m<span class=\"sy0\">+</span>=<span class=\"nu0\">1</span>\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m==<span class=\"nu0\">5</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 101 101 101 101 101",
+            "b) 10 20 30 40 50",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Execute the loop till m!=5 and then print m*10.\n\n\nOutput:\n0\n10\n20\n30\n40\n\n\n"
+    },
+    {
+        "id": 131,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m=<span class=\"nu0\">5</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    m<span class=\"sy0\">-</span>=<span class=\"nu0\">1</span>\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m==<span class=\"nu0\">0</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5",
+            "b) 10 20 30 40 50",
+            "c) Error",
+            "d) Nil"
+        ],
+        "Answer": "Answer: a\nExplanation: Execute the loop till m!=5 and then print 101 five times.\n\n\nOutput:\n101\n101\n101\n101\n101\n\n\n"
+    },
+    {
+        "id": 132,
+        "Question": "1. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">for</span> num <span class=\"kw1\">in</span> <span class=\"nu0\">1</span>...<span class=\"nu0\">5</span>\n  <span class=\"kw3\">puts</span> num\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5",
+            "b) 1 2 3 4",
+            "c) 2 3 4 5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: As the range i.e 1…10 is exclusive the loop will loop till 4 and then it will come out of the loop.\n\n\n\t\n\n        \n\nOutput:\n1\n2\n3\n4\n\n\n"
+    },
+    {
+        "id": 133,
+        "Question": "What does the 1…10 indicate?",
+        "Options": [
+            "a) Inclusive range",
+            "b) Exclusive range",
+            "c) Both inclusive and exclusive range",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: 1…10 means start from one and go till 9 and don’t include 10. "
+    },
+    {
+        "id": 134,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">for</span> num <span class=\"kw1\">in</span> <span class=\"nu0\">1</span>..<span class=\"nu0\">3</span>\n  <span class=\"kw3\">puts</span> num\n  <span class=\"kw1\">for</span> i <span class=\"kw1\">in</span> <span class=\"nu0\">1</span>..<span class=\"nu0\">2</span>\n  <span class=\"kw3\">puts</span> num<span class=\"sy0\">*</span>i\n  <span class=\"kw1\">end</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 1 2 3 4 5",
+            "b) 1 1 2 2 2 4 3 3 6",
+            "c) 2 3 4 5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: This is a nested loop.\n\n\n\t\n\nOutput:\n1\n1\n2\n2\n2\n4\n3\n3\n6\n\n\n"
+    },
+    {
+        "id": 135,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">m= <span class=\"nu0\">0</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    m <span class=\"sy0\">+</span>= <span class=\"nu0\">1</span>\n    <span class=\"kw3\">print</span> m\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m == <span class=\"nu0\">10</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 12345678910",
+            "b) 1 2 3 4",
+            "c) 2 3 4 5",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Loop till the condition is met and break when the condition is not satisfied.\n\n\nOutput:\n12345678910\n\n\n"
+    },
+    {
+        "id": 136,
+        "Question": "5. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">for</span> num <span class=\"kw1\">in</span> <span class=\"nu0\">1</span>..<span class=\"nu0\">5</span>\n  <span class=\"kw3\">puts</span> num<span class=\"sy0\">*</span>num\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 12345678910",
+            "b) 1 2 3 4",
+            "c) 1 4 9 16 25",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Loop till the condition is met and break when the condition is not satisfied.\n\n\nOutput:\n1\n4\n9\n16\n25\n\n\n"
+    },
+    {
+        "id": 137,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw1\">for</span> num <span class=\"kw1\">in</span> <span class=\"nu0\">1</span>..<span class=\"nu0\">3</span>\n  <span class=\"kw3\">puts</span> num<span class=\"sy0\">*</span>num\n  m= <span class=\"nu0\">0</span>\n<span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    m <span class=\"sy0\">+</span>= <span class=\"nu0\">1</span>\n    <span class=\"kw3\">puts</span> m\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m == <span class=\"nu0\">3</span>\n<span class=\"kw1\">end</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 12345678910",
+            "b) 1 1 2 3 4 1 2 3 9 1 2 3",
+            "c) 1 4 9 16 25",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Loop till the condition is met and break when the condition is not satisfied.\n\n\nOutput:\n1\n1\n2\n3\n4\n1\n2\n3\n9\n1\n2\n3\n\n\n"
+    },
+    {
+        "id": 138,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw3\">loop</span> <span class=\"kw1\">do</span>\n    m <span class=\"sy0\">+</span>= <span class=\"nu0\">1</span>\n    <span class=\"kw3\">puts</span> m\n    <span class=\"kw1\">break</span> <span class=\"kw1\">if</span> m == <span class=\"nu0\">3</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Garbage values",
+            "b) 1 1 2 3 4 1 2 3 9 1 2 3",
+            "c) 1 4 9 16 25",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Loop till the condition is met and break when the condition is not satisfied.\n\n\nOutput:\nGarbage values\n\n\n"
+    },
+    {
+        "id": 139,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i=<span class=\"nu0\">1</span>\n<span class=\"kw1\">for</span> i <span class=\"kw1\">in</span> <span class=\"nu0\">5</span>..<span class=\"nu0\">10</span>\n<span class=\"kw3\">puts</span> i^<span class=\"nu0\">2</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 7 4 5 10 11 8",
+            "b) 25 36 49 64 81 100",
+            "c) 1 4 9 16 25",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Initialize the value of i and then print i**2.\n\n\nOutput:\n25\n36\n49\n64\n81\n100\n\n\n"
+    },
+    {
+        "id": 140,
+        "Question": " What does the 1..10 indicate?",
+        "Options": [
+            "a) Inclusive range",
+            "b) Exclusive range",
+            "c) Both inclusive and exclusive range",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: 1..10 means start from one and go till 9 and even include 10. "
+    },
+    {
+        "id": 141,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">i=<span class=\"nu0\">5</span>\nj=<span class=\"nu0\">10</span>\n<span class=\"kw1\">for</span> i <span class=\"kw1\">in</span> <span class=\"nu0\">5</span>..<span class=\"nu0\">10</span> <span class=\"sy0\">&amp;&amp;</span> j <span class=\"kw1\">in</span> <span class=\"nu0\">5</span>..<span class=\"nu0\">10</span>\n<span class=\"kw3\">puts</span> i<span class=\"sy0\">**</span>j\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Syntax error",
+            "b) 25 36 49 64 81 100",
+            "c) 1 4 9 16 25",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Initialize the value of i  and j and then when condition is true print i**j.\n\n\nOutput:\nsyntax error, unexpected keyword_in, expecting keyword_do_cond or ';' or '\\n'\nfor i in 5..10 && j in 5..10 syntax error, unexpected keyword_end, expecting $end\n\n\n"
+    },
+    {
+        "id": 142,
+        "Question": "2. What will be output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">my_array = <span class=\"br0\">[</span><span class=\"nu0\">1</span>, <span class=\"nu0\">2</span>, <span class=\"nu0\">3</span>, <span class=\"nu0\">4</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> my_array</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [1, 2, 3, 4].",
+            "b) 1234",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: We can store multiple value in one single variable known as arrays.\n"
+    },
+    {
+        "id": 143,
+        "Question": "4. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw3\">array</span> = <span class=\"br0\">[</span><span class=\"nu0\">100</span>, <span class=\"nu0\">200</span>, <span class=\"nu0\">300</span>, <span class=\"nu0\">400</span>, <span class=\"nu0\">500</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> <span class=\"kw3\">array</span><span class=\"br0\">[</span><span class=\"nu0\">4</span><span class=\"br0\">]</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 400",
+            "b) 500",
+            "c) Nil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A variable my_array is declared and [1, 2, 3, 4] is stored in that variable.\n\n\n\t\n\n        \n\nOutput:\n[1, 2, 3, 4]\n\n\n"
+    },
+    {
+        "id": 144,
+        "Question": "5. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw3\">array</span> = <span class=\"br0\">[</span><span class=\"nu0\">100</span>, <span class=\"nu0\">200</span>, <span class=\"nu0\">300</span>, <span class=\"nu0\">400</span>, <span class=\"nu0\">500</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> <span class=\"kw3\">array</span><span class=\"br0\">[</span><span class=\"nu0\">5</span><span class=\"br0\">]</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) 400",
+            "b) 500",
+            "c) Nil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Array’s starting index is index 0 not index 1."
+    },
+    {
+        "id": 145,
+        "Question": "6. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\"><span class=\"kw3\">array</span> = <span class=\"br0\">[</span><span class=\"nu0\">100</span>, <span class=\"nu0\">200</span>, <span class=\"nu0\">300</span>, <span class=\"nu0\">400</span>, <span class=\"nu0\">500</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> <span class=\"st0\">\"array[5]\"</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) array[5].",
+            "b) 500",
+            "c) Nil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Array’s index start from 0 so array[4] will give 500.\n\n\n\t\n\nOutput:\n500\n\n\n"
+    },
+    {
+        "id": 146,
+        "Question": "7. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"nu0\">100</span>, <span class=\"nu0\">200</span>, <span class=\"nu0\">300</span>, <span class=\"nu0\">400</span>, <span class=\"nu0\">500</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1 == array2\n<span class=\"kw3\">print</span> <span class=\"st0\">\"They are equal\"</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) They are equal",
+            "b) Not equal",
+            "c) Nil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Array’s index start from 0 so array[5] will give nothing.\n\n\nOutput:\nNil\n\n\n"
+    },
+    {
+        "id": 147,
+        "Question": "8. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1 == array2\n<span class=\"kw3\">print</span> <span class=\"st0\">\"They are equal\"</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) They are equal",
+            "b) Not equal",
+            "c) Nil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Anything in double quotes is treated as string.\n\n\nOutput:\narray[5]\n\n\n"
+    },
+    {
+        "id": 148,
+        "Question": "9. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1 <span class=\"sy0\">&gt;</span>= array2\n<span class=\"kw3\">print</span> <span class=\"st0\">\"Greater or equal\"</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Greater or equal",
+            "b) Not equal",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Two arrays are said to be equal if each and every element of both the arrays are equal.\n\n\nOutput:\nNot equal\n\n\n"
+    },
+    {
+        "id": 149,
+        "Question": "10. What will be the output of the following?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1 == array2\n<span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span> \n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Not equal",
+            "c) Error",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Two arrays are said to be equal if each and every element of both the arrays are equal.\n\n\nOutput:\nThey are equal\n\n\n"
+    },
+    {
+        "id": 150,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">string_array = <span class=\"br0\">[</span><span class=\"st0\">\"a\"</span>,<span class=\"st0\">\"e\"</span>,<span class=\"st0\">\"i\"</span>,<span class=\"st0\">\"o\"</span>,<span class=\"st0\">\"u\"</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> string_array</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [“a”,”e”,”i”,”o”,”u”].",
+            "b) Error",
+            "c) Vowels",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Arrays of strings, numbers, booleans can be made."
+    },
+    {
+        "id": 151,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">string_array = <span class=\"br0\">[</span><span class=\"st0\">\"a\"</span>,<span class=\"st0\">\"e\"</span>,<span class=\"st0\">\"i\"</span>,<span class=\"st0\">\"o\"</span>,<span class=\"st0\">\"u\"</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> string_array<span class=\"br0\">[</span><span class=\"nu0\">3</span><span class=\"br0\">]</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [“a”,”e”,”i”,”o”,”u”].",
+            "b) Error",
+            "c) o",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The array is a string array.\n\n\t\n\n\nOutput:\n[\"a\",\"e\",\"i\",\"o\",\"u\"]\n\n\n"
+    },
+    {
+        "id": 152,
+        "Question": "a) [“a”,”e”,”i”,”o”,”u”].",
+        "Options": [
+            "b) Error",
+            "c) o",
+            "   False",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output and then the boolean_array will get printed.\n\n\t\n\n\nOutput:\no\nTrue\nFalse\n\n\n"
+    },
+    {
+        "id": 153,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">6</span>,<span class=\"nu0\">8</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a<span class=\"br0\">[</span><span class=\"nu0\">3</span><span class=\"br0\">]</span>==b<span class=\"br0\">[</span><span class=\"nu0\">2</span><span class=\"br0\">]</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) 4",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output.\n\n        \n\n\nOutput:\no\n\n\n"
+    },
+    {
+        "id": 154,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output and then the boolean_array[1] = false will get printed.\n\n\nOutput:\no\nFalse\n\n\n"
+    },
+    {
+        "id": 155,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: a[3]=4 and b[2]=4 hence it will print equal according to the given if condition.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 156,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"language\"</span>, <span class=\"st0\">\"ruby\"</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Elements of both the array are same hence they are equal.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 157,
+        "Question": "a) 3 ruby",
+        "Options": [
+            "b) Error",
+            "c) 2",
+            "   language",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Elements of both the array are same and in same sequence hence they are equal.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 158,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">multi_d_array = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> multi_d_array</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]].",
+            "b) [0, 0, 0, 0].",
+            "c) [0, 0, 0, 0][0, 0, 0, 0].",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: We can put anything in an array and make it array of arrays."
+    },
+    {
+        "id": 159,
+        "Question": "4. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1==array2\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3, 4], [0, 0, 0, 0]].",
+            "b) Equal",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Array inside array is declared and then printed.\n\n\n\t\n\n        \n\nOutput:\n[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]\n\n\n"
+    },
+    {
+        "id": 160,
+        "Question": "5. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> array1==array2\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3, 4], [0, 0, 0, 0]].",
+            "b) Equal",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Array inside array is declared and then printed and .each is the iterator used.\n\n\n\t\n\nOutput:\n[1, 2, 3, 4]\n[0, 0, 0, 0]\n[[1, 2, 3, 4], [0, 0, 0, 0]]\n\n\n"
+    },
+    {
+        "id": 161,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> array1<span class=\"sy0\">+</span>array2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3, 4], [0, 0, 0, 0]].",
+            "b) [[1, 2, 3, 4], [0, 0, 0, 0], [1, 2, 3, 4], [0, 0, 0, 0]].",
+            "c) [[2,4,6,8],[0,0,0,0]].",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Number of elements in both the arrays are not same hence they are unequal\n\n\nOutput:\nNot equal\n\n\n"
+    },
+    {
+        "id": 162,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> array1<span class=\"sy0\">-</span>array2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3, 4], [0, 0, 0, 0]].",
+            "b) [[1, 2, 3, 4], [0, 0, 0, 0], [1, 2, 3, 4], [0, 0, 0, 0]].",
+            "c) [].",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of elements in both the arrays are same hence they are unequal\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 163,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> array1<span class=\"sy0\">*</span>array2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3, 4], [0, 0, 0, 0]].",
+            "b) [[1, 2, 3, 4], [0, 0, 0, 0], [1, 2, 3, 4], [0, 0, 0, 0]].",
+            "c) [].",
+            "d) Error"
+        ],
+        "Answer": "Answer: b\nExplanation: By adding two arrays we mean appending those two arrays.\n\n\nOutput:\n[[1, 2, 3, 4], [0, 0, 0, 0], [1, 2, 3, 4], [0, 0, 0, 0]]\n\n\n"
+    },
+    {
+        "id": 164,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> array1 <span class=\"sy0\">&amp;&amp;</span> array2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3], [0, 0, 0]].",
+            "b) [[1, 2, 3, 4], [0, 0, 0, 0], [1, 2, 3, 4], [0, 0, 0, 0]].",
+            "c) [].",
+            "d) Error"
+        ],
+        "Answer": "Answer: c\nExplanation: We get an empty array by subtracting two arrays of same elements\n\n\nOutput:\n[]\n\n\n"
+    },
+    {
+        "id": 165,
+        "Question": "10. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> array1 <span class=\"sy0\">||</span> array2</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3], [0, 0, 0]].",
+            "b) [[1, 2, 3, 4, 5], [0, 0, 0, 0]].",
+            "c) [].",
+            "d) Error"
+        ],
+        "Answer": "Answer: d\nExplanation: We can’t directly multiply elements of array, it will show an error\n\n\nOutput:\ncan't convert Array into Integer\n\n\n"
+    },
+    {
+        "id": 166,
+        "Question": "11. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">array1 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\narray2 = <span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span><span class=\"br0\">]</span>,<span class=\"br0\">[</span><span class=\"nu0\">0</span>,<span class=\"nu0\">0</span>,<span class=\"nu0\">0</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> !array1</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[1, 2, 3], [0, 0, 0]].",
+            "b) [[1, 2, 3, 4, 5], [0, 0, 0, 0]].",
+            "c) False",
+            "d) Error"
+        ],
+        "Answer": "Answer: a\nExplanation: Anding two arrays will give the common elements in both the arrays.\n\n\nOutput:\n[[1, 2, 3], [0, 0, 0]]\n\n\n"
+    },
+    {
+        "id": 167,
+        "Question": "12. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"st0\">\"a\"</span>,<span class=\"st0\">\"b\"</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"br0\">[</span><span class=\"st0\">\"e\"</span>,<span class=\"st0\">\"a\"</span><span class=\"br0\">]</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> a <span class=\"sy0\">+</span> b</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [[“a”, “b”], [“e”, “a”]].",
+            "b) [[“2a”, “b”], [“e”]].",
+            "c) False",
+            "d) Error"
+        ],
+        "Answer": "Answer: b\nExplanation: Oring two arrays will give the maximum number common and uncommon elements in both the arrays.\n\n\nOutput:\n[[1, 2, 3, 4, 5], [0, 0, 0, 0]]\n\n\n"
+    },
+    {
+        "id": 168,
+        "Options": [
+            "This set of Ruby Programming Interview Questions and Answers for Experienced people focuses on “Introduction to Hashes”.",
+            "1. It is possible to make array of booleans.",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: a\nExplanation: Arrays of strings, numbers, booleans can be made."
+    },
+    {
+        "id": 169,
+        "Question": "2. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">string_array = <span class=\"br0\">[</span><span class=\"st0\">\"a\"</span>,<span class=\"st0\">\"e\"</span>,<span class=\"st0\">\"i\"</span>,<span class=\"st0\">\"o\"</span>,<span class=\"st0\">\"u\"</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> string_array</pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [“a”,”e”,”i”,”o”,”u”].",
+            "b) Error",
+            "c) Vowels",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The array is a string array.\n\n\t\n\n\nOutput:\n[\"a\",\"e\",\"i\",\"o\",\"u\"]\n\n\n"
+    },
+    {
+        "id": 170,
+        "Question": "3. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">string_array = <span class=\"br0\">[</span><span class=\"st0\">\"a\"</span>,<span class=\"st0\">\"e\"</span>,<span class=\"st0\">\"i\"</span>,<span class=\"st0\">\"o\"</span>,<span class=\"st0\">\"u\"</span><span class=\"br0\">]</span>\n<span class=\"kw3\">print</span> string_array<span class=\"br0\">[</span><span class=\"nu0\">3</span><span class=\"br0\">]</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) [“a”,”e”,”i”,”o”,”u”].",
+            "b) Error",
+            "c) o",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output.\n\n        \n\n\nOutput:\no\n\n\n"
+    },
+    {
+        "id": 171,
+        "Question": "a) [“a”,”e”,”i”,”o”,”u”].",
+        "Options": [
+            "b) Error",
+            "c) o",
+            "   False",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output and then the boolean_array[1] = false will get printed.\n\n\nOutput:\no\nFalse\n\n\n"
+    },
+    {
+        "id": 172,
+        "Question": "6. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">6</span>,<span class=\"nu0\">8</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a<span class=\"br0\">[</span><span class=\"nu0\">3</span><span class=\"br0\">]</span>==b<span class=\"br0\">[</span><span class=\"nu0\">2</span><span class=\"br0\">]</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) 4",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The array is a string array and the index is 3 so ‘o’ will be the output and then the boolean_array will get printed.\n\n\nOutput:\no\nTrue\nFalse\n\n\n"
+    },
+    {
+        "id": 173,
+        "Question": "7. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"nu0\">1</span>,<span class=\"nu0\">2</span>,<span class=\"nu0\">3</span>,<span class=\"nu0\">4</span>,<span class=\"nu0\">5</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: a[3]=4 and b[2]=4 hence it will print equal according to the given if condition.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 174,
+        "Question": "8. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Elements of both the array are same hence they are equal.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 175,
+        "Question": "9. What is the output of the given code?<div class=\"hk1_style-wrap4\"><div class=\"hk1_style-wrap3\"><div class=\"hk1_style-wrap2\"><div class=\"hk1_style-wrap\"><div class=\"hk1_style\"><div class=\"ruby\"><pre class=\"de1\">a=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"ruby\"</span>, <span class=\"st0\">\"language\"</span><span class=\"br0\">]</span>\nb=<span class=\"br0\">[</span><span class=\"st0\">\"hey\"</span>, <span class=\"st0\">\"language\"</span>, <span class=\"st0\">\"ruby\"</span><span class=\"br0\">]</span>\n<span class=\"kw1\">if</span> a==b\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Equal\"</span>\n<span class=\"kw1\">else</span>\n    <span class=\"kw3\">print</span> <span class=\"st0\">\"Not equal\"</span>\n<span class=\"kw1\">end</span></pre></div></div></div></div></div></div>",
+        "Options": [
+            "a) Equal",
+            "b) Error",
+            "c) Not equal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Elements of both the array are same and in same sequence hence they are equal.\n\n\nOutput:\nEqual\n\n\n"
+    },
+    {
+        "id": 176,
+        "Question": "a) 3 ruby",
+        "Options": [
+            "b) Error",
+            "c) 2",
+            "   language",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Elements of both the array are same but not in same sequence hence they are not equal.\n\n\nOutput:\nNot equal\n\n\n"
+    }
+]

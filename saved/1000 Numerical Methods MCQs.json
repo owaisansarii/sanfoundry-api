@@ -1,0 +1,2401 @@
+[
+    {
+        "id": 1,
+        "Question": "Using Bisection method find the root of cos(x) – x * ex = 0 with a = 0 and b = 1.",
+        "Options": [
+            "a) 0.617",
+            "b) 0.527",
+            "c) 0.517",
+            "d) 0.717"
+        ],
+        "Answer": "Answer: c\nExplanation: Iteration table is given as follows\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n0\n1\n0.5\n0.053\n\n\n2\n0.5\n1\n0.75\n-0.046\n\n\n3\n0.5\n0.75\n0.625\n-0.357\n\n\n4\n0.5\n0.625\n0.562\n-7.52*10-3\n\n\n5\n0.5\n0.562\n0.531\n-2.168*10-3\n\n\n6\n0.5\n0.531\n0.516\n3.648*10-4\n\n\n7\n0.516\n0.531\n0.524\n-9.371*10-5\n\n\n8\n0.516\n0.524\n0.520\n-3.649*10-5\n\n\n9\n0.516\n0.520\n0.518\n-3.941*10-6\n\n\n10\n0.516\n0.516\n0.517\n1.229*10-5\n\n\n\n\n\tThe difference between final values is less than 0.01 hence we stop the iterations. So one of the roots of cos(x) – x * exp(x) = 0 is approximately 0.517."
+    },
+    {
+        "id": 2,
+        "Question": "Find the root of x4-x-10 = 0 approximately upto 5 iterations using Bisection Method. Let a = 1.5 and b = 2.",
+        "Options": [
+            "a) 1.68",
+            "b) 1.86",
+            "c) 1.88",
+            "d) 1.66"
+        ],
+        "Answer": "Answer: b\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n1.5\n2\n1.75\n15.264(+ve)\n\n\n2\n1.75\n2\n1.875\n2.419(+ve)\n\n\n3\n1.75\n1.875\n1.812\n2.419(+ve)\n\n\n4\n1.812\n1.875\n1.844\n-0.303(-ve)\n\n\n5\n1.844\n1.875\n1.86\n-0.027(-ve)\n\n\n\n\n\t\n\n        We stop iterations after 5 and thus obtain the approximated value of x. So one of the roots of x4-x-10 = 0 is approximately 1.86."
+    },
+    {
+        "id": 3,
+        "Question": "A function is given by x – e-x = 0. Find the root between a = 0 and b = 1 by using Bisection method.",
+        "Options": [
+            "a) 0.655",
+            "b) 0.665",
+            "c) 0.565",
+            "d) 0.656"
+        ],
+        "Answer": "Answer: b\nExplanation: If a function is real and continuous in the region from a to b and f(a) and f(b) and if both have different signs then there is at least one real root between a and b. This is because the function has to cross the x-axis at least once."
+    },
+    {
+        "id": 4,
+        "Question": "A function f(x) is given as  e-x * (x2+5x+2) + 1 = 0. Let a = 0 and b = -1. Find the root between a and b using Bisection Method.",
+        "Options": [
+            "a) -0.557",
+            "b) -0.575",
+            "c) -0.775",
+            "d) -0.0577"
+        ],
+        "Answer": "Answer: c\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n0\n1\n0.5\n0.107\n\n\n2\n0.5\n1\n0.75\n-0.03\n\n\n3\n0.5\n0.75\n0.625\n-0.00956\n\n\n4\n0.5\n0.625\n0.562\n0.0007758\n\n\n5\n0.562\n0.625\n0.593\n-0.0003317\n\n\n6\n0.562\n0.593\n0.577\n-0.0001307\n\n\n7\n0.562\n0.577\n0.569\n-0.00002978\n\n\n8\n0.562\n0.569\n0.565\n0.00002078\n\n\nThe difference between the final iterating values is less than 0.01. So one of the root of   x – e-x = 0 is approximately 0.565."
+    },
+    {
+        "id": 5,
+        "Question": "Use Bisection Method to find out the root of x – sinx – 0.5 = 0 between 1 and 2.",
+        "Options": [
+            "a) 1.497",
+            "b) 1.947",
+            "c) 1.479",
+            "d) 1.974"
+        ],
+        "Answer": "Answer: c\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nB\nc\nf(a)*f(c)\n\n\n1\n0\n-1\n-0.5\n1.763(+ve)\n\n\n2\n-0.5\n-1\n-0.75\n-0.89(-ve)\n\n\n3\n-0.5\n-0.75\n-0.625\n-0.219(-ve)\n\n\n4\n-0.5\n-0.625\n-0.562\n0.076(+ve)\n\n\n5\n-0.562\n-0.625\n-0.593\n-0.015(-ve)\n\n\n6\n-0.562\n-0.593\n-0.577\n1.733*10-3(+ve)\n\n\nThe difference between the final iterating values is less than 0.01. So one of the roots of e-x * (x2-5x+2) + 1 = 0 is approximately -0.577."
+    },
+    {
+        "id": 6,
+        "Question": "Find the approximated value of x till 4 iterations for e-x = 3 log(x) using Bisection Method.",
+        "Options": [
+            "a) 1.197",
+            "b) 1.187",
+            "c) 1.167",
+            "d) 1.176"
+        ],
+        "Answer": "Answer: a\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(b)\n\n\n1\n1\n2\n1.5\n-8.554*10-4(-)\n\n\n2\n1\n1.5\n1.25\n0.068(+)\n\n\n3\n1.25\n1.5\n1.375\n0.021(+)\n\n\n4\n1.375\n1.5\n1.437\n5.679*10-3(+)\n\n\n5\n1.437\n1.5\n1.469\n1.42*10-3(+)\n\n\n6\n1.469\n1.5\n1.485\n3.042*10-4(+)\n\n\n7\n1.485\n1.5\n1.493\n5.023*10-5(+)\n\n\n8\n1.493\n1.5\n1.497\n2.947*10-6(+)\n\n\nSince the difference between b and c is less than 0.01 we stop the iterations. So one of the roots of x-sinx – 0.5 = 0 is approximately 1.497."
+    },
+    {
+        "id": 7,
+        "Question": "Find a root of   f (x) = 3x + sin(x) – ex = 0. Use 6 iterations to find the approximate value of x.",
+        "Options": [
+            "a) 0.3605",
+            "b) 0.3650",
+            "c) 0.3615",
+            "d) 0.3655"
+        ],
+        "Answer": "Answer: b\nExplanation: Iteration table is given as follows.\n\n\nNo.\na\nb\nc\nf(a)*f(b)\n\n\n1\n0.5\n1.5\n1\n0.555(+ve)\n\n\n2\n1\n1.5\n1.25\n-1.555*10-3(-ve)\n\n\n3\n1\n1.25\n1.125\n0.063(+ve)\n\n\n4\n1.125\n1.25\n1.187\n0.014(+ve)\n\n\nHence we stop the iterations after 4. Therefore the approximated value of x is 1.187."
+    },
+    {
+        "id": 8,
+        "Question": "A function is defined as  f(x) = x2 – 3. Between the interval [1,2] find the root of the function by Bisection Method.",
+        "Options": [
+            "a) 1.7334",
+            "b) 1.7364",
+            "c) 1.7354",
+            "d) 1.7344"
+        ],
+        "Answer": "Answer: a\nExplanation: The iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(b)\n\n\n1\n0\n0.5\n0.25\n0.287(+ve)\n\n\n2\n0.25\n0.5\n0.393\n-0.015(-ve)\n\n\n3\n0.65\n0.393\n0.34\n9.69(+ve)\n\n\n4\n0.34\n0.393\n0.367\n-7.81(-ve)\n\n\n5\n0.34\n0.367\n0.354\n8.9(+ve)\n\n\n6\n0.354\n0.367\n0.3605\n-3.1(-ve)\n\n\nWe have to find the value of x approximated to 6 iterations. So one of the roots of 3x + sin(x) – ex = 0 is approximately 0.3605."
+    },
+    {
+        "id": 9,
+        "Question": "The Bisection method is also known as ___________________",
+        "Options": [
+            "a) Binary Chopping",
+            "b) Quaternary Chopping",
+            "c) Tri region Chopping",
+            "d) Hex region Chopping"
+        ],
+        "Answer": "Answer: d\nExplanation: f(x) = x2 – 3.\n\n\na\nb\nf(a)\nf(b)\nc = (a+b)/2\nf(c)\nSubstitution\nnew b-a\n\n\n1\n2\n-2\n1\n1.5\n-0.75\na=c\n0.5\n\n\n1.5\n2\n-0.75\n1\n1.75\n0.062\nb=c\n0.25\n\n\n1.5\n1.75\n-0.75\n0.0625\n1.625\n-0.359\na=c\n0.125\n\n\n1.625\n1.75\n-0.75\n0.0625\n1.6875\n-0.1523\na=c\n0.0625\n\n\n1.625\n1.75\n-0.3594\n0.0625\n1.6875\n-0.1523\na=c\n0.0625\n\n\n1.6875\n1.75\n-0.1523\n0.0625\n1.7188\n-0.0457\na=c\n0.0313\n\n\n1.7188\n1.75\n-0.0457\n0.0625\n1.7344\n0.0081\nb=c\n0.0156\n\n\n1.7266\n1.7344\n-0.0457\n0.0081\n1.7266\n-0.0189\na=c\n0.0078\n\n\nThus, with the seventh iteration, we note that the final interval, [1.7266, 1.7344], has a width less than 0.01 and |f(1.7344)| < 0.01. Hence we chose b = 1.7344 to be our approximation of the root."
+    },
+    {
+        "id": 10,
+        "Question": "Using Bisection method find the root of 3x2 = 5x+2 in the interval [0,3].",
+        "Options": [
+            "a) 0.617",
+            "b) 0.527",
+            "c) 0.517",
+            "d) 0.717"
+        ],
+        "Answer": "Answer: c\nExplanation: Function f(x) = 3x2 – 5x – 2 = 0. The Iteration table is given as follows\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n0\n3\n2.25\nPositive\n\n\n2\n1.5\n3\n2.25\nNegative\n\n\n3\n1.5\n2.25\n1.875\nPositive\n\n\n4\n1.875\n2.25\n2.0625\nNegative\n\n\n5\n1.875\n2.0625\n1.96875\nPositive\n\n\n6\n1.96875\n2.0625\n2.015625\nNegative\n\n\n7\n1.96875\n2.015625\n1.9921875\nPositive\n\n\n8\n1.9921875\n2.015625\n2.00390625\nNegative\n\n\n9\n1.9921875\n2.00390625\n1.99806875\nPositive\n\n\n10\n1.998046875\n2.00390625\n2.000976563\nNegative\n\n\n\n\n\tThe difference between final values is less than 0.01 hence we stop the iterations. So one of the roots of f(x) = 3x2 – 5x-2 = 0 is approximately 2.000976563."
+    },
+    {
+        "id": 11,
+        "Question": "Find the root of xe-x -0.3 = 0 using Bisection Method in the interval [1,5].",
+        "Options": [
+            "a) 1.68",
+            "b) 1.86",
+            "c) 1.88",
+            "d) 1.66"
+        ],
+        "Answer": "Answer: b\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n1.0\n5.0\n3.0\n(-)\n\n\n2\n1.0\n3.0\n2.0\n(-)\n\n\n3\n1.0\n2.0\n1.5\n(+)\n\n\n4\n1.5\n2.0\n1.75\n(+)\n\n\n5\n1.75\n2.0\n1.875\n(-)\n\n\n6\n1.75\n1.875\n1.8125\n(-)\n\n\n7\n1.75\n1.8125\n1.78125\n(+)\n\n\n8\n1.78125\n1.8125\n1.796875\n(-)\n\n\n9\n1.78125\n1.796875\n1.7890625\n(-)\n\n\n\n\n\t\n\n        After 9 iterations the difference between the last 2 values is less than 0.01. Thus the approximated value of x is 1.7890625."
+    },
+    {
+        "id": 12,
+        "Question": "If it is provided that f(3) = 4 is one of the initial points. What can be the choice of second point for solving by Bisection Method?",
+        "Options": [
+            "a) -5 such that f(-5) = -26",
+            "b) 0 such that f(0) = 5",
+            "c) -3 such that f(-3) = -2",
+            "d) 13 such that f(13) = 2"
+        ],
+        "Answer": "Answer: b\nExplanation: If a function is real and continuous in the region from a to b and f(a) and f(b) and if  both have different signs then there is at least one real root between a and b. This is because the function has to cross the x-axis at least once. The given values are both positive so it is insufficient to find out the roots through Bisection method."
+    },
+    {
+        "id": 13,
+        "Question": "What is the percentage decrease in an interval containing root after iteration is applied by Bisection Method?",
+        "Options": [
+            "a) 20%",
+            "b) 30%",
+            "c) 40%",
+            "d) 50%"
+        ],
+        "Answer": "Answer:  b\nExplanation: The Bisection Method states that function under Bisection Method must be continuous on the interval on which the Bisection Method is applied. Moreover the function has to be a real valued to be able to find the roots by Bisection Method."
+    },
+    {
+        "id": 14,
+        "Question": "Find the approximated value of x till 6 iterations for x3-4x+9=0 using Bisection Method. Take a = -3 and b = -2.",
+        "Options": [
+            "a) -2.703125",
+            "b) -1.903125",
+            "c) -3.903125",
+            "d) -0.703125"
+        ],
+        "Answer": "Answer: c\nExplanation: The Bisection Method involves the procedure of solving a numerical through a bracketing method. This involves defining 2 points where a bracket is small enough and such that f(x) crosses the x-axis at least once in that interval. Hence option -3 such that f(-3) = -2 is more convenient."
+    },
+    {
+        "id": 15,
+        "Question": "The algorithm provided to find the roots of the function using Bisection Method is given by ____________",
+        "Options": [
+            "a) Bolzano’s theorem",
+            "b) Mean Value theorem",
+            "c) Bisection theorem",
+            "d) Secant theorem"
+        ],
+        "Answer": "Answer: d\nExplanation: The Bisection Method employs the reduction of any interval by 50% after each iteration. Hence it is also called as Binary Reduction method."
+    },
+    {
+        "id": 16,
+        "Question": "A function is defined as f(x) = x3 – x – 11 = 0. Between the interval [2,3] find the root of the function by Bisection Method upto 8 iteration?",
+        "Options": [
+            "a) 1.7334",
+            "b) 1.7364",
+            "c) 1.7354",
+            "d) 1.7344"
+        ],
+        "Answer": "Answer: a\nExplanation: Iteration table is given as follows:\n\n\nNo.\na\nb\nc\nf(a)*f(c)\n\n\n1\n-3.0\n-2.0\n-2.5\n(-)\n\n\n2\n-3.0\n-2.5\n-2.75\n(-)\n\n\n3\n-2.75\n-2.5\n-2.625\n(-)\n\n\n4\n-2.75\n-2.625\n-2.6875\n(-)\n\n\n5\n-2.75\n-2.6875\n-2.71875\n(+)\n\n\n6\n-2.71875\n-2.6875\n-2.703125\n(-)\n\n\n\n\n\tHence we stop the iterations after 6. Therefore the approximated value of x is -2.703125."
+    },
+    {
+        "id": 17,
+        "Question": "The Bisection method has which of the following convergences?",
+        "Options": [
+            "a) Linear",
+            "b) Quadratic",
+            "c) Cubic",
+            "d) Quaternary"
+        ],
+        "Answer": "Answer: a\nExplanation: The Bolzano’s theorem states that if a function is real and continuous in the region from a to b and f(a) and f(b) and if  both have different signs then there is at least one real root between a and b. This principle or algorithm is used to find the roots of function using Bisection Method."
+    },
+    {
+        "id": 18,
+        "Question": "Find the positive root of the equation 3x-cosx-1 using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.6701",
+            "b) 0.5071",
+            "c) 0.6071",
+            "d) 0.5701"
+        ],
+        "Answer": "Answer: a\nExplanation: Let there be two point a and b between which the root lies.\nThe slope can be written as\n\\(\\frac{y-f(a)}{x-a}=\\frac{f(a)-f(b)}{a-b}\\) \nlet y = f(x) = 0\n\\(\\frac{-f(a)}{x-a}=\\frac{f(a)-f(b)}{a-b} \\) \nTherefore,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\)."
+    },
+    {
+        "id": 19,
+        "Question": "Find the positive root of the equation x3 + 2x2 + 10x – 20 using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 1.3688",
+            "b) 1.3866",
+            "c) 1.4688",
+            "d) 1.6488"
+        ],
+        "Answer": "Answer: c\nExplanation: f(0) = -2\nf(1) = 1.459697694\nTherefore the root lies between 0 and 1 and\na = 0; f(a) = -2\nb = 1; f(b) = 1.459697694\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{-2-0}{-2-1.459697694}\\)=0.57808519; f(x1) = -0.103254906\nTherefore, x1 becomes a to find the next point.\n\\(X2 =\\frac{-0.103254906-(0.57808519)(1.459697694)}{-0.103254906-1.459697694}\\)= 0.604952253; f(x2) = -7.67249301*10-3\nTherefore, x2 becomes a to find the next point.\n\\(X3 =\\frac{(-7.67249301*10^{-3}-(0.604952253)(1.459697694)}{(-7.67249301*10^{-3})-1.459697694}\\) = 0.607017853; f(x3) = -2.991836798*10-4\nTherefore, x3 becomes a to find the next point.\n\\(X4 =\\frac{(-2.991836798*10^{-4})-(0.607017853)(1.459697694)}{(-2.991836798*10^{-4} )-1.459697694}\\) =0.607098383; f(x4) = -1.165728726*10-5\nTherefore, x4 becomes a to find the next point.\n\\(X5 = \\frac{(-1.165728726*10^{-5})-(0.607098383)1.459697694}{(-1.165728726*10^{-5} )-1.459697694}\\)=0.60710152; f(x5) = -4.54801046*10-7\nTherefore x5 becomes a to find the next point.\n\\(X6 =\\frac{(-4.54801046*10^{-7})-(0.60710152)(1.459697694)}{(-4.54801046*10^{-7} )-1.459697694}]\\)= 0.607101642\nTherefore,  the positive root corrected to 4 decimal places is 0.6071."
+    },
+    {
+        "id": 20,
+        "Question": "Find the positive root of the equation 3x+sinx-ex using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.4604",
+            "b) 0.4306",
+            "c) 0.3604",
+            "d) 0.4304"
+        ],
+        "Answer": "Answer: a\nExplanation: f(1) = -7\nf(2) = 16\nTherefore, root lies between 1 and 2\na = 1; f(a) = -7\nb = 2; f(b) = 16\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{2(-7)-16}{-7-16}\\)=1.304347826; f(x1) = -1.334757952\nTherefore, x1 becomes a to find the next point.\n\\(X2 =\\frac{2(-1.334757952)-(1.304347826)16}{-1.334757952-16}\\)= 1.357912305; f(x2) = -0.229135731\nTherefore, x2 becomes a to find the next point.\n\\(X3 = \\frac{2(-0.229135731)-(1.357912305)16}{-0.229135731-16}\\)=1.366977805; f(x3) = -0.038591868\nTherefore, x3 becomes a to find the next point.\n\\(X4 = \\frac{2(-0.038591868)-16(1.366977805)}{-0.038591868-16}\\)=1.368500975; f(x4) = -6.478731338*10-3\nTherefore, x4 becomes a to find the next point.\n\\(X5 =\\frac{2(-6.478731338*10^{-3})-16(1.368500975)}{(-6.478731338*10^{-3})-16}\\)= 1.368756579; f(x5) = -1.087052822 * 10-3\nTherefore x5 becomes a to find the next point.\n\\(X6 = \\frac{2(-1.087052822*10^{-3})-16(1.368756579)}{(-1.087052822*10^{-3})-16}\\)=1.368799463; f(x6) = -1.823661977*10-4\nTherefore x6 becomes a to find the next point.\n\\(X7 = \\frac{2(-1.823661977*10^{-4})-16(1.368799463)}{(-1.823661977*10^{-4})-16}\\)=1.368806657; f(x7) = -3.0601008*10-5\nTherefore x7 becomes a to find the next point.\n\\(X8 = \\frac{2(-3.0601008*10^{-5})-1.368806657(16)}{(-3.0601008*10^{-5})-16}\\)=1.368807864.\nTherefore, the positive root corrected to 4 decimal places is 1.3688."
+    },
+    {
+        "id": 21,
+        "Question": "Find the positive root of the equation x-cosx using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.73908",
+            "b) 0.63908",
+            "c) 0.74980",
+            "d) 0.64908"
+        ],
+        "Answer": "Answer: c\nExplanation: f(0) = -1\nf(1) = 1.123189156\nTherefore, root lies between 0 and 1\na = 0; f(a) = -1\nb = 1; f(b) = 1.123189156\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)} \\),\nwe get \\(x1 = \\frac{-1}{-1-1.123189156}\\)=0.470989594; f(x1) = 0.265158816\nTherefore, x1 becomes b to find the next point.\n\\(X2 = \\frac{-0.470989594}{-1-0.265158816}\\)=0.372277051; f(x2) = 0.029533668\nTherefore, x2 becomes b to find the next point.\n\\(X3 = \\frac{-0.029533668}{-0.029533668-1}\\)=0.361597743; f(x3) = 2.940998193*10-3\nTherefore, x3 becomes b to find the next point.\n\\(X4 = \\frac{-0.361597743}{-1-(2.940998193*10^{-3})}\\)=0.360537403; f(x4) = 2.89448416*10-3\nTherefore, x4 becomes b to find the next point.\n\\(X5 =\\frac{-0.360537403}{-1-(2.89448416*10^{-3})}\\)=0.360433076; f(x5) = 2.84536596 * 10-5\nTherefore x5 becomes b to find the next point.\n\\(X6 = \\frac{-0.360433076}{-1-(2.84536596*10^{-5})}\\)=0.36042282\nTherefore, the positive root corrected to 4 decimal places is 0.3604."
+    },
+    {
+        "id": 22,
+        "Question": "Find the positive root of the equation xex-3 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 1.0498",
+            "b) 1.4089",
+            "c) 2.0489",
+            "d) 2.4089"
+        ],
+        "Answer": "Answer: a\nExplanation: f(0) = -1\nf(1) = 0.459697694\nTherefore, root lies between 0 and 1\na = 0; f(a) = -1\nb = 1; f(b) = 0.459697694\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{-1}{-1-0.459697694}\\)=0.685073357; f(x1) = -0.089299276\nTherefore, x1 becomes a to find the next point.\n\\(X2 =\\frac{-0.089299276-0.685073357(0.459697694)}{-0.089299276-0.459697694} \\)= 0.736298997; f(x2) = -4.66039555*10-3\nTherefore, x2 becomes a to find the next point.\n\\(X3 = \\frac{-(-4.66039555*10^{-3})-0.736298997(0.459697694)}{(-4.66039555*10^{-3})-0.459697694}\\)=0.738945355; f(x3) = -2.339261948*10-4\nTherefore, x3 becomes a to find the next point.\n\\(X4 = \\frac{(-2.339261948*10^{-4})-0.738945355(0.459697694)}{(-2.339261948*10^{-4})-0.459697694}\\)=0.73907813; f(x4) = -1.172028721*10-5\nTherefore, x4 becomes a to find the next point.\n\\(X5 = \\frac{-(1.172028721*10^{-5})-0.73907813(0.459697694)}{(-1.172028721*10^{-5} )-0.459697694}\\)=0.739084782\nTherefore, the positive root corrected to 4 decimal places is 0.73908."
+    },
+    {
+        "id": 23,
+        "Question": "Find the positive root of the equation 4x = ex using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.5374",
+            "b) 0.3574",
+            "c) 0.3647",
+            "d) 0.4673"
+        ],
+        "Answer": "Answer: a\nExplanation: f(1) = -0.281718171\nf(2) = 11.7781122\nTherefore, root lies between 1 and 2\na = 1; f(a) = -0.281718171\nb = 2; f(b) = 11.7781122\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{2(-0.281718171)-11.7781122}{-0.281718171-11.7781122}\\)=1.023360044; f(x1) = -0.152471518\nTherefore, x1 becomes a to find the next point.\n\\(X2 = \\frac{2(-0.152471518)-1.023360044(11.7781122)}{-0.152471518-11.7781122}\\)=1.03584141; f(x2) = -0.081541799\nTherefore, x2 becomes a to find the next point.\n\\(X3 = \\frac{2(-0.081541799)-1.03584141(11.7781122)}{-0.081541799-11.7781122}\\)=1.042470543; f(x3) = -0.043329034\nTherefore, x3 becomes a to find the next point.\n\\(X4 = \\frac{2(-0.043329034)-1.042470543(11.7781122)}{-0.043329034-11.7781122}\\)=1.045980168; f(x4) = -0.022944949\nTherefore, x4 becomes a to find the next point.\n\\(X5 = \\frac{2(-0.022944949)-1.045980168(11.7781122)}{-0.022944949-11.7781122}\\)=1.047835063; f(x5) = -0.012128518\nTherefore x5 becomes a to find the next point.\n\\(X6 = \\frac{2(-0.012128518)-1.047835063(11.7781122)}{-0.012128518-11.7781122}\\)=1.048809506; f(x6) = -6.43428458*10-3\nTherefore x6 becomes a to find the next point.\n\\(X7 = \\frac{2(-6.43428458*10^{-3})-1.048809506(11.7781122)}{-(6.43428458*10^{-3} )-11.7781122}\\)=1.04932885; f(x7) = -3.396085929*10-3\nTherefore x7 becomes a to find the next point.\n\\(X8 = \\frac{2(-3.396085929*10^{-3})-1.04932885(11.7781122)}{(-3.396085929*10^{-3} )-11.7781122}\\)= 1.049602886; f(x8) = -1.792004364*10-3\nTherefore x8 becomes a to find the next point.\n\\(X9 = \\frac{2(-1.792004364*10^{-3})-1.049602886(11.7781122)}{(-1.792004364*10^{-3} )-11.7781122}\\)=1.049773434; f(x9)=-7.933671744 * 10-4\nTherefore x9 becomes a to find the next point.\n\\(X10 = \\frac{2(-7.933671744*10^{-4})-(1.049773434)11.7781122}{(-7.933671744*10^{-4} )-11.7781122}\\) = 1.049837436.\nTherefore, the positive root corrected to 4 decimal places is 1.0498."
+    },
+    {
+        "id": 24,
+        "Question": "Find the positive root of the equation xlogx = 1.2 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 2.7406",
+            "b) 2.4760",
+            "c) 2.5760",
+            "d) 2.4706"
+        ],
+        "Answer": "Answer: b\nExplanation: f(0) = -1\nf(1) = 1.281718172\nTherefore, root lies between 0 and 1\na = 0; f(a) = -1\nb = 1; f(b) = 1.281718172\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)} \\),\nwe get \\(x1 = \\frac{-1}{-1-1.281718172}\\)=0.43826622; f(x1) = 0.203047383\nTherefore, x1 becomes b to find the next point.\n\\(X2 = \\frac{0.43826622}{-1-0.203047383} \\)= 0.364296723; f(x2) = 0.017685609\nTherefore, x2 becomes b to find the next point.\n\\(X3 = \\frac{-0.364296723}{-1-0.017685609}\\)=0.357965878; f(x3) = 1.446702162*10-3\nTherefore, x3 becomes b to find the next point.\n\\(X4 = \\frac{-0.357965878}{-1-(1.446702162*10^{-3})}\\)=0.357448756; f(x4) = 1.177221*10-4\nTherefore, x4 becomes b to find the next point.\n\\(X5 = \\frac{-0.357448756}{-1-(1.177221*10^{-4})}\\)= 0.357406681\nTherefore, the positive root corrected to 4 decimal places is 0.3574. "
+    },
+    {
+        "id": 25,
+        "Question": "Find the positive root of the equation e-x = sinx using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.5855",
+            "b) 0.6685",
+            "c) 0.5885",
+            "d) 0.6885"
+        ],
+        "Answer": "Answer: a\nExplanation: f(2) = -0.597940008\nf(3) = 0.231363764\nTherefore, root lies between 2 and 3\na = 2; f(a) = -0.597940008\nb = 3; f(b) = 0.231363764\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{3(-0.597940008)-2(0.231363764)}{-0.597940008-0.231363764}\\)=2.721014456; f(x1) = -0.017091075\nTherefore, x1 becomes a to find the next point.\n\\(X2 = \\frac{3(-0.017091075)-2.721014456(0.231363764)}{-0.017091075-0.231363764}\\)=2.740205722; f(x2) = -3.840558354*10-4\nTherefore, x2 becomes a to find the next point.\n\\(X3 = \\frac{3(-3.840558354*10^{-4})-2.740205722(0.231363764)}{(-3.840558354*10^{-4})-0.231363764)}\\)=2.740636257; f(x3) = -8.58117537*10-6\nTherefore, x3 becomes a to find the next point.\n\\(X4 = \\frac{3(-8.58117537*10^{-6})-(2.740636257)0.231363764}{(-8.58117537*10^{-6})-0.231363764}\\)=2.740645876.\nTherefore, the positive root corrected to 4 decimal places is 2.7406."
+    },
+    {
+        "id": 26,
+        "Question": "Find the positive root of the equation x3 + 2x2 + 50x + 7 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.14073652",
+            "b) 0.24073652",
+            "c) 0.42076352",
+            "d) doesn’t have any positive root"
+        ],
+        "Answer": "Answer: c\nExplanation: f(0) = 1\nf(1) = -0.473591543\nTherefore, root lies between 0 and 1\na = 0; f(a) = 1\nb = 1; f(b) = -0.473591543\nSubstituting the values in the formula,\nx = \\(\\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{1}{1+0.473591543}\\)=0.954782316; f(x1) = -0.431292064\nTherefore, x1 becomes b to find the next point.\n\\(X2 = \\frac{0.954782316}{1+0.431292064}\\)0.667077209; f(x2) = -0.105486008\nTherefore, x2 becomes b to find the next point.\n\\(X3 = \\frac{0.667077209}{1+0.105486008}\\)= 0.60342438; f(x3) = -0.020529909\nTherefore, x3 becomes b to find the next point.\n\\(X4 = \\frac{0.60342438}{1+0.020529909}\\)=0.591285345; f(x4) = -3.813368755*10-3\nTherefore, x4 becomes b to find the next point.\n\\(X5 = \\frac{0.591285345}{1+(3.813368755*10^{-3})}\\)=0.589039121; f(x5) = -7.021514375*10-4\nTherefore x5 becomes b to find the next point.\n\\(X6 = \\frac{0.589039121}{1+(7.021514375*10^{-4})}\\)=0.588625816; f(x6) = -1.29077269*10-4\nTherefore x6 becomes b to find the next point.\n\\(X7 = \\frac{0.588625816}{1+(1.29077269*10^{-4})}\\)= 0.588549847; f(x7) = -2.372079757*10-5\nTherefore x7 becomes b to find the next point.\n\\(X8 = \\frac{0.588549847}{1+(2.372079757*10^{-5})}\\)=0.588535886.\nTherefore, the positive root corrected to 4 decimal places is 0.5885."
+    },
+    {
+        "id": 27,
+        "Question": "Find the positive root of the equation x3 – 4x – 9 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 2.6570",
+            "b) 2.7605",
+            "c) 2.7506",
+            "d) 2.7065"
+        ],
+        "Answer": "Answer: d\nExplanation: The given equation doesn’t have any positive root as there is no sign change for any positive integer."
+    },
+    {
+        "id": 28,
+        "Question": "Find the positive root of the equation x3 – 4x + 9 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 3.706698931",
+            "b) 2.706698931",
+            "c) 3.076698931",
+            "d) no positive roots"
+        ],
+        "Answer": "Answer: d\nExplanation: f(2) = -9\nf(3) = 6\nTherefore, root lies between 2 and 3\na = 2; f(a) = -9\nb = 3; f(b) = 6\nSubstituting the values in the formula,\n\\(x = \\frac{bf(a)-af(b)}{f(a)-f(b)}\\),\nwe get \\(x1 = \\frac{3(-9)-2(6)}{-9-6}\\)=2.6; f(x1) = -1.824\nTherefore, x1 becomes a to find the next point.\n\\(X2 =\\frac{3(-1.824)-2.6(6)}{-1.824-6}\\)= 2.693251534; f(x2) = -0.23722651\nTherefore, x2 becomes a to find the next point.\n\\(X3 = \\frac{3(-0.23722651)-2.693251534(6)}{-0.23722651-6}\\)=2.704918397; f(x3) = -0.028912179\nTherefore, x3 becomes a to find the next point.\n\\(X4 = \\frac{3(-0.028912179)-2.704918397(6)}{-0.028912179-6}\\)=2.70633487; f(x4) = -3.495420729*10-3\nTherefore, x4 becomes a to find the next point.\n\\(X5 = \\frac{3(-3.495420729*10^{-3})-2.70633487(6)}{(-3.495420729*10^{-3})-6}\\)=2.706505851; f(x5) = -3.973272762*10-4\nTherefore x5 becomes a to find the next point.\n\\(X6 = \\frac{3(-3.973272762*10^{-4})-2.706505851(6)}{(-3.973272762*20^{-4})-6}\\)=2.706525285.\nTherefore, the positive root corrected to 4 decimal places is 2.7065."
+    },
+    {
+        "id": 29,
+        "Question": "Find the positive root of the equation ex = 3x using Regula Falsi method and correct to 4 places.",
+        "Options": [
+            "a) 0.6190",
+            "b) 0.7091",
+            "c) 0.7901",
+            "d) 0.6910"
+        ],
+        "Answer": "Answer: b\nExplanation: The given equation doesn’t have any positive root ass there is no sign change for any positive values."
+    },
+    {
+        "id": 30,
+        "Question": "What is the region of convergence of Secant Method?",
+        "Options": [
+            "a) 1.5",
+            "b) 1.26",
+            "c) 1.62",
+            "d) 1.66"
+        ],
+        "Answer": "Answer: c\nExplanation: The region of convergence of Secant Method is 1.62. It converges faster than Bisection method."
+    },
+    {
+        "id": 31,
+        "Question": "Secant Method is also called as?",
+        "Options": [
+            "a) 2-point method",
+            "b) 3-point method",
+            "c) 4-point method",
+            "d) 5-point method"
+        ],
+        "Answer": "Answer: a\nExplanation: Secant Method is also called as 2-point method. In Secant Method we require at least 2 values of approximation to obtain a more accurate value."
+    },
+    {
+        "id": 32,
+        "Question": "The iterative formula for a secant method is given as _________",
+        "Options": [
+            "a) x(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]}\\) ",
+            "b) x(n+1)=\\(\\frac{x(n)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) ",
+            "c) x(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n-1)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) ",
+            "d) x(n+1)=\\(\\frac{x(n)f[x(n)]-x(n-1)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\)"
+        ],
+        "Answer": "Answer: a\nExplanation: Secant method converges faster than Bisection method. Secant method has a convergence rate of 1.62 where as Bisection method almost converges linearly."
+    },
+    {
+        "id": 33,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 3 and 2.5. Find the approximated value of root using Secant Method.",
+        "Options": [
+            "a) 1.33",
+            "b) 2.33",
+            "c) 3.33",
+            "d) 4.33"
+        ],
+        "Answer": "Answer: a\nExplanation: The Iterative formula for a Secant Method is given by\nx(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) \nSince there are 2 points considered in the Secant Method, it is also called 2-point method."
+    },
+    {
+        "id": 34,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 2 and 2.5. Find the approximated value of root using Secant Method.",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Secant Method is faster as compares to Newton Raphson Method. Secant Method requires only 1 evaluation per iteration whereas Newton Raphson Method requires 2."
+    },
+    {
+        "id": 35,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 10 and 20. Find the approximated value of x2 using Secant Method.",
+        "Options": [
+            "a) 7.538",
+            "b) 7.853",
+            "c) 7.358",
+            "d) 7.835"
+        ],
+        "Answer": "Answer: a\nExplanation: The number of iterations required for Secant Method is less than Newton Raphson Method. Secant Method requires only 1 evaluation per iteration whereas Newton Raphson Method requires 2."
+    },
+    {
+        "id": 36,
+        "Question": "A quadratic equation x4-x-8=0 is defined with an initial guess of 1 and 2. Find the approximated value of x2 using Secant Method.",
+        "Options": [
+            "a) 7.538",
+            "b) 7.853",
+            "c) 7.358",
+            "d) 1.571"
+        ],
+        "Answer": "Answer: b\nExplanation: By Secant Method the iterative formula is given as:\nx(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) \nFor n=1\nx(2)=\\(\\frac{x(0)f[x(1)]-x(1)f[x(0)]}{[f[x(1)]-f[x(0)]]} \\) \nx(0)=3 and x(1)=2.5, f(x0)=1 and f(x1)=0.25\nHence x2=2.33."
+    },
+    {
+        "id": 37,
+        "Question": "Rate of convergence of the Newton-Raphson method is generally __________",
+        "Options": [
+            "a) Linear",
+            "b) Quadratic",
+            "c) Super-linear",
+            "d) Cubic"
+        ],
+        "Answer": "Answer: a\nExplanation: Rate of convergence of the Newton-Raphson method is generally Linear. It states that the value of root through the Newton Raphson method converges slowly."
+    },
+    {
+        "id": 38,
+        "Question": "The equation f(x) is given as x3 – x2 + 4x – 4 = 0. Considering the initial approximation at x=2 then the value of next approximation correct upto 2 decimal places is given as __________",
+        "Options": [
+            "a) 0.67",
+            "b) 1.33",
+            "c) 1.00",
+            "d) 1.50"
+        ],
+        "Answer": "Answer: b\nExplanation: Iterative formula for Newton Raphson method is given by\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}.\\) \nHence x0=2 (initial guess), f(x0)=8 and f’(x0)=12.\nSubstituting the values in the equation we get x1=1.33 "
+    },
+    {
+        "id": 39,
+        "Question": "The Newton-Raphson method of finding roots of nonlinear equations falls under the category of which of the following methods?",
+        "Options": [
+            "a) bracketing",
+            "b) open",
+            "c) random",
+            "d) graphical"
+        ],
+        "Answer": "Answer: b\nExplanation: The Newton Raphson method involves the guessing of the root. Hence it falls under open methods. "
+    },
+    {
+        "id": 40,
+        "Question": "The Iterative formula for Newton Raphson method is given by __________",
+        "Options": [
+            "a) x1 = x0-f(x0)/f’(x0)",
+            "b) x0 = x1-f(x0)/f‘(x0)",
+            "c) x0 = x1+f(x0)/f’(x0)",
+            "d) x1 = x0+f(x0)/f‘(x0)"
+        ],
+        "Answer": "Answer: a\nExplanation: The Iterative formula for Newton Raphson method is given by x(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\). It depends on the initial value and converges slowly."
+    },
+    {
+        "id": 41,
+        "Question": "If f(x) = x2 – 153 = 0 then the iterative formula for Newton Raphson Method is given by __________",
+        "Options": [
+            "a) x(n+1) = 0.5 [x(n)+\\(\\frac{153}{x(n)}\\)] ",
+            "b) x(n+1) = 0.5 [x(n)-\\(\\frac{153}{x(n)}\\)] ",
+            "c) x(n+1) = [x(n)+\\(\\frac{153}{x(n)}\\)] ",
+            "d) x(n+1) = [x(n)-\\(\\frac{153}{x(n)}\\)]"
+        ],
+        "Answer": "Answer: a\nExplanation: Consider x(n+1)=0.5 [x(n)+\\(\\frac{N}{x(n)}\\)] \nWhere N=117. Hence x(n+1)=0.5 [x(n)+\\(\\frac{117}{x(n)}\\)]."
+    },
+    {
+        "id": 42,
+        "Question": "In Newton Raphson method if the curve f f(x) is constant then __________",
+        "Options": [
+            "a) f’’(x)=0",
+            "b) f(x)=0",
+            "c) f’(x)=0",
+            "d) f’(x)=c"
+        ],
+        "Answer": "Answer: c\nExplanation: If the curve f(x) is constant then the slope of the tangent drawn to the curve at an initial point is zero. Hence the value of f’(x) is zero."
+    },
+    {
+        "id": 43,
+        "Question": "For what values of 0 the initial guess will be equal to the next iterative values?",
+        "Options": [
+            "a) 70 degrees",
+            "b) 90 degrees",
+            "c) 100 degrees",
+            "d) 55 degrees"
+        ],
+        "Answer": "Answer: b\nExplanation: Iterative formula is given by x(1) = x(0) + \\(\\frac{f(x(0))}{f’x(x(0))}\\). For f’(x0) at x=90 degrees approaches ∞. Then for all values of x1=x0. Hence if f(x0) = 0 then the tan0=90 degrees."
+    },
+    {
+        "id": 44,
+        "Question": "The equation f(x) is given as x2-4=0. Considering the initial approximation at x=6 then the value of next approximation correct upto 2 decimal places is given as __________",
+        "Options": [
+            "a) 3.33",
+            "b) 1.33",
+            "c) 2.33",
+            "d) 4.33"
+        ],
+        "Answer": "Answer: a\nExplanation: Iterative formula for Newton Raphson method is given by\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\).\nHence x0=6 (initial guess), f(x0)=32 and f’(x0)=12.\nSubstituting the values in the equation we get x1=3.33."
+    },
+    {
+        "id": 45,
+        "Question": "At which point the iterations in the Newton Raphson method are stopped?",
+        "Options": [
+            "a) When the consecutive iterative values of x are not equal",
+            "b) When the consecutive iterative values of x differ by 2 decimal places",
+            "c) When the consecutive iterative values of x differ by 3 decimal places",
+            "d) When the consecutive iterative values of x are equal"
+        ],
+        "Answer": "Answer: d\nExplanation: When the consecutive values of iterations are equal the iterations of Newton Raphson method are stopped. This allows maximum accuracy as compared to other methods."
+    },
+    {
+        "id": 46,
+        "Question": "The Newton Raphson method fails if __________",
+        "Options": [
+            "a) f’(x0)=0",
+            "b) f’’(x0)=0",
+            "c) f(x0)=0",
+            "d) f’’’(x0)=0"
+        ],
+        "Answer": "Answer: a\nExplanation: When f’(x0) becomes zero then the value of f(x0)/f’(x0) becomes ∞. Hence Newton Raphson method fails at f’(x0)=0."
+    },
+    {
+        "id": 47,
+        "Question": "The value of y’/x’ in terms of the angle 0 is given by _____________",
+        "Options": [
+            "a) tanθ",
+            "b) secθ",
+            "c) cotθ",
+            "d) cosecθ"
+        ],
+        "Answer": "Answer: a\nExplanation: The value of derivative of a function f(x) is given as f’(x)=y’/x’. In terms of theta tangent is the ration of opposite side to adjacent side hence y’/x’=tanθ."
+    },
+    {
+        "id": 48,
+        "Question": "The Newton Raphson method is also called as ____________",
+        "Options": [
+            "a) Tangent method",
+            "b) Secant method",
+            "c) Chord method",
+            "d) Diameter method"
+        ],
+        "Answer": "Answer: a\nExplanation: Newton Raphson method is also known as Tangent Method. It is carried out by drawing a tangent to the curve at the point of initial guess."
+    },
+    {
+        "id": 49,
+        "Question": "The equation f(x) is given as x2-4=0. Considering the initial approximation at x=6 then the value of x1 is given as ____________",
+        "Options": [
+            "a) 10/3",
+            "b) 4/3",
+            "c) 7/3",
+            "d) 13/3"
+        ],
+        "Answer": "Answer: a\nExplanation: Iterative formula for Newton Raphson method is given by\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\).\nHence x0=6 (initial guess), f(x0)=32 and f’(x0)=12.\nSubstituting the values in the equation we get x1= 10/3."
+    },
+    {
+        "id": 50,
+        "Question": "For decreasing the number of iterations in Newton Raphson method:",
+        "Options": [
+            "a) The value of f’(x) must be increased",
+            "b) The value of f’’(x) must be decreased",
+            "c) The value of f’(x) must be decreased",
+            "d) The value of f’’(x) must be increased"
+        ],
+        "Answer": "Answer: a\nExplanation: Iterative formula is given by\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\).\nHence if f’(x) decreases the value of next iteration approaches the initial one. This decreases the number of iterations in finding out next iterative value."
+    },
+    {
+        "id": 51,
+        "Question": "In Newton Raphson method f’(x) for a given point is given by the formula ____________",
+        "Options": [
+            "a) y/x’",
+            "b) y’/x",
+            "c) y/x",
+            "d) y’/x’"
+        ],
+        "Answer": "Answer: d\nExplanation: The derivative of a function f(x) is given as f’(x) = y’/x’. It is defined as the slope of the tangent drawn at the point of assumed initial value to the curve."
+    },
+    {
+        "id": 52,
+        "Question": "If f(x) = x2-117 = 0 then the iterative formula for Newton Raphson Method is given by ____________",
+        "Options": [
+            "a) x(n+1)=0.25 [x(n)+\\(\\frac{166}{x(n)}\\)] ",
+            "b) x(n+1)=0.5 [x(n)+\\(\\frac{166}{x(n)}\\)] ",
+            "c) x(n+1)=0.5 [x(n)-\\(\\frac{166}{x(n)}\\)] ",
+            "d) x(n+1)=0.25 [x(n)-\\(\\frac{166}{x(n)}\\)]"
+        ],
+        "Answer": "Answer: b\nExplanation: Consider x(n+1)=0.5 [x(n)+\\(\\frac{N}{x(n)}\\)] \nWhere N=117. Hence x(n+1)=0.5 [x(n)+\\(\\frac{117}{x(n)}\\)]. "
+    },
+    {
+        "id": 53,
+        "Question": "The points where the Newton Raphson method fails are called?",
+        "Options": [
+            "a) floating",
+            "b) continuous",
+            "c) non-stationary",
+            "d) stationary"
+        ],
+        "Answer": "Answer: d\nExplanation: The points where the function f(x) approaches infinity are called as Stationary points. At stationary points Newton Raphson fails and hence it remains undefined for Stationary points."
+    },
+    {
+        "id": 54,
+        "Question": "The convergence of which of the following method depends on initial assumed value?",
+        "Options": [
+            "a) False position",
+            "b) Gauss Seidel method",
+            "c) Newton Raphson method",
+            "d) Euler method"
+        ],
+        "Answer": "Answer: c\nExplanation: The Newton Raphson method the approximation value is found out by :\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\). Hence it depends on the initial value x0."
+    },
+    {
+        "id": 55,
+        "Question": "The equation f(x) is given as x3+4x+1=0. Considering the initial approximation at x=1 then the value of x1 is given as _______________",
+        "Options": [
+            "a) 1.67",
+            "b) 1.87",
+            "c) 1.86",
+            "d) 1.85"
+        ],
+        "Answer": "Answer: c\nExplanation: Iterative formula for Newton Raphson method is given by\nx(1)=x(0)+\\(\\frac{f(x(0))}{f’x(x(0))}\\) \nHence x0=1 (initial guess), f(x0)=6 and f’(x0)= 7.\nSubstituting the values in the equation we get x1=1.857 which is 1.86 rounded to 2 decimal places."
+    },
+    {
+        "id": 56,
+        "Question": "For a determinant containing 4 elements a1 b1 a2 b2,  what will the elements of the leading diagonal?",
+        "Options": [
+            "a) a1 b1",
+            "b) a1 b2",
+            "c) a2 b1",
+            "d) a2 b2"
+        ],
+        "Answer": "Answer: b\nExplanation: The diagonal having its first element in the top left corner of the matrix is considered as the leading diagonal of the determinant.  And here, it starts from a1 and ends at b2."
+    },
+    {
+        "id": 57,
+        "Question": "For a determinant \\(\\begin{vmatrix}a&b&c\\\\d&e&f\\\\g&h&i\\end{vmatrix}\\), the cofactor of h will be equal to which of the following?",
+        "Options": [
+            "a) (-1)3+2 \\(\\begin{vmatrix}a&c\\\\d&f\\end{vmatrix}\\) ",
+            "b) (-1)3+2 \\(\\begin{vmatrix}d&f\\\\g&i\\end{vmatrix}\\) ",
+            "c) (-1)3+2 \\(\\begin{vmatrix}a&c\\\\g&i\\end{vmatrix}\\) ",
+            "d) (-1)3+2 \\(\\begin{vmatrix}b&c\\\\e&f\\end{vmatrix}\\)"
+        ],
+        "Answer": "Answer:  a\nExplanation: The cofactor of an element is obtained by deleting the row and the column which intersect at that element with proper sign. The sign is given by (-1)i+j for ith row and jth column."
+    },
+    {
+        "id": 58,
+        "Question": "What is the value of the determinant \\(\\begin{pmatrix}2&5&1\\\\7&4&5\\\\1&2&3\\end{pmatrix}\\)?",
+        "Options": [
+            "a) -56",
+            "b) -96",
+            "c) -66",
+            "d) -85"
+        ],
+        "Answer": "Answer: c\nExplanation: \\(\\begin{pmatrix}2&5&1\\\\7&4&5\\\\1&2&3\\end{pmatrix}\\) = 2 \\(\\begin{vmatrix}4&5\\\\2&3\\end{vmatrix}\\) -5 \\(\\begin{vmatrix}7&5\\\\1&3\\end{vmatrix}\\) + 1 \\(\\begin{vmatrix}7&4\\\\1&2\\end{vmatrix}\\) \n= 2(12-10) – 5(21-5) + 1(14-4)\n= -66."
+    },
+    {
+        "id": 59,
+        "Question": "If each element of a line consists of m terms, the determinant can be expressed as the sum of ______ determinants.",
+        "Options": [
+            "a) m-1",
+            "b) m",
+            "c) m+1",
+            "d) m2"
+        ],
+        "Answer": "Answer:  b\nExplanation: A determinant vanishes when two of the rows or columns have zero elements. It even vanishes when the elements of two rows or columns have identical elements."
+    },
+    {
+        "id": 60,
+        "Question": "A matrix B and _____ will have the same determinant.",
+        "Options": [
+            "a) Its transpose",
+            "b) Its inverse",
+            "c) Its echelon matrix",
+            "d) Its adjoint"
+        ],
+        "Answer": "Answer:  b\nExplanation: This is because while solving for a determinant, we choose a particular row or column and multiply its members with their cofactor. And, in doing so, the numbers of determinants formed are equal to the order of the matrix."
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following are true?",
+        "Options": [
+            "a) If we multiply a row in a matrix A by a real number r, |A| changes in r.|A|",
+            "b) If we multiply a column and a row in A, both by a real number r, |A| changes in r.|A|",
+            "c) If we swap two columns in A, |A| does not change sign",
+            "d) If we divide a matrix with a scalar, division occurs only in a single row or column"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Number of determinants in P = 29\nSimilarly, we found that the number of determinants with value 1 are like \\(\\begin{bmatrix}1&0&1\\\\1&1&0\\\\0&1&0\\end{bmatrix}\\) are equal to the number of determinants with value -1 \\(\\begin{bmatrix}1&1&1\\\\1&0&0\\\\0&0&1\\end{bmatrix}\\)."
+    },
+    {
+        "id": 62,
+        "Question": "If A and B are two square matrices, then |A.B| is same as which of the following?",
+        "Options": [
+            "a) |A|.|B|",
+            "b) |B|.|A|",
+            "c) |B-A|",
+            "d) |A-B|"
+        ],
+        "Answer": "Answer:  a\nExplanation: This is because a matrix and its transpose have same elements, only their position differs. The ith index changes to jth and vice versa."
+    },
+    {
+        "id": 63,
+        "Question": " For a matrix A having |A| = 0, which of the following are true?",
+        "Options": [
+            "a) A-1 exists",
+            "b) A-1 does not exists",
+            "c) A is non-singular",
+            "d) A-1 exists with |A-1|= 0"
+        ],
+        "Answer": "Answer:  a\nExplanation: Since multiplication of a matrix with a scalar is possible, so whenever we multiply a row in a matrix by a real number, it gets multiplied in the way it gets multiplied with a number."
+    },
+    {
+        "id": 64,
+        "Question": "Which of the following option is correct when addition of two matrices A and B is possible?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) no of columns of A is equal to columns of B",
+            "d) no of rows of A is equal to no of columns of B"
+        ],
+        "Answer": "Answer: b\nExplanation: This is because addition is only possible if each element in one matrix has a corresponding element in the second matrix. This will occur when both the matrices have same order."
+    },
+    {
+        "id": 65,
+        "Question": "If A is a symmetric matrix, then At will be equal to which of the following?",
+        "Options": [
+            "a) A",
+            "b) |A|",
+            "c) 0",
+            "d) diagonal matrix"
+        ],
+        "Answer": "Answer: a\nExplanation: This is because for a symmetric matrix, elements in the row of a certain column are same as the elements in a certain row. Hence, a matrix and its transpose remain same."
+    },
+    {
+        "id": 66,
+        "Question": "Which of the following option is correct when multiplication of two matrices A and B is possible?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) number of rows of A is equal to rows of B",
+            "d) number of rows of A is equal to number of columns of B"
+        ],
+        "Answer": "Answer: c\nExplanation: Multiplication is possible only when number of columns of A is equal to rows of B. And, the matrices having same order do follow this property."
+    },
+    {
+        "id": 67,
+        "Question": "4.The matrix \\(\\begin{bmatrix}5&0\\\\0&5\\end{bmatrix}\\)   is?",
+        "Options": [
+            "a) Even matrix",
+            "b) Odd matrix",
+            "c) Scalar matrix",
+            "d) Identity matrix"
+        ],
+        "Answer": "Answer: c\nExplanation: If the identity matrix has other numbers in place of 1 it is said to be a scalar matrix. Identity matrix is also a type of scalar matrix."
+    },
+    {
+        "id": 68,
+        "Question": "What do we call the number of non-zero rows in an echelon matrix?",
+        "Options": [
+            "a) reduced echelon matrix",
+            "b) order of a matrix",
+            "c) determinant of a matrix",
+            "d) rank of a matrix"
+        ],
+        "Answer": "Answer: d\nExplanation: The number of non-zero rows in an echelon matrix is called as rank of a matrix. This is a method used to determine the rank of a matrix."
+    },
+    {
+        "id": 69,
+        "Question": "If AB exists, then (AB)-1 will be equal to which of the following?",
+        "Options": [
+            "a) A-1 B-1",
+            "b) B-1 A-1",
+            "c) AB",
+            "d) BA"
+        ],
+        "Answer": "Answer: a\nExplanation: Inverse acts on product inversely. The inverse operation acting on the product first applies on the last matrix and then moves towards the first matrix if product is of more than two matrices."
+    },
+    {
+        "id": 70,
+        "Question": "Which of the following is true if two matrices A and B are equal?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) number of columns of A is equal to columns of B",
+            "d) both have same order and equal corresponding elements"
+        ],
+        "Answer": "Answer: d\nExplanation: Both should have same order and equal corresponding elements. This is the criterion for being equal."
+    },
+    {
+        "id": 71,
+        "Question": "What do we call the matrices obtained by changing rows and columns?",
+        "Options": [
+            "a) rectangular matrix",
+            "b) transpose",
+            "c) symmetric",
+            "d) scalar"
+        ],
+        "Answer": "Answer: b\nExplanation: Matrix obtained by changing rows and columns is called as transpose. It can be obtained by exchanging the indices of elements of the matrix."
+    },
+    {
+        "id": 72,
+        "Question": "What is the order of the matrix with m rows and n columns?",
+        "Options": [
+            "a) m + n",
+            "b) n x n",
+            "c) m x m",
+            "d) m x n"
+        ],
+        "Answer": "Answer: d\nExplanation:  The order of a matrix is given by number of rows X number of columns. So, here it is m X n."
+    },
+    {
+        "id": 73,
+        "Question": "What is the order of the matrix [2 4 3]?",
+        "Options": [
+            "a) 1 X 3",
+            "b) 3 X 1",
+            "c) 1 X 1",
+            "d) 3 X 3"
+        ],
+        "Answer": "Answer: a\nExplanation: Order of a matrix is given by number of rows X no. of columns. Here, number of rows is 1 and number of columns is 3."
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is true if A is a singular matrix?",
+        "Options": [
+            "a) It contains all elements equal to 1",
+            "b) It contains single element",
+            "c) Its determinant is zero",
+            "d) It contains all elements equal to 0"
+        ],
+        "Answer": "Answer: c\nExplanation: A matrix is called singular if its determinant is equal to zero. A matrix containing all elements equal to 0 is called as a null matrix."
+    },
+    {
+        "id": 75,
+        "Question": "What is x, if P = \\(\\begin{bmatrix}1&4\\\\2&x\\end{bmatrix}\\)  is a singular matrix?",
+        "Options": [
+            "a) 5",
+            "b) 6",
+            "c) 7",
+            "d) 8"
+        ],
+        "Answer": "Answer: d\nExplanation: x (1) – 2(4) = 0\nx = 8."
+    },
+    {
+        "id": 76,
+        "Question": "The problems which deal with the analysis of electronic circuits consisting of invariant elements depend on __________",
+        "Options": [
+            "a) The solution of simultaneous algebraic equations",
+            "b) Solution of transcendental equations",
+            "c) Interpolation problems",
+            "d) Finite difference method"
+        ],
+        "Answer": "Answer: a\nExplanation: The problems which deal with the analysis of electronic circuits consisting of invariant elements depend upon linear equations with certain variables which can be solved by finding solution of simultaneous algebraic equations."
+    },
+    {
+        "id": 77,
+        "Question": "Which of the methods is direct method for solving simultaneous algebraic equations?",
+        "Options": [
+            "a) Jacobi’s method",
+            "b) Relaxation method",
+            "c) Cramer’s rule",
+            "d) Gauss seidel method"
+        ],
+        "Answer": "Answer: c\nExplanation: Cramer’s rule is the direct method for solving simultaneous algebraic equations. In other methods, certain iterations are involved and that’s why the process becomes tedious and consequently indirect."
+    },
+    {
+        "id": 78,
+        "Question": "How many types of methods are there to solve simultaneous algebraic equations?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: There are two types of methods to solve simultaneous algebraic equations, namely, direct and iterative methods."
+    },
+    {
+        "id": 79,
+        "Question": "Which of the following method generally converges the solution?",
+        "Options": [
+            "a) Hit and trial method",
+            "b) Approximation method",
+            "c) Iterative method",
+            "d) Direct method"
+        ],
+        "Answer": "Answer: b\nExplanation: Iterative methods are preferred over direct methods as they provide solution faster. And, amount of accuracy depends upon accuracy desired which is achieved by iterative methods."
+    },
+    {
+        "id": 80,
+        "Question": "What are the advantages of direct methods for solving the simultaneous algebraic equations?",
+        "Options": [
+            "a) Rounding of errors get propagated",
+            "b) Quite time consuming",
+            "c) Requires more recording of data",
+            "d) Yield a solution after a finite number of steps for any non-singular set of equations"
+        ],
+        "Answer": "Answer: c\nExplanation: Iterative methods generally converge the solution to get the results faster. With the increase in the number of iterations, the results tend to reach the correct solution."
+    },
+    {
+        "id": 81,
+        "Question": "How many types of instabilities occur while solving a linear system of equations?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: d\nExplanation: The only advantage of direct method is that we can yield a solution after a finite number of steps for any non-singular set of equations."
+    },
+    {
+        "id": 82,
+        "Question": "What is induced instability?",
+        "Options": [
+            "a) Instability due to reduction in problem",
+            "b) Instability due to number of computations",
+            "c) Instability due to errors in programming",
+            "d) Instability due to incorrect choice of method for solving equations"
+        ],
+        "Answer": "Answer: a\nExplanation: There are two types of instabilities which occur while solving a linear system of equations, namely, induced and inherent stability."
+    },
+    {
+        "id": 83,
+        "Question": "What is inherent instability?",
+        "Options": [
+            "a) Instability due to convergence of solution",
+            "b) Instability due to ill conditioned set of equations",
+            "c) Instability due to propagation of rounding of errors",
+            "d) Instability due to incorrect choice of method of solution"
+        ],
+        "Answer": "Answer: d\nExplanation: Induced instability is the Instability due to incorrect choice of method for solving equations. As different methods have different accuracy level."
+    },
+    {
+        "id": 84,
+        "Question": "When the linear system is called ill conditioned?",
+        "Options": [
+            "a) If small changes in the coefficients of equations result in large changes in the values of the unknowns",
+            "b) If reduction is done in the problem",
+            "c) If the programming of linear system is expensive",
+            "d) If small changes in the coefficients of equations result in small changes in the values of the unknowns"
+        ],
+        "Answer": "Answer: b\nExplanation: Inherent instability is the Instability due to ill conditioned set of equations. The linear system is called ill conditioned, if small changes in the coefficients of equations result in small changes in the values of the unknowns."
+    },
+    {
+        "id": 85,
+        "Question": "If approximate solution of the set of equations, 2x+2y-z = 6, x+y+2z = 8 and -x+3y+2z = 4, is given by x = 2.8 y = 1 and z = 1.8. Then, what is the exact solution?",
+        "Options": [
+            "a) x = 3 , y = 1 , z =2",
+            "b) x = 1 , y = 2 , z =2",
+            "c) x = 2 , y = 3 , z = 1",
+            "d) x = 1 , y = 3 , z = 2"
+        ],
+        "Answer": "Answer: a\nExplanation: The linear system is called ill conditioned, if small changes in the coefficients of equations result in large changes in the values of the unknowns."
+    },
+    {
+        "id": 86,
+        "Question": "How can we avoid instability?",
+        "Options": [
+            "a) Reformulation of problem suitably",
+            "b) Making small changes in the coefficients of equations",
+            "c) Choosing the method involving higher computations",
+            "d) Rounding off the errors"
+        ],
+        "Answer": "Answer:  a\nExplanation: Substituting the approximate values x’ = 2.8, y’ = 1 z’ = 1.8 in the given equations, we get\n2(2.8) + 2(1) – 1.8 = 5.8 …………..(i)\n2.8 + 1 + 2(1.8) = 7.4 ……………..(ii)\n-2.8 +3(1) + 2(1.8) = 3.8 …………..(iii)\nSubtracting each equation (i), (ii), (iii) from the corresponding given equations we obtain\n2xe + 2ye – ze = 0.2 …………….(iv)\nXe + ye +2ze = 0.6 ………………(v)\n-xe + 3ye + 2ze = 0.2 ……………(vi)\nWhere xe = x – 2.8, ye = y – 1, ze = z = 1.8.\nSolving the equations (iv), (v), (vi), we get xe = 0.2, ye = 0, ze = 0.2.\nThis gives the better solution x = 3, y = 1, z = 2, which incidentally is the exact solution."
+    },
+    {
+        "id": 87,
+        "Question": "The process of constructing a sequence of vectors and obtaining the solution of a system using specified accuracy is called _________",
+        "Options": [
+            "a) Elimination",
+            "b) Reduction",
+            "c) Iteration",
+            "d) Raphson method"
+        ],
+        "Answer": "Answer: b\nExplanation: The time taken to solve a system of equations using direct method is less than the time taken by iterative methods because direct methods involve less computations than iterative methods."
+    },
+    {
+        "id": 88,
+        "Question": "Numerical techniques more commonly involve _______",
+        "Options": [
+            "a) Iterative method",
+            "b) Direct method",
+            "c) Elimination method",
+            "d) Reduction method"
+        ],
+        "Answer": "Answer: c\nExplanation: The process of constructing a sequence of vectors and obtaining the solution of a system using specified accuracy is called iteration. Elimination and reduction are not sequential processes. Raphson method is a method which is employed for finding the roots of an equation through some different procedure."
+    },
+    {
+        "id": 89,
+        "Question": "What is the primary drawback of using direct methods of solution?",
+        "Options": [
+            "a) They yield solution after a certain amount of fixed computation",
+            "b) They have large calculations involved",
+            "c) They make use of back substitution",
+            "d) They do not achieve the desirable accuracy"
+        ],
+        "Answer": "Answer: a\nExplanation: Numerical techniques more commonly involve an iteration method due to the degree of accuracy involved. This is because, iterations reduce the approximation errors which may occur in numerical problems. They perform sequential operations which in turn increases the accuracy."
+    },
+    {
+        "id": 90,
+        "Question": "In an iterative method, the amount of computation depends on the _________",
+        "Options": [
+            "a) Number of variables",
+            "b) Degree of accuracy",
+            "c) Rounding of errors",
+            "d) Ease of using the operators"
+        ],
+        "Answer": "Answer: a\nExplanation: The drawback of using direct methods of solution is that these methods yield solution after a certain amount of fixed computation. There are no calculations and back substitution in direct methods. Their accuracy is less than that of iterative methods, but that is not the primary drawback."
+    },
+    {
+        "id": 91,
+        "Question": "Iteration is also called as ________",
+        "Options": [
+            "a) Accurate process",
+            "b) Self-correcting process",
+            "c) Approximate process",
+            "d) Rounding off process"
+        ],
+        "Answer": "Answer: b\nExplanation: In an iterative method, the amount of computation depends on the degree of accuracy required. More is the accuracy required, more will be the number of computations involved."
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following is an iterative method?",
+        "Options": [
+            "a) Gauss Jordan",
+            "b) Gauss Elimination",
+            "c) Gauss seidal",
+            "d) Factorization"
+        ],
+        "Answer": "Answer: b\nExplanation: Iteration is also called as self-correcting process as with the sequence of operations, accuracy increases accompanied by corrections in the process. Any error made at any stage of computation gets automatically corrected in the subsequent steps."
+    },
+    {
+        "id": 93,
+        "Question": "Why iterative methods are called as self correcting?",
+        "Options": [
+            "a) Iterations involve repetition",
+            "b) Checks occurring during the process ensure that the errors are reduced",
+            "c) Any error made at any stage of computation gets automatically corrected in the subsequent steps",
+            "d) After each step, validity of the method is checked."
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss seidal method is an iterative method. Gauss elimination is based upon elimination of unknowns. Gauss Jordan is based on back substitution as well as elimination. Factorization is based upon formation of two triangular matrices with a matrix."
+    },
+    {
+        "id": 94,
+        "Question": "Which of the following is not an iterative method?",
+        "Options": [
+            "a) Jacobi’s method",
+            "b) Gauss Seidal method",
+            "c) Relaxation method",
+            "d) Gauss Jordan method"
+        ],
+        "Answer": "Answer: c\nExplanation: Any error made at any stage of computation gets automatically corrected in the subsequent steps that’s why iterative methods are called self-correcting."
+    },
+    {
+        "id": 95,
+        "Question": "Number of iteration depends on the _________",
+        "Options": [
+            "a) Initial value taken to start the iteration",
+            "b) Type of linear equations",
+            "c) Number of unknowns",
+            "d) Approximations to be done"
+        ],
+        "Answer": "Answer: d\nExplanation: Jacobi’s method, Gauss Seidal method and Relaxation method are the iterative methods and Gauss Jordan method is not as it does not involves repetition of a particular set of steps followed by some sequence which is known as iteration."
+    },
+    {
+        "id": 96,
+        "Question": "Matrix inverse in for systems of equation is used to determine which of the following?",
+        "Options": [
+            "a) identified set of equation",
+            "b) variable set of equation",
+            "c) solution set of equations",
+            "d) constant set of equations"
+        ],
+        "Answer": "Answer:  a\nExplanation: The inverse exists for a non-singular matrix because for a singular matrix, the value of determinant is zero, which in turn makes the value of inverse according to the following relation:\nA-1 = Adj (A)/|A|"
+    },
+    {
+        "id": 97,
+        "Question": "Matrix which does not have an inverse by solving it, is classified as which of the following?",
+        "Options": [
+            "a) unidentified matrix",
+            "b) linear matrix",
+            "c) non-singular matrix",
+            "d) singular matrix"
+        ],
+        "Answer": "Answer: c\nExplanation: It is used to determine solution set of equations, by using different methods like Cramer’s rule, Gauss Jordan, etc."
+    },
+    {
+        "id": 98,
+        "Question": "Multiplicative inverse matrix generalized form to solve is which of the following?",
+        "Options": [
+            "a) AA-1 = A-1A = I",
+            "b) AA-2 = A-3A = I",
+            "c) 3AA4 = A-1A = I",
+            "d) AA-1 = 2A-5A = Q"
+        ],
+        "Answer": "Answer: d\nExplanation:  This is because singular matrices do not have inverse, because the value of their determinant is zero."
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following relation describes the solution of system of equation in form of AX = B?",
+        "Options": [
+            "a) A-1AX = A-1B",
+            "b) B-1AX = A-1B",
+            "c) AB-1AX = AB-1X",
+            "d) X-1AB = A-1BX"
+        ],
+        "Answer": "Answer:  a\nExplanation:  This is because product of a matrix and its inverse is always an identity matrix."
+    },
+    {
+        "id": 100,
+        "Question": "Equations are linearly dependent, in a system of linear equations, if and only if?",
+        "Options": [
+            "a) A-2 must exists",
+            "b) A-1 does not exist",
+            "c) A-3 does not exist",
+            "d) A-4 must exist"
+        ],
+        "Answer": "Answer: a\nExplanation: We have, A-1AX = A-1B which is same as X = A-1B, and this is the primary relation employed for finding inverse."
+    },
+    {
+        "id": 101,
+        "Question": "What is the drawback of finding inverse by adjoint method?",
+        "Options": [
+            "a) It needs a lot of calculations",
+            "b) It gives incorrect answers",
+            "c) It assumes certain values",
+            "d) It is solved by approximating certain values"
+        ],
+        "Answer": "Answer:  b\nExplanation: If the equations are linearly dependent, the determinant of the matrix would be zero and hence, no inverse exists for such a matrix."
+    },
+    {
+        "id": 102,
+        "Options": [
+            "a) x = 1.64791, y = 1.14085, z = 2.08451",
+            "b) x = 1.65791, y = 1.14185, z = 2.08441",
+            "c) x = 1.64691, y = 1.14095, z = 2.08461",
+            "d) x = 1.64491, y = 1.15085, z = 2.09451"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Elimination method we get\n\\(\\begin{bmatrix}\n1 & 4 & -1\\\\\n1 & 1 & -6\\\\\n3 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n-5\\\\\n-12\\\\\n4\\\\\n\\end{bmatrix} \\) \nBy R2-R1 and R3-3R1\n\\(\\begin{bmatrix}\n1 & 4 & -1\\\\\n0 & -3 & -5\\\\\n0 & -13 & 2\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n-5\\\\\n-7\\\\\n19\\\\\n\\end{bmatrix} \\) \n\n\n\t\n\n        R3-(-13/-3)*R2\n\\(\\begin{bmatrix}\n1.0000 & 4.0000 & -1.0000\\\\\n0 & -3.0000 & -5.0000\\\\\n0 & 0 & 23.6667\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n-5\\\\\n-7\\\\\n49.33333\\\\\n\\end{bmatrix} \\) \nx+4y-z = -5\n-3y-5z = -7\n23.6667z = 49.3333\nHence, z = 2.08451\n-3y = -7+5z\nHence, y = -1.14085\nx = -4y+z-5\nHence, x = 1.64791."
+    },
+    {
+        "id": 103,
+        "Question": "",
+        "Options": [
+            "a) 2, 4, 6",
+            "b) 2, 7, 6",
+            "c) 3, 4, 6",
+            "d) 2, 4, 5"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Elimination method we get\n\\(\\begin{bmatrix}\n2 & 1 & -3\\\\\n0 & -2 & 1\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n-10\\\\\n-2\\\\\n6\\\\\n\\end{bmatrix} \\) \nz = 6.\n-2y+z = -2\nHence y = 4.\n2x + y – 3z = -10\nHence z = 6."
+    },
+    {
+        "id": 104,
+        "Question": "",
+        "Options": [
+            "a) (-2, -1, -1)",
+            "b) (-1, -2, -1)",
+            "c) (-1, -1, -2)",
+            "d) (-1, -1, -1)"
+        ],
+        "Answer": "Answer: d\nExplanation: Here,\n\\(\\begin{bmatrix}\n3 & 4 & -1\\\\\n0 & -2 & 10\\\\\n0 & 4 & -2\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n-6\\\\\n-8\\\\\n-2\\\\\n\\end{bmatrix} \\) \nThe Matrix almost represents a triangular Matrix. Multiplying Row2 by 2 and adding it to Row 3 we get a Upper Triangular Matrix with\nx, y, z = (-1, -1, -1)."
+    },
+    {
+        "id": 105,
+        "Question": "",
+        "Options": [
+            "a) Unique Solution",
+            "b) No solution",
+            "c) Infinitely many Solutions",
+            "d) Finite solutions"
+        ],
+        "Answer": "Answer: c\nExplanation: Multiplying Row 1 by -2, then adding Row 1 and Row 2 the 1st row of matrix gets reduced 0.\n\\(\\begin{bmatrix}\n0 & 0 & 0\\\\\n2 & -2 & -2\\\\\n5 & -5 & -5\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n0\\\\\n8\\\\\n20\\\\\n\\end{bmatrix} \\) \nHence, there are infinitely many solutions."
+    },
+    {
+        "id": 106,
+        "Question": "",
+        "Options": [
+            "a) Unique Solution",
+            "b) No solution",
+            "c) Infinitely many Solutions",
+            "d) Finite solutions"
+        ],
+        "Answer": "Answer: b\nExplanation: By Gauss Elimination method we add Row 1 and Row 3 to get the following matrix\n\\(\\begin{bmatrix}\n1 & 1 & 1\\\\\n-1 & -1 & 3\\\\\n0 & 0 & 0\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n0\\\\\n3\\\\\n2\\\\\n\\end{bmatrix} \\) \nHence the matrix has no solution as 0 ≠ 2."
+    },
+    {
+        "id": 107,
+        "Question": "The aim of elimination steps in Gauss elimination method is to reduce the coefficient matrix to ____________",
+        "Options": [
+            "a) diagonal",
+            "b) identity",
+            "c) lower triangular",
+            "d) upper triangular"
+        ],
+        "Answer": "Answer: d\nExplanation: In Gauss elimination method we tend to reduce the given Matrix to an Upper Triangular matrix to solve for x, y, z."
+    },
+    {
+        "id": 108,
+        "Question": "Division by zero during in Gaussian elimination of the set of equations [A] * [X]=[C] signifies the coefficient matrix [A] is ____________",
+        "Options": [
+            "a) Invertible",
+            "b) Non Singular",
+            "c) Not determinable to be singular or non singular",
+            "d) Singular"
+        ],
+        "Answer": "Answer: c\nExplanation: Division by zero in Gauss Elimination method is not related to whether the matrix is singular or not."
+    },
+    {
+        "id": 109,
+        "Question": "In which of the following both sides of equation are multiplied by non-zero constant?",
+        "Options": [
+            "a) Gauss Elimination Method",
+            "b) Gaussian Inconsistent procedure",
+            "c) Gaussian consistent procedure",
+            "d) Gaussian substitute procedure"
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss Elimination method employs both sides of equation to be multiplied by a non-zero constant. The matrix is then reduced to Upper Triangular Matrix to get values of the respective variables."
+    },
+    {
+        "id": 110,
+        "Question": "In Gaussian elimination method, original equations are transformed by using _____________",
+        "Options": [
+            "a) Column operations",
+            "b) Row Operations",
+            "c) Mathematical Operations",
+            "d) Subset Operation"
+        ],
+        "Answer": "Answer: b\nExplanation: Row Operations are used in Gauss Elimination method to reduce the Matrix to an Upper Triangular Matrix and thus solve for x, y, z."
+    },
+    {
+        "id": 111,
+        "Question": "The Elimination process in Gauss Elimination method is also known as _____________",
+        "Options": [
+            "a) Forward Elimination",
+            "b) Backward Elimination",
+            "c) Sideways Elimination",
+            "d) Crossways Elimination"
+        ],
+        "Answer": "Answer: b\nExplanation: The points closest to t=21 sec is 15, 20, 30\nV(t0) = 362.78 m/s = a(15)2+b(15)+c\nV(t1) = 517.35 m/s = a(20)2+b(20)+c\nV(t2) = 602.97 m/s = a(30)2+b(30)+c\nHence,\n225a+15b+c = 362.78\n400a+20b+c = 517.35\n900a+30b+c = 602.97\nWhich leads us to \\(\\begin{bmatrix}\n225 & 15 & 1\\\\\n400 & 20 & 1\\\\\n900 & 30 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\na\\\\\nb\\\\\nc\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n362.78\\\\\n517.35\\\\\n602.97\\\\\n\\end{bmatrix} \\)."
+    },
+    {
+        "id": 112,
+        "Question": "The reduced form of the Matrix in Gauss Elimination method is also called ____________",
+        "Options": [
+            "a) Column Echelon Form",
+            "b) Row-Column Echelon Form",
+            "c) Column-Row Echelon Form",
+            "d) Row Echelon Form"
+        ],
+        "Answer": "Answer: a\nExplanation: The Elimination process in Gauss Elimination Method is also known as Forward Elimination. N this method a Matrix is reduced to a Upper Triangular Matrix."
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following step is not involved in Gauss Elimination Method?",
+        "Options": [
+            "a) Elimination of unknowns",
+            "b) Reduction to an upper triangular system",
+            "c) Finding unknowns by back substitution",
+            "d) Evaluation of cofactors"
+        ],
+        "Answer": "Answer: d\nExplanation: Elimination of unknowns, reduction to an upper triangular system and finding unknowns by back substitution are the primary steps involved in Gauss Elimination."
+    },
+    {
+        "id": 114,
+        "Question": "Gauss Elimination Method is well adopted for which of the application?",
+        "Options": [
+            "a) Computer operations",
+            "b) Network circuit problems",
+            "c) MATLAB operations",
+            "d) Telecommunication operations"
+        ],
+        "Answer": "Answer:  a\nExplanation: Gauss Elimination Method is well adopted for computer operations. It is an effective and fast process."
+    },
+    {
+        "id": 115,
+        "Question": "What are the coefficients of the equation obtained during the elimination called?",
+        "Options": [
+            "a) Joints",
+            "b) Pivots",
+            "c) Calculated coefficients",
+            "d) Operative coefficients"
+        ],
+        "Answer": "Answer: b\nExplanation: The coefficients of the equation obtained during the elimination are called as pivots."
+    },
+    {
+        "id": 116,
+        "Question": "How the transformation of coefficient matrix A to upper triangular matrix is done?",
+        "Options": [
+            "a) Elementary row transformations",
+            "b) Elementary column transformations",
+            "c) Successive multiplication",
+            "d) Successive division"
+        ],
+        "Answer": "Answer: a\nExplanation: The transformation of coefficient matrix A to upper triangular matrix is done through elementary row transformations. We will not lead towards the correct answer if we’ll perform transformations in rows as well as columns."
+    },
+    {
+        "id": 117,
+        "Question": "How many types of pivoting are there?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: There are two types of pivoting, namely, partial and complete pivoting."
+    },
+    {
+        "id": 118,
+        "Question": "The modified procedure of complete pivoting is called as ____________",
+        "Options": [
+            "a) Partial",
+            "b) Additional",
+            "c) Reduced",
+            "d) Modified"
+        ],
+        "Answer": "Answer:  a\nExplanation: The modified procedure of complete pivoting is called as Partial Pivoting."
+    },
+    {
+        "id": 119,
+        "Options": [
+            "a) x = 1.6479, y = -1.1408, z = 2.0845",
+            "b) x = 4.0461, y = -1.1408, z = 3.254",
+            "c) x = 7.2478, y = -2.586, z = 8.265",
+            "d) x = 2.8471, y = 5.5123, z = 2.0845"
+        ],
+        "Answer": "Answer: a\nExplanation: x + 4y – z = -5 ………(i)\nx + y – 6z = -12 …………………..(ii)\n3x – y – z = 4 …………………….(iii)\nTo eliminate x, operate (ii) – (i) and (iii) – 3(i),\n\n\n\t-3y – 5z = -7 ………………………(iv)\n-13 + 2z = 19 ………………………(v)\nTo eliminate y, (v) – (13/3)(iv),\n(71/3) z = (148/3)\nNow by back substitution,\nZ = \\(\\frac{148}{71}\\) = 2.0845\nY = \\(\\frac{7}{3} – \\frac{5}{3}(\\frac{148}{71})\\) \n= \\(\\frac{-81}{71}\\) = -1.1408\nX = -5 -4\\((\\frac{-81}{71}) + (\\frac{148}{71})\\) \n= \\(\\frac{117}{71}\\) = 1.6479\nHence x = 1.6479, y = -1.1408, z = 2.0845."
+    },
+    {
+        "id": 120,
+        "Question": "",
+        "Options": [
+            "a) u = 1, z = -7, y = 4, x = 5",
+            "b) u = 1, z = -7, y = 4, x = 5",
+            "c) u = 1, z = -7, y = 4, x = 5",
+            "d) u = 1, z = -7, y = 4, x = 5"
+        ],
+        "Answer": "Answer: d\nExplanation:  10x – 7y = 3z + 5u = 6 …….(i)\n-6x + 8y – z – 4u = 5 ………………….(ii)\n3x + y + 4z + 11u = 2 ………………….(iii)\n5x – 9y – 2z + 4u = 7 ………………….(iv)\nTo eliminate x, operate\n[(ii) – \\((\\frac{-6}{10})\\) (i)], [(iii) – \\(\\frac{3}{10}\\)(i)] and [(iv) – \\(\\frac{5}{10}\\)(i)] \n3.8y + 0.8z – u = 8.6 ……………………(v)\n3.1y + 3.1z + 9.5u = 0.2 …………………(vi)\n-5.5y – 3.5z + 1.5u = 4 ………………….(vii)\nTo eliminate y, operate [(vi) – \\(\\frac{3.1}{3.8}\\)(v)], [(vii) – \\(\\frac{5.5}{3.8}\\)(v)],\n2.447z + 10.31u = -6.815 …………………(viii)\n-2.342z + 0.052u = 16.44 …………………(ix)\nTo eliminate z operate [(ix) – \\((\\frac{-2.342}{2.447})\\) (viii)] ,\n9.924u = 9.924\nBy back substitution,\nu = 1, z = -7, y = 4, x = 5."
+    },
+    {
+        "id": 121,
+        "Question": "",
+        "Options": [
+            "a) X = 7, y = -4, z = 5",
+            "b) X = 7, y = -9, z = 5",
+            "c) X = 5, y = 1, z = -8",
+            "d) X = 5, y = 1, z = -3"
+        ],
+        "Answer": "Answer: b\nExplanation:\n2x + y + z = 10 ………………….(i)\n3x + 2y + 3z = 18 ………………..(ii)\nx + 4y + 9z = 16 …………………(iii)\nTo eliminate x, operate (i) – 2(iii), (ii) – 3(iii)\n7y + 17z = 22 ……………………(iv)\n5y + 12z = 15 ……………………(v)\nTo eliminate y, operate [(iv) – \\(\\frac{7}{5}\\)(v)] \n0.2z = 1\nBy back substitution,\nz = 5\n7y = 22 – 85\ny= -9\nx = 16 + 36 – 45\nx = 7\nHence, x = 7, y = -9, z = 5."
+    },
+    {
+        "id": 122,
+        "Question": "",
+        "Options": [
+            "a) X = 5, y = 14, z = 5",
+            "b) X = -13, y = 4, z = 15",
+            "c) X = -13, y = 1, z = -8",
+            "d) X = 13, y = 1, z = -8"
+        ],
+        "Answer": "Answer: b\nExplanation: 2x – y + 3z = 9 ……….(i)\nx + y + z = 6 ……………………(ii)\nx – y + z = 2 ……………………(iii)\nTo eliminate x, operate (ii) – (iii)\ny = 4\nNow, operate (i) – 2(ii),\n-3y + z = 3\nNow by back substitution,\nZ = 15\nX + 4 +15 = 6\nX = -13."
+    },
+    {
+        "id": 123,
+        "Options": [
+            "a) x = 4, y = 3, z = 2",
+            "b) x = 4, y = 3, z = 2",
+            "c) x = 4, y = 3, z = 2",
+            "d) x = 4, y = 3, z = 2"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n3 & 4 & 1\\\\\n6 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n22\\\\\n26\\\\\n19\\\\\n\\end{bmatrix} \\) \n\n\t\nBy R2-3R1 and R3-6R1\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n0 & -2 & -17\\\\\n0 & -13 & 37\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n22\\\\\n-40\\\\\n-113\\\\\n\\end{bmatrix} \\) \n\n\t\n\n        \n-2R3 and -13R2 \n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n0 & 26 & 221\\\\\n0 & 26 & 74\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n22\\\\\n520\\\\\n226\\\\\n\\end{bmatrix} \\) \n\n        \nR3-R2 and R2/13, R3/(-147)\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n0 & 2 & 17\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n22\\\\\n40\\\\\n2\\\\\n\\end{bmatrix} \\) \n\n\t\nR1-R2 and R1+11R3, R2-117R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 2 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n4\\\\\n6\\\\\n2\\\\\n\\end{bmatrix} \\) \n\n\t\n(1/2)R2\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n4\\\\\n3\\\\\n2\\\\\n\\end{bmatrix} \\) \nHence x = 4, y = 3, z = 2. "
+    },
+    {
+        "id": 124,
+        "Question": "",
+        "Options": [
+            "a) x = 8, y = 6, z = 4",
+            "b) x = 8, y = 4, z = 6",
+            "c) x = 4, y = 8, z = 6",
+            "d) x = 8, y = 6, z = 2"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Elimination Jordan method we get\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n3 & 4 & 1\\\\\n6 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n44\\\\\n52\\\\\n38\\\\\n\\end{bmatrix} \\) \nBy R2-3R1 and R3-6R1\n-2R3 and -13R2\nR3-R2 and R2/13, R3/(-147)\nR1-R2 and R1+11R3, R2-117R3\n(1/2)R2\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n8\\\\\n6\\\\\n4\\\\\n\\end{bmatrix} \\) \nHence x = 8, y = 6, z = 4."
+    },
+    {
+        "id": 125,
+        "Question": "",
+        "Options": [
+            "a) x=1, y=3, z=4",
+            "b) x=1, y=3, z=5",
+            "c) x=1, y=3, z=7",
+            "d) x=1, y=3, z=2"
+        ],
+        "Answer": "Answer: b\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 1 & 1\\\\\n2 & -3 & 4\\\\\n3 & 4 & 5\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n13\\\\\n40\\\\\n\\end{bmatrix} \\) \nBy R2-2R1 and R3-3R1\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n0 & -5 & 2\\\\\n0 & 1 & 2\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n-5\\\\\n13\\\\\n\\end{bmatrix} \\) \n5R3 and -R2 \n\\(\\begin{bmatrix}\n1 & 1 & 1\\\\\n0 & 5 & -2\\\\\n0 & 5 & 10\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n5\\\\\n65\\\\\n\\end{bmatrix} \\) \nR3-R2 and R2+(1/6) R3, (1/12)R3\n\\(\\begin{bmatrix}\n1 & 1 & 1\\\\\n0 & 5 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n15\\\\\n5\\\\\n\\end{bmatrix} \\) \n(1/2)R2\n\\(\\begin{bmatrix}\n1 & 1 & 1\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n3\\\\\n5\\\\\n\\end{bmatrix} \\) \nR1-R2-R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n1\\\\\n3\\\\\n5\\\\\n\\end{bmatrix} \\) \nHence x =1, y=3, z=5. "
+    },
+    {
+        "id": 126,
+        "Question": "",
+        "Options": [
+            "a) x=1, y=3, z=4",
+            "b) x=1, y=3, z=5",
+            "c) x=1, y=3, z=7",
+            "d) x=1, y=3, z=2"
+        ],
+        "Answer": "Answer: b\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n2 & -3 & 1\\\\\n3 & -4 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n-1\\\\\n2\\\\\n\\end{bmatrix} \\) \nBy R2-2R1 and R3-3R1\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & -11 & -9\\\\\n0 & -16 & -14\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n-51\\\\\n-73\\\\\n\\end{bmatrix} \\) \n-R3 and -R2, 16R2 and 11R1\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & 176 & 144\\\\\n0 & 176 & 154\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n816\\\\\n803\\\\\n\\end{bmatrix} \\) \nR3-R2 and (1/16)R2\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & 11 & 9\\\\\n0 & 0 & 10\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n51\\\\\n-13\\\\\n\\end{bmatrix} \\) \nR2-(9/10)R3 and R1-(1/2)R3\t\n\\(\\begin{bmatrix}\n1 & 4 & 0\\\\\n0 & 11 & 0\\\\\n0 & 0 & 10\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n63/2\\\\\n627/10\\\\\n-13\\\\\n\\end{bmatrix} \\) \nR1-(4/11)R2, (1/11)R1 and (1/10)R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n8.7\\\\\n5.7\\\\\n-1.3\\\\\n\\end{bmatrix} \\) \nHence x = 8.7, y = 5.7, z = -1.3. "
+    },
+    {
+        "id": 127,
+        "Question": "In Gauss Jordan method which of the following transformations are allowed?",
+        "Options": [
+            "a) Diagonal transformation",
+            "b) Column transformation",
+            "c) Row transformation",
+            "d) Square transformation"
+        ],
+        "Answer": "Answer: c\nExplanation:  In Gauss Jordan method the transformations carried out on the augmented matrix are row transformations. The matrix is reduced to Row Echelon form using Row transformations."
+    },
+    {
+        "id": 128,
+        "Question": "The augmented matrix in Gauss Jordan method is reduced to ______________",
+        "Options": [
+            "a) Row Echelon form",
+            "b) Column Echelon form",
+            "c) Matrix Echelon form",
+            "d) Augmented form"
+        ],
+        "Answer": "Answer: a\nExplanation: The matrix is reduced to Row Echelon form using Row transformations. In Gauss Jordan method the transformations carried out on the augmented matrix are row transformations."
+    },
+    {
+        "id": 129,
+        "Question": "",
+        "Options": [
+            "a) x = 48/7, y = 8/7, z = 4/7",
+            "b) x = 4/7, y = 48/7, z = 4/7",
+            "c) x = 44/7, y = 8/7, z = 4/7",
+            "d) x = 4/7, y = 8/7, z = 44/7"
+        ],
+        "Answer": "Answer: c\nExplanation: By Gauss Elimination Jordan method we get\n \\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n3 & 4 & 1\\\\\n6 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n12\\\\\n24\\\\\n36\\\\\n\\end{bmatrix} \\) \nBy R2-3R1 and R3-6R1\n-2R3 and -13R2\nR3-R2 and R2/13, R3/(-147)\nR1-R2 and R1+11R3, R2-117R3\n(1/2)R2\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n5\\\\\n9\\\\\n2\\\\\n\\end{bmatrix} \\) \nHence x=5, y=9, z=2. "
+    },
+    {
+        "id": 130,
+        "Question": "",
+        "Options": [
+            "By R2-3R1 and R3-6R1",
+            "-2R3 and -13R2",
+            "R3-R2 and R2/13, R3/(-147)",
+            "R1-R2 and R1+11R3, R2-117R3",
+            "(1/2)R2"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n3 & 4 & 1\\\\\n6 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n15\\\\\n16\\\\\n20\\\\\n\\end{bmatrix} \\) \nBy R2-3R1 and R3-6R1\n-2R3 and -13R2\nR3-R2 and R2/13, R3/(-147)\nR1-R2 and R1+11R3, R2-117R3\n (1/2)R2\t\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n3.735\\\\\n0.795\\\\\n1.612\\\\\n\\end{bmatrix} \\) \nHence x=3.735, y=0.795, z=1.612."
+    },
+    {
+        "id": 131,
+        "Question": "",
+        "Options": [
+            "a) x=3.735, y=0.795, z=1.612",
+            "b) x=3.735, y=3.735, z=1.612",
+            "c) x=3.735, y=1.612, z=3.735",
+            "d) x=1.612, y=0.795, z=3.735"
+        ]
+    },
+    {
+        "id": 132,
+        "Question": "",
+        "Options": [
+            "By R2-3R1 and R3-6R1",
+            "-2R3 and -13R2",
+            "R3-R2 and R2/13, R3/(-147)",
+            "R1-R2 and R1+11R3, R2-117R3",
+            " (1/2)R2"
+        ]
+    },
+    {
+        "id": 133,
+        "Options": [
+            "a) x=4, y=3, z=2",
+            "b) x=13, y=6, z=9",
+            "c) x=12, y=9, z=6",
+            "d) x=4, y=2, z=3"
+        ],
+        "Answer": "Answer: c\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 2 & 6\\\\\n3 & 4 & 1\\\\\n6 & -1 & -1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n66\\\\\n78\\\\\n57\\\\\n\\end{bmatrix} \\) \nBy R2-3R1 and R3-6R1\n-2R3 and -13R2\nR3-R2 and R2/13, R3/(-147)\nR1-R2 and R1+11R3, R2-117R3\n (1/2)R2\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n12\\\\\n9\\\\\n6\\\\\n\\end{bmatrix} \\) \nHence x=12, y=9, z=6. "
+    },
+    {
+        "id": 134,
+        "Question": "",
+        "Options": [
+            "a) x=1.33, y=1.33, z=0.67",
+            "b) x=1.33, y=0.67, z=0.67",
+            "c) x=1.33, y=1, z=0.67",
+            "d) x=1.33, y=1, z=1"
+        ],
+        "Answer": "Answer: c\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n3 & 6 & 18\\\\\n9 & 12 & 3\\\\\n18 & -3 & -3\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n22\\\\\n26\\\\\n19\\\\\n\\end{bmatrix} \\) \nBy R2-3R1 and R3-6R1\n-2R3 and -13R2\nR3-R2 and R2/13, R3/(-147)\nR1-R2 and R1+11R3, R2-117R3\n (1/2)R2\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n1.33\\\\\n1\\\\\n0.67\\\\\n\\end{bmatrix} \\) \nHence x=1.33, y=1, z=0.67. "
+    },
+    {
+        "id": 135,
+        "Question": "",
+        "Options": [
+            "a) x=0.33, y=1.67, z=1",
+            "b) x=1.67, y=1, z=0.33",
+            "c) x=1, y=0.33, z=1.67",
+            "d) x=0.33, y=1, z=1.67"
+        ],
+        "Answer": "Answer: d\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n3 & 3 & 3\\\\\n6 & -9 & 12\\\\\n9 & 12 & 15\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n9\\\\\n13\\\\\n40\\\\\n\\end{bmatrix} \\) \nBy R2-2R1 and R3-3R1\n5R3 and -R2\nR3-R2 and R2+(1/6) R3, (1/12)R3\n(1/2)R2\nR1-R2-R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n0.33\\\\\n1\\\\\n1.67\\\\\n\\end{bmatrix} \\) \nHence x=0.33, y=1, z=1.67. "
+    },
+    {
+        "id": 136,
+        "Question": "",
+        "Options": [
+            "a) x=8.7, y=5.7, z=-1.3",
+            "b) x=8.7, y=-1.3, z=5.7",
+            "c) x=-1.3, y=5.7, z=8.7",
+            "d) x=5.7, y=8.7, z=-1.3"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Jordan method we get\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n2 & -3 & 1\\\\\n3 & -4 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n-1\\\\\n2\\\\\n\\end{bmatrix} \\) \nBy R2-2R1 and R3-3R1\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & -11 & -9\\\\\n0 & -16 & -14\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n-51\\\\\n-73\\\\\n\\end{bmatrix} \\) \n-R3 and -R2, 16R2 and 11R1\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & 176 & 144\\\\\n0 & 176 & 154\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n816\\\\\n803\\\\\n\\end{bmatrix} \\) \nR3-R2 and (1/16)R2\n\\(\\begin{bmatrix}\n1 & 4 & 5\\\\\n0 & 11 & 9\\\\\n0 & 0 & 10\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n25\\\\\n51\\\\\n-13\\\\\n\\end{bmatrix} \\) \nR2-(9/10)R3 and R1-(1/2)R3\n\\(\\begin{bmatrix}\n1 & 4 & 0\\\\\n0 & 11 & 0\\\\\n0 & 0 & 10\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n63/2\\\\\n627/10\\\\\n-13\\\\\n\\end{bmatrix} \\) \nR1-(4/11)R2, (1/11)R1 and (1/10)R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n8.7\\\\\n5.7\\\\\n-1.3\\\\\n\\end{bmatrix} \\) \nHence x=8.7, y=5.7, z=-1.3."
+    },
+    {
+        "id": 137,
+        "Question": "",
+        "Options": [
+            "a) x=3, y=1.5, z=1.5",
+            "b) x=3, y=1.5, z=1.5",
+            "c) x=1.5, y=3, z=1.5",
+            "d) x=1.5, y=3, z=3"
+        ],
+        "Answer": "Answer: d\nExplanation: By Gauss Jordan Elimination method we get,\nx+y+z=7.5.…………….(i)\n2x+3y+z=15….……….(ii)\n3x-2y+2z=4.5…………(iii)\nTo eliminate x, subtract 2 times (i) from (ii) and 3 times (i) from (iii).\nx+y+z=7.5…………….(iv)\ny-z=0………………….(v)\n-5y-z=-18……………(vi)\nTo eliminate y, subtract (v) from (iv) and add 5 times (v) to (vi).\nx+2z=7.5…………….(vii)\ny-z=0…………………(viii)\n-6z=-18………………(ix)\nTo eliminate z add 1/3 times (ix) to (vii) and subtract 1/6 times (ix) from (viii).\nHence x=1.5, y=3, z=3."
+    },
+    {
+        "id": 138,
+        "Question": "Which of these methods is named after the mathematician Carl Friedrich Gauss?",
+        "Options": [
+            "a) Secant method",
+            "b) Newton Raphson method",
+            "c) Runge Kutta method",
+            "d) Gauss Jordan method"
+        ],
+        "Answer": "Answer: d\nExplanation: Gauss Jordan method is named after the mathematician Carl Friedrich Gauss. Its algorithm is used to solve linear equations."
+    },
+    {
+        "id": 139,
+        "Question": "Which of the following transformations are allowed in Gauss Jordan method?",
+        "Options": [
+            "a) Swapping a row",
+            "b) Swapping a column",
+            "c) Swapping two rows",
+            "d) Swapping two columns"
+        ],
+        "Answer": "Answer: c\nExplanation: Only row transformations are allowed in Gauss Jordan method. Swapping of two rows doesn’t affect the determinant value hence it is allowed here."
+    },
+    {
+        "id": 140,
+        "Question": "The Gauss Jordan method reduces a original matrix into a _____________",
+        "Options": [
+            "a) Identity matrix",
+            "b) Null matrix",
+            "c) Skew Hermitian matrix",
+            "d) Non-symmetric matrix"
+        ],
+        "Answer": "Answer: a\nExplanation: The Gauss Jordan method reduces a original matrix into a Row Echelon form. In Row Echelon form the matrix is identity."
+    },
+    {
+        "id": 141,
+        "Question": "Which of the following methods is used for obtaining the inverse of matrix?",
+        "Options": [
+            "a) Gauss Seidel method",
+            "b) Newton Raphson method",
+            "c) Gauss Jordan method",
+            "d) Secant Method"
+        ],
+        "Answer": "Answer: c\nExplanation: Gauss Jordan method deals with solving the matrix through row transformations. Hence it is most suitable to find the inverse of a matrix."
+    },
+    {
+        "id": 142,
+        "Question": "",
+        "Options": [
+            "a) x=2, y=3, z=-1",
+            "b) x=2, y=-1, z=3",
+            "c) x=2, y=-1, z=4",
+            "d) x=3, y=3, z=-1"
+        ],
+        "Answer": "Answer: a\nExplanation: By Gauss Jordan method we get,\n\\(\\begin{bmatrix}\n2 & 1 & -1\\\\\n-3 & -1 & 2\\\\\n-2 & 1 & 2\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n8\\\\\n-11\\\\\n-3\\\\\n\\end{bmatrix} \\) \nBy,\nR1/2\n3R1+R2 and 2R1+R3\n2R2\n-(1/2)R2+R1 and -2R2+R3\nR3+R2, -R3+R1 and –R3\n\\(\\begin{bmatrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\\\\\n\\end{bmatrix} \\) \\( \\begin{bmatrix}\nx\\\\\ny\\\\\nz\\\\\n\\end{bmatrix}\\) = \\( \\begin{bmatrix}\n2\\\\\n3\\\\\n-1\\\\\n\\end{bmatrix} \\) \nHence x=2, y=3, z=-1."
+    },
+    {
+        "id": 143,
+        "Question": "The modification of Gauss elimination method is called as ___________",
+        "Options": [
+            "a) Gauss Seidal",
+            "b) Gauss Jordan",
+            "c) Jacobi’s Method",
+            "d) Relaxation Method"
+        ],
+        "Answer": "Answer: b\nExplanation: The modified method of Gauss Elimination is called as Gauss Jordan method as it involves few changes in the procedure of Gauss Elimination."
+    },
+    {
+        "id": 144,
+        "Question": "Which of the following is not a step involved in Gauss Jordan Method?",
+        "Options": [
+            "a) Elimination of unknowns",
+            "b) Reduction of systems to diagonal matrix form",
+            "c) Performing elimination on equations above as well as below",
+            "d) Evaluation of cofactors"
+        ],
+        "Answer": "Answer: d\nExplanation: Elimination of unknowns, reduction of systems to diagonal matrix form and performing elimination on equations above as well as below are the steps involved in Gauss Jordan method."
+    },
+    {
+        "id": 145,
+        "Question": "The advantage of using Gauss Jordan method is which of the following?",
+        "Options": [
+            "a) More operations involved",
+            "b) Elimination is easier",
+            "c) Additional Calculations",
+            "d) No labour of back substitution"
+        ],
+        "Answer": "Answer: d\nExplanation: The advantage of using Gauss Jordan method is that it involves no labour of back substitution. Back substitution has to be done while solving linear equations formed during solving the problem."
+    },
+    {
+        "id": 146,
+        "Question": "Which is more efficient method?",
+        "Options": [
+            "a) Gauss Elimination",
+            "b) Gauss Jordan",
+            "c) Cramer’s Rule",
+            "d) Back substitution"
+        ],
+        "Answer": "Answer:  a\nExplanation: The least number of operations to solve the simultaneous linear equations are done in Gauss Elimination. That’s why it is better."
+    },
+    {
+        "id": 147,
+        "Question": "Why Gauss Elimination is preferred over other methods?",
+        "Options": [
+            "a) Less number of operations are involved",
+            "b) Back substitution needed",
+            "c) Elimination of unknowns",
+            "d) Forms diagonal matrix form"
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss Elimination is preferred over other methods because it involves less number of operations. There is no back substitution in Gauss Elimination."
+    },
+    {
+        "id": 148,
+        "Question": "In solving simultaneous equations by Gauss Jordan method, the coefficient matrix is reduced to ______ matrix.",
+        "Options": [
+            "a) Identity",
+            "b) Diagonal",
+            "c) Upper triangular",
+            "d) Lower triangular"
+        ],
+        "Answer": "Answer: b\nExplanation: In solving simultaneous equations by Gauss Jordan method, the coefficient matrix is reduced to diagonal matrix. After that, we are able to get to the solution of the unknowns using matrix multiplication."
+    },
+    {
+        "id": 149,
+        "Options": [
+            "a) x = 7, y = 2, z = 5",
+            "b) x = 7, y = 2, z = 8",
+            "c) x = 1, y = 3, z = 5",
+            "d) x = 5, y = 3, z = 6"
+        ],
+        "Answer": "Answer: c\nExplanation:\nx + y + z = 9 …………….(i)\n2x – 3y + 4z = 13 ………..(ii)\n3x + 4y + 5z = 40 ………..(iii)\nTo eliminate x, operate (ii) – 2(i) and (iii) – 3(i),\nx + y + z = 9 …………….(iv)\n– 5y + 2z = -5 …………….(v)\ny + 2z = 13 ………………(vi)\n\n\n\tTo eliminate y, operate (iv) + (1/5)(v) and (vi) – (1/5)(v),\nx + (7/5) z = 8 …………..(vii)\n-5y + 2z = -5 …………….(viii)\n(12/5) z = 12……………..(ix)\nTo eliminate z, operate (vii) – (7/12) (ix) and (viii) – (5/6)(ix)\nx = 1\n-5y = -15\n(12/5) z = 12\nHence, the solution is x = 1, y = 3, z = 5."
+    },
+    {
+        "id": 150,
+        "Question": "",
+        "Options": [
+            "a) u = 2, x = 5, y = 9, z = -7",
+            "b) u = 2, x = 7, y = 4, z = 9",
+            "c) u = 1, x = 5, y = 3, z = -6",
+            "d) u = 1, x = 5, y = 4, z = -7"
+        ],
+        "Answer": "Answer: d\nExplanation:\n10x – 7y + 3z + 5u = 6 ……………..(i)\n– 6x + 8y – z – 4u = 5 ……………..(ii)\n3x + y +4z + 11u = 2 ……………….(iii)\n5x – 9y – 2z + 4u = 7 ………………(iv)\nTo eliminate x, operate [(ii) – \\((\\frac{-6}{10})\\) (i)], [(iii) – \\((\\frac{3}{10})\\) (i)], [(iv) – \\((\\frac{5}{10})\\)(i)] \n10x – 7y + 3z + 5u = 6 ………………(v)\n3.8y + 0.8z – u = 8.6 ……………….(vi)\n3.1y + 3.1z + 9.5u = 0.2 …………….(vii)\n-5.5y – 3.5z + 1.5u = 4 ……………..(viii)\nTo eliminate y, operate [(v) – \\((\\frac{-7}{3.8})\\) (vi)], [(vii) – \\((\\frac{3.1}{3.8})\\) (vi)], [(viii) – \\((\\frac{5.5}{3.8})\\) (vi)],\n10x + 4.4736z + 3.1578u = 21.8421 ………..(ix)\n3.8y + 0.8z – u = 8.6 …………………..(x)\n2.4473z + 10.3157u = -6.8157 …………….(xi)\n-2.3421z + 0.0526u = 16.4473 …………….(xii)\nTo eliminate z, operate [(ix) – \\((\\frac{4.4736}{2.4473})\\) (xi)], [(x) – \\((\\frac{0.8}{2.4473})\\) (xi)], [(xii) – \\((\\frac{-2.3421}{2.4473})\\)(xi)],\n10x – 15.699u = 34.3010\n3.8y – 4.3720u = 10.8279\n2.4473z + 10.3157u = -6.8157\n9.9247u = 9.9247\nBy back substitution,\nu = 1\nx = 5, y = 4, z = -7."
+    },
+    {
+        "id": 151,
+        "Question": "",
+        "Options": [
+            "a) x = -3.5, y = 40.2, z = 7.625",
+            "b) x = -3.5, y = 52.5, z = 4.524",
+            "c) x = 2.3, y = 74.4, z = 8.524",
+            "d) x = 2.3, y = 85.7, z = 7.625"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nx + y + z = 9  ………………..(i)\n2x + y – z = 0 ………………..(ii)\n2x + 5y + 7z = 52 ……………..(iii)\nTo eliminate x, (iii) – 2(i), (ii) – 2(i)\nx + y + z = 9 …………………(iv)\ny + 5z = 43  ………………….(v)\ny – 3z = -18  …………………(vi)\nTo eliminate y, (iv) – (vi) and (v) – (vi),\nx + 4z = 27 …………………..(vii)\ny + 5z = 43 …………………..(viii)\n8z = 61 ………………………(ix)\nTo eliminate z, (ix) – 2(vii) and (ix) – (8/5) (viii),\n-2x = 7\n(-8/5) y = 61 – (104/5)\nz = 7.625\nHence, x = -3.5, y = 40.2, z = 7.625."
+    },
+    {
+        "id": 152,
+        "Question": "",
+        "Options": [
+            "To eliminate z, (ix) – 2(vii) and (ix) – (8/5) (viii),",
+            "-2x = 7",
+            "(-8/5) y = 61 – (104/5)",
+            "z = 7.625",
+            "Hence, x = -3.5, y = 40.2, z = 7.625."
+        ],
+        "Answer": "Answer: c\nExplanation: Here,\n2x + y + z = 10 ………………(i)\n3x + 2y + 3z = 18 …………….(ii)\nx + 4y + 9z = 16 ……………..(iii)\nTo eliminate x (i) – 2(iii) and (ii) – 3(iii)\nx + 4y + 9z = 16 ……………….(iv)\n7y + 17z = 22 ………………….(v)\n5y + 12z = 15 ………………….(vi)\nTo eliminate y, (v) – (7/5) (vi) and (vi) – (5/4) (iv),\n3z – 5x = -20 …………………….(vii)\nz = 5 ……………………………(viii)\n5y + 12z = 15 …………………….(ix)\nTo eliminate z (ix) – 12(viii) and (vii) – 3(viii),\ny = -9\nx = 7\nHence, x = 7, y = -9, z = 5."
+    },
+    {
+        "id": 153,
+        "Question": "",
+        "Options": [
+            "a) x = 1, y = -9, z =3",
+            "b) x =6, y = 6, z =8",
+            "c) x = 7, y = -9, z = 5",
+            "d) x =7, y = 4, z =1"
+        ],
+        "Answer": "Answer: d\nExplanation: After applying all the elementary row operations on the system, if the main diagonal still consists of zeroes that means that the system may have infinitely many solutions."
+    },
+    {
+        "id": 154,
+        "Question": "While using Gauss Jordan’s method, after all the elementary row operations if there are zeroes left on the main diagonal, then which of the following is correct?",
+        "Options": [
+            "a) System may have unique solution",
+            "b) System has no solution",
+            "c) System may have multiple numbers of finite solutions",
+            "d) System may have infinitely many solutions"
+        ]
+    },
+    {
+        "id": 155,
+        "Question": "The LU method of factorization was introduced by the mathematician____________",
+        "Options": [
+            "a) Alan Tango",
+            "b) David Hilbert",
+            "c) G. W. Leibniz",
+            "d) Alex Grothendieck"
+        ],
+        "Answer": "Answer: a\nExplanation: The LU method of factorization was introduced by the mathematician Alan Tango. He was an English mathematician."
+    },
+    {
+        "id": 156,
+        "Question": "Which of the following step is not involved in the factorization process?",
+        "Options": [
+            "a) converting the given system to matrix form",
+            "b) the matrix is decomposed into the product of lower and upper triangular matrix",
+            "c) finding the unknowns using matrix multiplication",
+            "d) elimination of unknowns using back substitution"
+        ],
+        "Answer": "Answer: d\nExplanation: The first step is to convert the given system to matrix form. And then after using this method the matrix is decomposed into the product of lower and upper triangular matrix. Lastly, the unknowns are found using matrix multiplication."
+    },
+    {
+        "id": 157,
+        "Question": "Errors may occur in performing numerical computation on the computer due to which of the following reasons?",
+        "Options": [
+            "a) Rounding errors",
+            "b) Power fluctuation",
+            "c) Operator fatigue",
+            "d) Back substitution"
+        ],
+        "Answer": "Answer: a\nExplanation: Rounding errors generally produces errors while performing numerical computation on the computer. Power fluctuation and operator fatigue are not the general problems which occur in performing numerical computations."
+    },
+    {
+        "id": 158,
+        "Question": "What is the other name for factorization method?",
+        "Options": [
+            "a) Doolittle’s Method",
+            "b) Lin Bairstow Method",
+            "c) Muller’s Method",
+            "d) Decomposition Method"
+        ],
+        "Answer": "Answer: a\nExplanation: Another name for factorization method is Doolittle’s Method as Doolittle’s method is basically an algorithm of Factorization method."
+    },
+    {
+        "id": 159,
+        "Question": "What is the principle of factorization?",
+        "Options": [
+            "a) There exists no inverse for a singular matrix",
+            "b) Determinant of an identity matrix is one",
+            "c) Every square matrix can be expressed as a product of a lower triangular matrix and upper triangular matrix",
+            "d) Every matrix can be expressed as a sum of a skew symmetric and a symmetric matrix"
+        ],
+        "Answer": "Answer: a\nExplanation: Factorization can be viewed as matrix form of Gauss Elimination method as it also involves the same procedure only the matrix solving part is different."
+    },
+    {
+        "id": 160,
+        "Question": "What is the condition applied in factorization method?",
+        "Options": [
+            "a) Matrix should not be singular",
+            "b) Back substitution should be done",
+            "c) There must exist a diagonal matrix form of the given matrix",
+            "d) All principal minors of the matrix should be non-singular"
+        ],
+        "Answer": "Answer: c\nExplanation: The principle of factorization is that every square matrix can be expressed as a product of a lower triangular matrix and upper triangular matrix. On the basis of this fact, these lower and upper triangular matrices help us in finding the unknowns."
+    },
+    {
+        "id": 161,
+        "Question": "During computation of elements of L and U, what order should be followed?",
+        "Options": [
+            "a) First row of U -> Second row of L -> Second column of U -> Second row of U -> Third row of U",
+            "b) First row of U -> First column of L -> Second row of U -> Second column of L -> Third row of U",
+            "c) First column of U -> First row of L -> Second column of U -> Second row of L -> Third row of U",
+            "d) First row of L -> First column of U -> Second row of L -> Second column of U -> Third column of L"
+        ],
+        "Answer": "Answer: d\nExplanation: The necessary condition for factorization method is that all principal minors of the matrix should be non-singular. Otherwise, there will be no formation of lower and upper triangular matrix."
+    },
+    {
+        "id": 162,
+        "Question": "What is the other application of Factorization method?",
+        "Options": [
+            "a) Finding inverse of a matrix",
+            "b) Solving partial differential equations",
+            "c) Solving ordinary differential equations",
+            "d) Finding Eigen values"
+        ],
+        "Answer": "Answer: b\nExplanation: While solving for L and U, First row of U -> Second row of L -> Second column of U -> Second row of U -> Third row of U, this order should be followed. This is sequential arrangement of steps which easily helps in finding the unknowns."
+    },
+    {
+        "id": 163,
+        "Question": "Factorization method is superior than which of the following methods?",
+        "Options": [
+            "a) Gauss Elimination",
+            "b) Gauss Seidal",
+            "c) Jacobi’s Method",
+            "d) Iterative Method"
+        ],
+        "Answer": "Answer: a\nExplanation: We can even find the inverse of a matrix using factorization method. This can be done by finding inverse of the intermediate matrices and then using them to find the inverse of the desirable matrix."
+    },
+    {
+        "id": 164,
+        "Question": "Why factorization method is preferred over other methods?",
+        "Options": [
+            "a) Less calculations",
+            "b) No need of back substitution",
+            "c) No solving of cofactors",
+            "d) No elimination of unknowns"
+        ],
+        "Answer": "Answer: a\nExplanation: Factorization method is superior to Gauss Elimination due to the involvement of less number of computations in:  Factorization method."
+    },
+    {
+        "id": 165,
+        "Options": [
+            "a) z = -1/3, y = 8/3, x = 7/8",
+            "b) z = -5/3, y = 4/3, x = 7/8",
+            "c) z = 7/3, y = 8/3, x = 9/8",
+            "d) z = -1/3, y = 1/3, x = 5/8"
+        ],
+        "Answer": "Answer: a\nExplanation: Factorization method is preferred over other methods because it involves less number of calculations."
+    },
+    {
+        "id": 166,
+        "Question": "",
+        "Options": [
+            "a) z = 1/2, y = 1/2, x = 7/2",
+            "b) z = 5/2, y = 1/2, x = 9/2",
+            "c) z = 7/2, y = 3/2, x = 3/2",
+            "d) z = 1/2, y = 5/2, x = 3/2"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nLet \\(\\begin{bmatrix}1&0&0\\\\a&1&0\\\\b&c&1\\end{bmatrix}\\)\\(\\begin{bmatrix}p&q&r\\\\0&s&t\\\\0&0&u\\end{bmatrix}\\) = \\(\\begin{bmatrix}3&2&7\\\\2&3&1\\\\3&4&1\\end{bmatrix}\\) \np = 3, q = 2, r = 7\nap = 2, aq + s = 3, ar + t = 1\nbp = 3, bq + cs = 4, br + ct + u = 1\nBy solving these equations, we get\na = 2/3\nb = 1\ns = 5/3\nc = 6/5\nt = -11/3\nu = -8/5\nThus, A =\\(\\begin{bmatrix}1&0&0\\\\2/3&1&0\\\\1&6/5&1\\end{bmatrix}\\)\\(\\begin{bmatrix}3&2&7\\\\0&5/3&-11/3\\\\0&0&-8/5\\end{bmatrix}\\) .\nWriting UX = V, the given system becomes\n\\(\\begin{bmatrix}1&0&0\\\\2/3&1&0\\\\1&6/5&1\\end{bmatrix}\\)\\(\\begin{bmatrix}i\\\\j\\\\k\\end{bmatrix}\\) = \\(\\begin{bmatrix}4\\\\5\\\\7\\end{bmatrix}\\) \nSolving these equations, we have i = 4\n(2/3)i + j = 5 or j = 7/3\ni + (6/5)j + k = 7 or k = 1/5\nHence, the original system becomes,\n\\(\\begin{bmatrix}3&2&7\\\\0&5/3&-11/3\\\\0&0&-6/5\\end{bmatrix}\\)\\(\\begin{bmatrix}4\\\\5\\\\7\\end{bmatrix}\\) = \\(\\begin{bmatrix}4\\\\7/3\\\\1/5\\end{bmatrix}\\) \n3x + 2y + 7z = 4\n(5/3y) – 11/3z = 7/3\n-8/5z = 1/5\nBy back substitution, we have\nz = -1/3, y = 8/3, x = 7/8."
+    },
+    {
+        "id": 167,
+        "Question": "While solving a system of linear equations, which of the following will be the order of the decomposed matrices; L and U?",
+        "Options": [
+            "a) Order of L = 3X1, Order of U = 1X3",
+            "b) Order of L = 3X2, Order of U = 2X3",
+            "c) Order of L = 3X3, Order of U = 3X3",
+            "d) Order of L = 3X4, Order of U = 4X3"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nLet \\(\\begin{bmatrix}1&0&0\\\\a&1&0\\\\b&c&1\\end{bmatrix}\\)\\(\\begin{bmatrix}p&q&r\\\\0&s&t\\\\0&0&u\\end{bmatrix}\\) =  \\(\\begin{bmatrix}2&3&1\\\\1&2&3\\\\3&1&2\\end{bmatrix}\\) \np = 2, q = 3, r = 1\nap = 1, aq + s = 2, ar + t = 3\nbp = 3, bq + cs = 1, br + ct + u = 2\nBy solving these equations, we get\na = 1/2\nb = 3/2\ns = 1/2\nt = 5/2\nc = -7\nu = 18\nThus, A = \\(\\begin{bmatrix}1&0&0\\\\1/2&1&0\\\\3/2&-7&1\\end{bmatrix}\\)\\(\\begin{bmatrix}2&3&1\\\\0&1/2&5/2\\\\0&0&18\\end{bmatrix}\\)  \nWriting UX = V, the given system of equations become\n\\(\\begin{bmatrix}1&0&0\\\\1/2&1&0\\\\3/2&-7&1\\end{bmatrix}\\)\\(\\begin{bmatrix}i\\\\j\\\\k\\end{bmatrix}\\) = \\(\\begin{bmatrix}9\\\\6\\\\8\\end{bmatrix}\\)  \ni = 9\n(1/2) i + j = 6\n(3/2) i – 7j + k = 8\nBy back substitution,\ni = 9, j = 3/2, k = 5\nHence, the original system becomes\n\\(\\begin{bmatrix}2&3&1\\\\0&1/2&5/2\\\\0&0&18\\end{bmatrix}\\)   \\(\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}\\) = \\(\\begin{bmatrix}9\\\\3/2\\\\5\\end{bmatrix}\\)  \n2x + 3y + z = 9\n(1/2) y + (5/2) z = 3/2\n10z = 5\nz = 1/2\nBy back substitution,\nz = 1/2, y = 1/2, x = 7/2."
+    },
+    {
+        "id": 168,
+        "Options": [
+            "a) 3",
+            "b) 7",
+            "c) 0",
+            "d) 1"
+        ],
+        "Answer": "Answer: d\nExplanation: From the above question, we get the matrix equation as –\n\\(\\begin{bmatrix}1&1&1\\\\1&2&3\\\\1&3&4\\end{bmatrix} \\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix} = \\begin{bmatrix}7\\\\16\\\\22\\end{bmatrix}\\) \nLet A=L*U\nHere L is the lower triangular matrix\nL=\\(\\begin{bmatrix}a&0&0\\\\b&c&0\\\\d&e&f\\end{bmatrix}\\) \nU is the lower triangular matrix\nU=\\(\\begin{bmatrix}1&g&h\\\\0&1&I\\\\0&0&1\\end{bmatrix}\\) \nA=\\(\\begin{bmatrix}a&ag&ah\\\\b&bg+c&bh+cI\\\\d&dg+e&dh+eI+f\\end{bmatrix}\\) \nA=LU\n\\(\\begin{bmatrix}1&1&1\\\\1&2&3\\\\1&3&4\\end{bmatrix}\\)=\\(\\begin{bmatrix}a&ag&ah\\\\b&bg+c&bh+cI\\\\d&dg+e&dh+eI+f\\end{bmatrix}\\) \nFrom this substitutions and comparisons, we get the following values,\na=1\nb=1\nc=1\nd=1\ne=2\nf=-1\ng=1\nh=1\nI=2\nThus from the above values,\nL=\\(\\begin{bmatrix}1&0&0\\\\1&1&0\\\\1&2&-1\\end{bmatrix}\\)  and U=\\(\\begin{bmatrix}1&1&1\\\\0&1&2\\\\0&0&1\\end{bmatrix}\\) \nSince AX=B i.e. LUX=B\nAssume V=UX\nV = \\(\\begin{bmatrix}v1\\\\v2\\\\v3\\end{bmatrix}\\) \nWe can say that LV=B\n\\(\\begin{bmatrix}1&0&0\\\\1&1&0\\\\1&2&-1\\end{bmatrix} \\begin{bmatrix}v1\\\\v2\\\\v3\\end{bmatrix} = \\begin{bmatrix}7\\\\16\\\\22\\end{bmatrix}\\) \nFrom this we get,\nv1=7\nv2=9\nv3=3\nUX=V\n\\(\\begin{bmatrix}1&1&1\\\\0&1&2\\\\0&0&1\\end{bmatrix} \\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix} = \\begin{bmatrix}7\\\\9\\\\3\\end{bmatrix}\\) \n\\(\\begin{bmatrix}x+y+z\\\\y+2z\\\\z\\end{bmatrix} = \\begin{bmatrix}7\\\\9\\\\3\\end{bmatrix}\\) \nHence, x=1, y=3, z=3\nThus, the value of x is 1."
+    },
+    {
+        "id": 169,
+        "Question": "",
+        "Options": [
+            "a) 13",
+            "b) 7",
+            "c)  10",
+            "d) -12"
+        ],
+        "Answer": "Answer: a\nExplanation: From the above question, we get the matrix equation as-\n\\(\\begin{bmatrix}1&-2&3\\\\1&-1&2\\\\3&2&-1\\end{bmatrix} \\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix} = \\begin{bmatrix}6\\\\9\\\\16\\end{bmatrix}\\) \nLet A=L*U\nHere L is the lower triangular matrix\nL=\\(\\begin{bmatrix}a&0&0\\\\b&c&0\\\\d&e&f\\end{bmatrix}\\) \nU is the lower triangular matrix\nU=\\(\\begin{bmatrix}1&g&h\\\\0&1&I\\\\0&0&1\\end{bmatrix}\\) \nA=\\(\\begin{bmatrix}a&ag&ah\\\\b&bg+c&bh+cI\\\\d&dg+e&dh+eI+f\\end{bmatrix}\\) \nA=LU\n\\(\\begin{bmatrix}1&-2&3\\\\1&-1&2\\\\3&2&-1\\end{bmatrix}\\)=\\(\\begin{bmatrix}a&ag&ah\\\\b&bg+c&bh+cI\\\\d&dg+e&dh+eI+f\\end{bmatrix}\\) \nFrom this substitutions and comparisons, we get the following values,\na=1\nb=1\nc=1\nd=3\ne=8\nf=-2\ng=-2\nh=3\nI=-1\nThus from the above values,\nL=\\(\\begin{bmatrix}1&0&0\\\\1&1&0\\\\3&8&-2\\end{bmatrix}\\) and U=\\(\\begin{bmatrix}1&-2&3\\\\0&1&-1\\\\0&0&1\\end{bmatrix}\\) \nSince AX=B i.e. LUX=B\nAssume V=UX\nV = \\(\\begin{bmatrix}v1\\\\v2\\\\v3\\end{bmatrix}\\) \nWe can say that LV=B\n\\(\\begin{bmatrix}1&0&0\\\\1&1&0\\\\3&8&-2\\end{bmatrix} \\begin{bmatrix}v1\\\\v2\\\\v3\\end{bmatrix} = \\begin{bmatrix}6\\\\9\\\\16\\end{bmatrix}\\) \nFrom this we get,\nv1=6\nv2=3\nv3=13\nUX=V\n\\(\\begin{bmatrix}1&-2&3\\\\0&1&-1\\\\0&0&1\\end{bmatrix} \\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix} = \\begin{bmatrix}6\\\\3\\\\13\\end{bmatrix}\\)  \n\\(\\begin{bmatrix}x-2y+3z\\\\y-z\\\\z\\end{bmatrix} = \\begin{bmatrix}6\\\\3\\\\13\\end{bmatrix}\\) \nHence, x=-1, y=16, z=13\nThus, the value of z is 13."
+    },
+    {
+        "id": 170,
+        "Question": "Gauss Seidal method is also termed as a method of _______",
+        "Options": [
+            "a) Successive displacement",
+            "b) Eliminations",
+            "c) False positions",
+            "d) Iterations"
+        ],
+        "Answer": "Answer: a\nExplanation:  The coefficient matrix\nA = \\(\\begin{bmatrix}3&-1\\\\2&5\\end{bmatrix}\\) \nis strictly diagonally dominant because |3| > |-1| and |5| > |2|."
+    },
+    {
+        "id": 171,
+        "Question": "Gauss seidal method is similar to which of the following methods?",
+        "Options": [
+            "a) Iteration method",
+            "b) Newton Raphson method",
+            "c) Jacobi’s method",
+            "d) Regula-Falsi method"
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss Seidal method is also termed as a method of successive displacement because with the iterations, we keep on displacing the values we select for the unknowns which are used in the subsequent steps."
+    },
+    {
+        "id": 172,
+        "Question": "What is the main difference between Jacobi’s and Gauss-seidal?",
+        "Options": [
+            "a) Computations in Jacobi’s can be done in parallel but not in Gauss-seidal",
+            "b) Convergence in Jacobi’s method is faster",
+            "c) Gauss seidal cannot solve the system of linear equations in three variables whereas Jacobi cannot",
+            "d) Deviation from the correct answer is more in gauss seidal"
+        ],
+        "Answer": "Answer: c\nExplanation: The procedure involved in Gauss seidal and Jacobi is almost same. The only difference is that the while selecting the values for the unknowns, they use different methodology."
+    },
+    {
+        "id": 173,
+        "Question": "While solving by Gauss Seidal method, which of the following is the first Iterative solution system; x – 2y = 1 and x + 4y = 4?",
+        "Options": [
+            "a) (1, 0.75)",
+            "b) (0.25,1)",
+            "c) (0,0)",
+            "d) (1,0.65)"
+        ],
+        "Answer": "Answer: a\nExplanation: Computations in Jacobi’s can be done in parallel but not in Gauss-seidal because in Jacobi’s method, the entire set of values obtained during the previous iteration is used as it is in the next one, whereas in Gauss-seidal method, as we keep on getting the individual values of the variable, we use them in the subsequent steps."
+    },
+    {
+        "id": 174,
+        "Question": "The Gauss-Seidel method is applicable to strictly diagonally dominant or symmetric________ definite matrices.",
+        "Options": [
+            "a) Positive",
+            "b) Negative",
+            "c) Zero",
+            "d) Equal"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nx – 2y = 1\nx + 4y = 4\nFor first iteration we put n = 0 in the following equations,\nxn+1 = 1 – 2yn\nyn+1 = (1/4) (4 – xn+1)\nWe get,\nx1 = 1 – 2(0) = 1\ny1 = (1/4) (4 – 1) = 0.75."
+    },
+    {
+        "id": 175,
+        "Question": "Which of the following method is employed for solving the system of linear equations?",
+        "Options": [
+            "a) Runge Kutta",
+            "b) Newton Raphson",
+            "c) Gauss Seidal",
+            "d) Simpson’s Rule"
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss-Seidel method is applicable to strictly diagonally dominant or symmetric positive definite matrices because only in this case convergence is possible."
+    },
+    {
+        "id": 176,
+        "Question": "What is the limitation of Gauss-seidal method?",
+        "Options": [
+            "a) It cannot be used for the matrices with non-zero diagonal elements",
+            "b) It is more complex than Jacobi’s method",
+            "c) It doesn’t guarantees convergence for each and every matrix",
+            "d) It is an iterative technique"
+        ],
+        "Answer": "Answer: a\nExplanation: Gauss-seidal requires less number of iterations than Jacobi’s method because it achieves greater accuracy faster than Jacobi’s method. This is the modification made to Jacobi’s method, which is now called as Gauss-seidal method."
+    },
+    {
+        "id": 177,
+        "Options": [
+            "a) a = 1, b = 5, c = 7, d = -1",
+            "b) a = 1, b = 2, c = 3, d = 0",
+            "c) a = 2, b = 5, c = 3, d = 5",
+            "d) a = 2, b = 2, c = 8, d = -3"
+        ],
+        "Answer": "Answer: d\nExplanation: Runge Kutta method is used to solve differential equations. Newton-Raphson method is used to find the root of a polynomial. Simpson’s rule is used to solve integration problems. Gauss-seidal is used for solving system of linear equations."
+    },
+    {
+        "id": 178,
+        "Question": "",
+        "Options": [
+            "First iteration",
+            "Putting b = 0, c = 0, d = 0 in (i), we get a = 0.3",
+            "Putting a = 0.3, c = 0, d = 0 in (ii), we obtain b = 1.56",
+            "Putting a = 0.3, b = 1.56, d = 0 in (iii), we obtain c = 2.886",
+            "Putting a = 0.3, b = 1.56, c = 2.886 in (iv), we get d = -0.1368"
+        ],
+        "Answer": "Answer:  c\nExplanation: It does not guarantee convergence for each and every matrix. Convergence is only possible if the matrix is either diagonally dominant, positive definite or symmetric."
+    },
+    {
+        "id": 179,
+        "Question": "",
+        "Options": [
+            "Second iteration",
+            "Putting b = 1.56, c = 2.886, d = -0.1368 in (i), we obtain a = 0.8869",
+            "Putting a = 0.8869, c = 2.886, d = -0.1368 in (ii), we obtain b = 1.9523",
+            "Putting a = 0.8869, b = 1.9523, d = -0.1368 in (iii), we have c = 2.9566",
+            "Putting a = 0.8869, b = 1.9523, c = 2.9566 in (iv) we get d = -0.0248"
+        ],
+        "Answer": "Answer: b\nExplanation:\na = \\(\\frac{1}{10}\\)(3 + 2b + c + d) …………….(i)\nb = \\(\\frac{1}{10}\\)(15 + 2a + c + d) ……………(ii)\nc = \\(\\frac{1}{10}\\)(27 + a + b +d) ……………..(iii)\nd = \\(\\frac{1}{10}\\)(-9 + a + b + 2c) ……………(iv)\nFirst iteration\nPutting b = 0, c = 0, d = 0 in (i), we get a = 0.3\nPutting a = 0.3, c = 0, d = 0 in (ii), we obtain b = 1.56\nPutting a = 0.3, b = 1.56, d = 0 in (iii), we obtain c = 2.886\nPutting a = 0.3, b = 1.56, c = 2.886 in (iv), we get d = -0.1368\nSecond iteration\nPutting b = 1.56, c = 2.886, d = -0.1368 in (i), we obtain a = 0.8869\nPutting a = 0.8869, c = 2.886, d = -0.1368 in (ii), we obtain b = 1.9523\nPutting a = 0.8869, b = 1.9523, d = -0.1368 in (iii), we have c = 2.9566\nPutting a = 0.8869, b = 1.9523, c = 2.9566 in (iv) we get d = -0.0248\nThird iteration\nPutting b = 1.9523, c = 2.9566, d = -0.0248 in (i), we obtain a = 0.986\nPutting a = 0.9836, c = 2.9566, d = -0.0248 in (ii), we obtain b = 1.9899\nPutting a = 0.9836, b = 1.9899, d = -0.0248 i (iii), we get d = 2.9924\nPutting a = 0.9836, b = 1.9899,  c = 2.9924 in (iv), we get d = -0.0042\nFourth iteration proceeding as above\na = 0.9968 b = 1.9982, c = 2.9987, d = -0.0008\nFifth iteration is a = 0.9994, b = 1.9997, c = 2.9997, d = -0.0001\nSixth iteration is a = 0.9999, b = 1.9999, c = 2.9999, d = -0.0001\nHence, the solution is a = 1, b = 2, c = 3, d = 0."
+    },
+    {
+        "id": 180,
+        "Question": "",
+        "Options": [
+            "Third iteration",
+            "Putting b = 1.9523, c = 2.9566, d = -0.0248 in (i), we obtain a = 0.986",
+            "Putting a = 0.9836, c = 2.9566, d = -0.0248 in (ii), we obtain b = 1.9899",
+            "Putting a = 0.9836, b = 1.9899, d = -0.0248 i (iii), we get d = 2.9924",
+            "Putting a = 0.9836, b = 1.9899,  c = 2.9924 in (iv), we get d = -0.0042"
+        ],
+        "Answer": "Answer: d\nExplanation: From the given set of equations-\nx=\\(\\frac{(85-6y+z)}{27}\\) \ny=\\(\\frac{(72-6x-2z)}{15}\\) \ny=\\(\\frac{(110-x-y)}{54}\\) \n1st iteration:\ny=0, z=0\nx=\\(\\frac{85}{27}\\)=3.14\nx=3.14, z=0\ny=\\(\\frac{72-(6×3.14)-2×(0)}{15}\\)=3.54\nx=3.14, y=3.54\nz=\\(\\frac{110-3.14-3.54}{54}\\)=1.91\n2nd iteration:\nz=1.91, y=3.54\nx=\\(\\frac{85-(6×3.54)+(1.91)}{27}\\)=2.43\nz=1.91, x=2.43\ny=\\(\\frac{72-(6×2.43)-2×(1.91)}{15}\\)=3.57\ny=3.57, x=2.43\nz=\\(\\frac{110-2.43-3.57}{54}\\)=1.92\nThus, after the second iteration\nx=2.43, y=3.57, z=1.92."
+    },
+    {
+        "id": 181,
+        "Question": "",
+        "Options": [
+            "Fourth iteration proceeding as above",
+            "a = 0.9968 b = 1.9982, c = 2.9987, d = -0.0008",
+            "Fifth iteration is a = 0.9994, b = 1.9997, c = 2.9997, d = -0.0001",
+            "Sixth iteration is a = 0.9999, b = 1.9999, c = 2.9999, d = -0.0001",
+            "Hence, the solution is a = 1, b = 2, c = 3, d = 0."
+        ],
+        "Answer": "Answer: c\nExplanation:  From the given set of equations-\nx=\\(\\frac{(40+3y+z)}{4}\\) \ny=\\(\\frac{(28+x+2z)}{6}\\) \nz=\\(\\frac{(-86-x+2y)}{12}\\) \n1st iteration:\ny=0, z=0\nx=\\(\\frac{40}{4}\\)=10\nx=10, z=0\ny=\\(\\frac{28+(10)+2×(0)}{6}\\)=6.33\nx=10, y=6.33\nz=\\(\\frac{-86-10+(2×6.33)}{12}\\)=-6.94\n2nd iteration:\nz=-6.94, y=6.33\nx=\\(\\frac{40+(3×6.33)+(-6.94)}{4}\\)=13.01\nz=-6.94, x=13.01\ny=\\(\\frac{28+(13.01)+2×(-6.94)}{6}\\)=4.52\ny=4.52, x=13.01\nz=\\(\\frac{-86-13.01+(2×4.52)}{12}\\)=-7.49\n3rd iteration:\nz=-7.49, y=4.52\nx=\\(\\frac{40+(3×4.52)+(-7.49)}{4}\\)=11.51\nz=-7.49, x=11.51\ny=\\(\\frac{28+(11.51)+2×(-7.49)}{6}\\)=4.08\ny=4.08, x=11.51\nz=\\(\\frac{-86-11.51+(2×4.08)}{12}\\)=-7.44\nThus, after the third iteration\nx=11.51, y=4.08, z=-7.44."
+    },
+    {
+        "id": 182,
+        "Question": "",
+        "Options": [
+            "a) 1.88",
+            "b) 1.22",
+            "c) 0",
+            "d) 1.92"
+        ]
+    },
+    {
+        "id": 183,
+        "Question": "",
+        "Options": [
+            "a) x=11.11",
+            "b) x=13.28",
+            "c) x=11.51",
+            "d) x=9.86"
+        ]
+    },
+    {
+        "id": 184,
+        "Question": "Cramer’s Rule fails for ___________",
+        "Options": [
+            "a) Determinant > 0",
+            "b) Determinant < 0",
+            "c) Determinant = 0",
+            "d) Determinant = non-real"
+        ],
+        "Answer": "Answer: c\nExplanation: This is because Cramer’s rule involves division by determinant which should never be equal to 0 leading to not defined numbers. "
+    },
+    {
+        "id": 185,
+        "Question": "Cramer’s Rule is not suitable for which type of problems?",
+        "Options": [
+            "a) Small systems with 4 unknowns",
+            "b) Systems with 2 unknowns",
+            "c) Large systems",
+            "d) Systems with 3 unknowns"
+        ],
+        "Answer": "Answer: c\nExplanation: Generally, in large systems, excessive multiplicative operations are required which becomes very cumbersome to solve."
+    },
+    {
+        "id": 186,
+        "Options": [
+            "a) X = 1, y = 2, z = -1",
+            "b) X = 2, y = 1, z = -1",
+            "c) X = 2, y = -1, z = 1",
+            "d) X = 1, y = -1, z = 2"
+        ],
+        "Answer": "Answer: a\nExplanation:\n∆ = \\(\\begin{pmatrix}3&1&2\\\\2&-3&-1\\\\1&2&1\\end{pmatrix}\\) = 8\nX = (1/∆)\\(\\begin{pmatrix}3&1&2\\\\-3&-3&-1\\\\4&2&1\\end{pmatrix}\\) = (1/8)8 = 1\n\n\n        Y = (1/∆)\\(\\begin{pmatrix}3&3&2\\\\2&-3&-1\\\\1&4&1\\end{pmatrix}\\) = (1/8)16 = 2\nZ = (1/∆)\\(\\begin{pmatrix}3&1&3\\\\2&-3&-3\\\\1&2&4\\end{pmatrix}\\) = (1/8)(-8) = -1\n\n\n\tHence, x = 1, y = 2, z = -1."
+    },
+    {
+        "id": 187,
+        "Question": "",
+        "Options": [
+            "a) X = 1, y = 2, z = -1",
+            "b) X = 2, y = – 1, z = -0.5",
+            "c) X = 1, y = 2, z = -0.5",
+            "d) X = 2, y = 2, z = -1"
+        ],
+        "Answer": "Answer: b\nExplanation:\n∆ = \\(\\begin{pmatrix}1&3&6\\\\3&-1&4\\\\1&-4&2\\end{pmatrix}\\) = -58\nX = (1/∆) = \\(\\begin{pmatrix}2&3&6\\\\9&-1&4\\\\7&-4&2\\end{pmatrix}\\) = -116/-58 = 2\nY = (1/∆) = \\(\\begin{pmatrix}1&2&6\\\\3&9&4\\\\1&7&2\\end{pmatrix}\\) = 58/-58 = -1\nZ = (1/∆) = \\(\\begin{pmatrix}1&3&2\\\\3&-1&9\\\\1&-4&7\\end{pmatrix}\\) = -29/-58 = 0.5\nHence, x = 2, y = -1, z = -0.5."
+    },
+    {
+        "id": 188,
+        "Question": "",
+        "Options": [
+            "a) x = 1.5, y = 2.2, z = -0.5",
+            "b) x = 1.5, y = 2.2, z = -0.5",
+            "c) x = 1.2, y = 2, z = 3.2",
+            "d) x =  1.2, y = 2.2, z = -3.2"
+        ],
+        "Answer": "Answer: c\nExplanation:\n∆ = \\(\\begin{pmatrix}1&1&1\\\\1&-1&1\\\\1&2&3\\end{pmatrix}\\) = -4\nX = (1/∆) = \\(\\begin{pmatrix}6.6&1&1\\\\2.2&-1&1\\\\15.2&2&3\\end{pmatrix}\\) = -4.8/-4 = 1.2\nY = (1/∆) = \\(\\begin{pmatrix}1&6.6&1\\\\1&2.2&1\\\\1&15.2&3\\end{pmatrix}\\)  = -8.8/-4 = 2.2\nZ = (1/∆) = \\(\\begin{pmatrix}1&1&6.6\\\\1&-1&2.2\\\\1&2&15.2\\end{pmatrix}\\) = -12.8/-4 = 3.2\nHence, x = 1.2, y = 2.2, z = 3.2."
+    },
+    {
+        "id": 189,
+        "Question": "",
+        "Options": [
+            "a) x = -0.5, y = 6, z = -2.5",
+            "b) x = -0.5, y = 4, z = -2.5",
+            "c) x = 4.5, y = 6, z = 1",
+            "d) x = 4.5, y = 6, z = 2"
+        ],
+        "Answer": "Answer: a\nExplanation:\n∆ = \\(\\begin{pmatrix}1&1&1\\\\1&2&3\\\\1&4&9\\end{pmatrix}\\) = 2\nX = (1/∆) = \\(\\begin{pmatrix}3&1&1\\\\4&2&3\\\\1&4&9\\end{pmatrix}\\) = -0.5\nY = (1/∆) = \\(\\begin{pmatrix}1&3&1\\\\1&4&3\\\\1&1&9\\end{pmatrix}\\) = 6\nZ = (1/∆) = \\(\\begin{pmatrix}1&1&3\\\\1&2&4\\\\1&4&1\\end{pmatrix}\\) = -2.5\nHence, X = -0.5, y = 6, z = -2.5."
+    },
+    {
+        "id": 190,
+        "Question": "",
+        "Options": [
+            "a) X = 0.456, y = 1.5442, z = 3.154",
+            "b) X = 0.437, y = 1.5312, z = 3.656",
+            "c) X = 0.356, y =2.547, z = 5.474",
+            "d) X = 0.356, y = 1.722, z = 9.424"
+        ],
+        "Answer": "Answer: b\nExplanation:\n∆ = \\(\\begin{pmatrix}2&-1&1\\\\3&4&3\\\\6&7&1\\end{pmatrix}\\) = -64\nx = (1/∆) = \\(\\begin{pmatrix}3&-1&1\\\\19&4&3\\\\17&7&1\\end{pmatrix}\\) = -28/-64 = 0.437\ny = (1/∆) = \\(\\begin{pmatrix}2&3&1\\\\3&19&3\\\\6&17&1\\end{pmatrix}\\) = -98/-64 = 1.5312\nz = (1/∆) = \\(\\begin{pmatrix}2&-1&3\\\\3&4&19\\\\6&7&17\\end{pmatrix}\\) = -234/-64 = 3.656\nHence, X = 0.437, y = 1.5312, z = 3.656."
+    },
+    {
+        "id": 191,
+        "Question": "",
+        "Options": [
+            "a) X = 1, y =4, z = 2.5",
+            "b) X = 4.562, y =4, z = 3.1",
+            "c) X = 0.2179, y =1, z = 2.5",
+            "d) X = 4.2, y =4, z = 3.145"
+        ],
+        "Answer": "Answer:  c\nExplanation:\n∆ = \\(\\begin{pmatrix}3&1&1\\\\2&-3&-2\\\\7&2&-5\\end{pmatrix}\\) = 78\nx = (1/∆) = \\(\\begin{pmatrix}8&1&1\\\\-5&-3&-2\\\\0&2&-5\\end{pmatrix}\\) = 117/78 = 0.2179\ny = (1/∆) = \\(\\begin{pmatrix}3&8&1\\\\2&-5&-2\\\\7&0&-5\\end{pmatrix}\\) = 78/78 = 1\nz = (1/∆) = \\(\\begin{pmatrix}3&1&8\\\\2&-3&-5\\\\7&2&5\\end{pmatrix}\\) = 195/78 = 2.5\nHence, X = 0.2179, y =1, z = 2.5."
+    },
+    {
+        "id": 192,
+        "Question": "",
+        "Options": [
+            "a) X = -9, y = 1, z = 5",
+            "b) X = 7, y = -9, z = 5",
+            "c) X = 7, y = 1, z = 5",
+            "d) X = 9, y = 1, z = 3"
+        ],
+        "Answer": "Answer:  b\nExplanation:\n∆ = \\(\\begin{pmatrix}2&1&1\\\\3&2&3\\\\1&4&9\\end{pmatrix}\\) = -2\nx = (1/∆) = \\(\\begin{pmatrix}10&1&1\\\\18&2&3\\\\16&4&9\\end{pmatrix}\\) = -14/-2 = 7\ny = (1/∆) = \\(\\begin{pmatrix}2&10&1\\\\3&18&3\\\\1&16&9\\end{pmatrix}\\) = 18/-2 = -9\nz = (1/∆) = \\(\\begin{pmatrix}2&1&10\\\\3&2&18\\\\1&4&16\\end{pmatrix}\\) = -10/-2 = 5\nHence, X = 7, y = -9, z = 5."
+    },
+    {
+        "id": 193,
+        "Question": "",
+        "Options": [
+            "a) x =  1, y = 2, z = 3",
+            "b) x =  2, y = 2, z = 3",
+            "c) x =  2, y = 3, z = 7",
+            "d) x =  1, y = 3, z = 8"
+        ],
+        "Answer": "Answer: a\nExplanation: ∆ =  \\(\\begin{pmatrix}2&-1&3\\\\1&1&1\\\\1&-1&1\\end{pmatrix}\\) = -2\nx = (1/∆) = \\(\\begin{pmatrix}9&-1&3\\\\6&1&1\\\\2&-1&1\\end{pmatrix}\\) = -2/-2 = 1\ny = (1/∆) = \\(\\begin{pmatrix}2&9&3\\\\1&6&1\\\\1&2&1\\end{pmatrix}\\) = -4/-2 = 2\nz = (1/∆) = \\(\\begin{pmatrix}2&-1&9\\\\1&1&6\\\\1&-1&2\\end{pmatrix}\\) = -6/-2 = 3\nHence, X = 1, y = 2, z = 3."
+    },
+    {
+        "id": 194,
+        "Question": "The Jacobi’s method is a method of solving a matrix equation on a matrix that has no zeroes along ________",
+        "Options": [
+            "a) Leading diagonal",
+            "b) Last column",
+            "c) Last row",
+            "d) Non-leading diagonal"
+        ],
+        "Answer": "Answer: a\nExplanation: The Jacobi’s method is a method of solving a matrix equation on a matrix that has no zeroes along the leading diagonal because convergence can be achieved only through this way."
+    },
+    {
+        "id": 195,
+        "Question": "Which of the following is an assumption of Jacobi’s method?",
+        "Options": [
+            "a) The coefficient matrix has no zeros on its main diagonal",
+            "b) The rate of convergence is quite slow compared with other methods",
+            "c) Iteration involved in Jacobi’s method converges",
+            "d) The coefficient matrix has zeroes on its main diagonal"
+        ],
+        "Answer": "Answer: a\nExplanation: If A is  matrix is said to be diagonally dominant if for every row of the matrix, the magnitude of the diagonal entry in a row is larger than or equal to the sum of the magnitudes of all the other (non-diagonal) entries in that row, and for such matrices only Jacobi’s method converges to the accurate answer."
+    },
+    {
+        "id": 196,
+        "Question": "How many assumptions are there in Jacobi’s method?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: a\nExplanation: In Jacobi’s Method, the rate of convergence is quite slow compared with other methods because here the selection of unknowns of an iteration is done using the results of the previous iteration only, whereas in other methods, selection of unknowns is done along with the generation of results in an iteration."
+    },
+    {
+        "id": 197,
+        "Question": "Which of the following is another name for Jacobi’s method?",
+        "Options": [
+            "a) Displacement method",
+            "b) Simultaneous displacement method",
+            "c) Simultaneous method",
+            "d) Diagonal method"
+        ],
+        "Answer": "Answer: a\nExplanation: This is because it is the method employed for solving a matrix such that for every row of the matrix, the magnitude of the diagonal entry in a row is larger than or equal to the sum of the magnitudes of all the other (non-diagonal) entries in that row. This helps in converging the result and hence it is an assumption."
+    },
+    {
+        "id": 198,
+        "Options": [
+            "a) x = 1, y = -1, z = 1",
+            "b) x = 2, y = 1, z = 0",
+            "c) x = 2, y = 1, z = 0",
+            "d) x = 1, y = 2, z = 1"
+        ],
+        "Answer": "Answer: a\nExplanation: There are two assumptions in Jacobi’s method."
+    },
+    {
+        "id": 199,
+        "Question": "correct to two decimal places.",
+        "Options": [
+            "a) x = 1.00, y = 2.95, z = 3.85",
+            "b) x = 1.96, y = 2.63, z = 3.99",
+            "c) x = 1.58, y = 2.70, z = 3.00",
+            "d) x = 1.23, y = 2.34, z = 3.45"
+        ],
+        "Answer": "Answer: a\nExplanation: The Jacobi’s method is a method of solving a matrix equation on a matrix that has no zeros along its main diagonal because the desirable convergence of the answer can be achieved only for a matrix which is diagonally dominant and a matrix that has no zeros along its main diagonal can never be diagonally dominant."
+    },
+    {
+        "id": 200,
+        "Question": "",
+        "Options": [
+            "a) a = 1, b = 2, c = 3, d = 0",
+            "b) a = 2, b = 1, c = 9, d = 5",
+            "c) a = 2, b = 2, c = 9, d = 0",
+            "d) a = 1, b = 1, c = 3, d = 5"
+        ],
+        "Answer": "Answer: b\nExplanation: Jacobi’s method is also called as simultaneous displacement method because for every iteration we perform, we use the results obtained in the subsequent steps and form new results."
+    },
+    {
+        "id": 201,
+        "Question": "Newton- Gregory Forward interpolation formula can be used _____________",
+        "Options": [
+            "a) only for equally spaced intervals",
+            "b) only for unequally spaced intervals",
+            "c) for both equally and unequally spaced intervals",
+            "d) for unequally intervals"
+        ],
+        "Answer": "Answer: a\nExplanation: Newton – Gregory Forward Interpolation formula is given by\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3! + …..\nThis formula is obtained by the Newton’s Divided difference formula by substituting the intervals as h. This is done because we assume the intervals to be constant, that is, equally spaced. "
+    },
+    {
+        "id": 202,
+        "Options": [
+            "a) 0.4",
+            "b) 0.2",
+            "c) 1",
+            "d) 0.1"
+        ],
+        "Answer": "Answer: b\nExplanation: The formula is\nx = x0 + nh.\nHere x0 is 0 as 0 is the first element and h is 1.\nSince in the question it is given that we have to find f(0.2), x= 0.2.\nSo, substituting the values in the formula we get,\n0.2 = 0 + n(1) .\nHence, n= 0.2."
+    },
+    {
+        "id": 203,
+        "Question": "",
+        "Options": [
+            "a) 2.4",
+            "b) 3.4",
+            "c) 2.6",
+            "d) 3.6"
+        ],
+        "Answer": "Answer: d\nExplanation: Here, x0 is 0, h is 0.5, x is 1.8.\nSubstituting the values in the formula\nx = x0 + nh,\n1.8 = 0 + n(0.5)\nn = 3.6."
+    },
+    {
+        "id": 204,
+        "Question": "",
+        "Options": [
+            "a) \\(\\frac{3x^2-22x+36}{8} \\) ",
+            "b) 3x2-22x+36",
+            "c) \\(\\frac{3x^2+22x+36}{2} \\) ",
+            "d) \\(\\frac{3x^2-19x+36}{8} \\)"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\n\n\nx\ny\nΔy\nΔ2y\nΔ3y\n\n\n4\n1\n2\n3\n0\n\n\n6\n3\n5\n3\n\n\n\n8\n8\n8\n\n\n\n\n10\n16\n\n\n\n\n\n\n\n\ty0 is 1 since it is forward interpolation formula.\nΔy0 = 2\nΔ2y0 = 3\nΔ3y0 = 0\nx = x0 + nh,\nx = 4 + n(2)\nHence\nn = (x-4)/2\nSubstituting these values in the formula,\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3!,\n\\(f(x)=1+\\frac{(x-4)}{2} 2+\\frac{(x-4)}{2} (\\frac{x-4}{2}-1)  \\frac{3}{2}+0 \\) \n\\(=\\frac{3x^2-22x+36}{8}.\\) "
+    },
+    {
+        "id": 205,
+        "Question": "",
+        "Options": [
+            "a) 0.169713084",
+            "b) 0.159713084",
+            "c) 0.158713084",
+            "d) 0.168713084"
+        ],
+        "Answer": "Answer: b\nExplanation: Here,\nx0 = 0.160\nx = 0.1604\nh = 0.001\nx = x0 + nh,\n0.1604 = 0.160 + n(0.001)\nn = 0.4\n\n\nx\ny\nΔy\nΔ2y\n\n\n0.160\n0.1593182066\n9.871475*10-4\n-1.604*10-7\n\n\n0.161\n0.1603053541\n9.869871*10-4\n\n\n\n0.162\n0.1612923412\n\n\n\n\ny0 is  0.1593182066 since it is forward interpolation formula.\nΔy0 = 9.871475*10-4\nΔ2y0 = -1.604*10-7\n Substituting in the formula,\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3! ,\nf(0.1604) = 0.1593182066+(0.4)(9.871475*10-4)+(0.4)(-0.6)  \\(\\frac{(-1.604*10^{-7})}{2} \\) \n= 0.159713084."
+    },
+    {
+        "id": 206,
+        "Question": "",
+        "Options": [
+            "a) 71.109375",
+            "b) 61.103975",
+            "c) 70.103957",
+            "d) 71.103957"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nx0 = 0\nx = 5\nh = 2\nx = x0 + nh,\n5 = 0 + n(2)\nn = 2.5\n\n\nx\ny\nΔy\nΔ2y\nΔ3y\nΔ4y\n\n\n0\n4\n22\n10\n12\n266\n\n\n2\n26\n32\n22\n278\n\n\n\n4\n58\n54\n300\n\n\n\n\n6\n112\n354\n\n\n\n\n\n8\n466\n\n\n\n\n\n\ny0 is  4 since it is forward interpolation formula.\nΔy0 = 22\nΔ2y0 = 10\nΔ3y0 = 12\nΔ4y0 = 266\n Substituting in the formula,\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3! +….\nf(5)=4+(2.5)(22)+\\(\\frac{(2.5)(1.5)(10)}{2}+\\frac{(2.5)(1.5)(0.5)(12)}{6}+\\frac{(2.5)(1.25)(0.5)(-0.5)(266)}{24} \\) \nf(5) = 71.109375. "
+    },
+    {
+        "id": 207,
+        "Question": "",
+        "Options": [
+            "a) 1.18878784",
+            "b) 1.8878784",
+            "c) 1.9878785",
+            "d) 0.8878784"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nx0 = 0\nx = 0.18\nh = 0.1\nx = x0 + nh,\n0.18 = 0 + n(0.1)\nn = 1.8\n\n\nx\ny\nΔy\nΔ2y\nΔ3y\nΔ4y\n\n\n0\n1\n0.052\n0.1174\n-0.1583\n0.2126\n\n\n0.1\n1.052\n0.1694\n-0.0409\n0.0543\n\n\n\n0.2\n1.2214\n0.1285\n0.0134\n\n\n\n\n0.3\n1.3499\n0.1419\n\n\n\n\n\n0.4\n1.4918\n\n\n\n\n\n\ny0 is  1 since it is forward interpolation formula.\nΔy0 = 0.052\nΔ2y0 = 0.1174\nΔ3y0 = -0.1583\nΔ4y0 = 0.2126\n Substituting in the formula,\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3! +….\n\\(f(0.18)=1+(1.8)(0.052)+\\frac{(1.8)(0.8)(0.1174)}{2}+\\frac{(1.8)(0.8)(-0.2)(-0.1583)}{6}\\) \n\\(+\\frac{(1.8)(0.8)(-0.2)(-1.2)(0.2126)}{24} \\) \nf(0.18) = 1.18878784. "
+    },
+    {
+        "id": 208,
+        "Question": "",
+        "Options": [
+            "a) 1.8296875",
+            "b) 18.296875",
+            "c) 22.296875",
+            "d) 24.296875"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\nx0 = 1.5\nx = 2.75\nh = 0.5\nx = x0 + nh,\n2.75 = 1.5 + n(0.5)\nn = 2.5\n\n\nx\ny\nΔy\nΔ2y\nΔ3y\nΔ4y\nΔ5y\n\n\n1.5\n3.375\n3.625\n3\n0.75\n0\n0\n\n\n2\n7\n6.625\n3.75\n0.75\n0\n\n\n\n2.5\n13.625\n10.375\n4.5\n0.75\n\n\n\n\n3\n24\n14.875\n5.25\n\n\n\n\n\n3.5\n38.875\n20.125\n\n\n\n\n\n\n4\n59\n\n\n\n\n\n\n\ny0 is  3.375 since it is forward interpolation formula.\nΔy0 = 3.625\nΔ2y0 = 3\nΔ3y0 = 0.75\nΔ4y0 = 0\nΔ5y0 = 0\n Substituting in the formula,\nf(x) = y0 + nΔy0 + n(n-1)Δ2y0/2! + n(n-1)(n-2) Δ3y0 /3! +….\nf(2.75)=3.375+(2.5)(3.625)+\\(\\frac{(2.5)(1.5)(3)}{2}+\\frac{(2.5)(1.5)(0.5)(0.75)}{6}\\)+0+0\nf(2.75) = 18.296875. "
+    },
+    {
+        "id": 209,
+        "Question": "Find n if x0 = 0.75825, x = 0.759 and h = 0.00005.",
+        "Options": [
+            "a) 1.5",
+            "b) 15",
+            "c) 2.5",
+            "d) 25"
+        ],
+        "Answer": "Answer: b\nExplanation: Given\nx0 = 0.75825\n x = 0.759\n h = 0.00005\nSubstituting in the formula,\nx = x0 + nh,\n0.759 = 0.75825 + n(0.00005)\nTherefore, n = 15. "
+    },
+    {
+        "id": 210,
+        "Question": "Find x if x0 = 0.6, n = 2.6 and h = 0.2.",
+        "Options": [
+            "a) 12",
+            "b) 1.2",
+            "c) 1.12",
+            "d) 1.22"
+        ],
+        "Answer": "Answer: c\nExplanation: Given\nx0 = 0.6\n n = 2.6\n h = 0.2\nSubstituting in the formula,\nx = x0 + nh\nx = 0.6+(0.2)(2.6)\nx = 1.12. "
+    },
+    {
+        "id": 211,
+        "Options": [
+            "a) y=x",
+            "b) y=x+1",
+            "c) y=2x",
+            "d) y=2x+1"
+        ],
+        "Answer": "Answer: a\nExplanation: The normal equation are:\nΣy = aΣx + nb\nand\nΣxy = aΣx2 + bΣx\nNow, \n\n\nx\ny\nx2\nxy\n\n\n1\n1\n1\n1\n\n\n2\n2\n4\n4\n\n\n3\n3\n9\n9\n\n\n4\n4\n16\n16\n\n\n5\n5\n25\n25\n\n\nΣx = 15\nΣy =  15\nΣx2 = 55\nΣxy = 55\n\n\nSubstituting in the equations,\n15 = 15a + 4b and 55 = 55a + 15b\nSolving these two equatons, we get a=1 and b=0,\nTherefore the required straight line equation is y=x."
+    },
+    {
+        "id": 212,
+        "Question": "",
+        "Options": [
+            "a) y = 0.94x + 6.6",
+            "b) y = 6.6x + 0.94",
+            "c) y = 0.04x + 5.6",
+            "d) y = 5.6x + 0.04"
+        ],
+        "Answer": "Answer: a\nExplanation: First drawing the table,\n\n\nx\ny\nx2\nxy\n\n\n0\n7\n0\n0\n\n\n5\n11\n25\n55\n\n\n10\n16\n100\n160\n\n\n15\n20\n225\n300\n\n\n20\n26\n400\n520\n\n\nΣx = 50\nΣy = 26\nΣx2 = 750\nΣxy = 1035\n\n\n\n\n        The normal equation are:\nΣy = aΣx + nb\nand\nΣxy = aΣx2 + bΣx.\nSubstituting the values, we get,\n80 = 50a + 5b\n1035 = 750 a + 50 b\nSolving them, we get a = 0.94 and b = 6.6.\nTherefore the straight line equation is y=0.94x + 6.6."
+    },
+    {
+        "id": 213,
+        "Question": "",
+        "Options": [
+            "a) y = 0.9288x + 7.78155",
+            "b) y = 7.78155x + 0.9288",
+            "c) y = 0.8288x + 6.78155",
+            "d) y = 6.78155x + 0.8288"
+        ],
+        "Answer": "Answer: a\nExplanation: First drawing the table,\n\n\nx\ny\nx2\nxy\n\n\n75\n82\n5625\n6150\n\n\n80\n78\n6400\n6240\n\n\n93\n86\n8349\n7998\n\n\n65\n72\n4225\n4680\n\n\n87\n91\n7569\n7917\n\n\n71\n80\n5041\n5680\n\n\n98\n95\n9605\n9310\n\n\n68\n72\n4624\n4896\n\n\n84\n89\n7056\n7476\n\n\n77\n74\n5929\n5698\n\n\n798\n819\n64422\n66045\n\n\nThe normal equation are:\nΣy = aΣx + nb\nand\nΣxy = aΣx2 + bΣx.\nSubstituting the values, we get,\n819 = 798a + 10b\n66045 = 64422a + 798b\nSolving, we get\na = 0.9288 and b = 7.78155\nTherefore, the straight line equation is :\ny = 0.9288x + 7.78155. "
+    },
+    {
+        "id": 214,
+        "Question": "",
+        "Options": [
+            "a) y = -0.2673x2 + 3.5232x – 0.9286",
+            "b) y = 0.2673x2 + 3.5232x – 0.9286",
+            "c) y = 0.2673x2 + 3.5232x + 0.9286",
+            "d) y = -0.2673x2 + 3.5232x + 0.9286"
+        ],
+        "Answer": "Answer: a\nExplanation: Here,\n\n\nx\ny\nx2\nx3\nx4\nxy\nx2y\n\n\n1\n2\n1\n1\n1\n2\n2\n\n\n2\n6\n4\n8\n16\n12\n24\n\n\n3\n7\n9\n27\n81\n21\n63\n\n\n4\n8\n16\n64\n256\n32\n128\n\n\n5\n10\n25\n125\n625\n50\n250\n\n\n6\n11\n36\n216\n1296\n66\n396\n\n\n7\n11\n49\n343\n2401\n77\n539\n\n\n8\n10\n64\n512\n4096\n80\n640\n\n\n9\n9\n81\n729\n6561\n81\n729\n\n\n45\n74\n285\n2025\n15333\n421\n2771\n\n\nThe normal equations are:\nΣy = aΣx2 + bΣx + nc\nΣxy = aΣx3 + bΣx2 +cΣx\nΣx2y = aΣx4 + bΣx3 + cΣx2\nSubstituting the values, we get\n74 = 285a + 45b + 9c\n421 = 2025 a + 285 b + 45 c\n2771 = 15333a + 2025 b + 285 c\nSolving them, we get the second order equation which is,\ny = -0.2673x2 + 3.5232x – 0.9286. "
+    },
+    {
+        "id": 215,
+        "Question": "The normal equations for a straight line y = ax + b are:",
+        "Options": [
+            "a) Σy = aΣx + nb and  Σxy = aΣx2 + bΣx",
+            "b) Σxy = aΣx + nb and  Σy = aΣx2 + bΣx",
+            "c) Σy = aΣx + nb and  Σxy = aΣx2 + bΣxy",
+            "d) Σy = aΣx + nb and  Σx2y = aΣx2 + bΣx"
+        ],
+        "Answer": "Answer: a\nExplanation: Let the sum of residues be E.\nE = Σdi2 = Σ(yi – (axi+b))2\nHere \\(\\frac{∂E}{∂a}\\)=0 and \\(\\frac{∂E}{∂b}\\)=0\nSolving these two equations, we get the normal equations as\nΣy = aΣx + nb and  Σxy = aΣx2 + bΣx."
+    },
+    {
+        "id": 216,
+        "Question": "If the equation y = aebx can be written in linear form Y=A + BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y = logy, A = loga, B=b and X=x",
+            "b) Y = y, A = a, B=b and X=x",
+            "c) Y = y, A = a, B=logb and X=logx",
+            "d) Y = logy, A = a, B=logb and X=x"
+        ],
+        "Answer": "Answer: a\nExplanation: The second order parabola is given by\ny = ax2 + bx +c.\nLet the sum of residues be E.\nE = Σdi2 = Σ(yi – (axi2 + bxi +c))2.\nHere \\(\\frac{∂E}{∂a}\\)= 0, \\(\\frac{∂E}{∂b}\\)= 0 and \\(\\frac{∂E}{∂c}\\)= 0.\nSolving these three equations, we get the normal equations as\nΣy = aΣx2 + bΣx + nc, Σxy = aΣx3 + bΣx2 + cΣx and Σx2y = aΣx4 + bΣx3 +cΣx2."
+    },
+    {
+        "id": 217,
+        "Question": "If the equation y=abx can be written in linear form Y=A+BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y=logy, X=x, A=loga and B=logb",
+            "b) Y=y, A=a, B=b and X=x",
+            "c) Y=y, A=a, B=logb and X=logx",
+            "d) Y=logy, A=a, B=logb and X=x"
+        ],
+        "Answer": "Answer: a\nExplanation: The equation is\ny = aebx.\nTaking log to the base e on both sides,\nwe get logy = loga + bx.\nWhich can be replaced as Y=A+BX,\nwhere Y = logy, A = loga, B = b and X = x."
+    },
+    {
+        "id": 218,
+        "Question": "If the equation y=axb can be written in the linear form Y=A+BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y=logy, A=loga, B=b and X=logx",
+            "b) Y=y, A=a, B=b and X=x",
+            "c) Y=y, A=a, B=logb and X=logx",
+            "d) Y=logy, A=a, B=logb and X=x"
+        ],
+        "Answer": "Answer: a\nExplanation: The given curve is y=abx.\nTaking log on bothe the sides, we get,\nlogy = loga + x logb.\nThis can be written in the format of Y=A+BX\nwhere\nY = logy, X = x, A = loga and B = logb."
+    },
+    {
+        "id": 219,
+        "Question": "The parameter E which we use for least square method is called as ____________",
+        "Options": [
+            "a) Sum of residues",
+            "b) Residues",
+            "c) Error",
+            "d) Sum of errors"
+        ],
+        "Answer": "Answer: a\nExplanation: The given curve is y=axb.\nTaking log on bothe the sides, we get,\nlogy = loga + blogx.\nThis can be written as Y=A+BX,\nwhere\nY=logy, A=loga, B=b and X=logx."
+    }
+]

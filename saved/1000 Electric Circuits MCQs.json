@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following is a defined quantity?",
+        "Options": [
+            "a) Pressure",
+            "b) Polarity",
+            "c) Money",
+            "d) Length"
+        ],
+        "Answer": "Answer: d\nExplanation: The SI units are based on 7 defined quantities namely length, mass, time, electric current, thermodynamic temperature, amount of substance and also on the luminous intensity."
+    },
+    {
+        "id": 2,
+        "Question": "The basic unit for luminous intensity is",
+        "Options": [
+            "a) Ampere",
+            "b) Candela",
+            "c) Coulomb",
+            "d) Radian"
+        ],
+        "Answer": "Answer: b\nExplanation: The unit for luminous intensity is candela and its symbol is cd."
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following is a correct relation?",
+        "Options": [
+            "a) Giga>Mega>Tera",
+            "b) Mega>Tera>Giga",
+            "c) Tera>Mega>Giga",
+            "d) Tera>Giga>Mega"
+        ],
+        "Answer": "Answer: d\nExplanation: Tera – 1012\n             Giga – 109\n              Mega – 106."
+    },
+    {
+        "id": 4,
+        "Question": "Charge is",
+        "Options": [
+            "a) Unipolar",
+            "b) Bipolar",
+            "c) Tripolar",
+            "d) Non – Polar in nature"
+        ],
+        "Answer": "Answer: b\nExplanation: Charge is bipolar since it can be expressed in terms of positive and negative."
+    },
+    {
+        "id": 5,
+        "Question": "Separation of charge creates",
+        "Options": [
+            "a) Current",
+            "b) Voltage",
+            "c) Resistance",
+            "d) Friction"
+        ],
+        "Answer": "Answer: b\nExplanation: An electric force called voltage is created by separation of charge where as an           electric fluid called current is created by motion of charge."
+    },
+    {
+        "id": 6,
+        "Question": "The energy per unit charge is",
+        "Options": [
+            "a) Voltage",
+            "b) Power",
+            "c) Current",
+            "d) Work"
+        ],
+        "Answer": "Answer: a\nExplanation: Voltage, v=dw/dq and its SI unit is volt."
+    },
+    {
+        "id": 7,
+        "Question": "If charge q = 3t2 + 2 then current is given by",
+        "Options": [
+            "a) 6t + 2",
+            "b) 3t2",
+            "c) 6t",
+            "d) 3t2 + 2"
+        ],
+        "Answer": "Answer: c\nExplanation: I = dq/dt  = d/dt(3t2 + 2) = 6t."
+    },
+    {
+        "id": 8,
+        "Question": "If energy w = 200t2+ 99 et + 2 then calculate at 0.1 sec",
+        "Options": [
+            "a) 148.52",
+            "b) 149.41",
+            "c) 149.95",
+            "d) 148.39"
+        ],
+        "Answer": "Answer: b\nExplanation: p=dw/dt\n                         =400t +99et\n                         =400(0.1) + 99e(0.1)\n                         =149.41"
+    },
+    {
+        "id": 9,
+        "Question": "‘Positive Power’ meaning ___________",
+        "Options": [
+            "a) Power is being delivered to circuit",
+            "b) Power is being extracted from circuit",
+            "c) No power supply",
+            "d) Input and output powers are equal"
+        ],
+        "Answer": "Answer: a\nExplanation: P = vi. The algebraic sign of power depends on movement of charge through the drop and rise of voltage."
+    },
+    {
+        "id": 10,
+        "Question": "The symbol used for representing Independent sources",
+        "Options": [
+            "a) Diamond",
+            "b) Square",
+            "c) Circle",
+            "d) Triangle"
+        ],
+        "Answer": "Answer: c\nExplanation:  Independent sources are represented by circle\n               Dependent sources are represented by Diamond."
+    },
+    {
+        "id": 11,
+        "Question": "Controlled sources are also known as",
+        "Options": [
+            "a)  Independent sources",
+            "b) Dependent sources",
+            "c) Ideal sources",
+            "d) Voltage sources"
+        ],
+        "Answer": "Answer: a\nExplanation:  Voltage V = dw/dq and its SI unit is Volt."
+    },
+    {
+        "id": 12,
+        "Question": "Inductor is _______________ element.",
+        "Options": [
+            "a) Active",
+            "b) Passive",
+            "c) Linear",
+            "d) Polar"
+        ],
+        "Answer": "Answer: b\nExplanation: i3 =αvx means ix value depends on vx\n                      Controlled voltage is vx."
+    },
+    {
+        "id": 13,
+        "Options": [
+            "6. The below circuit is valid.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-voltage-current-sources-resistance-q6.png\" alt=\"electric-circuits-questions-answers-voltage-current-sources-resistance-q6\" width=\"299\" height=\"152\" class=\"aligncenter size-full wp-image-147937\" />",
+            "a)  False",
+            "b)  True"
+        ],
+        "Answer": "Answer: b\nExplanation: Passive element means it could not generate electricity."
+    },
+    {
+        "id": 14,
+        "Question": "The opposing capacity of materials against the current flow is",
+        "Options": [
+            "a) Conductance",
+            "b) Inductance",
+            "c) Susceptance",
+            "d) Resistance"
+        ],
+        "Answer": "Answer: a\nExplanation: Same Voltage"
+    },
+    {
+        "id": 15,
+        "Question": "The conductance of a 923Ω resistance is",
+        "Options": [
+            "a) 1.08 * 10-3 mho",
+            "b) 1.08 * 10-4 mho",
+            "c) 1.02 * 10-3 mho",
+            "d) 1.02 * 10-4 mho"
+        ],
+        "Answer": "Answer: b\nExplanation: Independent current source supplied current through terminals a and b. Dependent source supplies voltage across the same pair of terminals and an ideal current source supplies same current regardless of voltage, similarly an ideal voltage source supplies same voltage irrespective of current, so this is an allowable connection."
+    },
+    {
+        "id": 16,
+        "Question": "Relation between power, voltage and conductance",
+        "Options": [
+            "a)  V = P2.G",
+            "b)  V = P2/G",
+            "c)  P = v2/G",
+            "d)  P = V2 G"
+        ],
+        "Answer": "Answer: d\nExplanation: The opposing capacity of materials against the current flow is resistance."
+    },
+    {
+        "id": 17,
+        "Question": "KCL is based on the fact that",
+        "Options": [
+            "a) There is a possibility for a node to store energy.",
+            "b) There cannot be an accumulation of charge at a node.",
+            "c) Charge accumulation is possible at node",
+            "d) Charge accumulation may or may not be possible."
+        ],
+        "Answer": "Answer: b\nExplanation: Since the node is not a circuit element, any charge which enters node must leave immediately."
+    },
+    {
+        "id": 18,
+        "Question": "The algebraic  sum of voltages around any closed path in a network is equal to ____________",
+        "Options": [
+            "a) Infinity",
+            "b) 1",
+            "c) 0",
+            "d) Negative polarity"
+        ],
+        "Answer": "Answer: d\nExplanation: According to KCL, entering currents=leaving currents."
+    },
+    {
+        "id": 19,
+        "Question": "All _____________ are loops but _______________ are not meshes",
+        "Options": [
+            "a) Loops, Meshes",
+            "b) Meshes, loops",
+            "c) Branches, loops",
+            "d) Nodes, Branches"
+        ],
+        "Answer": "Answer: c\nExplanation: According to KVL, the sum of voltages around the closed path in a network is zero."
+    },
+    {
+        "id": 20,
+        "Question": "The basic laws for analyzing an electric circuit are :-",
+        "Options": [
+            "a) Einstein’s theory",
+            "b) Newtons laws",
+            "c) Kirchhoff’s laws",
+            "d) Faradays laws"
+        ],
+        "Answer": "Answer: b\nExplanation:\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q4a.png\" alt=\"electric-circuits-questions-answers-kirchhoffs-laws-q4a\" width=\"488\" height=\"175\" class=\"aligncenter size-full wp-image-147942\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q4a.png 488w, https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q4a-300x108.png 300w\" sizes=\"(max-width: 488px) 100vw, 488px\" />\nI1 = 3/3+5 = 3/8 = 0.375Ω\n I2 = 4/5 = 0.8Ω\nVxy = vx – vy\n Vx + 5I1 + 4 – 2I2 – vy = 0\n Vx – vy  = 2I2 – 4 – 5I1                                                                                       = -4.275Ω"
+    },
+    {
+        "id": 21,
+        "Question": "A junction whell two (or) more than two network elements meet is known as a ______________",
+        "Options": [
+            "a) Node",
+            "b) Branch",
+            "c) Loop",
+            "d) Mesh"
+        ],
+        "Answer": "Answer: a\nExplanation:\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q5a.png\" alt=\"electric-circuits-questions-answers-kirchhoffs-laws-q5a\" width=\"310\" height=\"177\" class=\"aligncenter size-full wp-image-147944\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q5a.png 310w, https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-kirchhoffs-laws-q5a-300x171.png 300w\" sizes=\"(max-width: 310px) 100vw, 310px\" />\n     KVL: 70 – 5I – 7(I – 2) = 0\n              I = 7A\n     KVL to 2nd  loop: 7(I – 2) – 2R = 0\n           R=17.5Ω "
+    },
+    {
+        "id": 22,
+        "Question": "Dependent sources are _____________ types.",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 4",
+            "d) 1"
+        ],
+        "Answer": "Answer: c\nExplanation: Dependent sources are 4 types. Voltage controlled voltage/current source and current controlled current/voltage source."
+    },
+    {
+        "id": 23,
+        "Question": "In case of a dependent voltage/current source, the value of this voltage/current source depends on _________",
+        "Options": [
+            "a) Voltage/current sources of an external circuit",
+            "b) Voltage/current source present somewhere in the circuit",
+            "c) Only on voltage sources",
+            "d) Only on current sources"
+        ],
+        "Answer": "Answer: b\nExplanation: The name dependent itself tells us that they are dependent on some other source. A dependent voltage/current source depends on the value of the voltage/current source present somewhere in the circuit itself."
+    },
+    {
+        "id": 24,
+        "Question": "The value of the voltage controlled current source ia=βva  given β=0.3 and va=9.5mV.",
+        "Options": [
+            "a) 2.5 mA",
+            "b) 2.85 mA",
+            "c) 1.75 mA",
+            "d) 1.2 mA"
+        ],
+        "Answer": "Answer: b\nExplanation:  Applying KVL in loop1: 300= 3i∆ + 10i0 ———- (1)\n                        and i0= i∆+3i∆ =4i∆\n       (1) → 300= 43i∆  ,on solving i∆ =6.976A, i0=27.90A, v0=279V."
+    },
+    {
+        "id": 25,
+        "Question": "The value of the current controlled voltage source ,given β=0.8 and ia=9.5mA, is ___________",
+        "Options": [
+            "a) 8mV",
+            "b) 7.6mV",
+            "c) 0.0011mV",
+            "d) 0.0051mV"
+        ],
+        "Answer": "Answer: b\nExplanation: ia= 0.3*9.5*10-3=2.85mA."
+    },
+    {
+        "id": 26,
+        "Question": "In a VCIS which is the controlled source and which one is the dependent source?",
+        "Options": [
+            "a) V-contorller, I-dependent",
+            "b) V-dependent, I-controller",
+            "c) Both V and I are controllers",
+            "d) Both V and I are dependent"
+        ],
+        "Answer": "Answer: d\nExplanation: By using the fact that the current is same in  series connection resistors and voltage is same parallel, the above problem can be solved. I0 is divided into αIx and Ix.  So, calculation these two gives the required current value."
+    },
+    {
+        "id": 27,
+        "Question": "In an ICVS which is the controlled source and which one is the dependent source?",
+        "Options": [
+            "a) V-controller, I-dependent",
+            "b) V-dependent, I-controller",
+            "c) Both V and I are controllers",
+            "d) Both V and I are dependent"
+        ],
+        "Answer": "Answer: b\nExplanation: va=βia  "
+    },
+    {
+        "id": 28,
+        "Question": "What is the other name for Dependent sources?",
+        "Options": [
+            "a) Uncontrolled sources",
+            "b) Time response elements",
+            "c) Steady state elements",
+            "d) Controlled sources"
+        ],
+        "Answer": "Answer: a\nExplanation: VCIS: Voltage-controlled current source. ia=βva, current value depends on the voltage value so voltage source is the controller and current is the dependent source."
+    },
+    {
+        "id": 29,
+        "Question": " Where voltage division problem arises",
+        "Options": [
+            "a) Series connected resistors",
+            "b) Parallel connected resistors",
+            "c) When resistors are equal",
+            "d) Both series and parallel resistors."
+        ],
+        "Answer": "Answer: a\nExplanation:  In series, voltage is the difference and current same."
+    },
+    {
+        "id": 30,
+        "Question": "Where current division problem arises",
+        "Options": [
+            "a) Series connected resistors",
+            "b) Parallel connected resistors",
+            "c) When resistors are equal",
+            "d) Both series and parallel resistors."
+        ],
+        "Answer": "Answer: b\nExplanation:  In parallel voltage is same and current is the difference."
+    },
+    {
+        "id": 31,
+        "Question": "If there are 3 Resistors R1, R2 and R3 in series and V is total voltage and I is total current    then Voltage across R2 is",
+        "Options": [
+            "a) V R3/ R1 + R2 + R3",
+            "b) V R2/ R1 + R2 + R3",
+            "c) V R1/R1 + R2 + R3",
+            "d) V"
+        ],
+        "Answer": "Answer: b\nExplanation:   V2 =I R2\n       = V R2/ R1 + R2 + R3."
+    },
+    {
+        "id": 32,
+        "Question": "For a parallel connected resistor R1, R2 and a voltage of V volts. Current across the first resistor is given by",
+        "Options": [
+            "a) I R1",
+            "b) I R2",
+            "c) I R1 / R1 + R2",
+            "d) I R2 / R1 + R2"
+        ],
+        "Answer": "Answer: d\nExplanation:           I = 10/5  = 2A\n                        V2 = 10(2)\n                        V2 = I.R2\n                          = 2(2)\n                          4V."
+    },
+    {
+        "id": 33,
+        "Question": " R1 = 1Ω, R2 = 3Ω, R3 = 5Ω and R4 = 7Ω connected in series. Total voltage = 20V, Current I, V2 =?",
+        "Options": [
+            "a) I = 1.23, V2 = 3.75",
+            "b) I = 1.25, V2 = 3.75",
+            "c) I = 1.15, V2= 3.73",
+            "d) I = 1.16, V2 = 3.72"
+        ],
+        "Answer": "Answer: b\nExplanation:           i = 1/1+3(8)\n                         = 2A."
+    },
+    {
+        "id": 34,
+        "Question": "R1 = 1Ω, R2 = 3Ω, R3 = 5Ω and R4 = 7Ω connected in parallel. Total Current = 23A. Then V, I1 , I2  =?",
+        "Options": [
+            "a) 12.26v, 1.725, 2.875",
+            "b) 12.23v, 2.875, 1.725",
+            "c) 11.26v, 1.95, 1.74",
+            "d) 11.23v, 1.74, 1.95"
+        ],
+        "Answer": "Answer: d\nExplanation:                 I1 = V / R1\n   R = R1. R2 / R1  + R2\n     = I .    R1. R2 / R1 . R1 + R2\n   I1 = I R2 / R1 + R2. "
+    },
+    {
+        "id": 35,
+        "Question": "Why is current division necessary?",
+        "Options": [
+            "a) In series current is the same",
+            "b) In parallel current differs",
+            "c) Because the voltage is also different",
+            "d) Because of Kirchhoff’s laws."
+        ],
+        "Answer": "Answer: b\nExplanation:                          I = 20/ 1 + 3 + 5 + 7 = 1.25A\n    V2 = V. R2 / R1 + R2 + R3 + R4\n     = 20(3)/16\n   = 3.75V."
+    },
+    {
+        "id": 36,
+        "Question": "____________ helps in current measurement by placing it in ____________ with the circuit element.",
+        "Options": [
+            "a) Voltameter, Parallel",
+            "b)  Ammeter, series",
+            "c)  Voltmeter, series",
+            "d)  Ammeter, parallel"
+        ],
+        "Answer": "Answer: b\nExplanation: In series, current is same. So Ammeter is placed in series and is used to measure current."
+    },
+    {
+        "id": 37,
+        "Question": "An ideal voltmeter has ___________ equivalent resistance and ideal ammeter has ___________ equivalent resistance.",
+        "Options": [
+            "a)  Unity, Unity",
+            "b)  Zero, infinite",
+            "c)  Infinite, Zero",
+            "d)  Zero, Zero"
+        ],
+        "Answer": "Answer: c\nExplanation: An ideal voltmeter has Infinite equivalent resistance and ideal ammeter has zero equivalent resistance."
+    },
+    {
+        "id": 38,
+        "Question": "Continuous voltages (or) current signals are measured using",
+        "Options": [
+            "a)  Tachometers",
+            "b)  Sonometers",
+            "c)  Analog meters",
+            "d)  Digital meters"
+        ],
+        "Answer": "Answer: d\nExplanation: Digital meters are used to measure current (or) voltage signals at discrete points in time known as sampling times."
+    },
+    {
+        "id": 39,
+        "Question": "A 20mv, 1mA d’Arsonval movement is used in an ammeter whose full-scale reading is 10 mA. Determine RA.",
+        "Options": [
+            "a) 2.222Ω",
+            "b) 6.667Ω",
+            "c) 5.92Ω",
+            "d) 3.333Ω"
+        ],
+        "Answer": "Answer: a\nExplanation: Features like easy connection, Introduction of less resistance into the circuit to which they all connected and also due to read out mechanism digital meter are preferred."
+    },
+    {
+        "id": 40,
+        "Question": "A 25mv, 2mA d’Arsonval movement is to be used in voltmeter whose full scale reading is 100v. The resistance inserted by 100v meter into circuit is ___________",
+        "Options": [
+            "a) 1 * 105Ω",
+            "b) 1 * 106Ω",
+            "c) 1 * 104Ω",
+            "d) 1 * 103Ω"
+        ],
+        "Answer": "Answer: a\nExplanation:\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-measuring-voltage-current-q5.png\" alt=\"electric-circuits-questions-answers-measuring-voltage-current-q5\" width=\"320\" height=\"182\" class=\"aligncenter size-full wp-image-147957\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-measuring-voltage-current-q5.png 320w, https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-measuring-voltage-current-q5-300x171.png 300w\" sizes=\"(max-width: 320px) 100vw, 320px\" />\n 1 mA flowing through coil implies that 9mA must be diverted through RA.\n          V = ir\n      20 * 10-3 = 9 * 10-3 RA\n      RA= 2.222Ω."
+    },
+    {
+        "id": 41,
+        "Question": "An ideal voltmeter functions as __________ circuit.",
+        "Options": [
+            "a) A short",
+            "b) An open",
+            "c) A power",
+            "d) An infinite"
+        ],
+        "Answer": "Answer: a\nExplanation:          v = iR\n                               R = v/i\n                                  = 100/1mA\n                                  = 100,000Ω."
+    },
+    {
+        "id": 42,
+        "Question": "An ideal ammeter functions as __________ circuit.",
+        "Options": [
+            "a) A short",
+            "b) An open",
+            "c) A power",
+            "d) An infinite"
+        ],
+        "Answer": "Answer: b\nExplanation: An ideal voltmeter offers an infinite equivalent resistance. So acts as an open circuit."
+    },
+    {
+        "id": 43,
+        "Question": "A 100mv, 5mA d’Arsonval movement is to be used in an ammeter whose full-scale reading is 1A. Calculate RA.",
+        "Options": [
+            "a) 0.7 ohms",
+            "b) 0.5 ohms",
+            "c) 0.1 ohms",
+            "d) 0.2 ohms"
+        ],
+        "Answer": "Answer: a\nExplanation: An ideal ammeter offers a zero equivalent resistance. So acts a short circuit."
+    },
+    {
+        "id": 44,
+        "Question": "A 122mv, 12mA d’Arsonval movement is to be used in voltmeter whose full scale reading is 120v. The resistance inserted by 120v _____________",
+        "Options": [
+            "a) 1200Ω",
+            "b) 12000Ω",
+            "c) 1000Ω",
+            "d) 10,000Ω"
+        ],
+        "Answer": "Answer: c\nExplanation: 5mA is flowing through the coil which implies 995mA are diverted through RA.\n                                  V = iR\n                                     = 100 * 10-3\n                                     = 995 * 10-3 RA\n                                 RA  = 0.100Ω."
+    },
+    {
+        "id": 45,
+        "Question": "The Wheatstone Bridge is mainly used to measure ______________",
+        "Options": [
+            "a) Currents",
+            "b) Voltages",
+            "c) Node potentials",
+            "d) Resistances"
+        ],
+        "Answer": "Answer: d\nExplanation: Resistances can be measured by various methods. Wheatstone bridge is one such method. In this method resistances in the range of 1Ω to 1 MΩ can be measured."
+    },
+    {
+        "id": 46,
+        "Question": "Lower resistances are difficult to measure using Wheatstone bridge circuit because of ____________",
+        "Options": [
+            "a) Leakage currents",
+            "b) I2R effects",
+            "c) Power dissipation",
+            "d) Thermal breakdown"
+        ],
+        "Answer": "Answer: c\nExplanation: The relation is P/Q=R/S or PS=QR."
+    },
+    {
+        "id": 47,
+        "Question": "If P/Q=1, unknown resistance S=1000Ω and R could be varied from 0 to 100Ω then the bridge could be ___________",
+        "Options": [
+            "a) A balanced circuit",
+            "b) A rectified circuit",
+            "c) An unbalanced circuit",
+            "d) An identical circuit"
+        ],
+        "Answer": "Answer: a\nExplanation: A/B=C/D. Using this D= 10.2Ω."
+    },
+    {
+        "id": 48,
+        "Question": "The other name for Delta connection is ___________",
+        "Options": [
+            "a) Star connection",
+            "b) Pi connection",
+            "c) T connection",
+            "d) Y connection"
+        ],
+        "Answer": "Answer: b\nExplanation: A standard Wheatstone bridge couldn’t measure lower resistances because of thermoelectric voltages which are generated at the junctions of the dissimilar metals and also because of thermal heating effects- that is, i2R effects."
+    },
+    {
+        "id": 49,
+        "Question": "If R2 = RC RA / (RA +RB +RC ) then R3  equals?",
+        "Options": [
+            "a) RA RB / (RA +RB +RC )",
+            "b) RC RA / (RA +RB +RC )",
+            "c) RB RC / (RA +RB +RC )",
+            "d) RX RA / (RA +RB +RC )"
+        ],
+        "Answer": "Answer: c\nExplanation: P/Q=R/S. If P/Q=1 then according to given range of R and S, the bridge circuit could never be a balanced one."
+    },
+    {
+        "id": 50,
+        "Options": [
+            "a) Ra=5Ω, Rb = 4.5Ω, Rc=4.67Ω",
+            "b) Ra=4Ω, Rb=4.30Ω, Rc=4.66Ω",
+            "c) Ra=3Ω, Rb=4Ω, Rc =5Ω",
+            "d) Ra=5.2Ω, Rb=4.2Ω, Rc =4.89Ω"
+        ],
+        "Answer": "Answer: b\nExplanation: Delta connection is also known as Pi connection because the ∆ can be shaped into π without disturbing the electrical equivalence of both the structures."
+    },
+    {
+        "id": 51,
+        "Question": "The star and delta networks would be electrically equal if resistances measured between any pair of terminals __________",
+        "Options": [
+            "a) Is different",
+            "b) Greater in star",
+            "c) Greater in delta",
+            "d) Is equal"
+        ],
+        "Answer": "Answer: a\nExplanation: Star connection can also be called as Y (or) T connection because the star can be shaped into Y or T without disturbing the electrical equivalence of both the structures."
+    },
+    {
+        "id": 52,
+        "Question": "A Wheatstone bridge is balanced when the galvanometer shows __________ reading.",
+        "Options": [
+            "a)  0A",
+            "b) 1A",
+            "c) Infinity",
+            "d) -1A"
+        ],
+        "Answer": "Answer: a\nExplanation: R3 = RA RB / (RA +RB +RC )."
+    },
+    {
+        "id": 53,
+        "Question": " __________ are difficult to measure using Wheatstone bridge.",
+        "Options": [
+            "a) Higher resistances",
+            "b) Currents",
+            "c) Lower resistances",
+            "d) Voltages"
+        ],
+        "Answer": "Answer: b\nExplanation: By using the standard formulae the delta circuit can be converted into star circuit."
+    },
+    {
+        "id": 54,
+        "Question": "Nodal analysis is mainly based on __________",
+        "Options": [
+            "a) KCL",
+            "b) KVL",
+            "c) Wheatstone bridge principle",
+            "d) Faraday’s electric laws"
+        ],
+        "Answer": "Answer: a\nExplanation:  Nodal analysis or Node-Voltage method is done by identifying the currents at the node and thereby forming equations."
+    },
+    {
+        "id": 55,
+        "Question": "If there are n nodes, then how many node-voltage equations are required?",
+        "Options": [
+            "a) n",
+            "b) n+1",
+            "c) n-1",
+            "d) 1"
+        ],
+        "Answer": "Answer: c\nExplanation: If there are n nodes then n-1 nodal equations are required to describe the circuit."
+    },
+    {
+        "id": 56,
+        "Question": "A supernode is between _____________",
+        "Options": [
+            "a) Essential node and reference node",
+            "b) Two reference nodes",
+            "c) Two essential nodes",
+            "d) Essential node and neutral path"
+        ],
+        "Answer": "Answer: b\nExplanation: Node A:  VA/2 + (VA-1)/2 + (VA-VB)/1 =2\n\t          Node B:  (VB-2)/2 + (VB-VA)/1 =1\n By solving the above equations required voltages are obtained."
+    },
+    {
+        "id": 57,
+        "Question": "If there are 5 nodes then the no of nodal equations are ___________",
+        "Options": [
+            "a) 5",
+            "b) 0",
+            "c) 1",
+            "d) 4"
+        ],
+        "Answer": "Answer: c\nExplanation:  A supernode is between two essential nodes."
+    },
+    {
+        "id": 58,
+        "Question": "If there are (N-2+3) Node-Voltage equations then the number of nodes in the circuit are __________",
+        "Options": [
+            "a) N+2",
+            "b) N+1",
+            "c) N",
+            "d) N-1"
+        ],
+        "Answer": "Answer: a\nExplanation: supernode: V3-V2 = 5V\n                       Node1: 166V1-100V2-66V3 =132\n                       Node3: -166V1+265V2+99V3 =0\n On solving the required voltage is obtained."
+    },
+    {
+        "id": 59,
+        "Question": "The reference node is also known as __________",
+        "Options": [
+            "a) Essential node",
+            "b) Principle node",
+            "c) Datum node",
+            "d) Neutral node"
+        ],
+        "Answer": "Answer: a\nExplanation:  At supernode: VC-VB=5iX\n    And ix = (VB-VA)/5. On solving remaining nodes and forming equations, the required voltage values at nodes are obtained. "
+    },
+    {
+        "id": 60,
+        "Question": "If there are 9 nodes, then how many node-voltage equations are required?",
+        "Options": [
+            "a) 9",
+            "b) 10",
+            "c) 8",
+            "d) 1"
+        ],
+        "Answer": "Answer: b\nExplanation: Given voltage source 135V is in between essential node and reference node. So that implies V1 =135V. Using this, V2 can be calculated."
+    },
+    {
+        "id": 61,
+        "Question": "There are 13 branches in a complicated network and nearly 8 nodes. How many equations are required to solve the circuit in node-voltage method?",
+        "Options": [
+            "a) 7",
+            "b) 13",
+            "c) 5",
+            "d) 6"
+        ],
+        "Answer": "Answer: d\nExplanation: If there are n nodes then n-1 nodal equations are required to describe the circuit."
+    },
+    {
+        "id": 62,
+        "Question": "The loop which does not contain any other inner loop is known as _____________",
+        "Options": [
+            "a) A node",
+            "b) A mesh",
+            "c) A branch",
+            "d) A super mesh"
+        ],
+        "Answer": " Answer: b\nExplanation: A mesh is defined as a loop which does not contain any other loop within it."
+    },
+    {
+        "id": 63,
+        "Question": "If there are 6 branches and 4 essential nodes, how many equations are required to describe a circuit in mesh-current method?",
+        "Options": [
+            "a) 3",
+            "b) 6",
+            "c) 4",
+            "d) 2"
+        ],
+        "Answer": "Answer: a\nExplanation: In Mesh-Current method, b-(n-1) equations are required to describe the circuit. b= the number of branches and n= the number of essential nodes."
+    },
+    {
+        "id": 64,
+        "Question": "A Super Mesh analysis could be done when there is a common _____________ between any two loops.",
+        "Options": [
+            "a) Voltage source",
+            "b) Current source",
+            "c) Resistor",
+            "d) Both voltage and current source"
+        ],
+        "Answer": "Answer: c\nExplanation: There are 3 meshes in the given circuit. Assuming currents I1, I2, I3 in the 3 meshes and by applying KVL, equations will be obtained which on solving gives the respective currents flowing in the circuits."
+    },
+    {
+        "id": 65,
+        "Question": "The Mesh-Current method is applicable only for ___________",
+        "Options": [
+            "a) Non-linear networks",
+            "b) Equivalent networks",
+            "c) Non-planar networks",
+            "d) Planar networks"
+        ],
+        "Answer": "Answer: b\nExplanation: A Super Mesh analysis could be done when there is a common current source between any two loops."
+    },
+    {
+        "id": 66,
+        "Question": "If 4 equations are required to describe a circuit by Mesh-Current method and there are n nodes. How many branches are there in the network?",
+        "Options": [
+            "a) n+5",
+            "b) n+3",
+            "c) n",
+            "d) n-1"
+        ],
+        "Answer": "Answer: a\nExplanation:  Loop2 and loop3 forms a supermesh.\n\t\tSupermesh: I3-I2=4\n                          Loop1: 11I1-10I2=2\n\t\tKVL at Supermesh: -2I1+3I2+3I3=0\nSolving these gives the currents flowing in the circuit and current through 10Ω resistor is either I1-I2 or I2-I1."
+    },
+    {
+        "id": 67,
+        "Question": "If there are 16 branches and 5 essential nodes, how many equations are required to describe a circuit in mesh-current method?",
+        "Options": [
+            "a) 12",
+            "b) 16",
+            "c) 21",
+            "d) 9"
+        ],
+        "Answer": "Answer: c\nExplanation: 3 loops and a supermesh between loop1 and loop3. Using KVL currents are found out. I1=9A, I2=2.5A, I3=2A. As voltage source is in 1st loop, Power delivered by voltage source=V*I1."
+    },
+    {
+        "id": 68,
+        "Question": " Mesh analysis is best suitable for _____________",
+        "Options": [
+            "a) Current sources",
+            "b) Voltage sources",
+            "c) Complex elements",
+            "d) Unilateral elements"
+        ],
+        "Answer": "Answer: d\nExplanation: The Mesh-Current method is applicable only for Planar networks. A network is said to be planar if there are no crossovers in it and it can be drawn freely on a plane surface."
+    },
+    {
+        "id": 69,
+        "Question": "Which method is best for voltage sources?",
+        "Options": [
+            "a) Mesh analysis",
+            "b) Nodal analysis",
+            "c) Superposition principle",
+            "d) Differentiation method"
+        ],
+        "Answer": "Answer: b\nExplanation: Every voltage source connected to the reference node reduces the equations to be solved. Thus, the node-voltage method is best for voltage sources."
+    },
+    {
+        "id": 70,
+        "Question": "When there is a current source between two loops which method is preferred?",
+        "Options": [
+            "a) Mesh-voltage analysis",
+            "b) Node-current analysis",
+            "c) Supermesh",
+            "d) Supernode"
+        ],
+        "Answer": "Answer: c\nExplanation: Supermesh is taken into consideration when there is a current source n between two loops and is considered as one single loop."
+    },
+    {
+        "id": 71,
+        "Question": "If there are b branches and n nodes, then how many node-voltage equations are required?",
+        "Options": [
+            "a) n",
+            "b) b+1",
+            "c) n-1",
+            "d) b"
+        ],
+        "Answer": "Answer: a\nExplanation: This problem can be solved quickly by using the mesh-current method. 3loops=3 KVL equations. Solving them gives respective currents."
+    },
+    {
+        "id": 72,
+        "Question": "When there is a voltage source between two nodes which method is preferred?",
+        "Options": [
+            "a) Mesh-voltage analysis",
+            "b) Node-current analysis",
+            "c) Supermesh",
+            "d) Supernode"
+        ],
+        "Answer": "Answer: b\nExplanation: 3loops=3KVL equations. Solving them gives currents flowing in the circuit. I1=5A, I2=-1.47A, I3=0.56A .Power supplied by dependent voltage source =0.4V1 (I1-I2).  "
+    },
+    {
+        "id": 73,
+        "Question": "Which is the best-preferred method to calculate currents flowing in the circuit?",
+        "Options": [
+            "a) Mesh-voltage analysis",
+            "b) Node-current analysis",
+            "c) Superposition principle",
+            "d) Duality principle"
+        ],
+        "Answer": "Answer: a\nExplanation: As there are voltage sources and nodes, node-voltage method is best suitable. Solving gives V1 =4/7V and V2=0 (since there is no voltage source near node2)."
+    },
+    {
+        "id": 74,
+        "Question": "By using source transformation voltage source in series resistor is replaced by __________",
+        "Options": [
+            "a) Voltage source in series with a resistor",
+            "b) Current source in parallel with a resistor",
+            "c) Voltage source in parallel with a resistor",
+            "d) Current source in series with a resistor"
+        ],
+        "Answer": "Answer: b\nExplanation: In Source transformation, a voltage source in series with a resistor is replaced by a current source in parallel with the same resistor and vice versa."
+    },
+    {
+        "id": 75,
+        "Question": "Source Transformation is  _____________",
+        "Options": [
+            "a) Unilateral",
+            "b) Unique",
+            "c) Bilateral",
+            "d) Complicated"
+        ],
+        "Answer": "Answer: c\nExplanation: In Source transformation, a voltage source in series with a resistor is replaced by a current source in parallel with the same resistor and vice versa. So, it is bilateral."
+    },
+    {
+        "id": 76,
+        "Question": "If there are two resistors in parallel and in series with a voltage source then ___________",
+        "Options": [
+            "a) Parallel resistor has no effect",
+            "b) Series resistor has no effect",
+            "c) Both has their respective effects",
+            "d) Both has no effect on the voltage source"
+        ],
+        "Answer": "Answer: a\nExplanation: In source transformation, the voltage source in series with a resistor to be replaced by a current source in parallel with the same resistor and vice versa. So other resistors are redundant and have no effect."
+    },
+    {
+        "id": 77,
+        "Question": "If there is a 12A current source in series with 2Ω and in parallel with a 4Ω resistor, then voltage V=?",
+        "Options": [
+            "a) 24V",
+            "b) 48V",
+            "c) 3V",
+            "d) 6V"
+        ],
+        "Answer": "Answer: b\nExplanation: V=IR=13*3=39V."
+    },
+    {
+        "id": 78,
+        "Question": "Source transformation technique is mainly based on __________ law.",
+        "Options": [
+            "a) Newton’s",
+            "b) Kirchhoff’s",
+            "c) Ohm’s",
+            "d) Einstein’s"
+        ],
+        "Answer": "Answer: b\nExplanation:  Voltage in series with a resistor in replaced by a current source but here 10Ω is in parallel. So, it is redundant and has no effect."
+    },
+    {
+        "id": 79,
+        "Question": "In source transformation,",
+        "Options": [
+            "a) Voltage sources remain same",
+            "b) Current sources remain same",
+            "c) Both voltage and current sources undergo change",
+            "d) Resistances/Impedances remain same"
+        ],
+        "Answer": "Answer: d\nExplanation: In the given circuit 9Ω resistor has no effect.\n\t\t10*6=60V, 60V+20V=80V."
+    },
+    {
+        "id": 80,
+        "Question": "If there are five 20V voltage sources in parallel, then in source transformation __________",
+        "Options": [
+            "a)  All are considered",
+            "b) Only one is considered",
+            "c) All are ignored",
+            "d) Only 2 are considered"
+        ],
+        "Answer": "Answer: b\nExplanation: 2Ω resistor is redundant. 12*4=48V."
+    },
+    {
+        "id": 81,
+        "Question": "Thevenin’s equivalent circuit consists of a ____________",
+        "Options": [
+            "a) Voltage source in series with a resistor",
+            "b) Current source in parallel with a resistor",
+            "c) Voltage source in parallel with a resistor",
+            "d) Current source in series with a resistor"
+        ],
+        "Answer": "Answer: a\nExplanation: 1. Remove 24Ω resistor and calculate the voltage across the open circuit.\n\t          2. Calculate the thevenin’s resistance and by using it, the thevenin’s current.\n                     3. V24Ω=I*R     (can also verify by using Nodal analysis)."
+    },
+    {
+        "id": 82,
+        "Question": "Norton’s equivalent circuit consists of a _____________",
+        "Options": [
+            "a) Voltage source in series with a resistor",
+            "b) Current source in parallel with a resistor",
+            "c) Both voltage and current sources",
+            "d) Current source in series with a resistor"
+        ],
+        "Answer": "Answer: c\nExplanation: In the circuit given, thevenin’s voltage is nothing but the open circuit voltage which is Vx. Applying KVL, it is obtained."
+    },
+    {
+        "id": 83,
+        "Question": "Thevenin’s voltage is equal to ____________",
+        "Options": [
+            "a) Short circuit voltage",
+            "b) Open circuit current",
+            "c) Open circuit voltage",
+            "d) Short circuit current"
+        ],
+        "Answer": "Answer: a\nExplanation: Remove all the voltage/current sources and calculate the equivalent resistance.\n"
+    },
+    {
+        "id": 84,
+        "Question": "Norton’s current is equal to ____________",
+        "Options": [
+            "a) Short circuit voltage",
+            "b) Open circuit current",
+            "c) Open circuit voltage",
+            "d) Short circuit current"
+        ],
+        "Answer": "Answer: a\nExplanation:  1. Remove the 5+j4 Ω branch and calculate thevenin’s voltage.\n                           (V= v across 6Ω resistor- v across 8Ω resistor)\n                        2. Calculate Zth. (10//6 and 8//8)\n                        3. Current= (Vth/ (Zth+Z)."
+    },
+    {
+        "id": 85,
+        "Question": "Thevenin’s resistance RTh = ___________",
+        "Options": [
+            "a) VTh/ISC",
+            "b) VSC/ITh",
+            "c) VTh/ITh",
+            "d) VSC /ISC"
+        ],
+        "Answer": "Answer: d\nExplanation:  Remove the resistor across which voltage is to be calculated and short circuit it. By using short circuit current and resistance calculate the current across 6Ω resistor and thereby voltage. (In this 10Ω resistor is also short-circuited since 10//0)."
+    },
+    {
+        "id": 86,
+        "Question": "What is the expression forthe thevenin’s current if there is an external resistance in series with the RTh?",
+        "Options": [
+            "a) VTh/ITh",
+            "b) VTh/ (RTh-R)",
+            "c) VTh/ (RTh+R)",
+            "d) VTh/RTh"
+        ],
+        "Answer": "Answer: c\nExplanation: IN= (20/10) + (10/5)."
+    },
+    {
+        "id": 87,
+        "Question": "Which of the following is the example to describe the efficiency of power transfer?",
+        "Options": [
+            "a) Communication systems",
+            "b) Power utility systems",
+            "c) Instrumentation systems",
+            "d) Telecom systems"
+        ],
+        "Answer": "Answer: b\nExplanation: Power utility systems are good examples for this case as they are concerned with the generation, transmission and distribution of power in large quantities."
+    },
+    {
+        "id": 88,
+        "Question": "In a network maximum power transfer occurs when __________",
+        "Options": [
+            "a) RTh= -RL",
+            "b) RTh/RL =0",
+            "c) RTh= RL",
+            "d) RTh+RL= 1"
+        ],
+        "Answer": "Answer: c\nExplanation: Maximum power transfer occurs when load resistance equals the thevenin’s resistance."
+    },
+    {
+        "id": 89,
+        "Question": "Maximum power in terms of the thevenin’s voltage and load resistance __________",
+        "Options": [
+            "a) (VTh) 2 /4RL",
+            "b) (VTh) 2 *4RL",
+            "c) (VTh) 2 +4RL",
+            "d) 4RL/ (VTh) 2"
+        ],
+        "Answer": "Answer: a\nExplanation: Pmax= v*i= i*R*i= i2RL = (VTh/(RTh+RL))2*RL.    Max power occurs when RL=RTh. "
+    },
+    {
+        "id": 90,
+        "Question": "The Superposition principle is obeyed by ____________",
+        "Options": [
+            "a) Linear networks",
+            "b) Non-linear networks",
+            "c) Lateral networks",
+            "d) Trilateral networks"
+        ],
+        "Answer": "Answer: c\nExplanation: Pmax= (VTh/(RTh+RL))2*RL   (RTh=RL)\n\t\tVTh= (150/150+30)*540= 450V\n\t\tRTh=(150*30)/180= 25Ω (the given resistors are in parallel)."
+    },
+    {
+        "id": 91,
+        "Question": "If there are 5 sources in a network out of which 3 are dependent and 2 are independent. For superposition principle ___________ sources are considered.",
+        "Options": [
+            "a) 5",
+            "b) 3",
+            "c) 2",
+            "d) 0"
+        ],
+        "Answer": "Answer: a\nExplanation: Load is given across node V2 and reference path. It implies the thevenin’s voltage is V2. By using nodal analysis this voltage is found out.\nRTh=RL= 10Ω//5Ω and in series with 2Ω and then parallel with 3Ω=1.92Ω\nMax power = (VTh) 2 /4RL = 4.688W."
+    },
+    {
+        "id": 92,
+        "Question": "In AC networks, maximum power is delivered when  __________",
+        "Options": [
+            "a) ZL*ZS*=0",
+            "b) ZL+ZS*=1",
+            "c) ZL=-ZS*",
+            "d) ZL=ZS*"
+        ],
+        "Answer": "Answer: a\nExplanation: A linear system obeys Superposition Principle. In a linear network parameters are constant i/e/ won’t change with voltage and current. "
+    },
+    {
+        "id": 93,
+        "Question": "Superposition principle states that at a time __________ source(S) acts.",
+        "Options": [
+            "a) All the given sources",
+            "b) Only voltage sources",
+            "c) Only one source",
+            "d) Only current sources"
+        ],
+        "Answer": "Answer: b\nExplanation: According to Superposition principle response in one element is the algebraic sum of responses by individual sources acting alone while other sources are non-operative."
+    },
+    {
+        "id": 94,
+        "Question": "Op-amp was introduced by __________",
+        "Options": [
+            "a) Fairchild",
+            "b) Maxwell",
+            "c) Rutherford",
+            "d) Sahani"
+        ],
+        "Answer": "Answer: a\nExplanation: Op-amp was introduced by Fairchild semiconductor in 1968."
+    },
+    {
+        "id": 95,
+        "Question": "The number of terminals in an Op-amp ______________",
+        "Options": [
+            "a) 6",
+            "b) 2",
+            "c) 5",
+            "d) 3"
+        ],
+        "Answer": "Answer: c\nExplanation: Inverting input, the Non-inverting input, Output, Positive power supply, Negative power supply."
+    },
+    {
+        "id": 96,
+        "Question": "The Op-amp is a type of ___________",
+        "Options": [
+            "a) Differential amplifier",
+            "b) Integrated amplifier",
+            "c) Isolation amplifier",
+            "d) Feedback amplifier"
+        ],
+        "Answer": "Answer: a\nExplanation: The Op-amp is a type of differential amplifier."
+    },
+    {
+        "id": 97,
+        "Question": "When the input voltage difference is small in magnitude, the Op-amp behaves as ____________",
+        "Options": [
+            "a) Non-linear device",
+            "b) Linear device",
+            "c) Complex device",
+            "d) Bipolar device"
+        ],
+        "Answer": "Answer: c\nExplanation: V+: Non-inverting input and V- : Inverting input."
+    },
+    {
+        "id": 98,
+        "Question": "If the output voltage is not a linear function of input voltage then ____________",
+        "Options": [
+            "a) Op-amp acts a linear device",
+            "b) Op-amp acts as a non-linear device",
+            "c) Op-amp acts a polar device",
+            "d) Op-amp acts as an inverter"
+        ],
+        "Answer": "Answer: b\nExplanation: When │vp-vn│is small then Op-amp acts as a linear device as the output voltage is a linear function of input voltages. "
+    },
+    {
+        "id": 99,
+        "Question": "The negative feedback causes the input voltage difference to ____________",
+        "Options": [
+            "a) 1",
+            "b) Increase",
+            "c) Decrease",
+            "d) 0"
+        ],
+        "Answer": "Answer: b\nExplanation: If output voltage is not a linear function of input voltage then Op-amp acts as a non-linear device."
+    },
+    {
+        "id": 100,
+        "Question": "The opamp in the Inverting circuit is in __________",
+        "Options": [
+            "a) Linear region",
+            "b) Saturation",
+            "c) Cut-off region",
+            "d) Non-linear region"
+        ],
+        "Answer": "Answer: a\nExplanation: We assume that the opamp is in linear region."
+    },
+    {
+        "id": 101,
+        "Question": "In an Inverting Amplifier circuit, the output voltage vo is expressed as a function of ____________",
+        "Options": [
+            "a) Input current",
+            "b) Output current",
+            "c) Source voltage",
+            "d) Source current"
+        ],
+        "Answer": "Answer: c\nExplanation: The goal of an inverting circuit is to express output voltage vo as a function of source voltage vs."
+    },
+    {
+        "id": 102,
+        "Question": "The other name for Gain is ____________",
+        "Options": [
+            "a) Scaling factor",
+            "b) Output",
+            "c) Amplifying factor",
+            "d) Scaling level"
+        ],
+        "Answer": "Answer: a\nExplanation: The gain is also known as scaling factor and it is the ratio of Rf/Rs in case of an Inverting amplifying circuit."
+    },
+    {
+        "id": 103,
+        "Question": "If VCC = 12V and vs=1mV, then Rf/Rs   is _____________",
+        "Options": [
+            "a) >12000",
+            "b) <12000",
+            "c) 12000",
+            "d) 1"
+        ],
+        "Answer": "Answer: b\nExplanation: Rf/Rs    ≤ │VCC/vs│."
+    },
+    {
+        "id": 104,
+        "Question": "In the expression vo= -Avn, A is called ______________",
+        "Options": [
+            "a) Closed loop gain",
+            "b) Closed loop fault",
+            "c) Open loop fault",
+            "d) Open loop gain"
+        ],
+        "Answer": "Answer: d\nExplanation: A is called open loop gain."
+    },
+    {
+        "id": 105,
+        "Question": "The circuits of an inverting and Non-Inverting amplifying comprises of __________ and _______ number of resistors.",
+        "Options": [
+            "a) 3, 2",
+            "b) 2, 3",
+            "c) 2, 2",
+            "d) 3, 3"
+        ],
+        "Answer": "Answer: b\nExplanation: Inverting amplifying circuit- Rs, Rf.\n\t          Non-Inverting amplifying circuit – Rs, Rf, Rg."
+    },
+    {
+        "id": 106,
+        "Question": "The condition for a Non-inverting amplifying circuit to operate in linear region operation  _____________",
+        "Options": [
+            "a) (Rs+Rf)/Rs < │VCC/vg│",
+            "b) (Rs+Rf)/Rs ≠ │VCC/vg│",
+            "c) (Rs+Rf)/Rs > │VCC/vg│",
+            "d) (Rs+Rf)/Rs = │VCC/vg│"
+        ],
+        "Answer": "Answer: a\nExplanation: Assume that opamp is ideal. The condition for the linear region operation in a Non-inverting amplifying circuit is (Rs+Rf)/Rs <│VCC/vg│."
+    },
+    {
+        "id": 107,
+        "Question": "If Rs= 3Ω, Rf= 6Ω then the relation between vo and vg in case of a Non-Inverting amplifying circuit.",
+        "Options": [
+            "a) vo= 9vg",
+            "b) vo= 6vg",
+            "c) vo= 3vg",
+            "d) vo= vg"
+        ],
+        "Answer": "Answer: c\nExplanation:  vo= ((Rs+Rf)/Rs) *vg."
+    },
+    {
+        "id": 108,
+        "Question": "If Rs= 5Ω, Rf= 25Ω and -2.5V ≤ vg ≤ 2.5V. What are the smallest power supply voltages that could be applied and still have opamp in linear region?",
+        "Options": [
+            "a) ±9V",
+            "b) ±2.5V",
+            "c) ±6V",
+            "d) ±15V"
+        ],
+        "Answer": "Answer: d\nExplanation: vo= ((Rs+Rf)/Rs) *vg. By substituting the values, we have vo=6vg.\n                           vo=6(-2.5) = -15\n                           vo=6(2.5) =15."
+    },
+    {
+        "id": 109,
+        "Question": " If an inverting amplifying circuit has a gain of 10 and ±15V power supplies are used. The values of input for which opamp would be in the linear region?",
+        "Options": [
+            "a) ±1.25",
+            "b) ±1.5V",
+            "c) ±2.25",
+            "d) ±0.5"
+        ],
+        "Answer": "Answer: b\nExplanation: Gain= Rf/Rs= 10 and vo= (-Rf/Rs)*vs.\n→ vo= -10vs and given -12V≤ vo ≤ 12V.\n→ -15= -10vs. So, vs= 1.5V\n→ 15=-10vs. So, vs=-1.5V."
+    },
+    {
+        "id": 110,
+        "Question": "If the gain of an  inverting amplifying circuit is 13 and ±22V power supplies are used. What range of input values allows the opamp to be in linear region?",
+        "Options": [
+            "a) ±1.69",
+            "b) ±1.35V",
+            "c) ±2.28",
+            "d) ±0.5"
+        ],
+        "Answer": "Answer: a\nExplanation: Gain= Rf/Rs= 13 and vo= (-Rf/Rs)*vs.\n→ vo= -13vs and given -22V≤ vo ≤ 22V.\n→ -22= -13vs. So, vs=1.692 V\n→ 22=-13vs. So, vs=-1.692V."
+    },
+    {
+        "id": 111,
+        "Question": "The input applied to an Inverting amplifier is ______________",
+        "Options": [
+            "a) Equal to output",
+            "b) Equal to Inverted output",
+            "c) Not equal to output",
+            "d) Output is equal to input"
+        ],
+        "Answer": "Answer: b\nExplanation: The name itself indicates it is an Inverting amplifier. So, the input applied is inverted and is given as output. Suppose the input applied is sinusoidal then, the output is\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inverting-non-inverting-amplifier-q12.png\" alt=\"electric-circuits-questions-answers-inverting-non-inverting-amplifier-q12\" width=\"434\" height=\"262\" class=\"aligncenter size-full wp-image-147885\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inverting-non-inverting-amplifier-q12.png 434w, https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inverting-non-inverting-amplifier-q12-300x181.png 300w\" sizes=\"(max-width: 434px) 100vw, 434px\" />\n"
+    },
+    {
+        "id": 112,
+        "Options": [
+            "c)",
+            " <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inductor-capacitor-q1c.png\" alt=\"electric-circuits-questions-answers-inductor-capacitor-q1c\" width=\"145\" height=\"64\" class=\"align size-full wp-image-147891\" />",
+            "d)",
+            " <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inductor-capacitor-q1d.png\" alt=\"electric-circuits-questions-answers-inductor-capacitor-q1d\" width=\"158\" height=\"113\" class=\"align size-full wp-image-147892\" />"
+        ],
+        "Answer": "Answer: c\nExplanation:     <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inductor-capacitor-q1c.png\" alt=\"electric-circuits-questions-answers-inductor-capacitor-q1c\" width=\"145\" height=\"64\" class=\"align size-full wp-image-147891\" />  is the symbol used to represent inductance."
+    },
+    {
+        "id": 113,
+        "Question": "The formula used to find the capacitance C is  __________",
+        "Options": [
+            "a) Q/v",
+            "b) Qv",
+            "c) Q-v",
+            "d) Q + v"
+        ],
+        "Answer": "Answer: b\nExplanation:    <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/electric-circuits-questions-answers-inductor-capacitor-q2.png\" alt=\"electric-circuits-questions-answers-inductor-capacitor-q2\" width=\"141\" height=\"90\" class=\"align size-full wp-image-147893\" />      is the symbol used to represent capacitance."
+    },
+    {
+        "id": 114,
+        "Question": "The capacitor doesn’t allow sudden changes in  ___________",
+        "Options": [
+            "a) Voltage",
+            "b) Current",
+            "c) Resistance",
+            "d) Capacitance"
+        ],
+        "Answer": "Answer: a\nExplanation:  Q=cv. Q-charge, V-voltage, c-capacitance."
+    },
+    {
+        "id": 115,
+        "Question": "The Inductor doesn’t allow sudden changes in ___________",
+        "Options": [
+            "a) Voltage",
+            "b) Current",
+            "c) Resistance",
+            "d) Inductance"
+        ],
+        "Answer": "Answer: a\nExplanation: Any small change in voltage occurs within zero time across the gives an infinite current which is practically impossible. So, in a fixed capacitor, the voltage cannot change abruptly."
+    },
+    {
+        "id": 116,
+        "Question": "The expression for energy of an inductor ____________",
+        "Options": [
+            "a) ½ LI",
+            "b) L/2I",
+            "c) ½ L2I",
+            "d) ½ LI2"
+        ],
+        "Answer": "Answer: b\nExplanation: Any small change in current occurs within zero time across the gives an infinite voltage which is practically impossible. So, in a fixed inductor, the voltage cannot change abruptly."
+    },
+    {
+        "id": 117,
+        "Question": "The units for inductance is _________ and capacitance is ___________",
+        "Options": [
+            "a) Faraday, Henry",
+            "b) Coulomb, Faraday",
+            "c) Henry, Faraday",
+            "d) Henry, Coulomb"
+        ],
+        "Answer": "Answer: d\nExplanation: E=∫p dt\n            =∫ LI*(dI/dt).dt\n            = L∫I dI\n            = ½ LI2."
+    },
+    {
+        "id": 118,
+        "Question": "If a capacitor of capacitance 9.2F has a voltage of 22.5V across it. Calculate the energy of the capacitor.",
+        "Options": [
+            "a)  5062.5W",
+            "b) 506.25W",
+            "c) 50.625W",
+            "d) 50625W"
+        ],
+        "Answer": "Answer: c\nExplanation: The unit for inductance is ‘Henry’ and capacitance is ‘Faraday’."
+    },
+    {
+        "id": 119,
+        "Question": "The voltage applied to the 212mH inductor is given by v(t)= 15e-5tv. Calculate the current.",
+        "Options": [
+            "a) 16.782e-10t",
+            "b) 15.75e-5t",
+            "c) 11.27e-10t",
+            "d) 14.15e-5t"
+        ],
+        "Answer": "Answer: a\nExplanation:  For 0≤t≤1msec,\n                         V (t) =m*t (y=mx form)\n      →100= 1*10-3*m →m= 1*105\n      → V (t) = 1*105t\nCurrent I (t) = c. d (v (t))/dt = 50*10-6* (d (1*105t)/dt) = 5A."
+    },
+    {
+        "id": 120,
+        "Question": "If the voltage across a capacitor is constant, then current passing through it is ________",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) -1",
+            "d) Infinity"
+        ],
+        "Answer": "Answer: b\nExplanation: E= ½ cv2."
+    },
+    {
+        "id": 121,
+        "Question": "An Inductor works as a ___________ circuit for DC supply.",
+        "Options": [
+            "a) Open",
+            "b) Short",
+            "c) Polar",
+            "d) Non-polar"
+        ],
+        "Answer": "Answer: d\nExplanation: Current I(t)= 1/L  0∫t  v*dt. "
+    },
+    {
+        "id": 122,
+        "Question": "The insulating medium between the two plates of capacitor is known as __________",
+        "Options": [
+            "a) Electrode",
+            "b) Capacitive medium",
+            "c) Conducting medium",
+            "d) Dielectric"
+        ],
+        "Answer": "Answer: a\nExplanation: i= C*(dv/dt)."
+    },
+    {
+        "id": 123,
+        "Question": "If the current flowing through an inductor of inductance 0.3Henry is 5.3t2+4.7t. Calculate the power.",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 16.854t3+22.41t2+6.62t",
+            "d) 15.3t3+27.8t2+19"
+        ],
+        "Answer": "Answer: b\nExplanation: I= c*(dv/dt)."
+    }
+]

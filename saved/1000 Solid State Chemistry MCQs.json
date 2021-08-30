@@ -1,0 +1,2191 @@
+[
+    {
+        "id": 1,
+        "Question": "For the preparation of polycrystalline solids (i.e. powder), a mixture of solid starting materials directly react with each other in the solid state. What is the range of the temperature usually required for the solids to react together in Celsius?",
+        "Options": [
+            "a)\t25 to 37",
+            "b)\t1000 to 1500",
+            "c)\t-25 to 0",
+            "d)\t2000 to 3000"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Solids don’t react usually at room temperature over normal scale timescale, It is required to heat them at much higher temperature often 1000◦C to 1500◦C, in order for a reaction to occur at an appreciable rate."
+    },
+    {
+        "id": 2,
+        "Question": "What are the major important factors for the solid state reactions?",
+        "Options": [
+            "a)\tSize of the particles",
+            "b)\tMechanical properties of solids",
+            "c)\tThermodynamic and kinetic factors",
+            "d)\tEnvironmental factors"
+        ],
+        "Answer": "Answer: d\nExplanation:  In Solid state reactions thermodynamic factors show whether or not a particular reaction should occur by considering the change in free energy that are involved and kinetic factors determine the rate at which the reaction occurs."
+    },
+    {
+        "id": 3,
+        "Question": "In the solid state reaction, which mechanism describes the reaction between MgO and Al2O3 for the formation of MgAl2O4?",
+        "Options": [
+            "a)\tMannich reaction",
+            "b)\tAromic ion mechanism",
+            "c)\tWagner mechanism",
+            "d)\tWitting reaction"
+        ],
+        "Answer": "Answer: c\nExplanation:  The mechanism of reaction between MgO and Al2O3 involves the counter diffusion of Mg2++ and Al3++ through the product layer followed by further reaction at two reactant-product interfaces, and this is known as Wagner reaction."
+    },
+    {
+        "id": 4,
+        "Question": "In the solid state reaction when MgO and F2O3 reacts to form MgFe2O4,it is clear found that the interfaces moved in the ratio of 1:2.7,close to the ideal value 1:3.This is can be described by which of the following mechanism in which the movement of the interfaces is used as a marker?",
+        "Options": [
+            "a)\tKirkedall Effect",
+            "b)\tGrignard Reaction",
+            "c)\tMichael Reaction",
+            "d)\tAldol Reaction"
+        ],
+        "Answer": "Answer: a\nExplanation:  In the reaction such as the formation of the MgFe2O4, in which the interfaces between the reaction and the product can be clearly seen, perhaps due to a difference in color, the movement of the interfaces can be used as a marker to monitor the progress of the reaction. This effect of using a marker is known as the Kirkendall effect."
+    },
+    {
+        "id": 5,
+        "Question": "For the formation of ZnFe2O4 spinel which method can be used in order to achieve high degree of homogenization?",
+        "Options": [
+            "a)\tDistillation method",
+            "b)\tVaporization method",
+            "c)\tCoprecipitation method",
+            "d)\tCrystallization method"
+        ],
+        "Answer": "Answer: c\nExplanation:  In normal solid state reaction, the reactants are mixed together manually or mechanically and the subsequent reaction rate depends largely on the degree of homogenization achieved on mixing and the intimacy of contact between the grains. With the Coprecipitation method it is possible a high degree of homogenization together with small particle size and thereby speed up the reaction rate."
+    },
+    {
+        "id": 6,
+        "Question": "For the solid state syntheses of ferrite spinels, it is ______________ for the precursor methods to yield phases of accurate stoichiometry",
+        "Options": [
+            "a)\tImportant",
+            "b)\tNot necessary",
+            "c)\tControllable",
+            "d)\tMeaningless"
+        ],
+        "Answer": "Answer: a\nExplanation:  It is important for the precursor methods to yield the phases of accurate stoichiometry by careful control of the experimental conditions since several chromites and ferrites are valuable magnetic materials whose properties may be sensitive to purity and stoichiometry."
+    },
+    {
+        "id": 7,
+        "Question": "What is the ignition temperature required for the synthesis of Manganese Chromite MnCr2O4, a chromite spinel during the precursor method in degree Celsius?",
+        "Options": [
+            "a)\t37",
+            "b)\t-37",
+            "c)\t1100",
+            "d)\t3000"
+        ],
+        "Answer": "Answer: c\nExplanation:  During the synthesis of manganese chromite using precursor method the ignition temperature required is 1100 degree Celsius to ensure that all the manganese are present in the divalent state."
+    },
+    {
+        "id": 8,
+        "Question": "The appropriate relation between the surface area of any solid with that of the particle size can be stated as",
+        "Options": [
+            "a)\tSurface area of any solid increases with increase in particle size",
+            "b)\tSurface area of any solid is always equal to the particle size",
+            "c)\tSurface area of any solid increases with decrease in particle size",
+            "d)\tSurface area of any solid doesn’t depend at all on the particle size"
+        ],
+        "Answer": "Answer: c\nExplanation:  Surface area is always inversely related with the particle size. In the form of a single crystal, a few grams of solid has a surface area about to equal to the area of a large postage stamp. In the form of a finely divided powder, its surface area is about equal to the area of a hundred meter running track. Hence surface area increases with decrease in particle size."
+    },
+    {
+        "id": 9,
+        "Question": "During the reactivity of solids, two stages that may usually be identified are Nucleation of the product and its subsequent growth. When is nucleation facilitated?",
+        "Options": [
+            "a)\tWhen there is a structural similarity between the products",
+            "b)\tWhen there is structural similarity between the reactants",
+            "c)\tWhen there is structural dissimilarity between the product and the reactant",
+            "d)\tWhen there is structural similarity between the product and the reactant"
+        ],
+        "Answer": "Answer: d\nExplanation:  Nucleation is facilitated if there is structural similarity between the product and one or both of the reactants because this reduces the amount of structural reorganization that is necessary for nucleation to occur."
+    },
+    {
+        "id": 10,
+        "Question": "What is the relation between Topotactic reaction and epitactic reactions?",
+        "Options": [
+            "a)\tTopotactic reactions are less specific than epitactic reactions",
+            "b)\tTopotactic reactions are equally specific than epitactic reactions",
+            "c)\tTopotactic reactions are more specific than epitactic reactions",
+            "d)\tTopotactic reactions can’t be related to epitactic reactions"
+        ],
+        "Answer": "Answer: c\nExplanation:  Topotactic and epitactic reactions are the orientated reactions or transformation when nucleation makes use of structural similarity. Topotactic reactions are more specific than epitactic reaction because they require not only the structural similarity at the interface but also that this similarity should continue into the bulk of both crystalline phases."
+    },
+    {
+        "id": 11,
+        "Question": "What are the starting materials for crystallization?",
+        "Options": [
+            "a)\tGas, aqueous solution, foam",
+            "b)\tLiquid, aqueous solution, emulsion",
+            "c)\tSolid, gas, melt, solid aerosol",
+            "d)\tAqueous solution, melt, glass or gel"
+        ],
+        "Answer": " Answer: d\nExplanation: Aqueous solution, melt, glass or gel, is usually homogenous, single phase and                                          amorphous. This may greatly facilitate formation of crystalline product, since long range diffusion of ions may not be necessary and the product my form at lower temperature. "
+    },
+    {
+        "id": 12,
+        "Question": "What is the range of temperature for the crystallization process in ◦C?",
+        "Options": [
+            "a)\t1000-1500",
+            "b)\t2000-3000",
+            "c)\t25-100",
+            "d)\t0-25"
+        ],
+        "Answer": "Answer: c\nExplanation: Crystalline phases are prepared at low temperature range such as 25-100 degree Celsius whereas much high temperatures would be required for a normal solid state synthesis. Crystals usually form at low temperatures but due to the release of heat of fusion during crystallization, the entropy of the universe increases thus the second law of thermodynamics is not altered."
+    },
+    {
+        "id": 13,
+        "Question": "What are molecular sieve zeolites?",
+        "Options": [
+            "a)\tAluminosilicate framework structures",
+            "b)\tAromatic hydrocarbons",
+            "c)\tAliphatic hydrocarbons",
+            "d)\tSilicate structures"
+        ],
+        "Answer": "Answer: a\nExplanation: Zeolites are hydrated Aluminosilicate framework structures which contain large channels and cavities such that a variety of organic and inorganic substances may enter the zeolite structure."
+    },
+    {
+        "id": 14,
+        "Question": "What are the starting materials for zeolite synthesis?",
+        "Options": [
+            "a)\tAqueous solution of silicate and aluminate cations",
+            "b)\tAqueous solution of silicate and aluminate anions",
+            "c)\tPowdered silicon and aluminium metal",
+            "d)\tNon-nano silicon and aluminium metal"
+        ],
+        "Answer": " Answer:  b\nExplanation: Starting materials for zeolite structures are aqueous solution of silicate and aluminate anions which are mixed together with alkali. A gel forms by a process of copolymerization of the silicate and aluminate anions and on subsequent heat treatment, under a high water vapour pressure, crystals of zeolite are produced."
+    },
+    {
+        "id": 15,
+        "Question": "Crystallization of melts is very similar to crystallization of solutions, what is the factor that differentiates the crystallization of melt and solutions?",
+        "Options": [
+            "a)\tSize of the particles",
+            "b)\tEnvironmental factors",
+            "c)\tTemperature",
+            "d)\tEntropy"
+        ],
+        "Answer": "Answer: c\nExplanation: Melts are high temperature liquids whereas solutions are liquids at low temperatures. Thus on melting together the solid starting materials, complete homogenization occurs and recrystallization takes place on subsequent cooling of the melt."
+    },
+    {
+        "id": 16,
+        "Question": "Crystallization of melts is a valuable method for which of the following number of crystals?",
+        "Options": [
+            "a)\tSingle",
+            "b)\tDouble",
+            "c)\tTriple",
+            "d)\tPolycrystals(more than 3)"
+        ],
+        "Answer": "Answer: a\nExplanation: Crystallization of melts is a valuable method for growing single crystals since in the presence of liquid phase and in the absence of too many crystal nuclei, large crystals readily grow."
+    },
+    {
+        "id": 17,
+        "Question": "Lithium disilicate Li2Si2O5, can be called which of the following materials?",
+        "Options": [
+            "a)\tGlass-ceramic",
+            "b)\tMetal-organic",
+            "c)\tMelts",
+            "d)\tMetal-inorganic"
+        ],
+        "Answer": "Answer: a\nExplanation: Li2Si2O5 is a glass ceramic material, which is a crystalline material of glassy intermediates and an important component of several commercial glass-ceramics. Crystalline Li2Si2O5 melts at 1032oC."
+    },
+    {
+        "id": 18,
+        "Question": "What is the transition temperature region required during the preparation of glass-ceramic material, lithium disilicate in oC?",
+        "Options": [
+            "a)\t-25 to 0",
+            "b)\t0 to 25",
+            "c)\t25 100",
+            "d)\t300 to 500"
+        ],
+        "Answer": "Answer: d\nExplanation: Transition temperature is the temperature region where the polymer transition occurs from a hard, glassy material to a soft, rubbery material. Transition temperature required during the preparation of lithium disilicate is 450oC and on heating at 500 to 700oC crystallization of LI2Si2O5 occurs readily after few hours."
+    },
+    {
+        "id": 19,
+        "Question": "Which of the following is the type of reaction for the formation of gaseous PtO2 at 1200oC or higher?",
+        "Options": [
+            "a)\tExothermic reaction",
+            "b)\tEndothermic reaction",
+            "c)\tBoth exothermic and endothermic reaction",
+            "d)\tNeither exothermic nor endothermic reaction"
+        ],
+        "Answer": "Answer: b\nExplanation: The formation of gaseous PtO2 at 1200oC or higher is an endothermic reaction which can be used for chemical transport. The PtO2 diffuses at lower temperatures where it may deposit well-formed crystals of platinum metal."
+    },
+    {
+        "id": 20,
+        "Question": "Which method is used for the purification of certain metals which uses metal and iodine to form a gaseous iodide?",
+        "Options": [
+            "a)\tVan Arkel method",
+            "b)\tZone refining",
+            "c)\tElectrolysis",
+            "d)\tDistillation"
+        ],
+        "Answer": "Answer: a\nExplanation: Van Arkel method is used for the purification of certain metals makes uses of an exothermic reaction between metal and iodine to form a gaseous iodide, example CrI2. Since the formation of metal iodide is exothermic, and so the metal is redeposited at a higher temperature."
+    },
+    {
+        "id": 21,
+        "Question": "An elegant variation of Van Arkel purification method is to transport two substances in__________",
+        "Options": [
+            "a)\tSame direction along the temperature gradient",
+            "b)\tOpposite direction along the temperature gradient",
+            "c)\tSame direction along the concentration gradient",
+            "d)\tOpposite direction along the concentration gradient"
+        ],
+        "Answer": "Answer: b\nExplanation: Van Arkel method is a purification method which uses metal and iodine to form gaseous iodide, it transports two substances in opposite directions along the temperature gradient and this is possible when one reaction is exothermic and the other is endothermic."
+    },
+    {
+        "id": 22,
+        "Question": "During the preparation of aluminium sulphide, Al2S3 what is the reaction rate at which aluminium and sulphur react together at 800oC?",
+        "Options": [
+            "a)\tReact very slowly",
+            "b)\tReact rapidly",
+            "c)\tReacts and reaches equilibrium",
+            "d)\tDoesn’t react"
+        ],
+        "Answer": "Answer: a\nExplanation: In the presence of CO the reaction is greatly speeded up since SnO2 converts to gaseous SnO and can be chemically transported according to the following equation –\nSnO2(s) +CO ⇄ SnO(g) + CO2\nThe gaseous SnO subsequently reacts with CaO and CO2."
+    },
+    {
+        "id": 23,
+        "Question": "What will be the product formation when Metallic niobium and silica, SiO2 are heated under vacuum at 1100oC?",
+        "Options": [
+            "a)\tNb5Si3",
+            "b)\tNb3Si5",
+            "c)\tNb2Si3",
+            "d)\tNo product"
+        ],
+        "Answer": "Answer: a\nExplanation: Aluminium and sulphur react very slowly during the preparation of aluminium sulphide since liquid Al becomes coated with a skin of Al2S3, which acts as a diffusion barrier to further reaction."
+    },
+    {
+        "id": 24,
+        "Question": "What is the appropriate relation between the reactions of gases and solids?",
+        "Options": [
+            "a)\tGases react slower than the solids",
+            "b)\tGases react faster than the solids",
+            "c)\tGases do not react at all while solids react faster",
+            "d)\tBoth gases and solid reacts at a same rate"
+        ],
+        "Answer": "Answer: d\nExplanation: Metallic niobium and silica when heated at vacuum at 1100oC, they do not react together at all hence no product will be formed. But in the presence of traces of H2 gaseous SiO forms and migrates to the niobium."
+    },
+    {
+        "id": 25,
+        "Question": "In which of the following process, extra atoms or ions are inserted into the crystal structure?",
+        "Options": [
+            "a) Ion exchange method",
+            "b) Intercalation",
+            "c) Electrophoresis",
+            "d) Crystallization"
+        ],
+        "Answer": "Answer: b\nExplanation: Intercalation is a process in which extra atoms or ions are inserted into the crystal structure in order to modify the structure and composition of an existing crystal so as to yield new compounds. "
+    },
+    {
+        "id": 26,
+        "Question": "In order for a crystal to undergo intercalation or ion exchange method, which is the most important characteristics that it must possess for this?",
+        "Options": [
+            "a) Degree of ionization",
+            "b) Degree of evaporation",
+            "c) Degree of crystallization",
+            "d) Degree of structural openness"
+        ],
+        "Answer": "Answer: d\nExplanation: In order for a crystal to undergo any of the modification processes like intercalation or ion exchange method, it must possess certain structural characteristics, the most important is the degree of structural openness which permits foreign atoms or ions to readily diffuse into or out of the crystal. "
+    },
+    {
+        "id": 27,
+        "Question": "In the case of graphite and TiS2 intercalation compounds, what is the structure possessed by the host crystals?",
+        "Options": [
+            "a) Spherical structure",
+            "b) Cubical structure",
+            "c) Lamellar structure",
+            "d) Cylindrical structure"
+        ],
+        "Answer": "Answer: c\nExplanation: During the intercalation process of graphite and TiS2 compounds, the host crystals possess layer or lamellar structure and the layers are pushed apart as foreign atoms or ions penetrate the interlayer space. "
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following can act as a host crystal during the process of intercalation?",
+        "Options": [
+            "a) Graphite",
+            "b) Titanium",
+            "c) Fluorine",
+            "d) Aluminium"
+        ],
+        "Answer": "Answer: a\nExplanation: Graphite ac as a host crystal that is capable of intercalating a wide variety of atoms, ions and molecules. And as such it has been extensively studied. It forms intercalating compounds like graphite fluoride, bronze etc, where it acts as a host crystal.  "
+    },
+    {
+        "id": 29,
+        "Question": "What is the structure of Graphite?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2018/12/solid-state-chemistry-questions-answers-freshers-q5a.png\" alt=\"solid-state-chemistry-questions-answers-freshers-q5a\" width=\"113\" height=\"104\" class=\"alignnone size-full wp-image-233170\" />",
+            "b)<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-b.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-b\" width=\"109\" height=\"117\" class=\"alignnone size-full wp-image-165212\" />",
+            "c)<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-c.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-c\" width=\"148\" height=\"140\" class=\"alignnone size-full wp-image-165213\" />",
+            "d)<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-d.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q5-d\" width=\"153\" height=\"129\" class=\"alignnone size-full wp-image-165214\" />"
+        ],
+        "Answer": "Answer: d\nExplanation: Graphite has a planar ring structure and it has oblique projection showing the two-layer stacking sequence, it is possible to intercalate, for example, alkali cations, halide anions, ammonia and amines, oxysalts and metal halides between the carbon layers. "
+    },
+    {
+        "id": 30,
+        "Question": "What is the structure of graphite potassium, C8K?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-a.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-a\" width=\"128\" height=\"126\" class=\"alignnone size-full wp-image-165215\" />",
+            "b)<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-b.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-b\" width=\"136\" height=\"111\" class=\"alignnone size-full wp-image-165216\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-c.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-c\" width=\"153\" height=\"120\" class=\"alignnone size-full wp-image-165217\" />",
+            "d)<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/09/solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-d.png\" alt=\"solid-state-chemistry-questions-answers-modification-existing-structures-ion-exchange-intercalation-reactions-q6-d\" width=\"125\" height=\"109\" class=\"alignnone size-full wp-image-165218\" />"
+        ],
+        "Answer": "Answer: d\nExplanation: In the graphite potassium, C8K, the graphite layers are superimposed in projection but the potassium atoms are not and various stacking sequences are possible.C8K forms on exposure of graphite to molten potassium and the potassium may be subsequently removed under vacuum.  "
+    },
+    {
+        "id": 31,
+        "Question": "What is the coordination number of carbon in the graphite structure?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: c\nExplanation: Coordination number is also known as ligancy, it is the number of atoms, ions, or molecules that a central atom or in holds as its nearest neighbours in a complex or coordination compound or in a crystal. Hence the coordination number of carbon is 3 because of which the individual carbon, layers are not closely packed layers. "
+    },
+    {
+        "id": 32,
+        "Question": "In which of the following manner the carbon layers are arranged in the graphite structure?",
+        "Options": [
+            "a) ABABAB",
+            "b) ABCABC",
+            "c) AAAAAA",
+            "d) CBACBA"
+        ],
+        "Answer": "Answer: a\nExplanation: In graphite structure, the carbon layers are stacked together with a two-layer repeat unit which may be represented as ABABAB. Thus some carbon atoms are directly over the carbon atoms in the layer below whereas others are over the space in the middle of the rings. "
+    },
+    {
+        "id": 33,
+        "Question": "What is the hybridization of carbon atoms in the graphite structure?",
+        "Options": [
+            "a) sp",
+            "b) sp2",
+            "c) sp3",
+            "d) sp4"
+        ],
+        "Answer": "Answer: b\nExplanation: The carbon atoms in the graphite structure can be considered as sp2 hybridized, with an additional p orbital, containing a single electron, perpendicular to the plane of the rings. "
+    },
+    {
+        "id": 34,
+        "Question": "Which of the following statements is true for the thermal and electrical conductivity of graphite structure?",
+        "Options": [
+            "a) It has high thermal but low electric conductivity",
+            "b) It has high thermal and high electric conductivity",
+            "c) It has low thermal and high electric conductivity",
+            "d) It has low thermal and low electric conductivity"
+        ],
+        "Answer": "Answer: b\nExplanation: The carbon atoms of graphite structure are sp2 hybridized, with an additional p orbital, containing a single electron, perpendicular to the plane of the rings. These p orbitals overlap with the similar p orbitals on adjacent carbon atoms resulting in an infinite, two dimensional, delocalized ∏ electrons due to which according to the band theory terminology, it forms conduction band of graphite which results as a high thermal and electrical conductivity.  "
+    },
+    {
+        "id": 35,
+        "Question": "In which of the following patterns, the carbon layers are arranged in the graphite potassium structure, C8K?",
+        "Options": [
+            "a) AAAAAA",
+            "b) ABABAB",
+            "c) ABCABC",
+            "d) CBACBA"
+        ],
+        "Answer": "Answer: a\nExplanation: In the graphite potassium C8K structure, the carbon layers are different to those in the pure graphite structure and they are arranged in the form of AAAA pattern where the potassium ions are sandwiched between pairs of carbon rings.  "
+    },
+    {
+        "id": 36,
+        "Question": "What is the coordination number of the carbon atoms in the graphite potassium structure, C8K?",
+        "Options": [
+            "a) 6",
+            "b) 3",
+            "c) 8",
+            "d) 12"
+        ],
+        "Answer": "Answer: d\nExplanation: Coordination number is also known as ligancy. It is defined as the number of atoms, ions, or molecules that has a central atom or ion holds as its nearest neighbours in a complex or coordination compound or in a crystal. In potassium graphite structure, the carbon layers are arranged in AAAA pattern where the potassium ions are sandwiched between the pairs of carbon rings, thus resulting as a coordination number 12 of carbon atoms. "
+    },
+    {
+        "id": 37,
+        "Question": "In C8K, how does the graphite behave?",
+        "Options": [
+            "a) Electron acceptor",
+            "b) Electron donor",
+            "c) Proton acceptor",
+            "d) Proton donor"
+        ],
+        "Answer": "Answer: a\nExplanation: The electronic structure of the graphite is modified on intercalation of potassium atoms since partial electron transfer from potassium to graphite occurs, resulting in a polar structure which may nominally be represented as C8–K+ hence it acts as an electron acceptor. In other compounds like graphite halogen compounds, it acts as an electron donor.  "
+    },
+    {
+        "id": 38,
+        "Question": "In electrochemical reduction method, one of the species present  in the melt constituents during electrolysis undergoes______________",
+        "Options": [
+            "a) Reduction",
+            "b) Methylation",
+            "c) Carboxylation",
+            "d) Hydrolysis"
+        ],
+        "Answer": "Answer: a\nExplanation: During electrochemical reduction method for the formation of single crystals, one of the melt constituents undergoes reduction during electrolysis like reduction of transition metal ions to lower valence states and the reduction of oxyanions etc."
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following is the main component required to carry out the process of electrolysis?",
+        "Options": [
+            "a) AC current",
+            "b) Metal vessel",
+            "c) Wires",
+            "d) DC current"
+        ],
+        "Answer": "Answer: d\nExplanation: Electrolysis is a method where DC current i.e. direct electric current is passed through an ionic substance which is either in molten state or may be dissolved in a solvent, thus chemical reactions take place at the electrodes."
+    },
+    {
+        "id": 40,
+        "Question": "During electrochemical reduction method, the melt constituents are composed of which of the following materials?",
+        "Options": [
+            "a) Non metal oxide, alkali nitride, sulphide",
+            "b) Metal nitride, nonmetal halide, carbide",
+            "c) Nonmetal sulphide, alkali carbide, nitride",
+            "d) Metal oxide, alkali borate, alkali halide"
+        ],
+        "Answer": "Answer: d\nExplanation: In electrochemical reduction method, electrolysis of melt constituents take place resulting in a crystalline compound formation. These melt constituents are made up of metal oxide, alkali borate (or phosphate or carbonate, etc) and an alkali halide."
+    },
+    {
+        "id": 41,
+        "Question": "Which of the following compound is formed when CaTiO3, CaCl2 undergoes electrolysis, during the process of electrochemical reduction?",
+        "Options": [
+            "a) Ca4Ti7O6",
+            "b) CaTi2O4",
+            "c) CaTiO",
+            "d) CaTi9O3"
+        ],
+        "Answer": "Answer: b\nExplanation: During electrochemical reduction method, the melt constituents CaTiO3, CaCl2 when undergoes electrolysis, the resulting crystal formed is CaTi2O4 at temperature 850◦C, the product formed is a new titanium (III) compound."
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following compounds is formed when Na2MoO3, MoO3 undergoes electrolysis?",
+        "Options": [
+            "a)\tNa2Mo3",
+            "b)\tNa3Mo7",
+            "c)\tMoO2",
+            "d)\tNab2O"
+        ],
+        "Answer": "Answer: c\nExplanation: The melt constituents Na2MoO3, MoO3 when undergoes electrolysis, the resulting crystalline compound formed is MoO2, at temperature 675◦C, the crystals of MoO2 formed are very large in size."
+    },
+    {
+        "id": 43,
+        "Question": "Which one of the following options shows the property of an electrolyte that can be used in the electrolysis process?",
+        "Options": [
+            "a) Non conducting",
+            "b) Conducting",
+            "c) Solid conductor",
+            "d) Solid non conductor"
+        ],
+        "Answer": "Answer: b\nExplanation: An electrolyte which is used to achieve electrolysis, is an ion conducting polymer which contains free ions that are able to carry the current in the electrolysis process, if the electrolyte is a solid conductor like solid salts then it will not contain free ions hence it will not be able to carry current, thus electrolysis will not take place."
+    },
+    {
+        "id": 44,
+        "Question": "Which of the following statements is appropriate for the electrodes to be used in the electrolytic process?",
+        "Options": [
+            "a) Electrodes provide necessary energy to create or discharge the ions during electrolysis",
+            "b) Electrodes are the ion conducting polymer that contains free ions to carry the current",
+            "c) Electrodes are the solid conducting materials which allows to carry the current during electrolysis",
+            "d) Electrodes provide  physical interface between the electrolyte and electrical circuit that provides energy"
+        ],
+        "Answer": "Answer: d\nExplanation: One of the main components of the electrolytic process is electrodes, it provides the physical interface between the electrolyte and electrical circuit that provides the energy. Electrodes of metals, graphite, semiconductors are widely used. Choice of suitable electrodes depends on the electrolyte, electrodes and the manufacturing cost."
+    },
+    {
+        "id": 45,
+        "Question": "For the process of electrolysis which of the following statements is appropriate?",
+        "Options": [
+            "a) Oxidation occurs at the anode and reduction occurs at the cathode",
+            "b) Oxidation occurs at the cathode and reduction occurs at the anode",
+            "c) Oxidation occurs at the anode and reduction doesn’t take place",
+            "d) Reduction occur at the cathode and oxidation doesn’t take place"
+        ],
+        "Answer": "Answer: a\nExplanation: During the process of electrolysis, oxidation which means gaining oxygen atoms or loosing hydrogen or loosing electrons take place at the anode. Whereas reduction which means losing oxygen atoms or gaining hydrogen or gaining electrons take place at cathode."
+    },
+    {
+        "id": 46,
+        "Question": "What is the first law of electrolysis according to which the electrolytic processes take place?",
+        "Options": [
+            "a) Ohm’ s law",
+            "b) Henry’s law",
+            "c) Faraday’s law",
+            "d) Einstein’s equation"
+        ],
+        "Answer": "Answer: c\nExplanation: The first law of electrolysis is given by Faraday’s first law which states that the quantity of the element separated by electric current through a molten or dissolved salt is directly proportional to the quantity of the electric charge passed through the circuit. The equation for this law is given by m=eQ, where e=electrochemical equivalent and Q=charge."
+    },
+    {
+        "id": 47,
+        "Question": "Which of the following states the second law of electrolysis reaction?",
+        "Options": [
+            "a) Henry’s law",
+            "b) Einstein equation",
+            "c) Archimedes principle",
+            "d) Faraday’s law"
+        ],
+        "Answer": "Answer: d\nExplanation: Second law of electrolysis based on Michael Faraday’s second law which states that when the same amount of current is passed through different electrolytes or elements which are connected in series then the mass of the substance liberated or deposited at the electrode is directly proportional to their equivalent weight."
+    },
+    {
+        "id": 48,
+        "Question": "A process of electroplating, in which metals ions from the solutions are deposited on the cathode as a thin film in the presence of an applied external field is known as____________",
+        "Options": [
+            "a) Electroless deposition",
+            "b) Cathodic deposition",
+            "c) Anodic oxidation",
+            "d) Thermal oxidation"
+        ],
+        "Answer": "Answer: b\nExplanation: Cathodic deposition is a standard method of electroplating where two metals electrodes are dipped into an electrolyte solution and on application of an external field across the electrodes, metal ions from the solution are deposited on the cathode as a thin film."
+    },
+    {
+        "id": 49,
+        "Question": "For Cathodic deposition which of the following statements is appropriate?",
+        "Options": [
+            "a) The charge is not balanced in the process of Cathodic deposition",
+            "b) Esterification take place in the electrolyte solution",
+            "c) The charge is balanced in the process of Cathodic deposition",
+            "d) Oxidation and reduction take place in the electrolyte solution but not in the electrodes"
+        ],
+        "Answer": "Answer: c\nExplanation: In Cathodic deposition, which is a method of electroplating with the application of external field, the charges are always balanced and in order to balance the charges in the process, the anodic metal gradually dissolves in the electrolyte."
+    },
+    {
+        "id": 50,
+        "Question": "What is the factor that differentiates between Electroless deposition and Cathodic deposition?",
+        "Options": [
+            "a) Nature of electrolyte",
+            "b) Cathode",
+            "c) External field",
+            "d) Anode"
+        ],
+        "Answer": "Answer: c\nExplanation: Electroless deposition is similar to that of Cathodic deposition except that it takes place in the absence of applied external field whereas the Cathodic deposition take place in the presence of applied external field. Both the process are commonly used for the deposition of nickel films."
+    },
+    {
+        "id": 51,
+        "Question": "What should be the nature of the material of the substrates on which the deposition take place in Cathodic deposition?",
+        "Options": [
+            "a) Non metallic",
+            "b) Metallic",
+            "c) Plastic",
+            "d) Wooden"
+        ],
+        "Answer": "Answer: b\nExplanation: In both Electroless deposition (absence of external electric field) and Cathodic deposition (presence of external electric field) the disadvantage is that their use is limited mainly to the deposition of metallic films on to that substrates that are electronically conducting i.e. metals. "
+    },
+    {
+        "id": 52,
+        "Question": "Which of the following can be used for producing oxide films on their surfaces during anodic oxidation?",
+        "Options": [
+            "a) La, Ce, Pr, Nd",
+            "b) He, Ne, Ar, Kr",
+            "c) Nh, Fl, Mc, Lv",
+            "d) Al, Ta, Nb, Ti"
+        ],
+        "Answer": "Answer: d\nExplanation: Anodic oxidation is an electrolyte method for producing oxide films on the surfaces of metals such as Al, Ta, Nb, Ti and Zr. These metals form the anode which is dipped in the electrolyte and oxide ions get deposited on their surfaces. He, Ne, Ar, Kr are inert gases they have full electronic configuration hence wont undergo anodic oxidation."
+    },
+    {
+        "id": 53,
+        "Question": "The equilibrium thickness in the anodic oxidation process depends on which of the following factor?",
+        "Options": [
+            "a) Nature of electrolyte",
+            "b) Amount of electrolyte",
+            "c) Magnitude of the applied field",
+            "d) Weight of the electrode"
+        ],
+        "Answer": "Answer: c\nExplanation: During anodic oxidation, on increasing the field strength more oxide ions diffuse through the oxide layer to the metal surface and hence, the oxide layer grows thicker. An equilibrium thickness is reached after some time which depends on the magnitude of the applied field. Anodic layer may also be formed by exposure of the metal to a glow discharge."
+    },
+    {
+        "id": 54,
+        "Question": "Which of the following process take place in the presence of required temperature?",
+        "Options": [
+            "a) Anodic oxidation",
+            "b) Cathodic oxidation",
+            "c) Electroless deposition",
+            "d) Thermal deposition"
+        ],
+        "Answer": "Answer: d\nExplanation: Thermal oxidation is a process where a substance get oxidized in the presence of temperature. For example many substances oxidize in air at high temperature and in some cases the product is a n inert film which inhibits further oxidation. Oxidation increases as the temperature increases."
+    },
+    {
+        "id": 55,
+        "Question": "Chemical vapour deposition is a method which is used to obtain which of the following substance?",
+        "Options": [
+            "a) Semiconductors",
+            "b) Non conducting polymers",
+            "c) Conducting compounds",
+            "d) Crystalline semiconductor"
+        ],
+        "Answer": "Answer: d\nExplanation: Chemical vapour deposition is a method that make use of some of the principles involved in vapour phases transport reactions. It is used to obtain very pure films of crystalline semiconductors including III-V compounds."
+    },
+    {
+        "id": 56,
+        "Question": "In the chemical vapour deposition the films formed are formed by decomposition of what kind of substances?",
+        "Options": [
+            "a) Liquid molecules",
+            "b) Conducting polymers",
+            "c) Gaseous molecules",
+            "d) Solid molecules"
+        ],
+        "Answer": "Answer: c\nExplanation: Chemical vapour deposition the films are formed by deposition of gaseous molecules, the decomposition can be achieved by for example, pyrolysis (i.e. heating), photolysis (i.e. irradiation with IR or UV light) or chemical reaction."
+    },
+    {
+        "id": 57,
+        "Question": "In the process of vacuum evaporation, which of the following substrate can be used?",
+        "Options": [
+            "a) Ceramics, glass, silicon",
+            "b) Plastics",
+            "c) Amorphous solids",
+            "d) F-block elements"
+        ],
+        "Answer": "Answer: b\nExplanation: The above reaction is an example of chemical vapour deposition where equilibrium is obtained between the various species and the position of the equilibrium varies with the temperature. In the above reaction, the reaction increases to the right hand side with the decreasing temperature and hence silicon may deposit on a cold substrate."
+    },
+    {
+        "id": 58,
+        "Question": "Which of the following factor is taken care while selecting the container in the process of vacuum evaporation?",
+        "Options": [
+            "a) Chemically reactive",
+            "b) Withstand low temperature",
+            "c) Withstand high temperature",
+            "d) Conducting"
+        ],
+        "Answer": "Answer: a\nExplanation: During vacuum evaporation, the gaseous material deposits on the substrate and its surroundings as film. Various substrate materials are used, depending on the subsequent application of the film that is to be deposited. The typical substrates used are ceramics (Al2O3), glass, alkali halides, silicon, germanium, etc."
+    },
+    {
+        "id": 59,
+        "Question": "State which of the following is correct regarding the process of vacuum evaporation?",
+        "Options": [
+            "a) The surface of the substrate should be thoroughly cleaned",
+            "b) The substrate should not be used at all",
+            "c) Container used in the process should be chemically active with evaporation",
+            "d) The source material used should be made up of glass or diamond"
+        ],
+        "Answer": "Answer: c\nExplanation: A wide variety of source material for evaporation may be used including metals, alloys, semiconductors, insulators, and inorganic salts. These are placed in the container made of for example tungsten, tantalum or molybdenum, which can withstand very high temperature and chemically unreactive towards the material being evaporated."
+    },
+    {
+        "id": 60,
+        "Question": "In the process of Czochralski method which of the following relation is appropriate between the melt and the growing crystals?",
+        "Options": [
+            "a) Melt and the growing crystals are usually not related to each other",
+            "b) Melt and the growing crystals are usually rotated counterclockwise",
+            "c) Melt and the growing crystals are usually rotated clockwise",
+            "d) Melt and the growing crystals are usually kept at a constant position"
+        ],
+        "Answer": "Answer: c\nExplanation: Czochralski method is basically a method for the growth of a single crystal from a melt of the same composition. It is also widely used for the growth of the crystals of semiconducting materials, Si, Ge, GaAs, etc. It has also been used to produce laser generator materials such as Ca(NbO3)2 doped with neodymium."
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following statements is appropriate for Stockbarger method?",
+        "Options": [
+            "a) Solidification is achieved by passing the melt through a concentration gradient",
+            "b) Solidification is achieved by passing the melt through a temperature gradient",
+            "c) Liquefaction is achieved by passing the melt through a concentration gradient",
+            "d) Liquefaction is achieved by passing the melt through a temperature gradient"
+        ],
+        "Answer": "Answer: b\nExplanation: The melt and the growing crystals are usually rotated counterclockwise during pulling in the process of Czochralski, in order to maintain a constant temperature, melt uniformity, etc."
+    },
+    {
+        "id": 62,
+        "Question": "Which of the following statements describes best the Bridgman method?",
+        "Options": [
+            "a) Melt is outside the temperature furnace, solidification begins at the hotter end",
+            "b) Melt is inside the temperature furnace, solidification occurs at the cooler end",
+            "c) Melt is inside the temperature furnace, solidification occurs at the hotter end",
+            "d) Solidification is achieved by passing the melt through a temperature gradient"
+        ],
+        "Answer": "Answer: b\nExplanation: Stockbarger method is based on solidification of stoichiometric melt but in these, oriented solidification of the melt is achieved by effectively passing the melt through a temperature gradient such that crystallization occurs at the cooler end. Thus this method is achieved by arranging for a relative displacement of the melt and a temperature gradient."
+    },
+    {
+        "id": 63,
+        "Question": " In the zone melting method _____________ of the charge is melted at any one time. Fill up the correct option for the blank space from the choices given below.",
+        "Options": [
+            "a) Large part",
+            "b) Small part",
+            "c) Solid part",
+            "d) Anionic part"
+        ],
+        "Answer": "Answer: b\nExplanation: In the Bridgman method, the melt is inside a temperature gradient furnace and the furnace is gradually cooled so that the solidification begins at the cooler end. In this method, it is again advantageous to use a seed crystal and atmospheric control may be necessary."
+    },
+    {
+        "id": 64,
+        "Question": "Which one of the following principle has been used in the zone melting method?",
+        "Options": [
+            "a) Impurities concentrate in the solid than in liquid phase",
+            "b) Impurities concentrate in the liquid phase than in gaseous phase",
+            "c) Impurities concentrate in the liquid phase than in the solid phase",
+            "d) Impurities concentrate in the gaseous phase than in the solid phase"
+        ],
+        "Answer": "Answer: b\nExplanation: In zone melting method the thermal profile through the furnace is such that only a small part of the charge is melted at any one time. Initially, that part of the charge in contact with the seed crystal is melted. As the boat is pulled through the furnace, oriented solidification onto the seed occurs and at the same time, more of the charge melts."
+    },
+    {
+        "id": 65,
+        "Question": "Which one of the following statements is correct for precipitation method?",
+        "Options": [
+            "a) Growth of the crystal from a solvent of same composition to the crystals",
+            "b) Growth of the crystal from the solute of same composition to the crystal",
+            "c) Growth of the crystal from the gaseous species of different composition to the crystal",
+            "d) Growth of the crystal from a solvent of different composition to the crystals."
+        ],
+        "Answer": "Answer: c\nExplanation: Zone melting method make the use of the principle that impurities usually concentrate in the liquid rather than in the solid phase. Impurities are therefore ‘swept out’ of the crystal by the moving molten zone. The method has been used for the purification and crystal growth of the high melting metals such as tungsten."
+    },
+    {
+        "id": 66,
+        "Question": "In the precipitation method for the growth of the crystal, the solvent melts are often known as___________",
+        "Options": [
+            "a) Electrolyte",
+            "b) α-particle",
+            "c) β- particle",
+            "d) Fluxes"
+        ],
+        "Answer": "Answer: d\nExplanation: In contrast to the methods like zone melting, Stockbarger etc method in which melts solidify to get crystals that have the same composition as the melt, precipitation methods involves the growth of the crystals from a solvent of different composition to the crystals. The solvent may be one of the constituents of the desired crystal example, crystallization of salt hydrate crystals using water as the solvent."
+    },
+    {
+        "id": 67,
+        "Question": "When was the Verneuil flame fusion method first used?",
+        "Options": [
+            "a) 1207",
+            "b) 2016",
+            "c) 1503",
+            "d) 1904"
+        ],
+        "Answer": "Answer: d\nExplanation: In the precipitation method which used for the growth of crystals from the solvent of different composition to the crystals, the solvent melts are often called as fluxes since they effectively reduce the melting point of the crystals by a considerable amount. The method has recently been used to grow crystals of β- and β” alumina solid electrolytes using a borate flux."
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following method has been used to prepare the single crystals of CaO using plasma torch?",
+        "Options": [
+            "a) Stockbarger method",
+            "b) Zone melting method",
+            "c) Verneuil flame fusion method",
+            "d) Bridgman method"
+        ],
+        "Answer": "Answer: d\nExplanation: The Verneuil flame fusion method was used in 1904 for growing crystals of high melting oxides, including artificial gemstones such as ruby and sapphire. "
+    },
+    {
+        "id": 69,
+        "Question": "What is the advantage of using Czochralski, Bridgman- Stockbarger and Verneuil method?",
+        "Options": [
+            "a) Gives small crystals",
+            "b) High tech apparatus",
+            "c) Rapid growth rates",
+            "d) Uses plasma torch"
+        ],
+        "Answer": "Answer: c\nExplanation: Verneuil flame fusion method has been recently used to prepare the single crystals of CaO with a melting point equal to 2600◦C by using a plasma torch to melt the CaO powder. The starting material in the form of a fine powder is passed through an oxyhydrogen flame or some other high temperature torch or furnace after melting has taken place, the droplets fall onto the surface of the growing crystals where they solidify."
+    },
+    {
+        "id": 70,
+        "Question": "What is the disadvantage of using a solution growth method for the growth of the crystals?",
+        "Options": [
+            "a) Rapid growth rates",
+            "b) Simple apparatus",
+            "c) Slow growth rates",
+            "d) Isothermal conditions"
+        ],
+        "Answer": "Answer: c\nExplanation: The above methods are melt growth methods which are used for the growth of crystals. Advantages of using these melt growth methods are, t gives large crystals, allows rapid growth rates, and requires very simple apparatus. While the disadvantage can be in the crystal quality which can be poor with inhomogeneities and large defect concentrations."
+    },
+    {
+        "id": 71,
+        "Question": "Which of the following statements is true for hydrothermal methods?",
+        "Options": [
+            "a) It uses temperature above its cooling point",
+            "b) It uses temperature below its cooling point",
+            "c) It uses temperature above its boiling point",
+            "d) It is not at all related with the temperature"
+        ],
+        "Answer": "Answer: b\nExplanation: Hydrothermal methods utilize water under pressure and at temperatures above its normal boiling point as a means of speeding up the reactions between solids. The water performs two roles. The water-as liquid or vapour-serve as the pressure transmitting medium."
+    },
+    {
+        "id": 72,
+        "Question": "Hydrothermal methods are particularly suited for the synthesis of phases that are_________",
+        "Options": [
+            "a) Stable at lower temperature",
+            "b) Unstable at lower temperature",
+            "c) Stable at higher temperature",
+            "d) Unstable at higher temperature"
+        ],
+        "Answer": "Answer: d\nExplanation: Some or all the reactants in hydrothermal method are partially soluble in the water under pressure and this enables reactions to take place in, or with the aid of, liquid and/or vapour phases. Under these conditions, reactions may occur that, in the absence of water, would occur only at much higher temperatures."
+    },
+    {
+        "id": 73,
+        "Question": "Hydrothermal method can be a useful technique for___________",
+        "Options": [
+            "a) Growing liquid CO2",
+            "b) Growing amorphous solid",
+            "c) Growing single crystals",
+            "d) Growing Gaseous particles"
+        ],
+        "Answer": "Answer: c\nExplanation: Hydrothermal method can be a useful technique for growing single crystals by arranging for a suitable temperature gradient to be present in the reaction vessel, dissolution of the starting material may occur at the hot end reprecipitation at the cooler end."
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is correct for hydrothermal method. Hydrothermal method need to be carried out in________________",
+        "Options": [
+            "a) Open container",
+            "b) Closed container",
+            "c) In a test tube",
+            "d) In conical flask"
+        ],
+        "Answer": "Answer: b\nExplanation: Hydrothermal methods must be always carried out in a closed vessel, that is why the pressure and temperature relations of water should be kept in such a way that the volume must remain constant, it is a very important factor."
+    },
+    {
+        "id": 75,
+        "Question": "What is the critical temperature of water in ◦C?",
+        "Options": [
+            "a) 0",
+            "b) 107",
+            "c) 204",
+            "d) 374"
+        ],
+        "Answer": "Answer: d\nExplanation: The critical temperature of water is 374◦C, below this temperature, two fluid phases, liquid and vapour, can coexist. Above this temperature only one fluid phase, supercritical water, ever exists."
+    },
+    {
+        "id": 76,
+        "Question": "In hydrothermal method, the bomb connected directly to an independent pressure source is known as____________",
+        "Options": [
+            "a) Hot seal",
+            "b) Bomb",
+            "c) Flux",
+            "d) Cold seal"
+        ],
+        "Answer": "Answer: c\nExplanation: The design for hydrothermal method is a tube of steel, closed at one end. The other end has a screw cap with a gasket of soft copper to provide a seal Alternatively, the ‘bomb’ may be connected directly to an independent pressure source, such as a hydraulic ram."
+    },
+    {
+        "id": 77,
+        "Question": "What is the work of mineralizer in the hydrothermal method?",
+        "Options": [
+            "a) It increases the amount of water",
+            "b) It speeds up the reaction",
+            "c) It increases the solubility of reaction mixture",
+            "d) It helps in forming the cold seal"
+        ],
+        "Answer": "Answer: d\nExplanation: In hydrothermal method the bomb may be connected directly to an independent pressure source, such as a hydraulic ram, this is known as the ‘cold seal’ method. The reaction mixture and an appropriate amount of water are placed inside the bomb which is then sealed and placed inside an oven at the required temperature."
+    },
+    {
+        "id": 78,
+        "Question": "How does the mineralizer operate in the hydrothermal method?",
+        "Options": [
+            "a) Decreasing the concentration of the solvent",
+            "b) Increasing the concentration of the solvent",
+            "c) Increasing the solubility of the solute",
+            "d) Decreasing the solubility of the solute"
+        ],
+        "Answer": "Answer: b\nExplanation: For the growth of single crystals using hydrothermal method, it is often necessary to use mineralizer, a compound added to the aqueous solution that speeds up its crystallization. "
+    },
+    {
+        "id": 79,
+        "Question": "The normal graphite structure has coordination number 3, however on typical transformation u at applied pressure and temperature it becomes diamond with a coordination number of_______",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: c\nExplanation: Mineralizer usually works by increasing the solubility of the solute through the formation of soluble species that would not usually be present in the water."
+    },
+    {
+        "id": 80,
+        "Question": "Which one of the following is high pressure polymorphs of SiO2?",
+        "Options": [
+            "a) Wurtzite",
+            "b) Phenacite",
+            "c) Quartz",
+            "d) Stishovite"
+        ],
+        "Answer": "Answer: c\nExplanation: Phases synthesized at high pressures tend to have higher densities than phases synthesized at atmospheric pressure and this sometimes gives rise to unusually high coordination number hence at 130 kbar pressure and 3000◦C graphite undergoes transformation and becomes diamond with coordination number 4."
+    },
+    {
+        "id": 81,
+        "Question": "An X-ray powder diffraction pattern is a set of ______________",
+        "Options": [
+            "a) Circles",
+            "b) Lines",
+            "c) Parabola",
+            "d) Ellipse"
+        ],
+        "Answer": "Answer: b\nExplanation: An X-ray powder diffraction pattern is a set oflines or peaks, each of different intensity and position (d-spacing or Bragg angle, Θ) on either a strip of photographic film or a length of chart paper. "
+    },
+    {
+        "id": 82,
+        "Question": "The line positions if the X-ray powder diffraction are_______________",
+        "Options": [
+            "a) Unfixed",
+            "b) Variable",
+            "c) Parabolic",
+            "d) Fixed"
+        ],
+        "Answer": "Answer: d\nExplanation: The line positions in the X-ray powder diffraction are fixed and are characteristics of that substance. The intensities may vary from sample to sample, depending on the method of sample preparation and the instrumental conditions. "
+    },
+    {
+        "id": 83,
+        "Question": "What is the range of detecting lower limit of impurity phases in percentage?",
+        "Options": [
+            "a) 1 to 5",
+            "b) 10 to 20",
+            "c) 20 to 50",
+            "d) 50 to 70"
+        ],
+        "Answer": "Answer: a\nExplanation: The powder X-ray diffraction method can be used as a rough check on purity provided the impurities are present as a separate crystalline phase(s). The lower limit of detection of impurity phases in routine work is usually in the range of 1 to 5 percent. "
+    },
+    {
+        "id": 84,
+        "Question": "The amount of a particular crystalline phase in a mixture may be determined by which of the following method?",
+        "Options": [
+            "a) X-ray powder diffraction",
+            "b) Qualitative phase analysis",
+            "c) Quantitative phase analysis",
+            "d) X-ray powder refraction"
+        ],
+        "Answer": "Answer: c\nExplanation: The amount of a particular crystalline phase in a mixture may be determined by Quantitative X-ray diffraction. The procedure is straightforward but somewhat tedious and prone to error. "
+    },
+    {
+        "id": 85,
+        "Question": "In the quantitative analysis of a particular crystalline phase which of the following material is used as an internal standard?",
+        "Options": [
+            "a) β-Al2O3",
+            "b) α-B2O5",
+            "c) β-B2O5",
+            "d) α-Al2O3"
+        ],
+        "Answer": "Answer: d\nExplanation: In the quantitative analysis of a particular crystalline phase it is neccasary to add an internal standard which is a well crystallized phase such as α-Al203, to the sample in a closely controlled amount ( e.g. 10 percent by weight) "
+    },
+    {
+        "id": 86,
+        "Question": "The positions of the line in a powder pattern are governed by the values of which of the following____",
+        "Options": [
+            "a) parabolic cell parameters",
+            "b) circular cell parameters",
+            "c) line position cell parameters",
+            "d) unit cell parameters"
+        ],
+        "Answer": "Answer: d\nExplanation: The positions (d- spacings) of the lines in a powder pattern are governed by the values of the unit cell parameters (a, b, c, α, β, ϒ). Unit cell lattice parameters are normally determined by single crystal methods but the values obtained are often accurate to only two or three significant figures. "
+    },
+    {
+        "id": 87,
+        "Question": "If the composition of the solid solutions dependence is linear then which of the following law is obeyed?",
+        "Options": [
+            "a) Mendeleev’s law",
+            "b) Stock Barger’s law",
+            "c) Bridgeman’s law",
+            "d) Vegard’s law"
+        ],
+        "Answer": "Answer: d\nExplanation: for the solid solutions the composition dependence if linear then Vegard’s law is obeyed, deviation from this law often occur in metallic solid solutions and when they occur can usually be ascribed to a structural feature in the solid solutions. "
+    },
+    {
+        "id": 88,
+        "Question": "Which of the following statements is appropriate for the crystalline solids?",
+        "Options": [
+            "a) They give diffraction pattern of broad humps",
+            "b) They give diffraction pattern of sharp lines",
+            "c) They have circular line positions",
+            "d) They have parabolic line positions"
+        ],
+        "Answer": "Answer: b\nExplanation: Crystalline solids give diffraction patterns that have a number of sharp lines. However non-crystalline solids like-glasses, gels give diffraction patterns that have a small number of very broad humps. "
+    },
+    {
+        "id": 89,
+        "Question": "High temperature X-ray diffraction is a valuable technique for obtaining ___________",
+        "Options": [
+            "a) Functional  information on polymers",
+            "b) Structural information on polymorphs",
+            "c) Concentration of polymers",
+            "d) Solubility of polymers"
+        ],
+        "Answer": "Answer: b\nExplanation: High temperature X-ray diffraction is a valuable technique for obtaining the structural information on polymorphs and phases that exist only at high temperatures. It is particularly useful for studying high temperature structures at cannot be preserved to room temperature by quenching. "
+    },
+    {
+        "id": 90,
+        "Question": "For the single crystal X-ray diffraction studies what is the length of the diameter that a single crystal should have?",
+        "Options": [
+            "a) 5mm",
+            "b) 5m",
+            "c) 100mm",
+            "d) 0.05mm"
+        ],
+        "Answer": "Answer: d\nExplanation: For the single crystal X-ray diffraction studies, it is necessary to have crystals that are at least 0.05 mm in diameter. Otherwise, the intensities of the diffracted beams are too weak to be detected clearly. This is because the efficiency with which X-rays are diffracted is very low. "
+    },
+    {
+        "id": 91,
+        "Question": "Thermal analysis is defined as ___________",
+        "Options": [
+            "a) Measurement of concentration of materials as a function of temperature",
+            "b) Measurement of solubility of materials as a function of temperature",
+            "c) Measurement of physical properties as a function of temperature",
+            "d) Measurement of line positions of crystals as a function of temperature"
+        ],
+        "Answer": "Answer: c\nExplanation: Thermal analysis is defined as the measurement of physical and chemical properties of materials as a function of temperature. In practice, however the term thermal analysis is used to cover certain specific properties only. These are enthalpy, heat capacity, mass and coefficient thermal expansion."
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following method can be used for the measurement of change in weight of the oxysalts?",
+        "Options": [
+            "a) Thermoelectric analysis",
+            "b) Wagner analysis",
+            "c) Stockbarger analysis",
+            "d) Thermal analysis"
+        ],
+        "Answer": "Answer: d\nExplanation: Measurement of change in weight of the oxysalts and hydrates can be achieved by thermal analysis as they decompose on heating, In which we measure the physical and chemical properties of the materials. Wide range of materials can be studied."
+    },
+    {
+        "id": 93,
+        "Question": "What are the two main techniques for thermal analysis?",
+        "Options": [
+            "a) FTG AND DGG",
+            "b) MSP AND FCT",
+            "c) TGA AND DTA",
+            "d) TSA AND DGF"
+        ],
+        "Answer": "Answer: c\nExplanation: The two main thermal analysis techniques are thermogravimetric analysis known as TGA which measures the change in weight with temperature and Differential thermal analysis known as DTA which detects changes in heat content."
+    },
+    {
+        "id": 94,
+        "Question": "Dilatometry is also known as by which of the following names?",
+        "Options": [
+            "a) TGA",
+            "b) DTA",
+            "c) DSC",
+            "d) TMA"
+        ],
+        "Answer": "Answer: d\nExplanation: A fourth thermal analysis technique is Dilatometry in which the change in linear dimension of a sample as a function of temperature is recorded. Recently it has acquired a new name, thermomechanical analysis (TMA)."
+    },
+    {
+        "id": 95,
+        "Question": "Which of the following statements given below is false?",
+        "Options": [
+            "a) TGA, DTA and DSC are measured using same instrument",
+            "b) TGA and DTA can be carried out simultaneously.",
+            "c) TGA, DTA and DSC are measured using different instruments.",
+            "d) TMA is a recent name of Dilatometry."
+        ],
+        "Answer": "Answer: c\nExplanation: With modern automatic thermal analysis equipment it I possible to do TGA, DTA and DSC using the same instrument, with some models, TGA and DTA may be carried out simultaneously. However, the thermal analysis equipment is necessarily rather complicated and expensive in order that a wide variety of thermal events and properties may be studied."
+    },
+    {
+        "id": 96,
+        "Question": "In thermogravimetric analysis, the result obtained appear as a __________",
+        "Options": [
+            "a) Continuous chart",
+            "b) Continuous parabola",
+            "c) Continuous circular positions",
+            "d) Discontinuous chart"
+        ],
+        "Answer": "Answer: a\nExplanation: Thermogravimetric is a technique for measuring the change in weight of a substance as a function of temperature or time, the result usually appears a continuous chart record, a schematic, typical, single step decomposition reaction."
+    },
+    {
+        "id": 97,
+        "Question": "What is the range of the rate in ◦Cmin-1 required during the heating process in TGA?",
+        "Options": [
+            "a) 1-20",
+            "b) 25-50",
+            "c) 100-200",
+            "d) 150-1000"
+        ],
+        "Answer": "Answer: a\nExplanation: In the process of TGA thermogravimetric technique, the sample usually a few milligrams in weight, is heated at a constant rate, typically in the range of 1-20 ◦Cmin-1 and a constant weight Wi, until it begins to decompose at temperature Ti."
+    },
+    {
+        "id": 98,
+        "Question": "Under conditions of ______________ heating, decomposition usually take place in thermogravimetry. Fill up the suitable option from the choices given below.",
+        "Options": [
+            "a) First order",
+            "b) Second order",
+            "c) Third order",
+            "d) Dynamic"
+        ],
+        "Answer": "Answer: d\nExplanation: In thermogravimetric analysis (TGA), decomposition usually take place under dynamic heating conditions over a range of temperature Ti to Tf  and a second constant weight plateau is then observed above Tf, which corresponds to the weight of the residue Wf. "
+    },
+    {
+        "id": 99,
+        "Question": "The Ti and Tf temperature depends on which of the following factor?",
+        "Options": [
+            "a) Cooling rate",
+            "b) Mechanical property of the material",
+            "c) Thermal expansion coefficient",
+            "d) Atmosphere above the sample"
+        ],
+        "Answer": "Answer: d\nExplanation: Initial and final temperature Ti, Tf depends on variables such as heating rate, the nature of the solid (e.g. its particle size) and the atmosphere above the sample. The effect of the atmosphere can be dramatic."
+    },
+    {
+        "id": 100,
+        "Question": "What is the temperature required for the decomposition of CaCO3 in degree Celsius?",
+        "Options": [
+            "a) 200",
+            "b) 500",
+            "c) 900",
+            "d) 1200"
+        ],
+        "Answer": "Answer: b\nExplanation: The decomposition in the thermogravimetric analysis of CaCO3 is completed in vacuum at ~500◦C but in CO2 at one atmosphere pressure, decomposition does not even commence until above 900◦C. Ti, Tf pertain to the particular experimental conditions, therefore and do not necessarily represent equilibrium decomposition temperatures."
+    },
+    {
+        "id": 101,
+        "Question": "During DTA (Differential thermal analysis) what kind of reference material is used?",
+        "Options": [
+            "a) Chemically active",
+            "b) Physically active",
+            "c) Inert",
+            "d) Having catalytic property"
+        ],
+        "Answer": "Answer: c\nExplanation: Differential thermal analysis is a technique in which the temperature sample is compared with that of an inert material during a programmed change of temperature."
+    },
+    {
+        "id": 102,
+        "Question": "In DTA, the ___________________ of sample and reference should be______________ until any thermal event take place. Fill up the appropriate options for the two blanks given from the choices given below.",
+        "Options": [
+            "a) Concentration, different",
+            "b) Concentration, same",
+            "c) Temperature, different",
+            "d) Temperature, same"
+        ],
+        "Answer": "Answer: d\nExplanation: In the differential thermal analysis, DTA method, the temperature of the sample and reference material should always be same until any thermal event takes place such as melting, decomposition or cage in crystal structure, occurs in the sample, in which case the temperature either lags behind (if endothermic) or leads (if exothermic) the reference temperature."
+    },
+    {
+        "id": 103,
+        "Question": "What is the factor that limits the application of this differential thermal analysis method?",
+        "Options": [
+            "a) Huge apparatus",
+            "b) Insensitivity",
+            "c) Highly reactive",
+            "d) Low growth rate"
+        ],
+        "Answer": "Answer: b\nExplanation: Because of the insensitivity of the DTA differential thermal analysis method, this technique has very limited applications, its main use has been in the method of cooling curves which was used to determine the phase diagram."
+    },
+    {
+        "id": 104,
+        "Question": "In DTA method, the sample temperature was recorded on __________",
+        "Options": [
+            "a) Heating",
+            "b) Cooling",
+            "c) Gaseous",
+            "d) Liquid"
+        ],
+        "Answer": "Answer: b\nExplanation: In the differential thermal analysis the sample temperature I recorded on cooling rather than on heating and since the heat effects associated with solidification and crystallization are usually large, they could be detected by this method."
+    },
+    {
+        "id": 105,
+        "Question": "What is the reading of output when the sample and reference are at same temperature in DTA?",
+        "Options": [
+            "a) Negligible",
+            "b) Zero",
+            "c) Very high",
+            "d) Moderate"
+        ],
+        "Answer": "Answer: b\nExplanation: When the sample and the reference material are at the same temperature, the ∆net output of this pair of thermocouples is zero. When a thermal event occurs in the sample, a temperature difference, ∆T, exists between the sample and reference which is detected by the net voltage of the thermocouples."
+    },
+    {
+        "id": 106,
+        "Question": "What kind of material is used to monitor the temperature of heating in a differential thermal analysis?",
+        "Options": [
+            "a) Active electrolyte",
+            "b) Inactive electrolyte",
+            "c) An electrode",
+            "d) Thermocouple"
+        ],
+        "Answer": "Answer: d\nExplanation: In DTA method (differential thermal analysis) a third thermocouple is used to monitor the temperature of the heating block and the results are presented as ∆T against temperature."
+    },
+    {
+        "id": 107,
+        "Question": "In the normal DTA instruments, what is the size of the sample size to be used?",
+        "Options": [
+            "a) Very large",
+            "b) Moderate",
+            "c) Small",
+            "d) Very very small"
+        ],
+        "Answer": "Answer: c\nExplanation: Commercial DTA instruments are available which enable the temperature range-190 to 1600 degree Celsius to be covered. Sample sizes are usually small, a few milligrams because then there is less trouble with thermal gradients within the sample which could lead to reduced sensitivity and accuracy."
+    },
+    {
+        "id": 108,
+        "Question": "What is the main factor because of which DTA cells are designed?",
+        "Options": [
+            "a) Maximum sensitivity",
+            "b) Minimum sensitivity",
+            "c) Maximum solubility",
+            "d) Minimum solubility"
+        ],
+        "Answer": "Answer: a\nExplanation: DTA, differential thermal analysis cells are usually designed for maximum sensitivity to thermal changes but this is often at the expense of losing a calorimetric response."
+    },
+    {
+        "id": 109,
+        "Question": "What is the main factor that differentiates DTA cells and DSA cell?",
+        "Options": [
+            "a) Sensitivity",
+            "b) Thermal conductivity",
+            "c) Nature of the cell",
+            "d) Designing of the cell"
+        ],
+        "Answer": "Answer: d\nExplanation: DSC and DTA cells are very similar. A sample and an inert reference are also used in DSC but the cell is designed differently. In some DSC cells, the sample and reference are maintained at the same temperature during the heating programme and the extra heat input to the sample required in order to maintain this balance is measured. "
+    },
+    {
+        "id": 110,
+        "Question": "Which of the following option is appropriate for the TGA and DTA?",
+        "Options": [
+            "a) TGA and DTA measures only weight",
+            "b) TGA measures only weight while DTA measures other effects",
+            "c) TGA and DTA measures only temperature",
+            "d) TGA measures only temperature while DTA measures other effects"
+        ],
+        "Answer": "Answer: b\nExplanation: DTA is more versatile than TGA, TGA detects effects which involve weight changes only. DTA also detects such effects in addition, detects other effects such as polymorphic transitions, which do not involve changes in weight."
+    },
+    {
+        "id": 111,
+        "Question": "In the schematic DTA sequence having reversible and irreversible changes, starting with the hydrated material, which of the following steps occurs first on heating?",
+        "Options": [
+            "a) Esterification",
+            "b) Methylation",
+            "c) Rehydration",
+            "d) Dehydration"
+        ],
+        "Answer": "Answer: d\nExplanation:  During the DTA, differential thermal analysis sequence having reversible and irreversible changes when started with hydrated material,  dehydration is the first step that occurs on heating and appears as an endotherm On cooling, the melt crystallizes and the polymeric change also occur, exothermically on cooling but rehydration does not occur."
+    },
+    {
+        "id": 112,
+        "Question": "On studying the reversible process during DTA which of the following is observed on both heating and cooling?",
+        "Options": [
+            "a) Esterification",
+            "b) Hysteresis",
+            "c) Methylation",
+            "d) Carboxylation"
+        ],
+        "Answer": "Answer: b\nExplanation: On both heating and cooling during the studies of reversible processes in DTA, differential thermal analysis, it is common to observe hysteresis, for instance, the exotherm that appears on cooling may be displaced to occur at a lower temperature than the corresponding endotherm which appears on heating."
+    },
+    {
+        "id": 113,
+        "Question": "Which one of the following options is not true for hysteresis?",
+        "Options": [
+            "a) It depends on the nature of the material",
+            "b) It depends on the structural change involved",
+            "c) It doesn’t depend on the experimental conditions",
+            "d) It doesn’t depend on the concentration of the electrode"
+        ],
+        "Answer": "Answer: c\nExplanation: Hysteresis depends not only on the nature of the material and the structural changes involved such as difficult transitions involving, for example, the breaking of string bonds are likely to exhibit much hysteresis but also on the experimental conditions such as the rates of heating and cooling."
+    },
+    {
+        "id": 114,
+        "Question": "In the application of DTA and DSC which of the following parameters is measured for the glasses?",
+        "Options": [
+            "a) Concentration of the glass",
+            "b) Solubility of the glass",
+            "c) Cooling temperature",
+            "d) Transition temperature"
+        ],
+        "Answer": "Answer: d\nExplanation: In the application of DTA and DSC for glass the transition temperature Tg is measured. This appears not as a clear peak but rather as a broad anomaly in the baseline of the DTA curve, and it represents the temperature at which the glass transforms from a rigid solid to a supercooled, albeit very viscous, liquid."
+    },
+    {
+        "id": 115,
+        "Question": "IN refractories, transitions such as α⇄β quartz or quartz ⇄ cristobalite have which of the following effect?",
+        "Options": [
+            "a) Nasser’s effect",
+            "b) Crystal effect",
+            "c) Dislocation effect",
+            "d) Deleterious effect"
+        ],
+        "Answer": "Answer: d\nExplanation: During the, transitions such as α⇄β quartz or quartz ⇄ cristobalite, deleterious effect is observed on silica refractories because volume changes associated with each transition reduce the mechanical strength of the refractory. These transitions, which should be prevented from occurring if possible, may be monitored by DTA (differential thermal analysis)."
+    },
+    {
+        "id": 116,
+        "Question": "DTA can be used for which of the following process?",
+        "Options": [
+            "a) Line positions of the crystals",
+            "b) Mechanical properties of the crystals",
+            "c) Phase diagrams",
+            "d) Catalytic properties of enzymes"
+        ],
+        "Answer": "Answer: c\nExplanation: Differential thermal analysis is a powerful method for the determination of phase diagram, especially when used in conjunction with other techniques such as X-ray diffraction for the identification of the crystalline phases present."
+    },
+    {
+        "id": 117,
+        "Question": "For the decomposition of the anhydrous calcium oxalate, which of the following steps occur?",
+        "Options": [
+            "a) Intermediates, transition state, product",
+            "b) Intermediates, anhydrous oxalate, calcium oxysalts",
+            "c) Intermediates, aqueous hydrates, calcium hydroxides",
+            "d) Intermediates, anhydrous calcium oxalate, calcium carbonate"
+        ],
+        "Answer": "Answer: d\nExplanation: In the multistage decomposition processes, TG either alone or in conjunction with DTA may be used to separate and determine the individual steps. A known example is the decomposition of the anhydrous calcium oxalate where the decomposition occurs in three steps, intermediates, anhydrous calcium oxalate, and calcium carbonate."
+    },
+    {
+        "id": 118,
+        "Question": "A rapid TGA method is used for which of the following process?",
+        "Options": [
+            "a) Decomposition of polymers exothermally",
+            "b) Decomposition of enzymes exothermally",
+            "c) Decomposition of crystals endothermally",
+            "d) Decomposition of reactions isothermally"
+        ],
+        "Answer": "Answer: d\nExplanation: An accurate and rapid TGA method is to study the decomposition of reactions isothermally, the TGA furnace is arranged at a pre-set temperature and the sample introduced directly at this temperature. After allowing 2 to 3 minutes for the sample with time can be followed. The process may be repeated at other temperatures and the results analyzed to determine reaction mechanisms, etc."
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following parameters can be used, using the DSC and DTA cells?",
+        "Options": [
+            "a) Catalytic properties of enzyme",
+            "b) Elasticity of crystals",
+            "c) Enthalpy of substances",
+            "d) Line positions of phases"
+        ],
+        "Answer": "Answer: c\nExplanation: With DSC cells or with DTA cells that have been designed for a calorimetric response such measurements may be made rather more accurately and in addition the heat capacity of substances or phases may be measured as a function of temperature."
+    },
+    {
+        "id": 120,
+        "Question": "X-rays are ______________ of wavelength ~ 1 A˚ (10-10m).",
+        "Options": [
+            "a) Rays from visible region",
+            "b) Rays from proton",
+            "c) Electromagnetic radiation",
+            "d) Electric radiation"
+        ],
+        "Answer": "Answer: c\nExplanation: X-rats are electromagnetic radiation. They occur in that part of the electromagnetic spectrum between ϒ-rays and the ultraviolet. X-rays are produced when high energy charged particles e.g. electrons accelerated through high voltage."
+    },
+    {
+        "id": 121,
+        "Question": "When electrons loses their energy and convert it into electromagnetic radiation.",
+        "Options": [
+            "a) Black radiation",
+            "b) White radiation",
+            "c) ϒ-radiation",
+            "d) Blue radiation"
+        ],
+        "Answer": "Answer: b\nExplanation: The electrons are slowed down or stopped by the collision and some of their lost energy is converted into electromagnetic radiation, such processes give ‘white radiation’. "
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following statements for X-rays?",
+        "Options": [
+            "a) X-rays have wavelength ranging upwards from lower limiting value",
+            "b) X-rays have wavelength ranging downwards from upper limiting value",
+            "c) X-rays occur when the kinetic energy is converted into the gamma radiation",
+            "d) X-rays are produce when low energy charged particles are accelerated"
+        ],
+        "Answer": "Answer: a\nExplanation: X-rays have wavelengths ranging upwards from limiting value. This lower wavelength limit corresponds to the X-rays of highest energy and occurs when all the kinetic energy of the incident particles s converted into X-rays."
+    },
+    {
+        "id": 123,
+        "Question": "X-rays which in diffraction experiments leads to which of the following radiations?",
+        "Options": [
+            "a) Gamma radiation",
+            "b) Monochromatic gamma radiation",
+            "c) Monochromatic X-rays",
+            "d) X-rays"
+        ],
+        "Answer": "Answer: c\nExplanation: The X-rays which are used in almost all diffraction experiments are produced by a different process that leads to monochromatic X-rays. An electron in an outer orbital drops down to occupy he vacant 1s level and the energy in the transition appears as X-radiation."
+    },
+    {
+        "id": 124,
+        "Question": "For copper, the transition 2p→1s transition is known as______",
+        "Options": [
+            "a) Kα",
+            "b) Kβ",
+            "c) Kϒ",
+            "d) Kc"
+        ],
+        "Answer": "Answer: a\nExplanation: For copper, the transition 2p→1s, is called Kα, has a wavelength of 1.5418 A˚ and 3p→1s transition, Kβ, 1.3922 A˚. The Kα transition occurs much more frequently than the Kβ and it is these more intense Kα radiations which results that is used in diffraction experiments."
+    },
+    {
+        "id": 125,
+        "Question": "Which of the following statements is true for Kα transition?",
+        "Options": [
+            "a) It is singlet",
+            "b) It is doublet",
+            "c) It is triplet",
+            "d) It is four let"
+        ],
+        "Answer": "Answer: b\nExplanation: Kα is a transition from 2p→1s, and it is a doublet because the transition has slightly different energy for the two possible spin states of the 2p electron while makes the transition, relative to the spin of the vacant 1s orbital."
+    },
+    {
+        "id": 126,
+        "Question": "What are the two features of X-ray emission spectrum of an element such as copper?",
+        "Options": [
+            "a) Monochromatic peaks and wavelength",
+            "b) X-ray radiation and frequency",
+            "c) Electric field and wavelength",
+            "d) Magnetic field and monochromatic peaks"
+        ],
+        "Answer": "Answer: a\nExplanation: The X-ray emission spectrum of an element such as copper has two features. The intense, monochromatic peaks, caused by electronic transitions within the atoms, have wavelengths that are characteristic of the element i.e. copper. These monochromatic peaks are superposed on a background of ‘white radiation’."
+    },
+    {
+        "id": 127,
+        "Question": "In order to generate the monochromatic radiation, what is voltage required to accelerate the electrons?",
+        "Options": [
+            "a) >10V",
+            "b) <10V",
+            "c) >10kV",
+            "d) <10kV"
+        ],
+        "Answer": "Answer: c\nExplanation: To generate the characteristic monochromatic radiation, the voltage used to accelerate the electrons need to be sufficiently high i.e. > or = 10kV so that ionization of the copper 1s electrons may occur."
+    },
+    {
+        "id": 128,
+        "Question": "In the X-ray tube which of the following element is used as window materials?",
+        "Options": [
+            "a) Boron",
+            "b) Carbon",
+            "c) Hydrogen",
+            "d) Beryllium"
+        ],
+        "Answer": "Answer: d\nExplanation: In X-ray tube, the X-rays leave the tube through ‘windows’ made of beryllium. The absorption of X-rays on passing through materials depends on the atomic weight of the elements present in the material. Thus beryllium with an atomic number of 4 is therefore one of the most suitable window materials."
+    },
+    {
+        "id": 129,
+        "Question": "Which of the following statements is true for the Kα and Kβ radiation?",
+        "Options": [
+            "a) Iron transmit Kα and Kβ radiation",
+            "b) Zinc absorb Kα and Kβ radiation",
+            "c) Iron absorbs Kα and Kβ radiation",
+            "d) Zinc accelerate Kα and Kβ radiation"
+        ],
+        "Answer": "Answer: c\nExplanation: A lighter element, such as iron, would absorb Kα and Kβ radiation because its absorption edge is displaced to higher wavelengths. On the other hand, a heavier element, such as zinc, would transmit both Kα and Kβ radiation while still absorbing much of the higher energy white radiation."
+    },
+    {
+        "id": 130,
+        "Question": "Diffraction refers to the phenomenon that occurs when _________ encounters an obstacle or a slit.",
+        "Options": [
+            "a) Liquid particles",
+            "b) Gaseous particles",
+            "c) Electric field",
+            "d) Waves"
+        ],
+        "Answer": "Answer: d\nExplanation: Diffraction is a phenomenon that take place when waves encounters an obstacle or a slit. It is defined as the bending of the light around the corner of an obstacle."
+    },
+    {
+        "id": 131,
+        "Question": "Which of the following statement is true for the optical grating?",
+        "Options": [
+            "a) It gives 1 dimensional analogue of the 2 dimensional process",
+            "b) It gives 2 dimensional analogue of the 3 dimensional process",
+            "c) It gives 3 dimensional analogue of the 1 dimensional process",
+            "d) It gives 1 dimensional analogue of the 3 directional process"
+        ],
+        "Answer": "Answer: d\nExplanation: Optical grating is a system by which we understand the diffraction of light, so it gives a one dimensional analogue of the three dimensional process that occurs in crystals."
+    },
+    {
+        "id": 132,
+        "Question": "In optical grating, what is the range of the separation of the lines?",
+        "Options": [
+            "a) 10 A˚",
+            "b) 100 A˚",
+            "c) 10000 A˚",
+            "d) Greater than 10000 A˚"
+        ],
+        "Answer": "Answer: d\nExplanation: An optical grating may consist of a piece of glass on which have been ruled a large number of accurately parallel and closely spaced lines. The separation of the lines should be a little larger than the wavelength of light, i.e. 10000A˚."
+    },
+    {
+        "id": 133,
+        "Question": "Lines on the glass in optical grating act as________",
+        "Options": [
+            "a) Electrodes",
+            "b) Concentration factor",
+            "c) Secondary source of light",
+            "d) Primary source of light"
+        ],
+        "Answer": "Answer: c\nExplanation: A piece of glass without the lines would simply transmit the light, but in the grating the lines act as secondary point (or, rather, line) sources of light and radiate light in all directions."
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following phenomenon occur when the waves originate from each line source in the optical grating?",
+        "Options": [
+            "a) Magnetic flux",
+            "b) Reflection",
+            "c) Refraction",
+            "d) Interference"
+        ],
+        "Answer": "Answer: d\nExplanation: Interference occurs between the waves when they originate from each line source. In certain directions, adjacent beams are in phase with each other and constructive interference occurs to give a resultant diffracted beam in that direction."
+    },
+    {
+        "id": 135,
+        "Question": "Which of the following equation is used for the constructive interference in optical grating?",
+        "Options": [
+            "a) a tanα=nλ",
+            "b) a cotα=nλ",
+            "c) a sinα=nλ",
+            "d) a secα=nλ"
+        ],
+        "Answer": "Answer: c\nExplanation: This equation gives the conditions under which constructive interference occurs and relates the spacing of the grating to the light wavelength and the diffraction order, n. Hence, depending on the value of a sinα, one or more diffraction orders, corresponding to n=1,2, etc, may be observed."
+    },
+    {
+        "id": 136,
+        "Question": "What is the condition for the first order diffracted beam, in the optical grating?",
+        "Options": [
+            "a) a tanα=λ",
+            "b) a sinα=2λ",
+            "c) a sinα=λ",
+            "d) a sinα=3λ"
+        ],
+        "Answer": "Answer: c\nExplanation: The separation of the lines on the grating must be of the same order of magnitude as but larger than the wavelength of the light. The condition for the first order diffracted beam to occur is a sinα=λ. The maximum value of sinα=1, corresponding to α=90˚."
+    },
+    {
+        "id": 137,
+        "Question": "For the first order diffraction in the optical grating which of the following condition is required for the constructive interference?",
+        "Options": [
+            "a) Sinα=1",
+            "b) Sinα=2",
+            "c) Sinα<1",
+            "d) Sinα>1"
+        ],
+        "Answer": "Answer: c\nExplanation: The condition for the first order diffraction in the optical grating is that Sinα=λ. In order to observe first order diffraction, sinα<1 and therefore α>λ. If α<λ only the zero order direct beam is observable."
+    },
+    {
+        "id": 138,
+        "Question": "In the optical grating system if α>>λ, for the constructive interference which of the following phenomenon takes place?",
+        "Options": [
+            "a) Refraction of light",
+            "b) Deflection continuum",
+            "c) Diffraction continuum",
+            "d) Refraction continuum"
+        ],
+        "Answer": "Answer: c\nExplanation: In the optical grating system, if α>>λ individual diffraction orders (n=1, 2, 3, etc) are close together as to be unresolved and effectively, a diffraction continuum results. This is because for large values of a sinα and hence, λ must be very small."
+    },
+    {
+        "id": 139,
+        "Question": "The condition for the constructive of an optical grating is that ______________",
+        "Options": [
+            "a) The lines are perpendicular to each other",
+            "b) The lines are parallel each other",
+            "c) The lines intersect each other",
+            "d) The lines crosses each other"
+        ],
+        "Answer": "Answer: b\nExplanation: One of the condition that is observed in the construction of an optical grating is that the lines should be accurately parallel. If this were not so, α would vary over the grating and the diffraction spectra would be blurred or irregular and of poor quality generally."
+    },
+    {
+        "id": 140,
+        "Question": "The smallest repetitive unit of the crystal structure is known as____________",
+        "Options": [
+            "a) Atoms",
+            "b) Compound",
+            "c) Unit cell",
+            "d) Lattice"
+        ],
+        "Answer": "Answer: c\nExplanation: Crystal is built up of a regular arrangement of atoms in three dimensions, this arrangement can be represented by a repeat unit or motif called unit cell, thus unit cell is defined as the smallest repeating unit which shows the full symmetry of the crystal structure. "
+    },
+    {
+        "id": 141,
+        "Question": "Crystals in which the number of the combinations of the symmetric molecule is limited to 32 is known as _________",
+        "Options": [
+            "a) Crystallographic unit cell",
+            "b) Crystallographic point groups",
+            "c) Crystallographic crystals",
+            "d) Crystallographic atoms"
+        ],
+        "Answer": "Answer: b\nExplanation: Many molecules and crystals possess more than one element of point symmetry, but the number of combinations of the symmetric molecule is limited to 32, these are known as crystallographic point groups."
+    },
+    {
+        "id": 142,
+        "Question": "Which of the following unit cell has all the angles at 90˚ but the sides are of unequal length?",
+        "Options": [
+            "a) Monoclinic unit cell",
+            "b) Orthorhombic unit cell",
+            "c) Triclinic unit cell",
+            "d) Hex clinic unit cell"
+        ],
+        "Answer": "Answer: b\nExplanation: The orthorhombic unit cell may be regarded as something like a shoebox in which the angles are all 90˚ but the sides are of unequal length. It usually possesses several mirror planes of symmetry and several twofold axes."
+    },
+    {
+        "id": 143,
+        "Question": "The unit cell in which the top face is partially sheared relative to the bottom face and in a direction parallel to one of the box edges is known as_______",
+        "Options": [
+            "a) Orthorhombic unit cell",
+            "b) Monoclinic unit cell",
+            "c) Triclinic unit cell",
+            "d) Trigon unit cell"
+        ],
+        "Answer": "Answer: b\nExplanation: The monoclinic unit cell can be regarded as derived from orthorhombic shoebox by a shearing action in which the top face is partially sheared relative to the bottom face and in a direction parallel tone of the box edges, one of the angles departs from 90˚ and most of the symmetry is lost, apart from a mirror plane and/or a single twofold axis."
+    },
+    {
+        "id": 144,
+        "Question": "For the crystal structures how many numbers of Bravais lattice are there?",
+        "Options": [
+            "a)\t3",
+            "b)\t6",
+            "c)\t14",
+            "d)\t24"
+        ],
+        "Answer": "Answer: c\nExplanation: The combination of the crystal system and lattice type gives the Bravais lattice of a structure, there are fourteen possible Bravais lattices. They can be deduced from by taking different allowed combinations of crystal system and space lattice e.g. monoclinic, C-centered monoclinic and primitive triclinic are three of the fourteen possible Bravais lattices."
+    },
+    {
+        "id": 145,
+        "Question": "Lattice planes which are introduced with Bragg’s Law are defined from which of the following factors?",
+        "Options": [
+            "a) Shape and concentration of the crystal",
+            "b) Solubility and concentration of the crystal",
+            "c) Number of unit cell present in the crystal",
+            "d) Shape and dimensions of the unit cell of the crystal"
+        ],
+        "Answer": "Answer: d\nExplanation: Bragg’s Law is used to introduce the lattice planes which are defined purely from the shape and the dimensions of the unit cell. Lattice planes are entirely imaginary and simply provide a reference grid to which the atoms in the crystal structure may be referred."
+    },
+    {
+        "id": 146,
+        "Question": "Labelling of the lattice planes is done by using ___________",
+        "Options": [
+            "a) Bragg’s indices",
+            "b) Miller indices",
+            "c) Stockbarger indices",
+            "d) Dalton’s indices"
+        ],
+        "Answer": "Answer: b\nExplanation: The lattice planes are labelled by assigning three numbers known as Miller indices to each set. The origin of the unit cell is at O and two planes are shown which are parallel and pass obliquely through the unit cell."
+    },
+    {
+        "id": 147,
+        "Question": "In the diffraction of X-rays by the set of a plane, in some cases the resultant intensity is zero, these are caused by absent reflections, what is the number absent reflection is divided?",
+        "Options": [
+            "a) 2",
+            "b) 10",
+            "c) 50",
+            "d) 100"
+        ],
+        "Answer": "Answer: a\nExplanation: These absent reflection is divided into two groups, first those that are absent due to some quirk in the structure and second those that are absent due to the symmetry or type of lattice possessed by the structure. The latter are known as systematic absences. "
+    },
+    {
+        "id": 148,
+        "Question": "What is the value of Z (no. of the atoms) in the α-Fe structure?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: In the α-Fe structure there are corner atoms present which contributes 1/8 thus giving (8 x 1/8=1) and a boy centered atom present in the center of the body. Hence, there are 2 atoms per unit cell in this structure."
+    },
+    {
+        "id": 149,
+        "Question": "Which of the following statements is true for the diffraction patterns in the crystal lattice?",
+        "Options": [
+            "a) Diffraction patterns possess a center of symmetry",
+            "b) Diffraction patterns doesn’t have center of symmetry",
+            "c) Diffraction patterns are linear space",
+            "d) Diffraction patterns contains α-rays"
+        ],
+        "Answer": "Answer: a\nExplanation: The diffraction patterns in reciprocal space possess a center of symmetry. This grandiose statement means that miller indices positive hkl and negative hkl reflections are equivalent, subject to the condition that anomalous dispersion is not present."
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following variables govern the different X-ray techniques?",
+        "Options": [
+            "a) Radiation, sample, detector",
+            "b) Radiation, diffraction, detector",
+            "c) Heat, mass, proteins",
+            "d) Energy, sample, temperature."
+        ],
+        "Answer": "Answer: a\nExplanation: In the X-ray diffraction techniques the three variables govern it these are. Radiation-monochromatic or variable of λ. Sample-single crystal, powder or a solid piece, Detector-Radiation counter or photographic film.  "
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following rays are used in the powder method of crystals?",
+        "Options": [
+            "a)\tGamma rays",
+            "b)\tα-rays",
+            "c)\tβ-rays",
+            "d)\tMonochromatic X-rays"
+        ],
+        "Answer": "Answer: d\nExplanation: A monochromatic beam of X-rays strike a finely powdered sample that ideally has crystals randomly arranged in every possible orientation in the powder method."
+    },
+    {
+        "id": 152,
+        "Question": "In the powder method, in powder sample various _________ samples are also present in every possible orientation.",
+        "Options": [
+            "a)\tMiller indices",
+            "b)\tLattice",
+            "c)\tUnit cell",
+            "d)\tAtoms"
+        ],
+        "Answer": "Answer: b\nExplanation: Lattice planes are present in the powder sample in every possible orientation. For each set various lattice planes, therefore, at least some crystals must be oriented at the Bragg angle Θ, to the incident beam and thus diffraction occurs for these crystals and planes."
+    },
+    {
+        "id": 153,
+        "Question": "Which of the following method for detecting the diffracted beams in the powder method of crystals?",
+        "Options": [
+            "a)\tMiller method",
+            "b)\tDalton method",
+            "c)\tGuinier method",
+            "d)\tStockbarger method"
+        ],
+        "Answer": "Answer: c\nExplanation: The diffracted beams in the powder method may be detected either by surrounding the sample with a strip of photographic film that is by and Debye-Scherrer and Guinier focusing methods or by using a movable detector, such as Geiger counter, connected to a chart recorder(diffractometer). "
+    },
+    {
+        "id": 154,
+        "Question": "Which of the following shapes are formed by the diffracted radiation in the powder method?",
+        "Options": [
+            "a)\tCircular",
+            "b)\tSpherical",
+            "c)\tConical",
+            "d)\tCubical"
+        ],
+        "Answer": "Answer: c\nExplanation: For any set of lattice phases, the diffracted radiation forms the surface of a cone. The only requirement for diffraction is that the planes be at angle Θ to the incident beam, no restriction is placed on the angular orientation of the plane about the axis of the incident beam."
+    },
+    {
+        "id": 155,
+        "Question": "In the powder method of the crystals if the Bragg’s angle is Θ then what is the angle of the cone formed by the diffracted beams?",
+        "Options": [
+            "a)\tΘ",
+            "b)\t2Θ",
+            "c)\t3Θ",
+            "d)\t4Θ"
+        ],
+        "Answer": "Answer: d\nExplanation: The diffracted beams in the powder method forms a cone, if the Bragg’s angle is Θ, then the angle between diffracted and undiffracted beams is 2Θ and the angle of the cone is 4Θ. Each set of planes gives its own cone of radiation. "
+    },
+    {
+        "id": 156,
+        "Question": "During the detection of the cones by the thin strip of film which one of the following statements is appropriate for the cones and the films?",
+        "Options": [
+            "a)\tCones are parallel to the strip of the films",
+            "b)\tCones are perpendicular to the strip of the films",
+            "c)\tCones intersects the strip of the films",
+            "d)\tCones are vertically placed over the strip of the film"
+        ],
+        "Answer": "Answer: c\nExplanation: In the powder method, the cones are detected by a thin strip of film wrapped around the sample, each cone intersects the film as two short arcs which are symmetrical about the two holes in the film(these allow entry and exit of an incident and undiffracted beams)."
+    },
+    {
+        "id": 157,
+        "Question": "In the powder method during the detection of the cones, two arcs are produced by the cone, in a well-powdered method these arcs appear as a___________",
+        "Options": [
+            "a)\tCircle",
+            "b)\tCone",
+            "c)\tLine",
+            "d)\tSpotted lines"
+        ],
+        "Answer": "Answer: c\nExplanation: During the detection of the cones in the powder method the cones intersects the strip of film as two short arcs, so in a well-powdered sample, each arcs appears as a continuous line, but in coarser samples the arcs may be spotty due to the relatively small number of the crystals present."
+    },
+    {
+        "id": 158,
+        "Question": "What is the disadvantage of the Debye-Scherrer film to obtain the d-spacings?",
+        "Options": [
+            "a)\tTemperature required is too high",
+            "b)\tExposure time is long",
+            "c)\tClosely spaced arcs are circular",
+            "d)\tCones formed by the diffracted beams are two heavy in weight"
+        ],
+        "Answer": "Answer: b\nExplanation: The disadvantage of using Debye-Scherrer film method is that exposure times are long and that closely spaced arcs are not well resolved. This is because, although the incident beam enters the camera through a pinhole slit and collimator tube, the beam is somewhat divergent and the spread increases in the diffracted beams."
+    },
+    {
+        "id": 159,
+        "Question": "A convergent beam is obtained by placing which of the following material between the X-ray source and the sample?",
+        "Options": [
+            "a)\tSoil particles",
+            "b)\tSingle crystal of carbon",
+            "c)\tLinear double crystal of graphite",
+            "d)\tBent single crystal of quartz"
+        ],
+        "Answer": "Answer: d\nExplanation: Convergent beam is obtained by placing a bent single crystal of quartz or graphite between the X-ray source and the sample. The orientation of this bent crystal is adjusted so that it diffracts the incident beam and converts it from the divergent beam into a convergent one.  "
+    },
+    {
+        "id": 160,
+        "Question": "Intensities of X-ray reflections is important  because___________",
+        "Options": [
+            "a)\tThe quantitative measurements of intensity are neccasary",
+            "b)\t X-ray is detected using intensity",
+            "c)\tIntensity is required during determining the concentration",
+            "d)\tThe environmental condition is suited using intensities"
+        ],
+        "Answer": "Answer: a\nExplanation: Intensities of X-rays are important for two main reasons. First, quantitative measurements of intensity are necessary in order to determine unknown crystal structures. Second, qualitative or semi-quantitative intensity data are needed in using the power fingerprint method to characterize materials and especially in using the powder diffraction file to identify unknowns."
+    },
+    {
+        "id": 161,
+        "Question": "Atoms diffract or scatter X-rays because of__________",
+        "Options": [
+            "a)\tIncident visible light",
+            "b)\tIncident X-ray beam",
+            "c)\tIncident gamma ray",
+            "d)\tIncident electrons"
+        ],
+        "Answer": "Answer: b\nExplanation: An Atom diffract or scatter X-rays because of incident X-ray beam which can be described as an electromagnetic wave with an oscillating electric field, sets each electron of an atom into vibration. "
+    },
+    {
+        "id": 162,
+        "Question": "The electrons of an atom act as which of the following options for the sources of X-rays?",
+        "Options": [
+            "a)\tElectrode",
+            "b)\tPrimary source",
+            "c)\tSecondary source",
+            "d)\tTertiary source"
+        ],
+        "Answer": "Answer: c\nExplanation: A vibrating charge such as an electron emits radiation and this radiation in in phase or coherent with the incident X-ray beam. The electrons of an atom therefore act as the secondary point sources of X-rays."
+    },
+    {
+        "id": 163,
+        "Question": "The intensity of the radiation scattered coherently by ‘point source’ electrons has been treated theoretically and is given by which of the following equations?",
+        "Options": [
+            "a)\tEinstein equation",
+            "b)\tMaxwell equation",
+            "c)\tStockbarger equation",
+            "d)\tThomson equation"
+        ],
+        "Answer": "Answer: d\nExplanation: Thomson equation is given by:-\nIp α ½( 1+ cos22Θ)\nHere, Ip is the scattered intensity at any point P, and 2Θ is the angle between the directions of the incident beam and the diffracted beam that passes through P, from this equation it can be seen that the scattered beams are most intense when parallel or antiparallel to the incident beam and the weakest when at 90˚ to the incident beam."
+    },
+    {
+        "id": 164,
+        "Question": "Thomson equation is also known as _________",
+        "Options": [
+            "a)\tDiffraction factor",
+            "b)\tReflection factor",
+            "c)\tPolarization factor",
+            "d)\tThomson factor"
+        ],
+        "Answer": "Answer: c\nExplanation: The Thomson equation which is used to measure the intensity of the radiation scattered coherently by ‘point source’ electrons is also known as polarization factor and is one of the standard angular correction factors that must be applied during the processing of intensity data (for use in structure (determination)."
+    },
+    {
+        "id": 165,
+        "Question": "For the non-crystalline beams are scattered by the atoms _________",
+        "Options": [
+            "a)\tFrom top to bottom",
+            "b)\tIn horizontal direction",
+            "c)\tIn vertical direction",
+            "d)\tIn all direction"
+        ],
+        "Answer": "Answer: d\nExplanation: Each atom in a material acts as a secondary point source of X-rays. If the material is non-crystalline, beams are scattered by the atoms in all directions, but in crystalline materials the scattered beams interfere destructively in most possible directions."
+    },
+    {
+        "id": 166,
+        "Question": "Intensities depends on which of the following factors?",
+        "Options": [
+            "a)\tSolubility of the solid",
+            "b)\tEmission factor",
+            "c)\tRefraction factor",
+            "d)\tAbsorption factor"
+        ],
+        "Answer": "Answer: d\nExplanation: Intensities depend on several factors, one of its factor is absorption factor, absorption of X-rays by the sample and depend on the form of the sample and geometry of the instrument. Ideally, for single crystal work, crystals should be spherical so as to have the same absorption factor in all directions."
+    },
+    {
+        "id": 167,
+        "Question": "An electron density is a plot of variation of ______",
+        "Options": [
+            "a)\tElectron density",
+            "b)\tElectron solubility",
+            "c)\tElectron mass",
+            "d)\tElectron volume"
+        ],
+        "Answer": "Answer: a\nExplanation: A plot of variation of electron density throughout the unit cell is known as electron density map. During the process of the solving an unknown structure it is often useful to construct electron density maps in order to try and locate atoms."
+    },
+    {
+        "id": 168,
+        "Question": "An electron map resembles which of the following options?",
+        "Options": [
+            "a)\tElectron spectrum",
+            "b)\tGeographical contour map",
+            "c)\tDiffraction spectrum",
+            "d)\tResolution electron map"
+        ],
+        "Answer": "Answer: b\nExplanation: An electron map resembles a geographical contour map. The contours represent lines of constant electron density throughout the structure. Peaks of the electron density maxima may be distinguished clearly and these correspond to the atoms, the coordinates of the atoms in the unit cell are given by the coordinates of the peak maxima."
+    },
+    {
+        "id": 169,
+        "Question": "The mental picture of atom is sphere can be given by which of the following?",
+        "Options": [
+            "a)\tPauli exclusion principle",
+            "b)\tMaxwell equation",
+            "c)\tElectron density map",
+            "d)\tStockbarger equation"
+        ],
+        "Answer": "Answer: c\nExplanation: Electron density maps also show that our mental picture of atoms as spheres is essentially correct, at least on a time average. The electron density drops to almost zero at some point along point along the line connecting pairs of adjacent atom and this supports the model of ionic bonding in NaCl."
+    },
+    {
+        "id": 170,
+        "Question": "A powder diffractometer is an___________",
+        "Options": [
+            "a)\tElectron density instrument",
+            "b)\tPowder electron refraction instrument",
+            "c)\tX-ray spectrum detector instrument",
+            "d)\tPowder X-ray instrument."
+        ],
+        "Answer": "Answer: d\nExplanation: The most commonly used powder X-ray instrument is the powder diffractometer. It has a proportional, scintillation or Geiger counter as the detector which is connected to a chart recorder or sometimes to a means of digital output."
+    },
+    {
+        "id": 171,
+        "Question": "In the powder diffractometer, the counter is set, the counter is set to scan at a ________",
+        "Options": [
+            "a)\tVariable temperature",
+            "b)\tConstant temperature",
+            "c)\tConstant angular velocity",
+            "d)\tVariable angular velocity"
+        ],
+        "Answer": "Answer: c\nExplanation: In normal use, the counter in the powder diffractometer is set to scam over a range of 2Θ values at a constant angular velocity, it is common practice to refer to the angle 2Θ between the diffracted and undiffracted beams, rather than to the Bragg angle, Θ."
+    },
+    {
+        "id": 172,
+        "Question": "The intensities in the powder diffractometer is taken as________",
+        "Options": [
+            "a)\t very low height",
+            "b)\t peak height",
+            "c)\t constant height",
+            "d)\t variable height"
+        ],
+        "Answer": "Answer: b\nExplanation: In the powder diffractometer, the intensities are taken as peak height, unless very accurate work is being done, in which case areas may be measured, the most intense peak is given the intensity of 100 and the rest are scaled accordingly."
+    },
+    {
+        "id": 173,
+        "Question": "In the powder diffractometer, a correction factor varies with which of the following factors?",
+        "Options": [
+            "a)\tTemperature",
+            "b)\tSolubility",
+            "c)\tConcentration",
+            "d)\tAngle 2Θ"
+        ],
+        "Answer": "Answer: d\nExplanation: A correction factor in the powder diffractometer varies with 2Θ, is obtained from the discrepancy between observed and the true d-spacings of the standard and is then applied to the pattern that is being measured."
+    },
+    {
+        "id": 174,
+        "Question": "Which of the following phenomenon takes place when the arrangement of the crystal is not random?",
+        "Options": [
+            "a)\tThe temperature increases",
+            "b)\tThe temperature decreases",
+            "c)\tPreferred orientation exits",
+            "d)\tPreferred orientation enters"
+        ],
+        "Answer": "Answer: c\nExplanation: If the crystal arrangement is not random, then preferred orientation exists and can introduce errors, sometimes very large, into the measured intensities preferred orientation is a serious problem for the materials that crystallize in a characteristic, very non-spherical shape like clay minerals, etc."
+    },
+    {
+        "id": 175,
+        "Question": "Which one of the following is the big disadvantage of the Debye-Scherrer cameras?",
+        "Options": [
+            "a)\tHigh intensity diffracted beams",
+            "b)\tHigh intensity refracted beams",
+            "c)\tLow intensity refracted beams",
+            "d)\tDivergent diffracted beams"
+        ],
+        "Answer": "Answer: d\nExplanation: The big disadvantage of early Debye-Scherrer cameras is that incident and diffracted beams are inevitable, somewhat divergent and of low intensity. In diffractometer and the modern focusing cameras, a convergent X-ray beam is used."
+    },
+    {
+        "id": 176,
+        "Question": "Using the convergent X-ray in powder diffractometer which of the following factor is affected?",
+        "Options": [
+            "a)\tTemperature",
+            "b)\tReflection",
+            "c)\tResolution",
+            "d)\tConcentration"
+        ],
+        "Answer": "Answer: c\nExplanation: In diffractometer and the modern focusing cameras, a convergent X-ray beam is used, this gives a dramatic improvement in resolution and because much more intense beams may be used, exposure time ate greatly reduced."
+    },
+    {
+        "id": 177,
+        "Question": "Which one of the following is an additional feature of the focusing cameras?",
+        "Options": [
+            "a)\tX-ray",
+            "b)\tCrystal monochromator",
+            "c)\tGamma rays detector",
+            "d)\tElectron stopper"
+        ],
+        "Answer": "Answer: b\nExplanation: In the focusing cameras an additional feature is the crystal monochromator which serves two functions, to give highly monochromatic radiation and to produce an intense, convergent X-ray beam."
+    },
+    {
+        "id": 178,
+        "Question": "A crystal monochromator contains which of the following material?",
+        "Options": [
+            "a)\tX-ray beam detector",
+            "b)\tA very small crystal",
+            "c)\tCrystal electrode",
+            "d)\tLarge single crystal"
+        ],
+        "Answer": "Answer: d\nExplanation: A crystal monochromator consists of a large single crystal of for example quartz oriented such that one set of planes which diffracts strongly for quartz is at the Bragg angle to the incident beam."
+    },
+    {
+        "id": 179,
+        "Question": "For the accurate measurement of the d-spacings which of the following method is best to use?",
+        "Options": [
+            "a)\tStockbarger method",
+            "b)\tRefractometry method",
+            "c)\tDiffractometry method",
+            "d)\tDalton method"
+        ],
+        "Answer": "Answer: b\nExplanation: In order to measure the d-spacings accurately, Diffractometry is normally regarded as the best method and most of the patterns in the powder diffraction file gave been obtained by the Diffractometry. An internal standard of accurately known d-spacings must be added to the sample in order to eliminate the instrumental error."
+    },
+    {
+        "id": 180,
+        "Question": "Crystals experience anomalous powder patterns under___________",
+        "Options": [
+            "a)\tStrain",
+            "b)\tChange in temperature",
+            "c)\tChange in concentration",
+            "d)\tStress"
+        ],
+        "Answer": "Answer: d\nExplanation: Crystals exhibit anomalous powder patterns when they are under stress. Two types of stress can be applied one uniform compressive stress another non-uniform stress. Stress is force acted upon on a crystal per unit area of the crystal."
+    },
+    {
+        "id": 181,
+        "Question": "Contraction of the unit cell in the crystal occurs during which of the following phenomenon?",
+        "Options": [
+            "a)\tUniform strain is applied",
+            "b)\tUniform stress is applied",
+            "c)\tNon uniform stress is applied",
+            "d)\tNon uniform strain is applied"
+        ],
+        "Answer": "Answer: b\nExplanation: The whole powder pattern of the crystal may be shifted to lower d-spacings if the crystals are under a uniform compressive stress such that a contraction of unit cell occurs inside the crystal."
+    },
+    {
+        "id": 182,
+        "Question": "The powdered line are broadened in the crystal during which of the following phenomenon?",
+        "Options": [
+            "a)\tUniform strain is applied",
+            "b)\tUniform stress is applied",
+            "c)\tNon uniform stress is applied",
+            "d)\tNon uniform strain is applied"
+        ],
+        "Answer": "Answer: c\nExplanation: When a non uniform stress is applied to the crystal, different crystals or different parts of the same crystal may be deformed to differing degrees and the powder lines become broadened."
+    },
+    {
+        "id": 183,
+        "Question": "Stress is caused on the crystal by which of the following factor?",
+        "Options": [
+            "a)\tExternal strain applied",
+            "b)\tInternal stress",
+            "c)\tExternal pressure",
+            "d)\tExternal change in temperature"
+        ],
+        "Answer": "Answer: c\nExplanation: Stresses on the crystal is caused by the application of an external pressure for example the working hard of the metals in which residual distortions are present in the crystal after treatment."
+    },
+    {
+        "id": 184,
+        "Question": "Chemical reaction inside the crystal can cause________",
+        "Options": [
+            "a)\tChange in external temperature",
+            "b)\tChange in concentration",
+            "c)\tStress",
+            "d)\tChange in solubility"
+        ],
+        "Answer": "Answer: c\nExplanation: Stress in the crystal can be generated internally as a consequence of a chemical reaction taking place inside the crystals, for example coherent precipitation of supersaturated solid solutions, age hardening of metals and ceramics etc."
+    },
+    {
+        "id": 185,
+        "Question": "Stress is caused or generated internally by the consequence of chemical reaction taking place in the crystal, one of its example is occurrence of phase transitions during __________",
+        "Options": [
+            "a)\tChange in concentration",
+            "b)\tChange in solubility",
+            "c)\tChange in force",
+            "d)\tChange in temperature"
+        ],
+        "Answer": "Answer: d\nExplanation: Phase transition occurs I the crystals during cooling (if there is a change in the volume or shape of the crystals and they are embedded in a solid matrix, then the rigid environment of the matrix may prevent the transition from occurring to completion)."
+    },
+    {
+        "id": 186,
+        "Question": "Unit cell parameters are determined by which of the following parameters?",
+        "Options": [
+            "a)\tDouble crystal X-ray photographs",
+            "b)\tSingle crystal X-ray photographs",
+            "c)\tDouble crystal Gamma rays graphs",
+            "d)\tSingle crystal Gamma rays graphs"
+        ],
+        "Answer": "Answer: b\nExplanation: The unit cell parameters in the crystal are often determined with the aid of single crystal X-ray photographs. The symmetry or unit cell type is first obtained from an inspection of the photographs."
+    },
+    {
+        "id": 187,
+        "Question": "What are the limitations for the accuracy of the values for the unit cell parameters?",
+        "Options": [
+            "a)\tLack of sufficient temperature",
+            "b)\tInsufficient amount of the unit cells",
+            "c)\tShrinkage of film",
+            "d)\tLack of external pressure"
+        ],
+        "Answer": "Answer: c\nExplanation: There are several intrinsic limitations to the accuracy of the values thus obtained-lack of the internal standard, shrinkage of film, etc. And the accuracy of axial parameters is usually to between 0.05 and 0.2 percent."
+    },
+    {
+        "id": 188,
+        "Question": "Accurate cell parameters can be obtained from a least squares refinement of the _______________",
+        "Options": [
+            "a)\tS-spacings",
+            "b)\tVacant p shells",
+            "c)\td-spacings",
+            "d)\tvacant f shells"
+        ],
+        "Answer": "Answer: c\nExplanation: Accurate cell parameters may be obtained from a least squares refinement on the d-spacings of at least several high angle powder lines whose indexing is known for certain."
+    },
+    {
+        "id": 189,
+        "Question": "The intensities of various candidate reflections estimated qualitatively from the indexed single crystal photographs and the strongest of these almost certainly correspond to the reflection that gives___________",
+        "Options": [
+            "a)\tpowder line",
+            "b)\tcurve",
+            "c)\tstress",
+            "d)\tstrain"
+        ],
+        "Answer": "Answer: a\nExplanation: The strongest of the various candidate reflections corresponds to the reflection that gives the powder line that is because spots that are weak on single crystal photographs are not usually observed in powder photographs unless the latter are grossly overexposed."
+    },
+    {
+        "id": 190,
+        "Question": "The collision between air molecules and diffracted X-ray are the___________",
+        "Options": [
+            "a)\tSources of background scattering",
+            "b)\tSources of front reflection",
+            "c)\tSources of diffraction",
+            "d)\tSources of background irradiation"
+        ],
+        "Answer": "Answer: a\nExplanation: The quality of an X-ray powder diffraction pattern is governed to a considerable extent by the level of background radiation which is present. Collisions between air molecules and diffracted X-ray beams are the sources of background scattering. For high quality Guinier focusing films it is worth while to evacuate the box containing the sample and film."
+    },
+    {
+        "id": 191,
+        "Question": "The fluorescent radiation is absorbed by placing a filter when__________",
+        "Options": [
+            "a)\tIt is weak",
+            "b)\tIt is strong",
+            "c)\tIt is too much in quantity",
+            "d)\tIt holds more energy"
+        ],
+        "Answer": "Answer: a\nExplanation: Fluorescent occurs when the sample acts as a secondary source of X-rays. If the fluorescent radiation is weak it may be absorbed by placing a filter between the sample and detector, e.g. a strip of nickel foil placed over the film."
+    },
+    {
+        "id": 192,
+        "Question": "If the fluorescent radiation is strong then which of the following parameters to be used?",
+        "Options": [
+            "a)\tChanging the path length of the secondary beam",
+            "b)\tChanging the wavelength of the primary beam",
+            "c)\tKeeping the wavelength of the secondary beam constant",
+            "d)\tChanging the frequency of the secondary beam"
+        ],
+        "Answer": "Answer: b\nExplanation: When the fluorescent radiation is strong then the wavelength of the primary beam is changed generally by replacing an X-ray tube containing a copper target by one with an iron or molybdenum target."
+    },
+    {
+        "id": 193,
+        "Question": "Fluorescent occurs when the radiation in the primary beam knocks out___________",
+        "Options": [
+            "a)\tOuter shell electrons",
+            "b)\tInner shell electrons",
+            "c)\tOuter shell photon",
+            "d)\tInner shell photon"
+        ],
+        "Answer": "Answer: b\nExplanation: Fluorescent occurs when the radiation in the primary beam that is emitted by the copper target knocks out inner shell electrons within atoms of the sample. Electrons in the outer shells drop down to occupy empty levels in the inner shells and in so doing they emit their excess energy in the form of X-rays."
+    },
+    {
+        "id": 194,
+        "Question": "Fluorescent radiation produced by electrons depends on which of the following factors?",
+        "Options": [
+            "a)\tConcentration of the photon",
+            "b)\tSolubility of the sample",
+            "c)\tAtomic number of the atoms",
+            "d)\tFrequency of the radiation"
+        ],
+        "Answer": "Answer: c\nExplanation: The inner shell electrons are knocked out and thus fluorescent radiation is produced, in this method fluorescent radiation depends on the atomic number of the atoms in the sample relative to that of the target material."
+    },
+    {
+        "id": 195,
+        "Question": "Cu Kα radiation of wavelength 1.5418 A˚, is generated by which of the following transition?",
+        "Options": [
+            "a)\t1s→2p",
+            "b)\t3s→1s",
+            "c)\t2s→4s",
+            "d)\t2p→1s"
+        ],
+        "Answer": "Answer: d\nExplanation: 2p→1s electronic transition generates the Cu Kα radiation of wavelength 1.5418 A˚ and in order to create a vacant 1slevel in the first place, 1s→∞ ionization potential is needed and this energy difference corresponds to a wavelength for copper of1.3804 A˚."
+    },
+    {
+        "id": 196,
+        "Question": "Cu Kα radiation can ionize 1s electrons in which of the following elements?",
+        "Options": [
+            "a)\tCobalt",
+            "b)\tHelium",
+            "c)\tNickel",
+            "d)\tHydrogen"
+        ],
+        "Answer": "Answer: a\nExplanation: Cu Kα radiation can ionize 1s electrons in cobalt and iron but not in nickel, helium and hydrogen. Because the ionization potentials of 1s electrons in nickel, cobalt and iron correspond to 1.4880, 1.6081 and 1.7433 A˚ and Cu Kα X-rays can ionize electrons in atoms whose ionization energy has a value corresponding to λ > 1.5418 A˚."
+    },
+    {
+        "id": 197,
+        "Question": "Lighter atoms _________",
+        "Options": [
+            "a)\tFluoresce  strongly",
+            "b)\tFluoresce less strongly",
+            "c)\tDoesn’t Fluoresce",
+            "d)\tFluoresce very very strongly"
+        ],
+        "Answer": "Answer: b\nExplanation: Lighter atoms also fluoresce, but less strongly, since fluorescence is strongest when the incident radiation has a wavelength that is only slightly shorter than the absorption edge (=IP) of the atoms."
+    },
+    {
+        "id": 198,
+        "Question": "When the X-rays strike a sample then the X-rays of the same wavelength as the incident beam is re-emitted and this is known as____________",
+        "Options": [
+            "a)\tModified radiation",
+            "b)\tSame radiation",
+            "c)\tCoherent radiation",
+            "d)\tNon coherent radiation"
+        ],
+        "Answer": "Answer: c\nExplanation: When X-rays strike a sample two types of scattered rays are produced. In the first, the incident beam sets the electrons of the atoms into vibration, the X-rays of the same wavelength as the incident beam is re-emitted and are the characteristic diffracted radiation with which we are familiar. This is known as coherent, unmodified radiation."
+    },
+    {
+        "id": 199,
+        "Question": "Organic and organic based materials give which type of powder patterns?",
+        "Options": [
+            "a)\tVery good quality powder pattern",
+            "b)\tVery poor quality powder pattern",
+            "c)\tDoesn’t give powder pattern at all",
+            "d)\tHigh concentrated powder pattern"
+        ],
+        "Answer": "Answer: b\nExplanation: Due to the combined effects of reduced diffracted intensity and increased background intensity, organic and organic-based (e.g. polymeric) materials give poor quality powdered patterns."
+    }
+]

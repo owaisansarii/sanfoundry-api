@@ -1,0 +1,2598 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the most important factor to be considered for designing a fluidized bed reactor?",
+        "Options": [
+            "a) Diameter of reactor",
+            "b) Height of reactor",
+            "c) Size distribution of solids",
+            "d) Gas flow rate"
+        ],
+        "Answer": "Answer: c\nExplanation:  Because for other factors to workout, solids properties are initially considered."
+    },
+    {
+        "id": 2,
+        "Question": "What is the best combination of fluidized bed for fluid catalytic cracking?",
+        "Options": [
+            "a) Spouted and teeter bed",
+            "b) Teeter and one pass for solids bed",
+            "c) Batch type and spouted bed",
+            "d) Batch type and circulation bed"
+        ],
+        "Answer": "Answer: d\nExplanation: Because it requires regeneration of catalyst."
+    },
+    {
+        "id": 3,
+        "Question": "What is the maximum range of superficial gas velocity when the TDH of the bed is 0.25m to prevent eluitrition in a circular type fluidized bed reactor?",
+        "Options": [
+            "a) 0.1-5 m/sec",
+            "b) 1.5-12 m/sec",
+            "c) 12-24 m/sec",
+            "d) 5-5.5 m/sec"
+        ],
+        "Answer": "Answer: a\nExplanation: The above range fits the design criteria for fluidized bed."
+    },
+    {
+        "id": 4,
+        "Question": "What is the advantage of fluidized bed over spouted bed and teeter bed in the drying process?",
+        "Options": [
+            "a) Presence of distributor",
+            "b) Reactor sizes",
+            "c) Presence of cyclone separators",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Distributor provides better distribution of inlet gas for covering the whole bed."
+    },
+    {
+        "id": 5,
+        "Question": "There is a missing part in the fluidized bed construction shown in figure.1, state the required equipment and if any replacement for that part and possible explanation?",
+        "Options": [
+            "a) Cyclone separators and if possible filter bags",
+            "b) Diagram is not missing any part",
+            "c) Pressure gauge and if possible vacuum pump",
+            "d) Thermostat only"
+        ],
+        "Answer": "Answer: b\nExplanation: The presence of oil vapour for circulation is required only possible in circulation type."
+    },
+    {
+        "id": 6,
+        "Question": "In pneumatic transport, explain the importance of the classification of solids before its application has been started?",
+        "Options": [
+            "a) Any kind of solids range can be transported",
+            "b) Only Geldart ‘A’ and ‘B’ particles can be transported",
+            "c) Only Geldart ‘C’ and ‘D’ particles can be transported",
+            "d) Only Geldart ‘A’ and ‘D’ particles can be transported"
+        ],
+        "Answer": "Answer: a\nExplanation: Cyclone separators required for recycling the fine dust and it can be replaced with filter bags."
+    },
+    {
+        "id": 7,
+        "Question": "What is the mesh range of particles required in the fluidized bed for best efficiency?",
+        "Options": [
+            "a) 1-10 mesh",
+            "b) 5-50 mesh",
+            "c) 50-100 mesh",
+            "d) 20-200 mesh"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the ranges of the particles varies, there should be different gas flow rates."
+    },
+    {
+        "id": 8,
+        "Question": "In a fluidized bed reactor, what is the best way to achieve maximum heat and mass transfer rates?",
+        "Options": [
+            "a) Using small particles",
+            "b) Using large particles",
+            "c) Simply dumping the particle and passing gas will do the job",
+            "d) Increasing the gas flow rates"
+        ],
+        "Answer": "Answer: b\nExplanation: Sizes of solids matter, only small size particles which come under ‘A’ and ‘B’ Geldart type can be used. In fact, other types have to processed to ‘A’ and ‘B’ for pneumatic transport."
+    },
+    {
+        "id": 9,
+        "Question": "What is the maximum range of inclination, in the Fuller Huron air slide conveyor?",
+        "Options": [
+            "a) 1-3 degrees",
+            "b) 3-6 degrees",
+            "c) 6-9 degrees",
+            "d) 9-12 degrees"
+        ],
+        "Answer": "Answer: b\nExplanation: 3-6 degrees is the optimum range which is required for transportation."
+    },
+    {
+        "id": 10,
+        "Question": "From above fig, if the inlet and outlet of solids are interchanged how would it impact the process?",
+        "Options": [
+            "a) No effect on the process",
+            "b) Practically not possible",
+            "c) Will require pumps",
+            "d) Leads to entrainment of solids by increasing air flow rate"
+        ],
+        "Answer": "Answer: a\nExplanation: Fuller Air slide principle is used for transportation."
+    },
+    {
+        "id": 11,
+        "Question": "From above fig, if the solids inlet is interchanged with air inlet how would it impact the process?",
+        "Options": [
+            "a) Increases the load on the pumps",
+            "b) Difficulty for solids outlet",
+            "c) No proper mixing",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Air is used for developing the fluidized condition inside the mixer."
+    },
+    {
+        "id": 12,
+        "Question": "What is the best way for reducing load on cyclone separators in the fluidized mixer for powdery material?",
+        "Options": [
+            "a) Using multiple cyclones",
+            "b) Increasing the gas flow rate",
+            "c) Increasing the solids mass rate",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Leads to loss of solid particles which is not desirable."
+    },
+    {
+        "id": 13,
+        "Question": "What is the latest technology being used for transportation of solid particles in cement industries?",
+        "Options": [
+            "a) Pneumatic fluidized transportation",
+            "b) Conveyor belts",
+            "c) Buckets",
+            "d) Trucks"
+        ],
+        "Answer": "Answer: d\nExplanation: All the problems will be encountered if that’s the case."
+    },
+    {
+        "id": 14,
+        "Question": "Among the following processes which provides the most economic means in cement industry?",
+        "Options": [
+            "a) Fluidization process",
+            "b) Mixing process with agitator",
+            "c) Batch Reactor",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Using of multiple cyclones will reduce load on them but at the same time its costly."
+    },
+    {
+        "id": 15,
+        "Question": "What happens if the inclination is more than 3-6 degrees in the fuller Huron conveyor?",
+        "Options": [
+            "a) Difficulty in laying transportation lines",
+            "b) Faster transportation",
+            "c) Slows down the transportation",
+            "d) Has no effect"
+        ],
+        "Answer": "Answer: a\nExplanation: Because it is cheaper than other transportation means."
+    },
+    {
+        "id": 16,
+        "Question": "Why are the fluidized bed extensively used for heat exchangers, in both physical and chemical processes?",
+        "Options": [
+            "a) Ability to rapidly transport heat",
+            "b) Maintain uniform temperature",
+            "c) Utilization of entire area for heat distribution",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Because all the above mentioned are achieved."
+    },
+    {
+        "id": 17,
+        "Question": "From above fig, what is the maximum number turns of pipes inside the fluidized cooler?",
+        "Options": [
+            "a) 5-10 turns",
+            "b) 10-15 turns",
+            "c) 15-20 turns",
+            "d) Depending on the area provided"
+        ],
+        "Answer": "Answer: a\nExplanation: Since it is fluidized cooler for hot alumina particles."
+    },
+    {
+        "id": 18,
+        "Question": "From above fig, if the numbers represented as (1) and (2) are interchanged, i.e. the inlet components are reversed, will it have any effect on the process?",
+        "Options": [
+            "a) No effect",
+            "b) Slows down the productivity",
+            "c) Helps in increasing the cooling of hot alumina",
+            "d) Incomplete cooling"
+        ],
+        "Answer": "Answer: d\nExplanation: It depends on how much area has been provided irrespective of the number of turns."
+    },
+    {
+        "id": 19,
+        "Question": "In order to efficiently recover heat from exit gases from a rotary kiln for cement clinker, how should be the solids present?",
+        "Options": [
+            "a) Agglomerated and palletized",
+            "b) Made into fine dust of 200 mesh",
+            "c) Should be of 10-15 microns",
+            "d) It doesn’t matter"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the amount of flow of alumina is less."
+    },
+    {
+        "id": 20,
+        "Question": "How useful is the fluidized bed for quenching or freezing hot reacting mixtures?",
+        "Options": [
+            "a) Intermediates",
+            "b) Fast cooling",
+            "c) Crystallization",
+            "d) Slow heat transfer"
+        ],
+        "Answer": "Answer: a\nExplanation: Otherwise it will lead to clogging of distributor."
+    },
+    {
+        "id": 21,
+        "Question": "Fig.8, Counter current heat exchanger developed by Russian engineers, mention the height of the bed?",
+        "Options": [
+            "a) 8m",
+            "b) 18m",
+            "c) 25m",
+            "d) 5m"
+        ],
+        "Answer": "Answer: a\nExplanation: To obtain useful reaction intermediates."
+    },
+    {
+        "id": 22,
+        "Question": "What is the maximum pallets size required before it is to be used in fig.8?",
+        "Options": [
+            "a) 3-4mm",
+            "b) 1-2mm",
+            "c) 8-10mm",
+            "d) 5-8mm"
+        ],
+        "Answer": "Answer: a\nExplanation: Optimum height found by research."
+    },
+    {
+        "id": 23,
+        "Question": "Is it possible for fluidized heat exchangers to transfer heat for heat sensitive processes?",
+        "Options": [
+            "a) Yes, its possible",
+            "b) No, its difficult",
+            "c) Yes, its difficult",
+            "d) No, its possible"
+        ],
+        "Answer": "Answer: a\nExplanation: Found during research, it is optimum range."
+    },
+    {
+        "id": 24,
+        "Question": "What is the time required for complete coating to take place in the fluidized bed?",
+        "Options": [
+            "a) 2-3 sec",
+            "b) 5-10 sec",
+            "c) 1 sec",
+            "d) 20 sec"
+        ],
+        "Answer": "Answer: a\nExplanation: It is optimum time, if more than that coating will be irregular and less than that incomplete coating will take place."
+    },
+    {
+        "id": 25,
+        "Question": "Which variety of plastic powders can be used for metal ware coating?",
+        "Options": [
+            "a) Polyvinyl",
+            "b) Polypropylene",
+            "c) Polyvinyl Chloride",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Any plastic material can be used."
+    },
+    {
+        "id": 26,
+        "Question": "What will happen if the metal ware is kept for long time for coating of polymer in the fluidized bed?",
+        "Options": [
+            "a) Better coating",
+            "b) Irregular thickness",
+            "c) Time is independent of time",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If there is any irregular coating, thermoplastics can be remoulded."
+    },
+    {
+        "id": 27,
+        "Question": "What is the best method for application of plastic coating on the metal coating?",
+        "Options": [
+            "a) Fluidized bed",
+            "b) Spray",
+            "c) Electrostatic painting",
+            "d) Brush"
+        ],
+        "Answer": "Answer: b\nExplanation: More time it stays more irregular the coating."
+    },
+    {
+        "id": 28,
+        "Question": "What should be the temperature of the metal ware for best coating to occur?",
+        "Options": [
+            "a) Little more than the melting point of the polymer",
+            "b) Same as melting point temperature of the polymer",
+            "c) Very high temperature",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Best work possible with cheaper cost and less time required."
+    },
+    {
+        "id": 29,
+        "Question": "According to Gaynor, how is the thickness of the film varies with time?",
+        "Options": [
+            "a) Exponentially",
+            "b) Linearly",
+            "c) Independent",
+            "d) Sinusoidally"
+        ],
+        "Answer": "Answer: a\nExplanation: Little more energy for melting the plastic and still remaining hot."
+    },
+    {
+        "id": 30,
+        "Question": "If the flow rate of coolants is increased in the fluidized bed, how will it effect the film formation?",
+        "Options": [
+            "a) Time duration of film formation will decreased",
+            "b) No effect",
+            "c) Time duration for film formation increases",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on research done by Gaynor, he concluded relation is exponential."
+    },
+    {
+        "id": 31,
+        "Question": "What kind of driers are used for drying limestone, dolomite,coal, plastics?",
+        "Options": [
+            "a) Fluosolids dryers",
+            "b) Multi-stage dryers",
+            "c) Two-staged fluidized dryers",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is main reason for decreasing efficiency in single stage drier."
+    },
+    {
+        "id": 32,
+        "Question": "In two-stage dryer equipment, what is the temperature of the inlet gases on each stage from bottom?",
+        "Options": [
+            "a) 32 and 200 degrees",
+            "b) 200 and 32 degrees",
+            "c) 16 and 100 degrees",
+            "d) 100 and 16 degrees"
+        ],
+        "Answer": "Answer: b\nExplanation: It depends on the material we use, since the temperature is already mentioned it would have been tested before applying it."
+    },
+    {
+        "id": 33,
+        "Question": "What is the maximum water content of the outlet limestone in fluosolids driers fluidized by combustion gas?",
+        "Options": [
+            "a) Zero",
+            "b) 0.1%",
+            "c) 1%",
+            "d) 1.5%"
+        ],
+        "Answer": "Answer: a\nExplanation: Because it shows typical operating capabilities."
+    },
+    {
+        "id": 34,
+        "Question": "What is the maximum water content of the outlet blast furnace slag in fluosolids driers fluidized by combustion gas?",
+        "Options": [
+            "a) 0.1-0.4%",
+            "b) 0.4-0.8%",
+            "c) 0.8-1.2%",
+            "d) 1.2-1.6%"
+        ],
+        "Answer": "Answer: a\nExplanation: Because it is decided from laboratory testing."
+    },
+    {
+        "id": 35,
+        "Question": "What is the temperature of bed in fluosolids driers fluidized by combustion gas for limestone?",
+        "Options": [
+            "a) 94-107 degrees",
+            "b) 150-200 degrees",
+            "c) 60-65 degrees",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the tabular content provided by Fluosolids driers."
+    },
+    {
+        "id": 36,
+        "Question": "What is the temperature of bed in fluosolids driers fluidized by combustion gas for blast furnace slag?",
+        "Options": [
+            "a) 94-105 degrees",
+            "b) 150-200 degrees",
+            "c) 60-65 degrees",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the tabular content provided by Fluosolids driers."
+    },
+    {
+        "id": 37,
+        "Question": "What is the temperature of bed in fluosolids driers fluidized by combustion gas for coal?",
+        "Options": [
+            "a) 94-105 degrees",
+            "b) 150-200 degrees",
+            "c) 60-65 degrees",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the tabular content provided by Fluosolids driers."
+    },
+    {
+        "id": 38,
+        "Question": "What is the maximum water content of coal in fluosolids driers fluidized by combustion gas?",
+        "Options": [
+            "a) 0.1-0.2%",
+            "b) Zero",
+            "c) 1-2%",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the tabular content provided by Fluosolids driers."
+    },
+    {
+        "id": 39,
+        "Question": "When a salt solution is injected into a bed of dry particles fluidized by hot gas, the particles grow by?",
+        "Options": [
+            "a) Salt build-up",
+            "b) Sticking to each other",
+            "c) By collisions",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on experiments conducted by Methany and Vance."
+    },
+    {
+        "id": 40,
+        "Question": "How can the product size and size distribution are controlled in the bed of dry particles fluidized by hot gas?",
+        "Options": [
+            "a) By size of seed particles",
+            "b) By adjusting the liquid-to-solid feed ratio",
+            "c) The ratio of sprayed volume to volume of bed",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on experiments conducted by Methany and Vance."
+    },
+    {
+        "id": 41,
+        "Question": "According to Ciborowski, after performing experiments on naphthalene, what was the decrease in efficiency percent when the gas velocity was increased?",
+        "Options": [
+            "a) 100% to 80-90%",
+            "b) 100% to 70-60%",
+            "c) 100% to 40-50%",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Based on experiments conducted by Methany and Vance."
+    },
+    {
+        "id": 42,
+        "Question": "According to Ciborowski, after performing experiments on naphthalene, when there is decrease in efficiency of condensation?",
+        "Options": [
+            "a) Increase in gas velocity",
+            "b) Increase in driving force",
+            "c) Increase in concentration",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on data from experiments conducted by Ciborowski."
+    },
+    {
+        "id": 43,
+        "Question": "A continuous, fluid char adsorption process for separation and recovery of gaseous components was developed by?",
+        "Options": [
+            "a) Esso laboratories",
+            "b) Jyothi labs",
+            "c) Hetero drugs",
+            "d) Mylan laboratories"
+        ],
+        "Answer": "Answer: d\nExplanation: Based on data from experiments conducted by Ciborowski."
+    },
+    {
+        "id": 44,
+        "Question": "How many bubble caps were fabricated inside the  fluid char adsorption process for separation and recovery of gaseous components?",
+        "Options": [
+            "a) 20",
+            "b) 10",
+            "c) 5",
+            "d) 50"
+        ],
+        "Answer": "Answer: a\nExplanation: Esso laboratories developed the equipment."
+    },
+    {
+        "id": 45,
+        "Question": "What was the major problem faced by the process developed by Esso laboratories which prevented to use commercially?",
+        "Options": [
+            "a) Erosion during transportation and fluidization",
+            "b) Process was too costly",
+            "c) Equipment was very difficult to handle manually",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the data produced from Esso laboratories."
+    },
+    {
+        "id": 46,
+        "Question": "What is the percentage of CS2 adsorbed from Rowson recovery plant?",
+        "Options": [
+            "a) 90-95%",
+            "b) 10-15%",
+            "c) 50-75%",
+            "d) 100%"
+        ],
+        "Answer": "Answer: a\nExplanation: Such operations should be careful about breakage and erosion during transportation and fluidization."
+    },
+    {
+        "id": 47,
+        "Question": "How much was the fan HP required for five-stage fluidized absorber developed by Rowson?",
+        "Options": [
+            "a) 1000 hp",
+            "b) 500 hp",
+            "c) 250 hp",
+            "d) 100 hp"
+        ],
+        "Answer": "Answer: a\nExplanation: According to data provided by Rowson experiments."
+    },
+    {
+        "id": 48,
+        "Question": "What is the main reason for using solid catalyst gas phase reactions in fluidized bed?",
+        "Options": [
+            "a) Temperature control",
+            "b) Increase desired product to side product",
+            "c) Reduction in hotspots of catalyst",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: They are therefore useful for temperature control and other reasons."
+    },
+    {
+        "id": 49,
+        "Question": "Which kind of flow is preferred in the fluidized reactor for production of ethylene oxide?",
+        "Options": [
+            "a) Plug flow",
+            "b) Batch reactor",
+            "c) Mixed flow",
+            "d) Cross flow"
+        ],
+        "Answer": "Answer: a\nExplanation: Because this allow maximum yield of the reaction intermediate."
+    },
+    {
+        "id": 50,
+        "Question": "Why is the boiling downtherm used to surround the long narrow tubes, in the fluidized bed for production of ethylene oxide?",
+        "Options": [
+            "a) Give good temperature control",
+            "b) Help in temperature fluctuations",
+            "c) Fasten the reaction process",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Because it acts as a coolant which helps in temperature control."
+    },
+    {
+        "id": 51,
+        "Question": "What happens if we use a heater for eg. steam instead of a downtherm, in the fluidized bed for production of ethylene oxide?",
+        "Options": [
+            "a) Reactor may explode",
+            "b) Helps in better temperature control",
+            "c) Nothing will happen",
+            "d) Reaction might change"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the reaction is already highly exothermic, addition of heat will worsen the situation."
+    },
+    {
+        "id": 52,
+        "Question": "What happens if there is no narrow tubes in the fluidized bed for the production of ethylene oxide?",
+        "Options": [
+            "a) Leads to less intermediate yield",
+            "b) Leads to maximum yield of reaction intermediate",
+            "c) No effect on the reaction",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the reaction is exothermic, it need to be controlled which is only possible in plug flow with the help of downtherm."
+    },
+    {
+        "id": 53,
+        "Question": "In the HCl oxidation process, a slurry of catalyst fines in aqueous HCl is injected into the bed as?",
+        "Options": [
+            "a) Feed",
+            "b) Coolant",
+            "c) For temperature control",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Slurry is therefore used as feed, as coolant and for proper temperature control."
+    },
+    {
+        "id": 54,
+        "Question": "What will happen if the concentration of naphthaquinone builds up in the fluidized bed for phthalic anhydride production?",
+        "Options": [
+            "a) Reaction will explode",
+            "b) Helps in temperature control",
+            "c) Acts as coolant",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the reaction is highly exothermic."
+    },
+    {
+        "id": 55,
+        "Question": "Why is the liquid naphthalene fed through nozzles directly to the bottom of the reactor, in the fluidized bed for phthalic anhydride production?",
+        "Options": [
+            "a) Liquid is immediately vaporized",
+            "b) Liquid is immediately cooled",
+            "c) Liquid is immediately solidified",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: According to Graham and Way, the liquid vaporizes on injecting through nozzle."
+    },
+    {
+        "id": 56,
+        "Question": "In the reaction of naphthalene to phthalic anhydride, what is the intermediate formed?",
+        "Options": [
+            "a) Naphthaquinone",
+            "b) Nascent oxygen",
+            "c) Naphtha-quinine",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the analysis, it was found that naphthaquinone is the reaction intermediate."
+    },
+    {
+        "id": 57,
+        "Question": "What are the by-products present in the HCl oxidation process?",
+        "Options": [
+            "a) Chlorine gas, water vapour",
+            "b) Ammonia gas",
+            "c) Chloroform",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the analysis of the exit gases, it was found that chlorine gas and water vapour are also present with HCl."
+    },
+    {
+        "id": 58,
+        "Question": "Why was fluidized bed not used commercially for production of gasoline from natural gas?",
+        "Options": [
+            "a) Conversion was below par",
+            "b) Scale-up was difficult",
+            "c) Back-mixing",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Fluidized bed was not possible because of less conversion, scale up problem."
+    },
+    {
+        "id": 59,
+        "Question": "Why was conversion in the production of gasoline in fluidized bed was less?",
+        "Options": [
+            "a) Back-mixing and by-passing",
+            "b) Recycling",
+            "c) Regeneration",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Back-mixing and by-passing are undesirable for gasoline production."
+    },
+    {
+        "id": 60,
+        "Question": "What is the main reason for lower efficiencies in the commercial operations of synthetic reactions through fluidized beds?",
+        "Options": [
+            "a) Gas bypassing",
+            "b) Backing mixing",
+            "c) Bubble behaviour",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Serious gas by-passing, back mixing and irregular bubble behaviour leads in lowering the efficiencies in fluidized beds."
+    },
+    {
+        "id": 61,
+        "Question": "Why are electrodes placed in resistance-heated fluidized bed?",
+        "Options": [
+            "a) Achieve high temperatures",
+            "b) Acts as heat transfer surface",
+            "c) Helps in magnetizing the metallic particles",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: To maintain very high temperatures through passing high density current through electrically conductive material."
+    },
+    {
+        "id": 62,
+        "Question": "In the dilute phase reacting system, reacting gases carry suspended catalyst through tubes of a vertical heat exchanger with velocity of?",
+        "Options": [
+            "a) 3 to 12 m/s",
+            "b) 12 to 24 m/s",
+            "c) 1 to 3 m/s",
+            "d) 0.1 to 10 m/s"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on experiments conducted by Du pont company."
+    },
+    {
+        "id": 63,
+        "Question": "What is the mesh range that the catalytic reactor for vinyl acetate developed by Du pont uses?",
+        "Options": [
+            "a) 30 to 150 mesh",
+            "b) 150 to 200 mesh",
+            "c) 10 to 50 mesh",
+            "d) 200 to 300 mesh"
+        ],
+        "Answer": "Answer: a\nExplanation: This range of velocity provides relevant driving force for smooth circulation of powdered catalyst."
+    },
+    {
+        "id": 64,
+        "Question": "In Sohio process, after fluidized bed, instead of several separation units, why cant we use a single distillation column?",
+        "Options": [
+            "a) Difficult to separate",
+            "b) Economics",
+            "c) Space factor",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Optimum range to prevent elutrition and avoiding bubble cap blockage."
+    },
+    {
+        "id": 65,
+        "Question": "What is the role of cone shaped structure in the Du pont catalytic reactor?",
+        "Options": [
+            "a) Gas distribution",
+            "b) To occupy empty space",
+            "c) To prevent attrition",
+            "d) For better fluidization"
+        ],
+        "Answer": "Answer: a\nExplanation: They developed such fluidized bed which works on principle of circulation system for solids."
+    },
+    {
+        "id": 66,
+        "Question": "First commercial fluidized bed for gasification of powdered coal which was awarded patent in 1922, was developed by?",
+        "Options": [
+            "a) Fritz Winker",
+            "b) Colburn Jake",
+            "c) Dolph Jagger",
+            "d) Cameron John"
+        ],
+        "Answer": "Answer: a\nExplanation: Fritz winker developed it."
+    },
+    {
+        "id": 67,
+        "Question": "Based on the current technology, do you consider Winkler gas producer efficient and is still better to use?",
+        "Options": [
+            "a) Yes, it can still be used",
+            "b) Depending on the process we should decide its efficiency",
+            "c) No, because of its high consumption of oxygen",
+            "d) No, because it is big in size."
+        ],
+        "Answer": "Answer: b\nExplanation: It adds additions heat energy and further increases temperature."
+    },
+    {
+        "id": 68,
+        "Question": "Which is the best suitable equipment to be introduced in the thermofor catalytic cracking?",
+        "Options": [
+            "a) Bucket elevator",
+            "b) Gas lift",
+            "c) Bucket and Lift elevator",
+            "d) Pneumatic conveying system"
+        ],
+        "Answer": "Answer: c\nExplanation: Due to its inefficient design, it leads to high oxygen consumption and large carbon loss by entrainment."
+    },
+    {
+        "id": 69,
+        "Question": "What is the best way to prevent load on the dust collectors in the fluidized bed reactor?",
+        "Options": [
+            "a) Up flow beds",
+            "b) Down flow beds",
+            "c) Side flow beds",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: It provides smooth circulation of the reactants."
+    },
+    {
+        "id": 70,
+        "Question": "Which bed shown below, can provide with remarkable temperature uniformity for highly exothermic and temperature sensitive reactions?",
+        "Options": [
+            "a) Fluidized bed reactor",
+            "b) Spouted bed",
+            "c) Teeter bed",
+            "d) Batch reactor"
+        ],
+        "Answer": "Answer: c\nExplanation: All the elements are present in the process, no need to remove any part of it."
+    },
+    {
+        "id": 71,
+        "Question": "Mention few processes where the solids circulation principle, developed for the FCC process has been used?",
+        "Options": [
+            "a) In fluid hydro-forming for re-forming naphtha vapour",
+            "b) Fluid coking for the treatment of heavy oil",
+            "c) Sand cracking for thermal cracking",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Prevent the dust to reach the dust collectors by flowing them downwards."
+    },
+    {
+        "id": 72,
+        "Question": "In drying processes, how important is the inclusion of fluidized bed?",
+        "Options": [
+            "a) Most efficient drying",
+            "b) Somewhat better than spouted bed and less than teeter bed",
+            "c) Drying is best all the beds",
+            "d) Least efficient drying"
+        ],
+        "Answer": "Answer: a\nExplanation: In fluidized bed, the air passing through the distributor, distributes the air throughout the reactor which indeed helps in uniform distribution of temperature."
+    },
+    {
+        "id": 73,
+        "Question": "In fluid catalytic cracking(FCC) process, how does the heavy hydrocarbon crack into lower molecular compounds?",
+        "Options": [
+            "a) On contact with catalyst",
+            "b) By heating at high temperature",
+            "c) By pyrolysis process",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Heavy hydrocarbons crack when they come in contact with catalyst."
+    },
+    {
+        "id": 74,
+        "Question": "After the process, the catalyst gets deactivated, how it can ge regenerated?",
+        "Options": [
+            "a) Burning off the carbon in air",
+            "b) Replacing the catalyst",
+            "c) Using brine solution",
+            "d) Using Sulphuric acid"
+        ],
+        "Answer": "Answer: a\nExplanation: Since cracking utilizes more energy for cracking heavy hydrocarbons."
+    },
+    {
+        "id": 75,
+        "Question": "What are the two sections of the fluid catalytic cracking process?",
+        "Options": [
+            "a) Reactor and Regenerator",
+            "b) Plug flow reactor and tubular reactor",
+            "c) Batch reactor and tubular reactor",
+            "d) Batch reactor and heat exchanger"
+        ],
+        "Answer": "Answer: a\nExplanation: Carbon which gets adsorbed on the catalyst has to be burnt off."
+    },
+    {
+        "id": 76,
+        "Question": "How is the circulation regulated between the reactor and regenerator in FCC?",
+        "Options": [
+            "a) Plug valves",
+            "b) Slide valves",
+            "c) Gate valves",
+            "d) Piston valves"
+        ],
+        "Answer": "Answer: a\nExplanation: Reactor is used for cracking process and regenerator for regeneration of catalyst."
+    },
+    {
+        "id": 77,
+        "Question": "How are the no. of holes decided on the distributor, in the fluid catalytic cracking unit?",
+        "Options": [
+            "a) Pressure drop",
+            "b) Height of bed",
+            "c) Superficial velocity of gas",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Undergoes less erosion than other valves."
+    },
+    {
+        "id": 78,
+        "Question": "How can we prevent the flat distributor to buckle off under normal stresses, in FCC?",
+        "Options": [
+            "a) Concave plates",
+            "b) Convex plates",
+            "c) Both concave and convex plates",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Pressure drop should be about 35 to 70 cm water, depending on that no. of holes are decided."
+    },
+    {
+        "id": 79,
+        "Question": "What are problems encountered in the fluid catalytic cracking unit?",
+        "Options": [
+            "a) Violent bubbling action",
+            "b) Gas by-passing",
+            "c) More load on gas cleaning equipments",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Using both plates will withstand more stresses than individual."
+    },
+    {
+        "id": 80,
+        "Question": "How can we study and control the size distribution factors which are responsible for improved circulations in FCC?",
+        "Options": [
+            "a) Attrition kinetics and cyclone effectiveness",
+            "b) Flow patterns of bubbles",
+            "c) Kinetics of catalyst in the regenerator",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: FCC units facing all these problems because of poor flow pattern which leads to above consequences."
+    },
+    {
+        "id": 81,
+        "Question": "How did Shell oil company managed to reduce serious gas bypassing in FCC unit?",
+        "Options": [
+            "a) Using plug flow and fluidized bed",
+            "b) Reactor and Regenerator",
+            "c) Plug flow reactor and tubular reactor",
+            "d) Batch reactor and fluidized bed"
+        ],
+        "Answer": "Answer: a\nExplanation: Knowledge on attrition kinetics and cyclone effectiveness helps to manipulate these factors to proper advantage."
+    },
+    {
+        "id": 82,
+        "Question": "What do you mean by catalytic reforming?",
+        "Options": [
+            "a) Combining of higher hydrocarbon",
+            "b) Break down of higher hydrocarbon",
+            "c) Chemical reaction",
+            "d) Increases rate of reaction"
+        ],
+        "Answer": "Answer: a\nExplanation: In reforming operation a light hydrocarbon feed isomerizes to produce higher hydrocarbon."
+    },
+    {
+        "id": 83,
+        "Question": "In SOD hydro-former, what are the temperatures in reactor and regenerator?",
+        "Options": [
+            "a) 483 and 594 degrees",
+            "b) 594 and 483 degrees",
+            "c) 400 and 500 degrees",
+            "d) 500 and 400 degrees"
+        ],
+        "Answer": "Answer: a\nExplanation: Since cracking of naphtha requires high temperature and much higher temperature for catalyst regeneration."
+    },
+    {
+        "id": 84,
+        "Question": "What is the typical octane number of feed naphtha in the SOD hydro-former?",
+        "Options": [
+            "a) 30 to 50",
+            "b) 5 to 10",
+            "c) 50 to 70",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the experimental data, the feed octane has been decided."
+    },
+    {
+        "id": 85,
+        "Question": "What is the yield percentage of the naphtha feed in SOD hydro-former?",
+        "Options": [
+            "a) 70 to 90%",
+            "b) 5 to 10%",
+            "c) 20 to 40%",
+            "d) 50 to 60%"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the experimental data, the percentage of yield has been found."
+    },
+    {
+        "id": 86,
+        "Question": "What is the octane number of gasoline after the process in SOD hydro-former?",
+        "Options": [
+            "a) 75 to 100",
+            "b) 20 to 40",
+            "c) 50 to 70",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the experimental data, range of octane number has been found."
+    },
+    {
+        "id": 87,
+        "Question": "What is the optimum range of operating pressure inside the Hydro-former?",
+        "Options": [
+            "a) 14-15 atm",
+            "b) 1-5 atm",
+            "c) 5-10 atm",
+            "d) 10-12 atm"
+        ],
+        "Answer": "Answer: a\nExplanation: Esso named it Hydro-former since there is a recycle of rich hydrogen gas."
+    },
+    {
+        "id": 88,
+        "Question": "In which system high pressure is used, Fluidized Catalytic Cracking(FCC) or Fluidized Catalytic Reforming(FCR) or Fluidized Combustion Chamber(FCCh)?",
+        "Options": [
+            "a) FCC",
+            "b) FCR",
+            "c) FCCh",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: High pressure is being used for isomerization to take place."
+    },
+    {
+        "id": 89,
+        "Question": "Why is it necessary to place cooling coils in the regenerator of Hydro-former?",
+        "Options": [
+            "a) High carbon burning",
+            "b) To maintain temperature in regenerator",
+            "c) Highly Exothermic reactions",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the isomerization process requires high pressure, hence in FCR higher pressure is used."
+    },
+    {
+        "id": 90,
+        "Question": "What is the percentage of coke obtained from the fluid coking unit?",
+        "Options": [
+            "a) 53-60%",
+            "b) 67-79%",
+            "c) 88-93%",
+            "d) 93-100%"
+        ],
+        "Answer": "Answer: c\nExplanation: It is implied to collect the dust impurities as slurry."
+    },
+    {
+        "id": 91,
+        "Question": "What is the side product formed along with coke products?",
+        "Options": [
+            "a) Gas oil",
+            "b) Water",
+            "c) Carbon dioxide",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Based on the experimental data it was found that the coking unit can get upto 93% of coke product."
+    },
+    {
+        "id": 92,
+        "Question": "What is the particle size of the coke formed in the product?",
+        "Options": [
+            "a) 20 mesh",
+            "b) 50 mesh",
+            "c) 100 mesh",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The equipment was developed to produce coke as well as gas oil."
+    },
+    {
+        "id": 93,
+        "Question": "Why is the fractionator present on the top of the reactor?",
+        "Options": [
+            "a) Separate gas oil",
+            "b) Separate dust particles",
+            "c) Separate oil particles",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All the meshes come in the range of the product particle sizes."
+    },
+    {
+        "id": 94,
+        "Question": "What if we don’t have a slurry recycler on top of the reactor in coking unit?",
+        "Options": [
+            "a) Hard to separate gas oil",
+            "b) More easy to separate gas oil",
+            "c) Helps in the condensing gas oil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The un-condensed gas oil is separated from other impurities and sent to other condenser."
+    },
+    {
+        "id": 95,
+        "Question": "What is the temperature range possibly applied in the coking unit?",
+        "Options": [
+            "a) 480-570 degrees",
+            "b) 570-680 degrees",
+            "c) 680-740 degrees",
+            "d) 740-890 degrees"
+        ],
+        "Answer": "Answer: a\nExplanation: Impurities present will make gas oil to difficult to separate."
+    },
+    {
+        "id": 96,
+        "Question": "What should be introduced in the reactor to maintain satisfactory size distribution of coke?",
+        "Options": [
+            "a) Coke particles",
+            "b) Steam",
+            "c) Gas oil",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is the optimum range for the coking to take place and to move it to higher temperature."
+    },
+    {
+        "id": 97,
+        "Question": "Why do we need a heater along with the reactor in coking unit?",
+        "Options": [
+            "a) Regenerator",
+            "b) Recycle",
+            "c) Reuse",
+            "d) Reheat"
+        ],
+        "Answer": "Answer: a\nExplanation: Coke fines are introduced to help in propagation of crystal growth."
+    },
+    {
+        "id": 98,
+        "Question": "What temperature should be maintained in the heater before the coke product comes out?",
+        "Options": [
+            "a) 480-570 degrees",
+            "b) 590-650 degrees",
+            "c) 680-740 degrees",
+            "d) 740-890 degrees"
+        ],
+        "Answer": "Answer: d\nExplanation: We are reheating coke at higher temperature for removing moisture."
+    },
+    {
+        "id": 99,
+        "Question": "What kind of heat reaction is cracking reaction?",
+        "Options": [
+            "a) Exothermic",
+            "b) Endothermic",
+            "c) Constant",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: Since naphtha is long chain, is requires energy to break the bond into smaller groups. "
+    },
+    {
+        "id": 100,
+        "Question": "At what rate the coarse sand is circulated along with the feedstock?",
+        "Options": [
+            "a) 5 times",
+            "b) 10 times",
+            "c) 15 times",
+            "d) 20 times"
+        ],
+        "Answer": "Answer:  d\nExplanation: In order to maintain the temperature and not let the sand particles break down, high flow rate is maintained. "
+    },
+    {
+        "id": 101,
+        "Question": "What is installed for for maintaining good contact across the fluidized bed?",
+        "Options": [
+            "a) Baffles",
+            "b) Cyclone separators",
+            "c) Electrostatic precipitators",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It acts as obstruction and creates turbulence inside the bed. "
+    },
+    {
+        "id": 102,
+        "Question": "How are the formation of large bubbles can be eliminated?",
+        "Options": [
+            "a) Baffles",
+            "b) Cyclone separators",
+            "c) Electrostatic precipitators",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: They breaks down the bubbles into smaller parts. "
+    },
+    {
+        "id": 103,
+        "Question": "Apart from steam, what can be used to heat the crude oil?",
+        "Options": [
+            "a) Cracked oil",
+            "b) Oxygen",
+            "c) Nitrogen",
+            "d) Excess of crude oil"
+        ],
+        "Answer": "Answer: a\nExplanation: Cracked oil is already at high temperature which helps in increasing the temperature of feed crude oil. "
+    },
+    {
+        "id": 104,
+        "Question": "How is carbon-free sand separated from the lift gas?",
+        "Options": [
+            "a) Gravity",
+            "b) Pumping air",
+            "c) Flooding water",
+            "d) ALl of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since they are heavier than lift gas, they settle down at the bottom. "
+    },
+    {
+        "id": 105,
+        "Question": "What was the modification made by BASF for thermal cracking of crude oil?",
+        "Options": [
+            "a) Dual usage",
+            "b) Generates heat",
+            "c) Cracks crude oil",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: BASF developed a single fluidized bed with dual purpose of heating and cracking crude oil. "
+    },
+    {
+        "id": 106,
+        "Question": " What is the alternate for sand as a heat carrier?",
+        "Options": [
+            "a) Silica alumina",
+            "b) Coal",
+            "c) Ash",
+            "d) Saw dust"
+        ],
+        "Answer": "Answer: a\nExplanation: Silica alumina have high specific heat and high thermal conductivity. "
+    },
+    {
+        "id": 107,
+        "Question": "Considering the usage of two separate sections for heat generation and crude cracking provides advantage on which process?",
+        "Options": [
+            "a) Air can be used instead of oxygen",
+            "b) More oxygen can be utilized",
+            "c) No need of any air or oxygen supply",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Because there is no need for direct contact of oxygen as required for crude cracking, air can be used directly for heating purpose. "
+    },
+    {
+        "id": 108,
+        "Question": "How many generators are required for generating 40,000 tons of ethylene/year?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: They used 2 generators for producing 40,000 tons of ethylene/year. "
+    },
+    {
+        "id": 109,
+        "Question": "What kind of designs were proposed for extracting oil from rocks?",
+        "Options": [
+            "a) In situ extraction",
+            "b) Moving bed processes",
+            "c) Fluidized bed",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: These rocks which provide them with oil."
+    },
+    {
+        "id": 110,
+        "Question": "What is the main reason for suggesting fluidized bed for oil extraction?",
+        "Options": [
+            "a) Low oil content",
+            "b) High oil content",
+            "c) Presence of impurities",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: They are suggested in order to provide oil economically."
+    },
+    {
+        "id": 111,
+        "Question": "At what temperature is the retort maintained in the fluidized bed for oil recovery?",
+        "Options": [
+            "a) 370-530 C",
+            "b) 120-250 C",
+            "c) 700-900 C",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since is oil content is low, fluidization is the cheapest method for extracting the most oil."
+    },
+    {
+        "id": 112,
+        "Question": "How is oil shale recovered from the fluidized plant?",
+        "Options": [
+            "a) Cooling the steam",
+            "b) Heating the oil",
+            "c) Filtration of steam",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is optimum temperature for evaporation of oil."
+    },
+    {
+        "id": 113,
+        "Question": "What is the important factor in the overall economics of recovery of shale?",
+        "Options": [
+            "a) Efficient heat recovery",
+            "b) Efficient oil recovery",
+            "c) Efficient coal recovery",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: On condensation, the shale gets separated from the steam and then collected at the bottom."
+    },
+    {
+        "id": 114,
+        "Question": "How much % does the inorganic material constitute in the solid feed?",
+        "Options": [
+            "a) 22",
+            "b) 44",
+            "c) 66",
+            "d) 88"
+        ],
+        "Answer": "Answer: d\nExplanation: They are important for best overall economics."
+    },
+    {
+        "id": 115,
+        "Question": "How many beds does the recovery of oil from oil shale consists of?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: d\nExplanation: To get efficient heat recovery."
+    },
+    {
+        "id": 116,
+        "Question": "A four-stage pilot plant was developed having _______ capacity of feed in order to get high yields of oil?",
+        "Options": [
+            "a) 45 kg/hr",
+            "b) 65 kg/hr",
+            "c) 20 kg/hr",
+            "d) 50 kg/hr"
+        ],
+        "Answer": "Answer: a\nExplanation: In order to get high yield of oil."
+    },
+    {
+        "id": 117,
+        "Question": "What is the mesh size of coal used in winker gas generator?",
+        "Options": [
+            "a) <8",
+            "b) >8",
+            "c) <16",
+            "d) >16"
+        ],
+        "Answer": "Answer: a\nExplanation: It was first developed as an idea which was later fabricated for industrial purpose."
+    },
+    {
+        "id": 118,
+        "Question": "What is the gas used for fluidizing the coal feed?",
+        "Options": [
+            "a) Steam",
+            "b) Air",
+            "c) Oxygen",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since it provides better fluidization than the other ranges."
+    },
+    {
+        "id": 119,
+        "Question": "After having a hot environment in the chamber, what is released?",
+        "Options": [
+            "a) Carbon dioxide",
+            "b) Volatile matter",
+            "c) Oxygen",
+            "d) Water vapour"
+        ],
+        "Answer": "Answer: d\nExplanation: The mixture of Steam-air-oxygen is utilized for generating the required conditions."
+    },
+    {
+        "id": 120,
+        "Question": "Where is the volatile matter used as raw gas?",
+        "Options": [
+            "a) Chemical synthesis",
+            "b) Cracking",
+            "c) Pyrolysis",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Materials with low boiling point get evaporated in the furnace."
+    },
+    {
+        "id": 121,
+        "Question": "Why does winker gas generator does not produce enough amount of synthetic gas?",
+        "Options": [
+            "a) Temperature is kept below 1000 Celsius",
+            "b) Temperature is kept above 1000 Celsius",
+            "c) Pressure is kept at 1 atm",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Used to produce ammonia and methyl alcohol."
+    },
+    {
+        "id": 122,
+        "Question": "When temperature is kept below 1000 Celsius, what happens in the process?",
+        "Options": [
+            "a) Leads to insufficient cracking of methane",
+            "b) Leads to sufficient cracking of methane",
+            "c) Leads to sufficient cracking of ethane",
+            "d) Leads to insufficient cracking of ethane"
+        ],
+        "Answer": "Answer: a\nExplanation: To prevent sintering of ash."
+    },
+    {
+        "id": 123,
+        "Question": "What is done in order to prevent insufficient cracking of methane?",
+        "Options": [
+            "a) Secondary oxygen",
+            "b) Secondary nitrogen",
+            "c) Secondary carbon dioxide",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Oxygen is not sufficient for cracking hence reducing 5 to 7 vol%."
+    },
+    {
+        "id": 124,
+        "Question": "What happens when we inject secondary oxygen for combustion?",
+        "Options": [
+            "a) Raises temperature above 1000 Celsius",
+            "b) Maintains temperature at 1000 Celsius",
+            "c) Reduces further below 1000 Celsius",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Secondary oxygen is injected just above the bed, causing combustion."
+    },
+    {
+        "id": 125,
+        "Question": "What is another problem apart from methane cracking in winker gas generator?",
+        "Options": [
+            "a) Carbon loss",
+            "b) Corrosion",
+            "c) Insufficient air supply",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Increasing the temperature will help in cracking methane."
+    },
+    {
+        "id": 126,
+        "Question": "What is the low-temperature range maintained to activate charcoal?",
+        "Options": [
+            "a) 100-200 Celsius",
+            "b) 400-500 Celsius",
+            "c) 800-900 Celsius",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: It is the optimum temperature required for activating charcoal."
+    },
+    {
+        "id": 127,
+        "Question": "In order to activate charcoal, what are the gases used?",
+        "Options": [
+            "a) Steam and carbon dioxide",
+            "b) Steam and oxygen",
+            "c) Oxygen and carbon dioxide",
+            "d) Steam and water vapour"
+        ],
+        "Answer": "Answer: a\nExplanation: Steam and carbon dioxide help in maintaining the temperature and activating charcoal."
+    },
+    {
+        "id": 128,
+        "Question": "In order to help recover heat for the endothermic gasification reaction by secondary combustion of CO and hydrogen, the fluidized bed must have?",
+        "Options": [
+            "a) Multiple stages",
+            "b) Single stage",
+            "c) Two fluidized beds in series",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since it gives more residence time distribution for the solids."
+    },
+    {
+        "id": 129,
+        "Question": "How much percentage the density of solids drop during gasification?",
+        "Options": [
+            "a) 1 to 5%",
+            "b) 5 to 10%",
+            "c) 15 to 20%",
+            "d) 25 to 30%"
+        ],
+        "Answer": "Answer: a\nExplanation: Since it provides the sufficient time for recovery of heat."
+    },
+    {
+        "id": 130,
+        "Question": "In place of two-stage fluidized bed, is there possibility of increasing its stages?",
+        "Options": [
+            "a) Yes",
+            "b) No",
+            "c) Depending on economy",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Gasification reduces their density about 15 to 20% without changing their size."
+    },
+    {
+        "id": 131,
+        "Question": "What is injected in the combustion chamber at the bottom of fluidized bed?",
+        "Options": [
+            "a) Steam",
+            "b) Air",
+            "c) Recycled steam",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: In order to maintain the economic budget and space provided, one can decide the number of stages to incorporated."
+    },
+    {
+        "id": 132,
+        "Question": "What are raw materials used for charcoal during its gasification?",
+        "Options": [
+            "a) Wood",
+            "b) Peanut shells",
+            "c) Pulverized coal",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Steam and air are utilized for combustion to take place and help in activating charcoal."
+    },
+    {
+        "id": 133,
+        "Question": "Which gas is used for fluidizing the material on the distributor?",
+        "Options": [
+            "a) Steam",
+            "b) Air",
+            "c) Carbon dioxide",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All are the sources of charcoal, hence they are utilized for gasification process."
+    },
+    {
+        "id": 134,
+        "Question": "Calcination of limestone and dolomite takes place at which temperature(degree Celsius)?",
+        "Options": [
+            "a) 100",
+            "b) 500",
+            "c) 1000",
+            "d) 2000"
+        ],
+        "Answer": "Answer: c\nExplanation: Calcination generally takes place at high temperatures in order to break the bonds."
+    },
+    {
+        "id": 135,
+        "Question": "Calcination of limestone is what kind of reaction?",
+        "Options": [
+            "a) Endothermic",
+            "b) Exothermic",
+            "c) Reversible",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since for breaking binds, lot of energy is utilized and hance they use more heat energy."
+    },
+    {
+        "id": 136,
+        "Question": "In order to recover most of the heat produced, which kind of staging is used in fluidized bed?",
+        "Options": [
+            "a) Single stage",
+            "b) Multi-stage",
+            "c) Stages in series",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Multi-stage is required for multiple contacting and hence more heat is recovered."
+    },
+    {
+        "id": 137,
+        "Question": "Commercial limestone calciner, developed in 1949, for New England Lime company, it had diameter of?",
+        "Options": [
+            "a) 4 meters",
+            "b) 8 meters",
+            "c) 2 meters",
+            "d) 10 meters"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the data from White and Kinsalla, they developed calciner of 4 meters diameter."
+    },
+    {
+        "id": 138,
+        "Question": "Commercial limestone calciner, developed in 1949, for New England Lime company, it had height of?",
+        "Options": [
+            "a) 14 meters",
+            "b) 18 meters",
+            "c) 12 meters",
+            "d) 15 meters"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the data from White and Kinsalla, they developed calciner of 14 meters height."
+    },
+    {
+        "id": 139,
+        "Question": "Commercial limestone calciner, developed in 1949, for New England Lime company, they used feed of mesh?",
+        "Options": [
+            "a) 6 to 65",
+            "b) 8 to 85",
+            "c) 2 to 125",
+            "d) 200"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the data from White and Kinsalla, they used feed mesh ranging from 6 to 65 mesh."
+    },
+    {
+        "id": 140,
+        "Question": "In calcination stage, how many nozzles where used to spray fuel oil?",
+        "Options": [
+            "a) 5",
+            "b) 10",
+            "c) 12",
+            "d) 18"
+        ],
+        "Answer": "Answer: c\nExplanation: Based on the data from White and Kinsalla, they used 12 nozzles for spraying fuel oil."
+    },
+    {
+        "id": 141,
+        "Question": "What is the percentage conversion of overflow product in the calciner?",
+        "Options": [
+            "a) 95.4%",
+            "b) 75.3%",
+            "c) 96.8%",
+            "d) 99.7%"
+        ],
+        "Answer": "Answer: c\nExplanation: Based on the data from White and Kinsalla, they acheived 96.8% of overflow conversion product."
+    },
+    {
+        "id": 142,
+        "Question": "For the process of pelletization, which material is added in order to make it sticky?",
+        "Options": [
+            "a) Soda ash or caustic soda",
+            "b) Crude oil",
+            "c) Salt and water",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: By added soda ash or caustic soda, the surface of pellets becomes sticky and coated with fines."
+    },
+    {
+        "id": 143,
+        "Question": "To upgrade the poor quality phosphate rock, Dorr-Oliver made few modification such as?",
+        "Options": [
+            "a) Three-stage fluidized bed",
+            "b) 5 meters diameter",
+            "c) Height 12 meters",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Above specifications were incorporated for in their design."
+    },
+    {
+        "id": 144,
+        "Question": "Which technology has been incorporated into production of cement clinker?",
+        "Options": [
+            "a) Fluidization",
+            "b) Pulverization",
+            "c) Cracking",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Pyzel invented cement clinker by fluidization."
+    },
+    {
+        "id": 145,
+        "Question": "Pilot plant for cement clinker developed by Fuller company, had capacity of _________ tons clinker/day?",
+        "Options": [
+            "a) 20",
+            "b) 40",
+            "c) 70",
+            "d) 100"
+        ],
+        "Answer": "Answer: c\nExplanation: Pilot plant ranges from 65 to 85 tons clinker/day."
+    },
+    {
+        "id": 146,
+        "Question": "What are dimension of diameter used for reactor in the cement clinker (metre)?",
+        "Options": [
+            "a) 2.5",
+            "b) 5",
+            "c) 7.5",
+            "d) 10"
+        ],
+        "Answer": "Answer: a\nExplanation: In order to provide proper heat transfer and for better pelletization."
+    },
+    {
+        "id": 147,
+        "Question": "What are preheating processes installed in the plant?",
+        "Options": [
+            "a) Raw material pretreatment",
+            "b) Air pretreatment",
+            "c) Fuel gas pretreatment",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: For better formation of clinkers, raw material, air and fuel gas but be pretreated."
+    },
+    {
+        "id": 148,
+        "Question": "At what temperature is the bed maintained for cement clinkering to take place (degree Celsius)?",
+        "Options": [
+            "a) 100",
+            "b) 500",
+            "c) 1000",
+            "d) 1300"
+        ],
+        "Answer": "Answer: d\nExplanation: High temperature is required so that powder coats the clinker pellets."
+    },
+    {
+        "id": 149,
+        "Question": "How much heat is consumed in the single-stage operation(kcal/kg clinker)?",
+        "Options": [
+            "a) 500",
+            "b) 1100",
+            "c) 1500",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Based on the energy balance study, it was found that heat consumption ranges from 1050 to 1180 kcal/kg clinker."
+    },
+    {
+        "id": 150,
+        "Question": "What are modes of heat loses in this process?",
+        "Options": [
+            "a) Hot gas",
+            "b) Hot product solid",
+            "c) Hot air",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Heat is lost through hot gas, air and product solids."
+    },
+    {
+        "id": 151,
+        "Question": "How are the clinkers separated from the product mixture feed?",
+        "Options": [
+            "a) Filters",
+            "b) Sieves",
+            "c) Membrane",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since sieves are made of metal and have strong durability and can resist the frictional force by the cement without eroding it."
+    },
+    {
+        "id": 152,
+        "Question": "Which equipment is used to reduce the temperature of hot solid product?",
+        "Options": [
+            "a) Coolers",
+            "b) Blowers",
+            "c) Reduce temperature",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Coolers reduce the temperature much faster compared to other modes."
+    },
+    {
+        "id": 153,
+        "Question": "Which gas is used for fluidizing the feed in the reactor?",
+        "Options": [
+            "a) Fuel gas",
+            "b) Steam",
+            "c) Air",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: For maintaining high temperature in order to proceed with the process."
+    },
+    {
+        "id": 154,
+        "Question": "For exothermic oxidation, which technology helps in better heat distribution in the reactor?",
+        "Options": [
+            "a) Fluidized bed",
+            "b) Spouted bed",
+            "c) Using air blowers in reactors",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Due to continuous flow air and back mixing, heat is distributed uniformly."
+    },
+    {
+        "id": 155,
+        "Question": "What are the requirements of Dorr-Oliver Fluosolids roaster?",
+        "Options": [
+            "a) Less excess air",
+            "b) Higher capacity",
+            "c) Short circuiting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: They are required to encounter various problems."
+    },
+    {
+        "id": 156,
+        "Question": "Why do the roaster require less excess air?",
+        "Options": [
+            "a) For better roasting of sulphur ores",
+            "b) To maintain required temperature",
+            "c) To give off gas",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: To give off gas with higher concentration of sulphur dioxide concentration."
+    },
+    {
+        "id": 157,
+        "Question": "What is the main problem occurring due to back mix flow of solids?",
+        "Options": [
+            "a) Short circuiting of solids",
+            "b) Distribution of heat is interrupted",
+            "c) Irregular roasting of sulphide ores",
+            "d) Irregular distribution of solids"
+        ],
+        "Answer": "Answer: a\nExplanation: Back mixing of solids leads to short circuiting in the single-stage unit."
+    },
+    {
+        "id": 158,
+        "Question": "When the bed is maintained at height of 1.2m to 1.5m, how much % of cinder is entrained?",
+        "Options": [
+            "a) 75 to 80",
+            "b) 10 to 15",
+            "c) 30 to 35",
+            "d) 55 to 60"
+        ],
+        "Answer": "Answer: a\nExplanation: Since there is no Transport disengaging height provided, its leading to more entrainment."
+    },
+    {
+        "id": 159,
+        "Question": "In order to maintain temperature in the bed, what is introduced in the bed to maintain the temperature?",
+        "Options": [
+            "a) Water spray",
+            "b) Cooling coil",
+            "c) Coolant spray",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Any of the above methods can be used to remove heat from the bed."
+    },
+    {
+        "id": 160,
+        "Question": "What did BASF optimized in order to get particle growth and reduce roasting time?",
+        "Options": [
+            "a) High temperature",
+            "b) Low temperature",
+            "c) Faster gas velocity",
+            "d) Low gas velocity"
+        ],
+        "Answer": "Answer: a\nExplanation: High temperature along with shallow bed and large freeboard helps in particle growth."
+    },
+    {
+        "id": 161,
+        "Question": "How is copper or cobalt removed from sulphide ore?",
+        "Options": [
+            "a) Leaching",
+            "b) Filtration",
+            "c) Sieving",
+            "d) Froth floatation"
+        ],
+        "Answer": "Answer: a\nExplanation: Leaching with water or sulphuric acid, copper or cobalt is removed."
+    },
+    {
+        "id": 162,
+        "Question": "At what temperature of the feed slug is maintained(degree Celsius) ?",
+        "Options": [
+            "a) 500 to 600",
+            "b) 880 to 930",
+            "c) 750 to 780",
+            "d) 1050 to 1150"
+        ],
+        "Answer": "Answer: b\nExplanation: For maximum roasting of ore to take place."
+    },
+    {
+        "id": 163,
+        "Question": "How is the temperature of slug maintained in the reactor?",
+        "Options": [
+            "a) Water",
+            "b) Sulphuric acid",
+            "c) Steam",
+            "d) Ice vapour"
+        ],
+        "Answer": "Answer: a\nExplanation: By adding water to slurry, temperature is maintained."
+    },
+    {
+        "id": 164,
+        "Question": "In order to prevent the sticking of ore, what conditions were developed in the reactor bed?",
+        "Options": [
+            "a) High pressure",
+            "b) Low temperature",
+            "c) Moderate reaction rate",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In order to develop iron and steel from fines, fluidized bed was considered."
+    },
+    {
+        "id": 165,
+        "Question": "Which gas is used to develop pressure in the reactor bed?",
+        "Options": [
+            "a) Hydrogen",
+            "b) Nitrogen",
+            "c) Oxygen",
+            "d) Steam"
+        ],
+        "Answer": "Answer: d\nExplanation: High temperature leads to sticking of ore, hence reducing temperature, thereby increasing pressure leading to moderate reaction rates were incorporated."
+    },
+    {
+        "id": 166,
+        "Question": "What are the percentage of reduced ore taken out starting from bottom?",
+        "Options": [
+            "a) 98, 87, 47%",
+            "b) 47, 78, 98%",
+            "c) 74, 87, 89%",
+            "d) 74, 87, 98%"
+        ],
+        "Answer": "Answer: a\nExplanation: Hydrogen provides sufficient high pressure conditions."
+    },
+    {
+        "id": 167,
+        "Question": "How much hydrogen is being converted on reaction with iron?",
+        "Options": [
+            "a) 1%",
+            "b) 5%",
+            "c) 10%",
+            "d) 15%"
+        ],
+        "Answer": "Answer: a\nExplanation: At the bottom of bed, the conversion is the most, as we go above the conversion percentage decreases."
+    },
+    {
+        "id": 168,
+        "Question": "What is the main reason for usage of blast furnace over hydrogen reduction process?",
+        "Options": [
+            "a) Unavailability",
+            "b) High cost of production",
+            "c) Costlier than Blast furnace",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: On evaluation, 5% of hydrogen was reacting with iron to liberate water vapour."
+    },
+    {
+        "id": 169,
+        "Question": "What is the conversion rate in two-stage continuous reactor?",
+        "Options": [
+            "a) 80-85%",
+            "b) 90-95%",
+            "c) 70-75%",
+            "d) 75-80%"
+        ],
+        "Answer": "Answer: d\nExplanation: Because of low availability and high cost of production, it is blast furnace is prefered."
+    },
+    {
+        "id": 170,
+        "Question": "What is the diameter of reactor developed by Bethlehem steel company?",
+        "Options": [
+            "a) 1.7m ID",
+            "b) 2.1m ID",
+            "c) 1.5m ID",
+            "d) 1.2m ID"
+        ],
+        "Answer": "Answer: a\nExplanation: This process contains two-stage continuous reactor at 3.5 atm."
+    },
+    {
+        "id": 171,
+        "Question": "What is the height of reactor developed by Bethlehem steel company?",
+        "Options": [
+            "a) 29m",
+            "b) 30m",
+            "c) 31m",
+            "d) 32m"
+        ],
+        "Answer": "Answer: b\nExplanation: Process conditions selected such that the conversion was found to be 90-95%."
+    },
+    {
+        "id": 172,
+        "Question": "What are the methods for measuring large particles of size above 5mm?",
+        "Options": [
+            "a) Calliper",
+            "b) Micrometer",
+            "c) Sieves",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All are used for measuring solid particles based on different principles."
+    },
+    {
+        "id": 173,
+        "Question": "What are the methods used for measuring particles of size < 0.04mm?",
+        "Options": [
+            "a) Settling rate",
+            "b) Brownian movement",
+            "c) Sieve analysis",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: All are used for measuring solid particles based on different principles."
+    },
+    {
+        "id": 174,
+        "Question": "What does ‘-‘ sign mean in the following expression: – 150 + 200 mesh particles?",
+        "Options": [
+            "a) Pass through 150",
+            "b) Doesnt pass through 150",
+            "c) Pass through 200",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It represents particles which pass through 150 mesh."
+    },
+    {
+        "id": 175,
+        "Question": "What does ‘+’ sign mean in the following expression: – 150 + 200 mesh particles?",
+        "Options": [
+            "a) Pass through 200",
+            "b) Retained on 200",
+            "c) Retained on 150",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: It represents particles which are retained on 200 mesh."
+    },
+    {
+        "id": 176,
+        "Question": "What is the relationship between sphericity and voidage?",
+        "Options": [
+            "a) Sphericity=(6(1-voidage))/(a*dp)",
+            "b) Voidage=(6(1-sphericity))/(a*dp)",
+            "c) Sphericity=(6*voidage)/(a*dp)",
+            "d) Voidage=(6*sphericity)/(a*dp)"
+        ],
+        "Answer": "Answer: a\nExplanation: From the literature and formula derivation, the relation has been developed."
+    },
+    {
+        "id": 177,
+        "Question": "According to Brown, fractional voids in the packed bed are related to ___________ of particles?",
+        "Options": [
+            "a) Shape",
+            "b) Size",
+            "c) Sphericity",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: From the literature, fractional voids in the packed bed are related to sphericity of particles."
+    },
+    {
+        "id": 178,
+        "Question": "The pressure drop through the fixed beds of uniformly sized solids has been correlated by ________",
+        "Options": [
+            "a) Ergun equation",
+            "b) Poisson equation",
+            "c) Laplace equation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The pressure drop through the fixed beds has been correlated by Ergun equation."
+    },
+    {
+        "id": 179,
+        "Question": "Which factor is considered in Ergun equation when the Reynolds number is less 20?",
+        "Options": [
+            "a) 150",
+            "b) 1.75",
+            "c) 2.75",
+            "d) 250"
+        ],
+        "Answer": "Answer: a\nExplanation: Since viscous forces predominate, 150 factor is considered."
+    },
+    {
+        "id": 180,
+        "Question": "Which factor is considered in Ergun equation when the Reynolds number is greater than 1000?",
+        "Options": [
+            "a) 150",
+            "b) 1.75",
+            "c) 2.75",
+            "d) 250"
+        ],
+        "Answer": "Answer: b\nExplanation: Since kinetic losses are considered, 150 factor is considered."
+    },
+    {
+        "id": 181,
+        "Question": "Which new term is utilized for measuring non spherical particles?",
+        "Options": [
+            "a) Sphericity",
+            "b) Volume displacement",
+            "c) Geometry",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: This new term is used to express the sphericity of non-spherical particles."
+    },
+    {
+        "id": 182,
+        "Question": "Fluidization occurs when: Drag force by the upward moving gas ________",
+        "Options": [
+            "a) Weight of the particle",
+            "b) Weight of the fluid",
+            "c) Volume of the bed",
+            "d) Pressure drop across bed"
+        ],
+        "Answer": "Answer: a\nExplanation: Drag force by the upward moving gas = Weight of the particle."
+    },
+    {
+        "id": 183,
+        "Question": "What is the range of Reynolds number(Re) for small particles in the fluidization bed?",
+        "Options": [
+            "a) Re < 20",
+            "b) Re > 20",
+            "c) 20 < Re > 1000",
+            "d) 20 > Re < 1000"
+        ],
+        "Answer": "Answer: a\nExplanation: Since smaller particles require less velocity of gas to lift the particles, hence the Re is low. "
+    },
+    {
+        "id": 184,
+        "Question": "What is the range of Reynolds number(Re) for small particles in the fluidization bed?",
+        "Options": [
+            "a) Re < 20",
+            "b) Re > 20",
+            "c) Re > 1000",
+            "d) 20 > Re < 1000"
+        ],
+        "Answer": "Answer: c\nExplanation: Since larger particles require large velocity of gas to lift the particles, hence the Re is large. "
+    },
+    {
+        "id": 185,
+        "Question": "Fluidization expression is compared with which equation from fluid mechanics?",
+        "Options": [
+            "a) Euler’s equation",
+            "b) Bernoulli’s equation",
+            "c) Buoyancy equation",
+            "d) Navier–Stokes equation"
+        ],
+        "Answer": "Answer: a\nExplanation: Because the Euler’s equation is analogous to Fluidization equation."
+    },
+    {
+        "id": 186,
+        "Question": "Minimum Fluidizing equation can be expressed in terms of which physical quantity?",
+        "Options": [
+            "a) Pressure drop",
+            "b) Temperature",
+            "c) Velocity",
+            "d) Volume"
+        ],
+        "Answer": "Answer: a\nExplanation: Since pressure drop is required to find the exact velocity of gas required to keep the particles floating."
+    },
+    {
+        "id": 187,
+        "Question": "What is the sphericity of sharp sand particles?",
+        "Options": [
+            "a) 0.67",
+            "b) 0.86",
+            "c) 0.63",
+            "d) 0.58"
+        ],
+        "Answer": "Answer: a\nExplanation: Based on the data from the Voidage table at Minimum fluidizing conditions."
+    },
+    {
+        "id": 188,
+        "Question": "What is the sphericity of round sand particles?",
+        "Options": [
+            "a) 0.67",
+            "b) 0.86",
+            "c) 0.63",
+            "d) 0.58"
+        ],
+        "Answer": "Answer: b\nExplanation: Based on the data from the Voidage table at Minimum fluidizing conditions."
+    },
+    {
+        "id": 189,
+        "Question": "What is the sphericity of anthracite coal particles?",
+        "Options": [
+            "a) 0.67",
+            "b) 0.86",
+            "c) 0.63",
+            "d) 0.58"
+        ],
+        "Answer": "Answer: c\nExplanation: Based on the data from the Voidage table at Minimum fluidizing conditions."
+    },
+    {
+        "id": 190,
+        "Question": "What is the sphericity of Fisher-catalyst particles?",
+        "Options": [
+            "a) 0.67",
+            "b) 0.86",
+            "c) 0.63",
+            "d) 0.58"
+        ],
+        "Answer": "Answer: d\nExplanation: Based on the data from the Voidage table at Minimum fluidizing conditions."
+    },
+    {
+        "id": 191,
+        "Question": "On comparison with Fluidized bed and Packed bed, which has the highest voidage?",
+        "Options": [
+            "a) Fluidized bed",
+            "b) Packed bed",
+            "c) Pressure drop",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Fluidized bed has little larger voids compared to packed bed."
+    },
+    {
+        "id": 192,
+        "Question": "Before the pressure drop stabilizes after the bed gets fluidized, what is the position of pressure drop before reaching minimum fluidization?",
+        "Options": [
+            "a) Above the constant",
+            "b) Below the constant",
+            "c) Equal",
+            "d) Hard to tell"
+        ],
+        "Answer": "Answer: a\nExplanation: From Umf expression, this relation has peen taken."
+    },
+    {
+        "id": 193,
+        "Question": "How the gas behave across the fluidized bed, when the velocity is more than minimum fluidization?",
+        "Options": [
+            "a) Bubbles formation",
+            "b) Slugs formation",
+            "c) Smooth flow",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since it requires extra pressure during the particles are lifted in air."
+    },
+    {
+        "id": 194,
+        "Question": "How the liquid behave across the fluidized bed, when the velocity is more than minimum fluidization?",
+        "Options": [
+            "a) Bubbles formation",
+            "b) Slugs formation",
+            "c) No bubbles",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since we have voids formed, the gas try to form bubbles while passing through the bed."
+    },
+    {
+        "id": 195,
+        "Question": "What happens if we continuously increase the velocity after attaining the constant pressure drop?",
+        "Options": [
+            "a) Remains constant",
+            "b) Pressure drop decreases to zero",
+            "c) Slight reduction in pressure drop",
+            "d) Slight increase in pressure drop"
+        ],
+        "Answer": "Answer: c\nExplanation: Since we have no voids formed, the liquid forms smooth flow in the bed."
+    },
+    {
+        "id": 196,
+        "Question": "When the velocity of fluid is infinity, the pressure drop goes to zero, give example of its physical application?",
+        "Options": [
+            "a) Pneumatic conveyors",
+            "b) Dilution of solids",
+            "c) Transportation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Increasing velocity further makes the particles lift off completely and hence the pressure drop reduces completely to zero."
+    },
+    {
+        "id": 197,
+        "Question": "During the increase of velocity of fluid in the bed, how does the graph of pressure drop follows?",
+        "Options": [
+            "a) Linear",
+            "b) Exponential",
+            "c) Non-linear",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Since the velocity of fluid is high, the particles are carried away and used for mostly transportation purpose."
+    },
+    {
+        "id": 198,
+        "Question": "When does the initiation of entrainment start in the fluidized bed?",
+        "Options": [
+            "a) Before the pressure drop goes to zero",
+            "b) Point when pressure drop becomes constant",
+            "c) Start of the fluidization process",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Till the velocity of gas balances the weight of the particles the growth is linear."
+    },
+    {
+        "id": 199,
+        "Question": "What is one of the reason for poor fluidization beds in terms of pressure drop?",
+        "Options": [
+            "a) Slugging",
+            "b) Low velocity",
+            "c) Light particles",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: When the velocity goes high the particles start lifting up, it is the point when the entrainment has started."
+    },
+    {
+        "id": 200,
+        "Question": "What does the minimum fluidization velocity in the bed depends on?",
+        "Options": [
+            "a) Size distribution of solids",
+            "b) Pumping power",
+            "c) Diameter of bed",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Slug formation leads to irregular distribution of pressure drop in the bed."
+    },
+    {
+        "id": 201,
+        "Question": "What is the Reynolds number range when the drag coefficient formula is 24/(Rep)?",
+        "Options": [
+            "a) Rep < 0.4",
+            "b) 0.4 < Rep < 500",
+            "c) 500 < Rep < 200,000",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Range is taken based on the experimental values."
+    },
+    {
+        "id": 202,
+        "Question": "What is the Reynolds number range when the drag coefficient formula is 10/(Rep)^0.5?",
+        "Options": [
+            "a) Rep < 0.4",
+            "b) 0.4 < Rep < 500",
+            "c) 500 < Rep < 200,000",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Range is taken based on the experimental values."
+    },
+    {
+        "id": 203,
+        "Question": "What is the Reynolds number range when the drag coefficient formula is 0.43?",
+        "Options": [
+            "a) Rep < 0.4",
+            "b) 0.4 < Rep < 500",
+            "c) 500 < Rep < 200,000",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Range is taken based on the experimental values."
+    },
+    {
+        "id": 204,
+        "Question": "What is the range of Ut/Umf for flexible operation of the fluidized bed?",
+        "Options": [
+            "a) 10:1 to 90:1",
+            "b) 5:1 to 10:1",
+            "c) 90:1 to 120:1",
+            "d) 120:1 to 200:1"
+        ],
+        "Answer": "Answer: b\nExplanation: It is operated between minimum fluidizing velocity and terminal velocity(Ut) in fluidized bed."
+    },
+    {
+        "id": 205,
+        "Question": "For fine solids Reynolds number should be less than?",
+        "Options": [
+            "a) 0.4",
+            "b) 4",
+            "c) 40",
+            "d) 400"
+        ],
+        "Answer": "Answer: a\nExplanation: This range provides best conditions for fluidization without much entrainment."
+    },
+    {
+        "id": 206,
+        "Question": "For large solid particles Reynolds number should be greater than?",
+        "Options": [
+            "a) 10",
+            "b) 100",
+            "c) 1000",
+            "d) 10000"
+        ],
+        "Answer": "Answer: a\nExplanation: Because after that height, the further increase in velocity will definitely lead to entrainment of some particles."
+    },
+    {
+        "id": 207,
+        "Question": "When the diameter is narrower of the bed, which kind of problem is most likely to occur in the bed?",
+        "Options": [
+            "a) Chanelling",
+            "b) Slugging",
+            "c) Entrainment",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the size of particles is small, the velocity will be comparatively small. Hence the range also reduces."
+    },
+    {
+        "id": 208,
+        "Question": "What can be done in order to prevent slugging in the fluidized bed?",
+        "Options": [
+            "a) Baffles",
+            "b) Increase diameter",
+            "c) Proper design of distributor",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Since the size of particles is large, the velocity will be comparatively large. Hence the range also increases."
+    },
+    {
+        "id": 209,
+        "Question": "Which kind of fluid is included to obtain  smooth fluidization?",
+        "Options": [
+            "a) Water",
+            "b) Air",
+            "c) Oxygen",
+            "d) Nitrogen"
+        ],
+        "Answer": "Answer: a\nExplanation: Since water doesnt bubble, it simply fills up the bed with causing any disturbance in the bed."
+    },
+    {
+        "id": 210,
+        "Question": "Which type of distributor provides the best quality for fluidization?",
+        "Options": [
+            "a) Single orifice plate",
+            "b) Multiple orifice plate",
+            "c) Nozzle plate",
+            "d) Sintered plate"
+        ],
+        "Answer": "Answer: a\nExplanation: Air forms bubbles while passing through the bed."
+    },
+    {
+        "id": 211,
+        "Question": "In case of a heavy bed, which type of distributor can withstand its weight?",
+        "Options": [
+            "a) Flat",
+            "b) Convex",
+            "c) Concave",
+            "d) Concavo-convex"
+        ],
+        "Answer": "Answer: d\nExplanation: More the number of holes better is the distribution of air or fluid in the bed."
+    },
+    {
+        "id": 212,
+        "Question": "Which type of distributor reduces channelling and slugging to maximum extent?",
+        "Options": [
+            "a) Single orifice plate",
+            "b) Multiple orifice plate",
+            "c) Nozzle plate",
+            "d) Sintered plate"
+        ],
+        "Answer": "Answer: c\nExplanation: Weight is distributed among the plate without getting concentrated on any portion of distributor."
+    },
+    {
+        "id": 213,
+        "Question": "What is range of orifice diameter in the distributor in FCC?",
+        "Options": [
+            "a) 3.8-5.1 cm",
+            "b) 1.2-3.5 cm",
+            "c) 5.5-7.9 cm",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: More the number of holes better is the distribution of air or fluid in the bed, hence less channelling and slugging."
+    },
+    {
+        "id": 214,
+        "Question": "What is the range of nozzle opening in the roasting of sulphide ore?",
+        "Options": [
+            "a) 0.4-0.6 cm",
+            "b) 1.2-1.5 cm",
+            "c) 3.8-5.1 cm",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In order to lop pressure drop and best efficiency, this range is selected."
+    },
+    {
+        "id": 215,
+        "Question": "What is the approximate pressure drop across the orifice distributor?",
+        "Options": [
+            "a) 10%",
+            "b) 15%",
+            "c) 20%",
+            "d) 5%"
+        ],
+        "Answer": "Answer: a\nExplanation: Nozzles generally have very small diameter holes in order to provide high velocity gas."
+    },
+    {
+        "id": 216,
+        "Question": "Which arrangement is fabricated in order to prevent the solids pass through the distributor?",
+        "Options": [
+            "a) Orifice",
+            "b) Nozzle",
+            "c) Sintered",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: From the experimental studies, it was found that pressure drop was 10% across the distributor."
+    },
+    {
+        "id": 217,
+        "Question": "What is the fluidizing velocity range for drying of fine coal with fluidized bed?",
+        "Options": [
+            "a) 3.7-4.3 m/s",
+            "b) 4.3-4.9 m/s",
+            "c) 4.9-5.5 m/s",
+            "d) 5.5-6-1 m/s"
+        ],
+        "Answer": "Answer: b\nExplanation: Nozzle is a cap like structure which prevents the passage of solids through the distributor."
+    },
+    {
+        "id": 218,
+        "Question": "Which is the best form to describe TDH?",
+        "Options": [
+            "a) Transport disengaging height",
+            "b) Total diameter height",
+            "c) Total diameter holdup",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Specific term used to describe extra height above the bed."
+    },
+    {
+        "id": 219,
+        "Question": "How to distinguish between Entrainment and Elutrition?",
+        "Options": [
+            "a) Based on segregation of particles",
+            "b) Based on velocity of gas",
+            "c) Based on height of reactor",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Entrainment leads to removal of all particles and Entrainment leads to removal of specific particles."
+    },
+    {
+        "id": 220,
+        "Question": "At what velocity entrainment of particles in the fluidized bed takes place?",
+        "Options": [
+            "a) At minimum fluidization velocity",
+            "b) At terminal velocity",
+            "c) More than terminal velocity",
+            "d) At superficial velocity"
+        ],
+        "Answer": "Answer: c\nExplanation: At terminal velocity entrainment starts, when velocity is more than terminal velocity complete entrainment takes place."
+    },
+    {
+        "id": 221,
+        "Question": "Which investigator worked on elutrition of two components in batch operation?",
+        "Options": [
+            "a) Leva",
+            "b) Zenz and Weil",
+            "c) Lewis and Lang",
+            "d) Sanari and Kunii"
+        ],
+        "Answer": "Answer: a\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 222,
+        "Question": "Which investigator worked on elutrition of FCC catalyst in batch operation?",
+        "Options": [
+            "a) Leva",
+            "b) Zenz and Weil",
+            "c) Lewis and Lang",
+            "d) Sanari and Kunii"
+        ],
+        "Answer": "Answer: b\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 223,
+        "Question": "Which investigator worked on elutrition of one components in batch operation?",
+        "Options": [
+            "a) Leva",
+            "b) Zenz and Weil",
+            "c) Lewis and Lang",
+            "d) Sanari and Kunii"
+        ],
+        "Answer": "Answer: c\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 224,
+        "Question": "Which investigator worked on elutrition of multi-components in batch operation?",
+        "Options": [
+            "a) Leva",
+            "b) Zenz and Weil",
+            "c) Lewis and Lang",
+            "d) Sanari and Kunii"
+        ],
+        "Answer": "Answer: d\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 225,
+        "Question": "What is the range of size of particles to be entrained?",
+        "Options": [
+            "a) 0.06-0.08",
+            "b) 0.1-1.0",
+            "c) 0.05-0.10",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 226,
+        "Question": "Which type of materials are used to experiment the elutrition of particles?",
+        "Options": [
+            "a) Sand",
+            "b) FCC catalyst",
+            "c) Glass spheres",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 227,
+        "Question": "Which type of distributors are used to experiment the elutrition of particles?",
+        "Options": [
+            "a) Filter cloth",
+            "b) Perforated plate",
+            "c) Grid",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: From table of ‘experimental conditions of fines’."
+    },
+    {
+        "id": 228,
+        "Question": "From above figure, what is the diameter of particles with respect to ‘A'(Hint: Glass sphere)?",
+        "Options": [
+            "a) 0.051 mm",
+            "b) 0.074 mm",
+            "c) 0.094 mm",
+            "d) 0.162 mm"
+        ],
+        "Answer": "Answer:  a\nExplanation: Smaller the particles size, early entrainment will take place."
+    },
+    {
+        "id": 229,
+        "Question": "From above figure, what is the diameter of particles with respect to ‘B'(Hint: Glass sphere)?",
+        "Options": [
+            "a) 0.051 mm",
+            "b) 0.074 mm",
+            "c) 0.094 mm",
+            "d) 0.162 mm"
+        ],
+        "Answer": "Answer:  b\nExplanation:  Medium particles size, at moderate time the entrainment will take place."
+    },
+    {
+        "id": 230,
+        "Question": "From above figure, what is the diameter of particles with respect to ‘C'(Hint: Glass sphere)?",
+        "Options": [
+            "a) 0.051 mm",
+            "b) 0.074 mm",
+            "c) 0.094 mm",
+            "d) 0.162 mm"
+        ],
+        "Answer": "Answer:  c\nExplanation: Larger the particles size, lately the entrainment will take place."
+    },
+    {
+        "id": 231,
+        "Question": "From above figure, what is the diameter of particles with respect to ‘E'(Hint: Catalyst)?",
+        "Options": [
+            "a) 0.051 mm",
+            "b) 0.074 mm",
+            "c) 0.094 mm",
+            "d) 0.162 mm"
+        ],
+        "Answer": "Answer:  d\nExplanation: Larger the particles size, lately entrainment will take place."
+    },
+    {
+        "id": 232,
+        "Question": "From above figure, how increase in pressure is affecting the velocity of solid particles?",
+        "Options": [
+            "a) Decreases",
+            "b) Increases",
+            "c) No change",
+            "d) Fluctuating"
+        ],
+        "Answer": "Answer: a\nExplanation: From experimental data provided."
+    },
+    {
+        "id": 233,
+        "Question": "From above figure, how decrease in pressure is affecting the velocity of solid particles?",
+        "Options": [
+            "a) Decreases",
+            "b) Increases",
+            "c) No change",
+            "d) Fluctuating"
+        ],
+        "Answer": "Answer: b\nExplanation: From experimental data provided."
+    },
+    {
+        "id": 234,
+        "Question": "Based on which property the solids get separated while elutrition?",
+        "Options": [
+            "a) Size",
+            "b) Shape",
+            "c) Density",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation:  Various factors are responsible for elutrition to take place."
+    },
+    {
+        "id": 235,
+        "Question": "How does the introduction of internals in the bed help in elutrition?",
+        "Options": [
+            "a) Separate big size particles",
+            "b) Separate small size particles",
+            "c) Breaks large particles",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Prevents larger particles by forming an obstruction and breaking them."
+    },
+    {
+        "id": 236,
+        "Question": "For particles to not reach the TDH, what is the condition required?",
+        "Options": [
+            "a) Ut<Uo",
+            "b) Ut>Uo",
+            "c) Ut=Uo",
+            "d) Ut<=Uo"
+        ],
+        "Answer": "Answer: b\nExplanation: Velocity at which it just reaches the bottom of TDH."
+    }
+]

@@ -1,0 +1,3026 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the most basic level of storage",
+        "Options": [
+            "a) SAN",
+            "b) DAS",
+            "c) NAS",
+            "d) ISCSI"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 2,
+        "Question": "A NAS solution is most appropriate for what type of data environment",
+        "Options": [
+            "a) Secured Access",
+            "b) Shared access",
+            "c) Remote access",
+            "d) Parallel access"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 3,
+        "Question": "I/O requests to disk storage on a SAN are called",
+        "Options": [
+            "a) File I/Os",
+            "b) SAN I/Os",
+            "c) Block I/Os",
+            "d) Disk I/Os"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 4,
+        "Question": "What’s the demerits of DAS ?",
+        "Options": [
+            "a) Interconnect limited up to 10km",
+            "b) Excessive network traffic",
+            "c) Distance limitations and slow speed",
+            "d) Distance limitations and Inability to share data with other servers"
+        ],
+        "Answer": " Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 5,
+        "Question": "Which topology is best suited for medium sized enterprise.",
+        "Options": [
+            "a) NAS",
+            "b) SAN",
+            "c) DAS",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 6,
+        "Question": "Disk controller driver in DAS architecture is replaced in SAN either with ——",
+        "Options": [
+            "a) FC Protocol",
+            "b) iSCSI",
+            "c) TCP/IP stack",
+            "d) Any one of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 7,
+        "Question": "Which storage technology requires downtime to add new hard disk capacity",
+        "Options": [
+            "a) DAS",
+            "b) SAN",
+            "c) NAS",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 8,
+        "Question": "In SAN storage model, the operating system view storage resources as —— devices",
+        "Options": [
+            "a) FC",
+            "b) SCSI",
+            "c) SAN",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 9,
+        "Question": "Identify a network file protocol in the below mentioned set.",
+        "Options": [
+            "a) FC",
+            "b) CIFS",
+            "c) SCSI",
+            "d) NAS"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 10,
+        "Question": "What will be used by SAN to provide connectivity between hosts and storage?",
+        "Options": [
+            "a) FC",
+            "b) iSCSI",
+            "c) FC or iSCSI",
+            "d) SCSI"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 11,
+        "Question": "In FC structure which layer maps block I/O SCSI commands into FC frames?",
+        "Options": [
+            "a) FC-4",
+            "b) FC-1",
+            "c) FC-0",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 12,
+        "Question": "What are the major benefits of SAN?",
+        "Options": [
+            "a) Centralized backup",
+            "b) Storage consolidation",
+            "c) LAN-less backup",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 13,
+        "Question": "Which data storage technology offers the best performance?",
+        "Options": [
+            "a) SAN",
+            "b) NAS",
+            "c) DAS",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 14,
+        "Question": "Identify the data storage technology used in the data center?",
+        "Options": [
+            "a) NAS",
+            "b) SAN",
+            "c) DAS",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is not a non volatile storage device?",
+        "Options": [
+            "a) Memory Stick",
+            "b) Hard Disk",
+            "c) Random Access Memory",
+            "d) NVRAM"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 16,
+        "Question": "Which of the following is sequential access storage device?",
+        "Options": [
+            "a) Hard Disk",
+            "b) CD-ROM",
+            "c) Tape Cartridge",
+            "d) Main Memory"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the Following is not an off-line storage device?",
+        "Options": [
+            "a) Tape Cartridge",
+            "b) Flash Memory",
+            "c) Tape Library",
+            "d) CD-ROM"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 18,
+        "Question": "Pick the wrong statement about the hard disk?",
+        "Options": [
+            "a) Hard disk has multiple platters and each platter has two read/write heads one on each side",
+            "b) It’s a non-volatile & random access storage device",
+            "c) Hard disk can only have IDE or USB interface",
+            "d) Data Transfer rate is over 80 MBPS"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 19,
+        "Question": "Which of the following statements about various hard disks is wrong?",
+        "Options": [
+            "a) SATA Disks support faster transfer rates and have support for hot swapping",
+            "b) USB Hard disks store data on flash memory",
+            "c) ATA hard disks cannot be connected externally to  computer",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 20,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) NVRAM has built in battery which keeps power applied to it even after the power is switched off",
+            "b) Flash memory can be electrically erased and reprogrammed",
+            "c) Flash memory is used in memory sticks",
+            "d) Flash disk can only have USB interface"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 21,
+        "Question": "Which of the following is not true about JBOD?",
+        "Options": [
+            "a) JBOD can combine hard disks of different sizes into a single unit without loss of any capacity",
+            "b) If a drive in a JBOD set dies then it may be easier to recover the files on the other Drives",
+            "c) JBOD supports data redundancy",
+            "d) JBOD doesn’t has any storage controller intelligence"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 22,
+        "Question": "Pick odd one out",
+        "Options": [
+            "a) Mirroring",
+            "b) Striping",
+            "c) Error-correction",
+            "d) Fault tolerance"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 23,
+        "Question": "Which one of the following is not an advantage of RAID?",
+        "Options": [
+            "a) Data Security",
+            "b) Increased & integrated capacity",
+            "c) Improved performance",
+            "d) Effective data capacity increases"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 24,
+        "Question": "Pick the false statement about RAID 0",
+        "Options": [
+            "a) Provides no redundancy",
+            "b) Provides data striping",
+            "c) improves performance",
+            "d) Provides fault tolerance"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 25,
+        "Question": "Pick the false statement",
+        "Options": [
+            "a) RAID Level 1 provides disk mirroring",
+            "b) RAID Level 2 provides bit level striping with Hamming code ECC",
+            "c) RAID  Level 4 provides block level striping",
+            "d) RAID Level 5 provides block level striping and error correction information"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 26,
+        "Question": "Which of the following provides byte level striping?",
+        "Options": [
+            "a) RAID 6",
+            "b) RAID 4",
+            "c) RAID 2",
+            "d) RAID 5"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 27,
+        "Question": "State true or false",
+        "Options": [
+            "a) Nested RAID provides better performance characteristics than the RAID levels that comprise them (true/false) – True",
+            "b) RAID Level 6 has dual parity where as RAID Level 5 has single parity and both does block level striping( true/false) – False",
+            "c) RAID Level 7 does Asynchronous cached striping with dedicated parity(true/false) – True",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following is false about tape devices?",
+        "Options": [
+            "a) A tape drive is a data storage device that reads and writes data stored on a Magnetic tape",
+            "b) Tape drives are used for archival storage of data",
+            "c) Tape media has low unit cost and long archival stability",
+            "d) Tape drives allow random access of data"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 29,
+        "Question": "Select the correct option regarding tape drive",
+        "Options": [
+            "a) Tape drives have fast average seek times",
+            "b) Tape drives can stream data at a very fast rate",
+            "c) Archival life of data stored on tape is around 5 years",
+            "d) Tape drives can be  used t store data on optical disks"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 30,
+        "Question": "A tape library does not contain",
+        "Options": [
+            "a) Tape Drive",
+            "b) Bar Code Reader",
+            "c) Robotic Arm",
+            "d) RAID Array"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 31,
+        "Question": "Which of the following is not true about a tape silo?",
+        "Options": [
+            "a) Libraries provide large storage capacity at a very cheap rate",
+            "b) They have slow access time",
+            "c) Tape libraries are primarily used for backups and as the final stage of digital archiving",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 32,
+        "Question": "For long term storage (archival) of data which of the following storage devices is generally used",
+        "Options": [
+            "a) Hard Disk",
+            "b) CD Rom",
+            "c) Floppy Disk",
+            "d) Tape Cartridges"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following Company manufactures Tape Library?",
+        "Options": [
+            "a) Quantum",
+            "b) Brocade",
+            "c) NetApps",
+            "d) Cisco"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 34,
+        "Question": "Which of the following Company manufactures RAID devices?",
+        "Options": [
+            "a) Qlogic",
+            "b) LSI",
+            "c) Falconstor",
+            "d) Quantum"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 35,
+        "Question": "Following are some of the file sharing protocols",
+        "Options": [
+            "a) Telnet",
+            "b) NFS & CIFS",
+            "c) FTP",
+            "d) HTTP"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 36,
+        "Question": "File access protocols operate in which layer of the OSI model",
+        "Options": [
+            "a) Application",
+            "b) Session",
+            "c) Transport",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 37,
+        "Question": "NFS & CIFS are",
+        "Options": [
+            "a) Filesystems",
+            "b) Operating systems",
+            "c) Transport protocols",
+            "d) File access protocols"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 38,
+        "Question": "Using file access protocols, data residing on which of the following can be accessed:",
+        "Options": [
+            "a) Local disk",
+            "b) Remote disk",
+            "c) Both",
+            "d) Neither"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 39,
+        "Question": "The file access protocols are primary features of",
+        "Options": [
+            "a) SAN",
+            "b) NAS",
+            "c) Router",
+            "d) Application server"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 40,
+        "Question": "NFS stands for",
+        "Options": [
+            "a) Null File System",
+            "b) New File System",
+            "c) Network File System",
+            "d) Netware File Server"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 41,
+        "Question": "NFS doesn’t have the following characteristics",
+        "Options": [
+            "a) Idempotent procedures",
+            "b) Over NetBIOS",
+            "c) Stateless",
+            "d) Uses RPC"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 42,
+        "Question": "NIS is used for?",
+        "Options": [
+            "a) Routing of packets",
+            "b) File sharing",
+            "c) Naming services",
+            "d) Terminal services"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 43,
+        "Question": "AutoFS is a feature used for?",
+        "Options": [
+            "a) Automatic space allocation",
+            "b) Scanning a filesystem",
+            "c) Directory services",
+            "d) Mounting filesystems"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 44,
+        "Question": "Following are Naming services",
+        "Options": [
+            "a) LDAP",
+            "b) FTP",
+            "c) RPC",
+            "d) Ping"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 45,
+        "Question": "Which command is used to view NFS shared directories?",
+        "Options": [
+            "a) share",
+            "b) shareall",
+            "c) sharetab",
+            "d) dfshares"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 46,
+        "Question": "Which file would you edit to mount an NFS filesystem at system boot time?",
+        "Options": [
+            "a) /etc/fstab",
+            "b) /etc/dfs/dfstab",
+            "c) /etc/vfstab",
+            "d) /etc/nfstab"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 47,
+        "Question": "Which command would mount the directory utilities from the server named sanfoundry on the local mount point /opt/sf",
+        "Options": [
+            "a) mount -f nfs /sf:sanfoundry /opt/sf",
+            "b) mount -F nfs sanfoundry:/sf /opt/sf",
+            "c) mount -F nfs sanfoundry:/opt/sf /sf",
+            "d) mount /opt/sf sanfoundry:/sf"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 48,
+        "Question": "CIFS runs over the following protocols:",
+        "Options": [
+            "a) TCP/IP",
+            "b) FTP",
+            "c) SNMP",
+            "d) DNS"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 49,
+        "Question": "CIFS doesn’t support the following",
+        "Options": [
+            "a) Oplocks",
+            "b) Batch command",
+            "c) Unicode support",
+            "d) Stateless"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 50,
+        "Question": "CIFS is used in the following OS",
+        "Options": [
+            "a) Windows",
+            "b) Unix",
+            "c) Netware",
+            "d) All the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 51,
+        "Question": "CIFS was originally derived from",
+        "Options": [
+            "a) PCB",
+            "b) NTFS",
+            "c) SMB",
+            "d) NIS"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 52,
+        "Question": "CIFS authentication is done by",
+        "Options": [
+            "a) Kerberos",
+            "b) NTLM",
+            "c) Both LDAP and NTLM",
+            "d) Both Kerberos and NTLM"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 53,
+        "Question": "SMB was originally developed by",
+        "Options": [
+            "a) IBM",
+            "b) Microsoft",
+            "c) 3COM",
+            "d) Intel"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 54,
+        "Question": "RPC is used for",
+        "Options": [
+            "a) transporting data over the network",
+            "b) executing program on different computer",
+            "c) reporting process control",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 55,
+        "Question": "A “Fiber Connector” is used to",
+        "Options": [
+            "a) Facilitate conversion between two forms of media",
+            "b) Terminate the end of an optical fiber and it enables quicker connection and disconnection",
+            "c) Connects a computer to storage devices",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 56,
+        "Question": "SFP(Small form-factor pluggable)  uses which kind of Fiber Connector",
+        "Options": [
+            "a) Lucent Connector  (LC)connectors",
+            "b) Subscriber Connector (SC) connectors",
+            "c) Multi-mode (MM) fiber",
+            "d) Any of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 57,
+        "Question": "Fiber Optic Cable  uses",
+        "Options": [
+            "a) Electronic pulses to transmit  Information down copper lines",
+            "b) light pulses to  transmit Information down fiber lines",
+            "c) Does not send any pulses",
+            "d) Requires a connector to send any pulses"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 58,
+        "Question": "Single-mode fiber supports transmission distance up to",
+        "Options": [
+            "a) 2 km",
+            "b) 5 km",
+            "c) 30km",
+            "d) 10 km"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 59,
+        "Question": "As per the color coding schemes  which color is used for multi mode fiber cable",
+        "Options": [
+            "a) orange",
+            "b) yellow",
+            "c) green",
+            "d) red"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 60,
+        "Question": "What is used to facilitate conversion between two forms of media",
+        "Options": [
+            "a) SFP",
+            "b) MIA",
+            "c) SC Fiber Connector",
+            "d) LC Fiber Connector"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 61,
+        "Question": "What is the typical I/O Data rate supported by  Qlogic 24xx series of FC HBA",
+        "Options": [
+            "a) 2Gb",
+            "b) 3Gb",
+            "c) 10Gb",
+            "d) 4Gb"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 62,
+        "Question": "Each FC HBA has a",
+        "Options": [
+            "a) Mac Address",
+            "b) IP Address",
+            "c) World Wide Name",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 63,
+        "Question": "When a Fiber Channel switch is implemented in a SAN, the network is referred to",
+        "Options": [
+            "a) Switched Fabric",
+            "b) Domain",
+            "c) Active directory",
+            "d) FC-AL"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 64,
+        "Question": "A SAN network can have",
+        "Options": [
+            "a) 1 FC switch",
+            "b) 2 FC switch",
+            "c) There can be many FC switches",
+            "d) No FC switch"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following company manufactures FC switches",
+        "Options": [
+            "a) Brocade",
+            "b) Quantum",
+            "c) NetApps",
+            "d) Medusa"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 66,
+        "Question": "An FC analyzer can be used  to",
+        "Options": [
+            "a) Capture corrupted FC frames",
+            "b) Find network bandwidth usage",
+            "c) I/O performance",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 67,
+        "Question": "To increase the distance of a fiber you will use",
+        "Options": [
+            "a) HBA",
+            "b) FC switch",
+            "c) Repeaters",
+            "d) Media Interface Adapters"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 68,
+        "Question": "GBIC, GLM and SFPs carry out",
+        "Options": [
+            "a) Similar task",
+            "b) Different tasks",
+            "c) Depends on their usage",
+            "d) Any of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 69,
+        "Question": "Which of the following company manufactures FC  HBA",
+        "Options": [
+            "a) Emulex",
+            "b) Qlogic",
+            "c) LSI",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 70,
+        "Question": "In FC, which of the following are analogous to IP address in data networks?",
+        "Options": [
+            "a) Node WWN",
+            "b) Port WWN",
+            "c) Fabric address",
+            "d) Well known addresses"
+        ],
+        "Answer": " Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 71,
+        "Question": "Who determines the WWN of FC end point",
+        "Options": [
+            "a) Vendor",
+            "b) Fabric controller",
+            "c) Node/Loop ports participating in the FC connection",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 72,
+        "Question": "Which of the following is the use of trunking?",
+        "Options": [
+            "a) High bandwidth creation between switches",
+            "b) Flow control",
+            "c) In order delivery",
+            "d) Timing service"
+        ],
+        "Answer": " Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 73,
+        "Question": "Which field of the frame header signifies the presence of optional header?",
+        "Options": [
+            "a) Routing control",
+            "b) Data field control",
+            "c) Frame control",
+            "d) CRC"
+        ],
+        "Answer": " Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following uniquely identifies an upper layer protocol command within a FC system?",
+        "Options": [
+            "a) Originator exchange id",
+            "b) Originator exchange id and source id",
+            "c) Receiver exchange id",
+            "d) Originator exchange id, Receiver exchange id and source id"
+        ],
+        "Answer": " Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 75,
+        "Question": "What is the maximum number of loop ports that can participate in an arbitrated?",
+        "Options": [
+            "a) 128",
+            "b) 127",
+            "c) 256",
+            "d) 0"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 76,
+        "Question": "In a fabric topology what is the discovery process that allocates fabric address to the participating n-ports?",
+        "Options": [
+            "a) Flogi",
+            "b) Fdisc",
+            "c) Both Flogi and Fdisc",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 77,
+        "Question": "Which FC layer is responsible for exchange/frame and sequence management?",
+        "Options": [
+            "a) Layer 0",
+            "b) Layer 1",
+            "c) Layer 2",
+            "d) Layer 4 (ULP)"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 78,
+        "Question": "Which of the following login is associated with creating an ULP level image pair?",
+        "Options": [
+            "a) Flogi",
+            "b) Plogi",
+            "c) Prli",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 79,
+        "Question": "What is the mechanism used to do flow control between participating N-Ports in a FC communication?",
+        "Options": [
+            "a) B-B Credit mechanism",
+            "b) E-E Credit mechanism",
+            "c) Both B-B and E-E Credit mechanism",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 80,
+        "Question": "In FCP (FC protocol for SCSI), which of the following phases is not mandatory for read type commands?",
+        "Options": [
+            "a) Command phase",
+            "b) Data phase",
+            "c) Transfer ready phase",
+            "d) Response phase"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 81,
+        "Question": "Which of the following is (are) not the responsibility of RSCN service in a fabric?",
+        "Options": [
+            "a) Nodes joining or leaving the fabric",
+            "b) Switches joining or leaving the fabric",
+            "c) Allocation of fabric IDs",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 82,
+        "Question": "Which component of the FC frame header has details about the ULP?",
+        "Options": [
+            "a) Routing Control",
+            "b) Class specific control",
+            "c) Type field",
+            "d) Data field control"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following enforces access control in SAN/FC switches?",
+        "Options": [
+            "a) Zoning",
+            "b) Trunking",
+            "c) Flow control",
+            "d) Class of service"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 84,
+        "Question": "What is the significance E-Port?",
+        "Options": [
+            "a) Creates an arbitrated loop",
+            "b) Extends the fabric by connecting to other fabrics",
+            "c) Represents un-initialized state of a port",
+            "d) Represents port with disconnected FC link"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 85,
+        "Question": "What is SAS?",
+        "Options": [
+            "a) Serial Attached SCSI",
+            "b) Storage Attached SCSI",
+            "c) Serial Advanced SCSI",
+            "d) SAS is not SCSI"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 86,
+        "Question": "Which of the following is true?",
+        "Options": [
+            "a) SAS is compatible with SATA physical layer",
+            "b) SAS is not parallel SCSI",
+            "c) SAS has multiple channels per port",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 87,
+        "Question": "SAS Domain can have:",
+        "Options": [
+            "a) 16256 devices in a single domain",
+            "b) 128 expanders per domain",
+            "c) 128 phys per expander",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 88,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) SAS and SATA devices can’t be connected in the same system",
+            "b) SAS is a point to point protocol",
+            "c) Expanders are used to connect to multiple devices",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 89,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) SAS devices can have narrow ports and/or wide ports",
+            "b) Expander port is a type of SAS port",
+            "c) Each SAS port has a SAS address",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 90,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) SAS disk device with two phys can be a wide port",
+            "b) Expander device is not a SAS device",
+            "c) HBA having multiple ports can be configured to have wide and narrow ports",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 91,
+        "Question": "Which of the following is true for Expander device?",
+        "Options": [
+            "a) Expander device has a SAS address",
+            "b) Has expander ports",
+            "c) May contain SAS device",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) Expander device has optional SMP initiator port",
+            "b) Expander device has optional SMP target port",
+            "c) Expander port can connect to SAS target device",
+            "d) Expander port can connect to another expander device"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 93,
+        "Question": "Which of the following layer is present in a SAS port?",
+        "Options": [
+            "a) Transport layer",
+            "b) Phy layer",
+            "c) Port layer",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 94,
+        "Question": "Which of the following protocol has slowest speed?",
+        "Options": [
+            "a) SATA",
+            "b) SAS",
+            "c) FC-AL",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 95,
+        "Question": "Which of the following protocol can have a maximum device connected?",
+        "Options": [
+            "a) SATA",
+            "b) SAS",
+            "c) FC-AL",
+            "d) ATA"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 96,
+        "Question": "SAS port identifier is:",
+        "Options": [
+            "a) 8 bit",
+            "b) 16 bit",
+            "c) 32 bit",
+            "d) 64 bit"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 97,
+        "Question": "SAS inherited the multi-channel concept from?",
+        "Options": [
+            "a) iSCSI",
+            "b) Fibre Channel",
+            "c) Infinband",
+            "d) IDE"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 98,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) a connection is a permanent association",
+            "b) SAS port shares same namespace than FC port",
+            "c) a pathway is a set of physical link used by a connection",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following is not a transport layer protocol in a SAS port?",
+        "Options": [
+            "a) SMP",
+            "b) STP",
+            "c) SIP",
+            "d) SSP"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 100,
+        "Question": "iSCSI is mapping of",
+        "Options": [
+            "a) SCSI over TCP/IP",
+            "b) IP over SCSI",
+            "c) FC over IP",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 101,
+        "Question": "iSCSI allows what type of access",
+        "Options": [
+            "a) block level",
+            "b) file level",
+            "c) both block and file level",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 102,
+        "Question": "iSCSI names are:",
+        "Options": [
+            "a) Globally unique and temporary",
+            "b) Local to the setup",
+            "c) Globally unique and permanent",
+            "d) Local to the setup and temporary"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 103,
+        "Question": "4.Which of the following is not true of iSCSI names?",
+        "Options": [
+            "a) iSCSI names are associated with iSCSI nodes(targets and initiators.",
+            "b) iSCSI names are associated with n/w adapter cards",
+            "c) iSCSI names are world wide unique.",
+            "d) iSCSI names are permanant."
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 104,
+        "Question": "Which of the following is not a valid iSCSI name?",
+        "Options": [
+            "a) iqn.2001-04.com.mystorage:storage.tape1",
+            "b) iqn.2001-04.com.mystorage",
+            "c) iqn.01-04.com.example.disk",
+            "d) none of the mentioned."
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following is not a valid iSCSI name?",
+        "Options": [
+            "a) eui.1234098769785341",
+            "b) eui.4237098769785341",
+            "c) eui.12340987697853422.disk",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 106,
+        "Question": "Discovery session in iSCSI is used for:",
+        "Options": [
+            "a) Discovering iSCSI targets and their TargetAddresses",
+            "b) Probing Luns on iSCSI targets",
+            "c) Probing New Luns",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following are valid SendTargets commands?",
+        "Options": [
+            "a) SendTargets=iqn.2001-04.com.mystorage:storage.tape1",
+            "b) SendTargets=all.FC",
+            "c) SendTargets=all.iSCSI",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 108,
+        "Question": "iSCSI targets can be discovered by",
+        "Options": [
+            "a) SendTargets",
+            "b) Static configuration",
+            "c) using SLP/iSNS",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 109,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) iSCSI requires login from initiator to target",
+            "b) There can be multiple paths between initiator and target",
+            "c) Data integrity is ensured using digests",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 110,
+        "Question": "Which of the following is false regarding multiple paths?",
+        "Options": [
+            "a) Load balancing can be done",
+            "b) Higher throughput can be achieved",
+            "c) Path Failover can be done",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 111,
+        "Question": "Which of the following is invalid error recovery level?",
+        "Options": [
+            "a) Session level recovery",
+            "b) SCSI level recovery",
+            "c) Connection level recovery",
+            "d) Digest failure recovery"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 112,
+        "Question": "Which of the following statement is true?",
+        "Options": [
+            "a) iSCSI can be implemented in software",
+            "b) iSCSI can be implemented in hardware",
+            "c) System can boot from iSCSI disk over network",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following statement is false?",
+        "Options": [
+            "a) iSCSI can run on 1GB networks",
+            "b) iSCSI can run on 10GB networks",
+            "c) iSCSI requires Fibre Channel HBA on the host",
+            "d) iSCSI requires network card on the host"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 114,
+        "Question": "Which of the following companies have iSCSI products?",
+        "Options": [
+            "a) Equallogic",
+            "b) Qlogic",
+            "c) EMC",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 115,
+        "Question": "Which of the following is correct about hardware RAID controllers?",
+        "Options": [
+            "a) Volume management is performed by the server",
+            "b) Volume management is performed by controller card",
+            "c) Dedicated cache memory decreases server write performance",
+            "d) Parity calculation by the server and cache memory in the RAID controller increases read and write performance"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 116,
+        "Question": "Which RAID type doesn’t use parity for data protection?",
+        "Options": [
+            "a) RAID 1",
+            "b) RAID 4",
+            "c) RAID 6",
+            "d) RAID 5"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 117,
+        "Question": "Which one of these is characteristic of RAID 5?",
+        "Options": [
+            "a) Distributed parity",
+            "b) No Parity",
+            "c) All parity in a single disk",
+            "d) Double Parity"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 118,
+        "Question": "What is the unique characteristic of RAID 6 (Choose one)?",
+        "Options": [
+            "a) Distributed Parity",
+            "b) Striping",
+            "c) Two independent distributed parity",
+            "d) Mirroring"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following combinations can support RAID 05?",
+        "Options": [
+            "a) 2 sets with 3 disks each",
+            "b) 3 sets with 2 disks each",
+            "c) 2 sets with 4 disks each",
+            "d) 4 sets with 1 disk each"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 120,
+        "Question": "What is the minimum number of disks required for RAID1?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 121,
+        "Question": "Which of the following raid levels provides maximum usable disk space?",
+        "Options": [
+            "a) RAID 1",
+            "b) RAID 0",
+            "c) RAID 5",
+            "d) RAID 6"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 122,
+        "Question": "The mean time to failure of a single disk is 200000 hrs. If an array of disks is using 5 such disks, the mttf of the array is",
+        "Options": [
+            "a) 200000 hrs",
+            "b) 40000 hrs",
+            "c) 1000000 hrs",
+            "d) Can not be determined"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 123,
+        "Question": "An array of disks is more likely to fail compared to a single disk. How is it that RAID arrays still manage to provide more data protection compared to a single disk?",
+        "Options": [
+            "a) Using either mirroring or striping",
+            "b) Using either mirroring or parity",
+            "c) Using better quality disks",
+            "d) Using dedicated hardware"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following suffers from write hole problem?",
+        "Options": [
+            "a) RAID 0",
+            "b) RAID 1",
+            "c) RAID 5",
+            "d) RAIDZ"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 125,
+        "Question": "If read and write performance is the only criterion, which would you choose?",
+        "Options": [
+            "a) RAID 0",
+            "b) RAID 1",
+            "c) RAID 5",
+            "d) RAID 50"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 126,
+        "Question": "Which one of the following is an invalid RAID level?",
+        "Options": [
+            "a) Raid 10",
+            "b) Raid 50",
+            "c) Raid 53",
+            "d) Raid 80"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 127,
+        "Question": "Which of the following RAID levels guarantees double disk failure protection?",
+        "Options": [
+            "a) Raid 5",
+            "b) Raid 6",
+            "c) Raid 0+1",
+            "d) Raid 0+5"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following RAID levels are nested?",
+        "Options": [
+            "a) Raid 5",
+            "b) Raid 6",
+            "c) Raid 10",
+            "d) Raid 4"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 129,
+        "Question": "What is the name of raid module in a linux kernel?",
+        "Options": [
+            "a) lvm",
+            "b) raidsoft",
+            "c) md",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 130,
+        "Question": "What is the minimum number of disks needed for Raid level 5?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 131,
+        "Question": "When one disk fails in a RAID 5 array with a hot spare, which one of the following statements is true?",
+        "Options": [
+            "a) No IO can continue",
+            "b) Reads continue from hot spare, but writes fail",
+            "c) Both reads and writes can continue",
+            "d) Array must be shut down immediately for replacing the failed disk"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 132,
+        "Question": "When one disk fails in a RAID 5 array without a hot spare, which one of the following statements is true:",
+        "Options": [
+            "a) No IO can continue",
+            "b) Reads continue from hot spare, but writes fail",
+            "c) Both reads and writes can continue",
+            "d) Array must be shut down immediately for replacing the failed disk"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 133,
+        "Question": "Which is the most common cause of soft errors in hardware?",
+        "Options": [
+            "a) Thermal Issue",
+            "b) Cosmic Rays",
+            "c) Alpha Particile",
+            "d) Voltage Fluctuation"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 134,
+        "Question": "If X is the MTBF of a system and Y is the failure rate of the system then which one is true?",
+        "Options": [
+            "a) X * Y = 1",
+            "b) X = Y",
+            "c) NX = Y, where N is the life time",
+            "d) X/Y = N, where N is the life time"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 135,
+        "Question": "Which one of the property is NOT a requirement for Fault Tolerance?",
+        "Options": [
+            "a) Fault Containments",
+            "b) Fault Isolation",
+            "c) Dynamic Recovery",
+            "d) Fail Safe"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 136,
+        "Question": "Which of the operating system architecture is suitable for FT based systems?",
+        "Options": [
+            "a) A – Monolithic Kernel",
+            "b) B – Micro Kernel",
+            "c) C – Real Time Kernel",
+            "d) D – All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 137,
+        "Question": "The common mechanism used to find latent failure in memory modules:",
+        "Options": [
+            "a) Sniffing",
+            "b) Scrubbing",
+            "c) Swapping",
+            "d) Paging"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 138,
+        "Question": "Which one of the availability criteria is optimal for carrier grade class systems?",
+        "Options": [
+            "a) 40 seconds of down time per year",
+            "b) 40 minutes of down time per year",
+            "c) 10 minutes of down time per year",
+            "d) 10 seconds of down time per year"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 139,
+        "Question": "MTTR is the best way to characterize",
+        "Options": [
+            "a) Availability",
+            "b) Reliability",
+            "c) Fault Tolerance",
+            "d) Dependability"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 140,
+        "Question": "An “Inode” represents",
+        "Options": [
+            "a) Buffer",
+            "b) Data",
+            "c) Files & Directories",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 141,
+        "Question": "Journaling is preferred for",
+        "Options": [
+            "a) Faster file system recovery",
+            "b) Faster write operation",
+            "c) Storing logs",
+            "d) Storing metadata"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 142,
+        "Question": "Examples of Journaling filesystem",
+        "Options": [
+            "a) Ext2",
+            "b) Ext3",
+            "c) UFS",
+            "d) JFS"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 143,
+        "Question": "ACL stands for",
+        "Options": [
+            "a) ACCESS control list",
+            "b) ACCESS check list",
+            "c) Audit control list",
+            "d) Audit check list"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 144,
+        "Question": "VFS",
+        "Options": [
+            "a) Standalone filesystem",
+            "b) Support multiple filesystem type",
+            "c) Network filesystem",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 145,
+        "Question": "Buffer cache helps to",
+        "Options": [
+            "a) Store data",
+            "b) Improved read/write performance",
+            "c) Allocate memory",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 146,
+        "Question": "Wear leveling affects",
+        "Options": [
+            "a) Hard disk",
+            "b) Flash",
+            "c) Optical storage",
+            "d) RAM"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 147,
+        "Question": "Deframentation is the process of",
+        "Options": [
+            "a) physically reorganizing the contents of the disk to store the pieces of each file close together and contiguously",
+            "b) Create extra space in filesystem",
+            "c) Resizing the filesystem",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 148,
+        "Question": "The Superblock is required for",
+        "Options": [
+            "a) Description of the basic size and shape of this file system",
+            "b) This is the inode number of the first inode in the file system",
+            "c) The number of free blocks in the file system",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 149,
+        "Question": "Fileystem is created using command",
+        "Options": [
+            "a) Mkfs",
+            "b) Format",
+            "c) Fsck",
+            "d) defrag"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 150,
+        "Question": "Pseudo filesystem (/procfs)",
+        "Options": [
+            "a) Access kernel information about processes",
+            "b) Storing mount points",
+            "c) Storing filesystem path",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 151,
+        "Question": "Every File or directory has unique",
+        "Options": [
+            "a) Inode",
+            "b) Directory",
+            "c) Pathname",
+            "d) Inode & pathname"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 152,
+        "Question": "Inode bitmaps used for",
+        "Options": [
+            "a) inode allocation and deallocation,",
+            "b) block allocation",
+            "c) data blocks",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 153,
+        "Question": "Dirty buffer cache contains",
+        "Options": [
+            "a) Invalid data",
+            "b) New valid data",
+            "c) File",
+            "d) Inode"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 154,
+        "Question": "What is SCSI?",
+        "Options": [
+            "a) Small Computer Simple Interface",
+            "b) System Computer Select Interface",
+            "c) Small Computer System Interface",
+            "d) Small Computer System Interconnect"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 155,
+        "Question": "Nexus is a relation between",
+        "Options": [
+            "a) Initiator and Target",
+            "b) Initiator, Target and Logical Unit",
+            "c) Initiator, Target, Logical Unit and Task",
+            "d) Any of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 156,
+        "Question": "Task can constitute",
+        "Options": [
+            "a) One command only",
+            "b) One or more commands",
+            "c) A single command or group of linked commands",
+            "d) Linked Commands Only"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 157,
+        "Question": "Task manager",
+        "Options": [
+            "a) Manages the devices",
+            "b) Manages tasks",
+            "c) Manages both tasks and devices",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 158,
+        "Question": "Untagged task is represented by",
+        "Options": [
+            "a) I_T nexus",
+            "b) I_T_L nexus",
+            "c) I_T_L_Q nexus",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 159,
+        "Question": "Which is not the main phase of I/O?",
+        "Options": [
+            "a) Data",
+            "b) Command",
+            "c) Status",
+            "d) Control"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 160,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) CDB has a operation code",
+            "b) CDB has a control byte",
+            "c) CDB has both operation code and control byte",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 161,
+        "Question": "What is incorrect about Command Descriptor block?",
+        "Options": [
+            "a) It has SCSI command",
+            "b) Has fixed length of 6, 10, 12 or 16 bytes",
+            "c) Target fetches CDB from initiator",
+            "d) The CDB is sent during Data Phase"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 162,
+        "Question": "What is a Logical Unit?",
+        "Options": [
+            "a) subset of Target device",
+            "b) subset of Initiator",
+            "c) Subset of Device Server",
+            "d) Component of Interface"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 163,
+        "Question": "Which of them is not a valid SCSI command?",
+        "Options": [
+            "a) Bus Reset",
+            "b) Inquiry",
+            "c) Mode Sense",
+            "d) Read_10"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 164,
+        "Question": "Control byte is",
+        "Options": [
+            "a) the first byte in a CDB",
+            "b) the second byte in CDB",
+            "c) the last byte",
+            "d) not part of CDB"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 165,
+        "Question": "Length of Logical Unit number is",
+        "Options": [
+            "a) 8 bit",
+            "b) 16 bit",
+            "c) 32 bit",
+            "d) 64 bit"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 166,
+        "Question": "Which of the following statement is true?",
+        "Options": [
+            "a) SCSI supports only one type of device",
+            "b) SCSI supports multiple types of device",
+            "c) Maximum 8 devices can be connected in SCSI",
+            "d) IDE is more intelligent than SCSI"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 167,
+        "Question": "SCSI Domain should have:",
+        "Options": [
+            "a) At least one device",
+            "b) At least two devices",
+            "c) FC protocol support",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 168,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) All storage devices talk using SCSI commands and responses",
+            "b) SCSI is manufacturer independent",
+            "c) SCSI command is independent of underlying transports like iSCSI, FCP, etc.",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 169,
+        "Question": "SATA initially came as  a evolution/improvement over",
+        "Options": [
+            "a) IDE",
+            "b) Fiber Channel",
+            "c) SAS",
+            "d) SCSI"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 170,
+        "Question": "What is the BUS architecture used by SATA?",
+        "Options": [
+            "a) Parallel",
+            "b) Serial",
+            "c) Depends on the chipset used",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 171,
+        "Question": "Maximum number of SATA devices that can be connected through SATA is",
+        "Options": [
+            "a) 1",
+            "b) 5",
+            "c) 8",
+            "d) 15"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 172,
+        "Question": "What is the maximum distance that you can connect through a SATA?",
+        "Options": [
+            "a) 1 meter",
+            "b) 1 kilometers",
+            "c) 100 kilometers’ with repeaters",
+            "d) 5 meters"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 173,
+        "Question": "What are the advantages of SATA over ATA?",
+        "Options": [
+            "a) Higher speeds",
+            "b) Lesser complexity with respect to power and cabling requirements",
+            "c) Hot Swapping",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 174,
+        "Question": "What is the maximum number of commands that you can queue when you use Native Command Queuing.",
+        "Options": [
+            "a) 32",
+            "b) 16",
+            "c) 8",
+            "d) 4"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 175,
+        "Question": "NCQ gives best improvement in performance when the access from the host is",
+        "Options": [
+            "a) Sequential",
+            "b) Random",
+            "c) Both Sequential and Random",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 176,
+        "Question": "With Port Multiplier you can increase the number of devices to",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 8",
+            "d) 15"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 177,
+        "Question": "In Command Based switching which of the following is not true",
+        "Options": [
+            "a) Host can issue only one command to one drive at a time",
+            "b) Is ideal when expansion of capacity is more important than drive performance",
+            "c) The host issues and completes commands to the drives simultaneously",
+            "d) Might not take advantage of the complete speed of the link"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 178,
+        "Question": "Which of the below is component of SAN",
+        "Options": [
+            "a) Ethernet switch",
+            "b) Fibre Switch",
+            "c) Ethernet Card",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 179,
+        "Question": "What components on SAN can be virtualized",
+        "Options": [
+            "a) Disk",
+            "b) Tape Drive",
+            "c) Tape Library",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 180,
+        "Question": "C-H-S is a terminology related to",
+        "Options": [
+            "a) Logical Disks",
+            "b) Physical Disk",
+            "c) Physical Volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 181,
+        "Question": "Which device implements Tape-Over-Tape Virtualization",
+        "Options": [
+            "a) Falconstor VTL",
+            "b) VSM Open",
+            "c) SN6000",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 182,
+        "Question": "What emulates the Scsi Media Changer command set?",
+        "Options": [
+            "a) VTL",
+            "b) VT",
+            "c) Physical Disk",
+            "d) Physical Volume"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 183,
+        "Question": "What is one significant advantage of Virtualization in datacenters",
+        "Options": [
+            "a) Can manage the Data center with Zero Manpower",
+            "b) Mirroring for Disaster Recovery",
+            "c) Eliminate the need of  physical devices for the Data center",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 184,
+        "Question": "Powerpath is the MPIO software of",
+        "Options": [
+            "a) Microsoft",
+            "b) Veritas",
+            "c) EMC",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 185,
+        "Question": "Which is the correct statement",
+        "Options": [
+            "a) Virtualization cloud presents itself as host to the host",
+            "b) Virtualization cloud presents itself as targets to the host",
+            "c) Virtualization cloud can be set up to present itself has either host or target to the host",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 186,
+        "Question": "Decoupling the Host and real targets in a datacenter is a bliss because it",
+        "Options": [
+            "a) Allows dynamic configuration of targets without host knowing about it",
+            "b) Allows dynamic of configuration of hosts without targets knowing about it",
+            "c) Allows static configuration of targets with host knowing about of it",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 187,
+        "Question": "A SAN network can have",
+        "Options": [
+            "a) 1 FC switch",
+            "b) 2 FC switch",
+            "c) There can be many FC switches",
+            "d) No FC switch"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 188,
+        "Question": "Which of the following company manufactures Raid arrays",
+        "Options": [
+            "a) Hyundai",
+            "b) Honda",
+            "c) Hitachi",
+            "d) Mitsubishi"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 189,
+        "Question": "An FC jammer-analyzer can be used  to",
+        "Options": [
+            "a) Capture all FC frames",
+            "b) Tamper FC packets",
+            "c) I/O performance",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 190,
+        "Question": "Network level virtualization in a SAN fabric can be implemented by having virtualization engine running in",
+        "Options": [
+            "a) HBA",
+            "b) FC switch",
+            "c) Raid array",
+            "d) Any of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 191,
+        "Question": "VTL emulates",
+        "Options": [
+            "a) Library and Tape drive",
+            "b) Library and Disk driver",
+            "c) Virtual Tape only",
+            "d) Any of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 192,
+        "Question": "Which of the following company manufacture San Fabric switches",
+        "Options": [
+            "a) Emulex",
+            "b) Cisco",
+            "c) JNI",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 193,
+        "Question": "A “Logical Volume Manager” helps in",
+        "Options": [
+            "a) Virtualizing storage",
+            "b) provide direct access to the underlying storage",
+            "c) Manage disk space efficiently without having to know the actual hardware details",
+            "d) Both storage virtualization and efficient disk space management"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 194,
+        "Question": "Physical Volumes are",
+        "Options": [
+            "a) The space on a physical storage that represent a logical volume",
+            "b) Disk or disk partitions used to construct logical volumes",
+            "c) A bunch of disks put together that can be made into a logical volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 195,
+        "Question": "Which of the following are true. Logical Volumes _____",
+        "Options": [
+            "a) Can span across multiple volume groups",
+            "b) Can span across multiple physical volumes",
+            "c) Can be constructed only using a single physical disk",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 196,
+        "Question": "A logical Extent(LE) and Physical extent(PE) are related as follows",
+        "Options": [
+            "a) PE resides on a disk, whereas LE resides on a logical volume",
+            "b) LE is larger in size than a PE",
+            "c) LE’s are unique whereas PE’s are not",
+            "d) A LE can map to more than one PE"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 197,
+        "Question": "Which of the following statement is false?",
+        "Options": [
+            "a) LVM is storage independent whereas a RAID system is limited to the storage subsystem",
+            "b) LVM provides snapshot feature",
+            "c) With LVM we can grow volumes to any size",
+            "d) RAID system can provide more storage space than a LVM"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 198,
+        "Question": "LVM is independent of device IDs because",
+        "Options": [
+            "a) LVM uses it’s own device naming to identify a physical disk",
+            "b) LVM stores the volume management information on the disks that helps it reconstruct volumes",
+            "c) LVM is an abstraction layer over physical devices and does not need device ids",
+            "d) Device ids are used only by the device drivers"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 199,
+        "Question": "Concatenation is the technique of",
+        "Options": [
+            "a) Adding physical volumes together to make a volume group",
+            "b) Filling up a physical volume completely before writing to the next one in a logical volume",
+            "c) writing a block of data onto one disk and then a block onto another disk in an alternate fashion",
+            "d) Increasing the size of a volume by adding more disks"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 200,
+        "Question": "Which of the following is not a feature of LVM",
+        "Options": [
+            "a) Independent of disk location",
+            "b) Concatenation and striping of storage systems",
+            "c) Protection against disk failures",
+            "d) Snapshot capability"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 201,
+        "Question": "LVM does not incur much performance overheads because",
+        "Options": [
+            "a) The writes/reads happen only to logical devices",
+            "b) The mapping of logical to physical storage is kept in RAM",
+            "c) The time lost in mapping devices is gained by writing to disks in parallel",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 202,
+        "Question": "VGDA represents",
+        "Options": [
+            "a) The data stored on the logical volume",
+            "b) The data stored on physical volume",
+            "c) LVM configuration data stored on each physical volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 203,
+        "Question": "Clients use which protocol to discover SMI Agents on Storage Area Network?",
+        "Options": [
+            "a) SLP (Service Location Protocol)",
+            "b) AGP(Agent Discovery Protocol)",
+            "c) SMIP (SMI Protocol)",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 204,
+        "Question": "Encoding mechanism of CIM Data as XML Elements ?",
+        "Options": [
+            "a) CIM-XML",
+            "b) xmlCIM",
+            "c) SGML",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 205,
+        "Question": "CIM and WBEM has been defined by ?",
+        "Options": [
+            "a) DMTF",
+            "b) SMI Standards Organization",
+            "c) Open Standards Body",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 206,
+        "Question": "_________  instruments one or more aspects of the CIM Schema",
+        "Options": [
+            "a) Distributor",
+            "b) Provider",
+            "c) Manager",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 207,
+        "Question": "Transport protocol used for XMLCIM is",
+        "Options": [
+            "a) UDP",
+            "b) HTTP",
+            "c) SNMP",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 208,
+        "Question": "Collects responses from providers and returns to the client",
+        "Options": [
+            "a) xmlCIM",
+            "b) CIMOM",
+            "c) DMTF",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 209,
+        "Question": "To show CIM elements in diagram form, the SMI-S 1.1.0 uses a variation of which standard specification from OMG",
+        "Options": [
+            "a) XMLSIM",
+            "b) UML",
+            "c) JPEG",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 210,
+        "Question": "Storage management comprises of",
+        "Options": [
+            "a) SAN Management",
+            "b) Data protection",
+            "c) Disk operation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 211,
+        "Question": "Identify the storage devices",
+        "Options": [
+            "a) Switch",
+            "b) RAID Arrays",
+            "c) Tape drives",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 212,
+        "Question": "Which protocols are used for Storage management",
+        "Options": [
+            "a) SNMP",
+            "b) LDAP",
+            "c) POP3",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 213,
+        "Question": "Identify the difficulties the SAN administrator incur while dealing with diverse vendors",
+        "Options": [
+            "a) Proprietary management interfaces.",
+            "b) Multiple applications to manage storage in the data center.",
+            "c) No single view.",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 214,
+        "Question": "How do Storage administrators ensure secure access to storage devices:",
+        "Options": [
+            "a) By using Zoning",
+            "b) By putting a physical lock on the storage device",
+            "c) By keeping devices shutdown when not in use",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 215,
+        "Question": "Effective Storage management includes",
+        "Options": [
+            "a) Securities",
+            "b) Backups",
+            "c) Reporting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 216,
+        "Question": "Identify the tasks involved in Storage Capacity management",
+        "Options": [
+            "a) Identifying storage systems are approaching full capacity.",
+            "b) Monitoring trends for each resource",
+            "c) Tracking Total capacity, total used, total available",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 217,
+        "Question": "Identify the tasks involved in Storage Performance Management.",
+        "Options": [
+            "a) Have performance thresholds been exceeded for the storage systems?",
+            "b) Is above  causing IT to not meet its service level objectives",
+            "c) Each Server and logical disks in each server, processor utilization",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 218,
+        "Question": "Effect of open standards like SMI(s)",
+        "Options": [
+            "a) Standardization drives software interoperability and interchange ability",
+            "b) Breaks the old-style dependence on proprietary methods, trade secrets, and single providers",
+            "c) Builds a strong foundation on which others can quickly build and innovate",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 219,
+        "Question": "Task of Distributed Management Task Force is",
+        "Options": [
+            "a) To promote interoperability among the management solution providers",
+            "b) Acts as an interface between the various budding technologies and provide solution to manage various environments",
+            "c) To promote interoperability among the management solution providers as well as acts as an interface between the various budding technologies and provide solution to manage various environments",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 220,
+        "Question": "SMI-S Standard uses",
+        "Options": [
+            "a) Java RMI",
+            "b) CIM-XML/HTTP",
+            "c) CORBA",
+            "d) .NET"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 221,
+        "Question": "This is a repository for the storage, management, and dissemination of data in which the mechanical, lighting, electrical and computer systems are designed for maximum energy efficiency and minimum environmental impact.",
+        "Options": [
+            "a) Storage lab",
+            "b) Data Center",
+            "c) Data warehouse",
+            "d) Fabric"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 222,
+        "Question": "This is the process of assigning storage, usually in the form of server disk drive space, in order to optimize the performance of a storage area network.",
+        "Options": [
+            "a) Storage Provisioning",
+            "b) Data mining",
+            "c) Storage assignment",
+            "d) Data Warehousing"
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 223,
+        "Question": "Simply stated, these are large boxes that hold lots of hard disks.",
+        "Options": [
+            "a) Host",
+            "b) Tape library",
+            "c) Switch",
+            "d) Disk Array"
+        ],
+        "Answer": "Answer: d\nExplanation: None."
+    },
+    {
+        "id": 224,
+        "Question": "This consists of the precautions taken so that the effects of a disaster will be minimized.",
+        "Options": [
+            "a) Data retrieval",
+            "b) Disaster recovery",
+            "c) Archive",
+            "d) Replication"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 225,
+        "Question": "This is the practice of collecting computer files that have been packaged together for backup, to transport to some other location, for saving away from the computer so that more hard disks can be made available, or for some other purpose.",
+        "Options": [
+            "a) Backup",
+            "b) Archive",
+            "c) Migration",
+            "d) Compression"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 226,
+        "Question": "This is a way of storing the data in different places on same/different storage. By doing so I/O operations can overlap in a balanced way, improving performance and providing fault tolerance",
+        "Options": [
+            "a) RAID",
+            "b) RAIT",
+            "c) Both RAID and RAIT",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 227,
+        "Question": "This is a method of reducing storage needs by eliminating redundant data",
+        "Options": [
+            "a) Data snapshot",
+            "b) Data De-duplication",
+            "c) Data compression",
+            "d) Data encryption"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 228,
+        "Question": "This is the pooling of physical storage from multiple network storage devices into what appears to be a single storage device that is managed from a central console.",
+        "Options": [
+            "a) Server Provisioning",
+            "b) Data mining",
+            "c) Disk/Tape virtualization",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 229,
+        "Question": "This is the assignment of different categories of data to different types of storage media in order to reduce total storage cost. Categories may be based on levels of protection needed, performance requirements, frequency of use and other considerations.",
+        "Options": [
+            "a) Data mining",
+            "b) Tiered storage",
+            "c) Data protection",
+            "d) Meta-Data management"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 230,
+        "Question": "This is the activity of copying files or databases so that they will be preserved in case of equipment failure or other catastrophe.",
+        "Options": [
+            "a) Snapshot",
+            "b) Replication",
+            "c) Archival",
+            "d) Backup"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 231,
+        "Question": "This technology provides the benefits of disk storage in a system that emulates a tape library to existing backup software.",
+        "Options": [
+            "a) Data compression",
+            "b) VTL",
+            "c) ETL",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 232,
+        "Question": "This is a feature of storage security that is gaining favor among enterprises that use storage area networks (SANs).",
+        "Options": [
+            "a) Data Protection",
+            "b) Data de-duplication",
+            "c) Storage encryption",
+            "d) Data compression"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 233,
+        "Question": "Without this practice, backing up data is virtually useless.",
+        "Options": [
+            "a) Data Archival",
+            "b) Data Retrieval",
+            "c) Data quality assurance",
+            "d) Data Recovery"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 234,
+        "Question": "This ensures proper adherence to government regulations regarding the integrity, accessibility and retention of important data.",
+        "Options": [
+            "a) HIPAA",
+            "b) Data encryption",
+            "c) Data compliance",
+            "d) SOX"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 235,
+        "Question": "There are endless rules and regulations in this area of storage technology.",
+        "Options": [
+            "a) Data Protection",
+            "b) Data Storage Management",
+            "c) Database management",
+            "d) Meta data management"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 236,
+        "Question": "The purpose of backup is:",
+        "Options": [
+            "a) To restore a computer to an operational state following a disaster",
+            "b) To restore small numbers of files after they have been accidentally deleted",
+            "c) To restore one among many version of the same file for multiple backup environment",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 237,
+        "Question": "Backup of the source data can be created",
+        "Options": [
+            "a) On the same device",
+            "b) On another device",
+            "c) At some other location",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 238,
+        "Question": "Which of the following backup technique is most space efficient?",
+        "Options": [
+            "a) Full backup",
+            "b) Incremental backup",
+            "c) Differential backup",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 239,
+        "Question": "Which of the following statements are true?",
+        "Options": [
+            "a) Data can be recovered fastest in online backup",
+            "b) Tape library is an example of nearline storage",
+            "c) Data recovery can take hours for offline backup",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 240,
+        "Question": "Which of the following qualifies as best DR (Disaster Recovery) site?",
+        "Options": [
+            "a) DR site in the same campus",
+            "b) DR site in the same city",
+            "c) DR site in the same country",
+            "d) DR site in a different country"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 241,
+        "Question": "Which of the following techniques can be used for optimizing backed up data space?",
+        "Options": [
+            "a) Encryption and Deduplication",
+            "b) Compression and Deduplication",
+            "c) Authentication and Deduplication",
+            "d) Deduplication only"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 242,
+        "Question": "To decide on a backup strategy for your organization, which of the following should you consider?",
+        "Options": [
+            "a) RPO (Recovery Point Objective)",
+            "b) RTO (Recovery Time Objective)",
+            "c) Both RPO & RTO",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 243,
+        "Question": "Which of the following can be used for reducing recovery time?",
+        "Options": [
+            "a) Automatic failover",
+            "b) By taking backup on a faster device",
+            "c) Taking multiple backups – one in same location, another at different location",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 244,
+        "Question": "Which of the following is false?",
+        "Options": [
+            "a) The more important the data, the greater the need for backing it up",
+            "b) A backup is as useful as its associated restore strategy",
+            "c) Storing the backup copy near to its original site is best strategy",
+            "d) Automated backup and scheduling is preferred over manual operations"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 245,
+        "Question": "Which of the following is Backup software?",
+        "Options": [
+            "a) Amanda",
+            "b) Bacula",
+            "c) IBM Tivoli Storage Manager",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 246,
+        "Question": "Which of the following statement is false?",
+        "Options": [
+            "a) In synchronous mirroring, write acknowledgement is sent once both the mirrors are written",
+            "b) In synchronous mirroring, write response time can be slow as it depends on the slowest disk of the mirror",
+            "c) Write response to an application is faster for asynchronous mirroring as compared to synchronous mirroring",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 247,
+        "Question": "Which of the following statement is false for snapshots?",
+        "Options": [
+            "a) Snapshot technique can use copy-on-write mechanism",
+            "b) Uses point-in-time to ensure data integrity",
+            "c) Snapshot copy must be on a different device",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 248,
+        "Question": "Which of the following is true for CDP – Continuous Data Protection?",
+        "Options": [
+            "a) It backs up every change to the data",
+            "b) Can restore to any time in the past",
+            "c) Both the mentioned",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 249,
+        "Question": "Which of the following is false for D2D2T – Disk to Disk to Tape backup?",
+        "Options": [
+            "a) Backup and Restore is faster",
+            "b) Tape is used for archiving and/or long term storage",
+            "c) Cheaper disks are generally used for backup device",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 250,
+        "Question": "Which of the following is false for NDMP protocol?",
+        "Options": [
+            "a) NDMP uses TCP/IP",
+            "b) NDMP allows selective file recovery",
+            "c) NDMP allows asynchronous event notification",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 251,
+        "Question": "The serverless backup technology mainly depends on",
+        "Options": [
+            "a) Copy command",
+            "b) Extended copy command",
+            "c) Read/write command",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 252,
+        "Question": "Snapshot provides a mechanism to take backup of",
+        "Options": [
+            "a) Static data",
+            "b) Deleted data",
+            "c) Dynamic data",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 253,
+        "Question": "Snapshot provides information on",
+        "Options": [
+            "a) The latest data on the volume",
+            "b) The old data on the volume",
+            "c) The data present on the volume at specified time",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 254,
+        "Question": "The CDP is mainly based on",
+        "Options": [
+            "a) XCOPY command",
+            "b) Data mirroring",
+            "c) Snapshot mechanism",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 255,
+        "Question": "Which snapshot technique is space efficient?",
+        "Options": [
+            "a) Split-Mirror",
+            "b) Copy-on-Write",
+            "c) Both Split-Mirror and Copy-on-Write consumes same space",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 256,
+        "Question": "Data protection is required to recover from",
+        "Options": [
+            "a) Disk/System failures",
+            "b) Software corruption through virus",
+            "c) Human errors",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 257,
+        "Question": "The challenges for data protection are",
+        "Options": [
+            "a) Taking care of the old data",
+            "b) Backing up the dynamic data",
+            "c) Restoring old data",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 258,
+        "Question": "Name the mechanism which provides the highest level of data protection",
+        "Options": [
+            "a) RAID 0",
+            "b) RAID 1",
+            "c) RAID 6",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 259,
+        "Question": "Which statements are true w.r.t SMART disks",
+        "Options": [
+            "a) Detect and correct the errors that occur because of failure",
+            "b) Monitors the disk at regular intervals",
+            "c) Provides information on the disk failures in advance",
+            "d) Monitors the disk at regular intervals as provide information on disk failures in advance"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 260,
+        "Question": "The drawback of data mirroring is",
+        "Options": [
+            "a) Backing up the data",
+            "b) Performance degradation",
+            "c) Difficulty involved in configuring the mirrored volume",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 261,
+        "Options": [
+            "6. With reference to Volume Manager, is the following statement TRUE or FALSE under specific configuration?",
+            "\t– Volume manager provides protection against multiple disk failures",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 262,
+        "Question": "Which are all the statements valid statements w.r.t volume manager",
+        "Options": [
+            "a) Achieve protection against single/multiple disk failures",
+            "b) Sustain system/node failure",
+            "c) Get better performance compared to using individual disk",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 263,
+        "Question": "Point out the false statement. Volume can",
+        "Options": [
+            "a) Span across different partitions/disks",
+            "b) Span across different disk arrays",
+            "c) Be created on tape device",
+            "d) Be a shared volume"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 264,
+        "Question": "Identify the correct statements w.r.t. Journal File System (JFS)",
+        "Options": [
+            "a) JFS keeps pointers to all the stale data",
+            "b) While recovering data on a system, JFS helps in quicker recovery",
+            "c) JFS takes more time to recover the data",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 265,
+        "Question": "In a clustered volume manager scenario, identify the incorrect statement",
+        "Options": [
+            "a) All the nodes in the system will have access to shared volumes",
+            "b) Only a set of nodes will have access to shared volumes",
+            "c) All the nodes will be allowed to write data to the shared volume",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 266,
+        "Question": "Bathtub Curve is used to represent the reliability characteristics of hardware components. Why is this not applicable to software modules?",
+        "Options": [
+            "a) Software failures tends to stabilize and do not increase with respect to time",
+            "b) Software failures cannot be predicted",
+            "c) Hardware components do not fail for a long time",
+            "d) Software fails more compared to hardware"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 267,
+        "Question": "Which one of the below is measured by MTBF?",
+        "Options": [
+            "a) Tolerance",
+            "b) Life time",
+            "c) Reliability",
+            "d) Quality"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    },
+    {
+        "id": 268,
+        "Question": "In designing a fault-tolerant system which one of the methods is appropriate?",
+        "Options": [
+            "a) Fail Safe",
+            "b) Fail Fast",
+            "c) Multi-Fail",
+            "d) Fail Rare"
+        ],
+        "Answer": "Answer: b\nExplanation: None.\n"
+    },
+    {
+        "id": 269,
+        "Question": "A system has MTBF of 100,000 hours and MTTR of 30 minutes. What is the average down time of the system in one year?",
+        "Options": [
+            "a) 2.6 minutes",
+            "b) 1.8 minutes",
+            "c) 18 minutes",
+            "d) 30 minutes"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 270,
+        "Question": "What is the most common redundancy configuration for HA?",
+        "Options": [
+            "a) N+1",
+            "b) N+M",
+            "c) 2N",
+            "d) 5N"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 271,
+        "Question": "One of the common problems seen in a cluster configuration has a name which contains the most complex part of human body.",
+        "Options": [
+            "a) Split-brain",
+            "b) Cluster",
+            "c) Multi-Brain",
+            "d) Heart Beat"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 272,
+        "Question": "Which one of the following is a cluster, based on shared nothing model?",
+        "Options": [
+            "a) MSCC NT4",
+            "b) Netware CS",
+            "c) Unixware 7",
+            "d) Linux-HA"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 273,
+        "Question": "The MTBF of system should be high for fault tolerant systems with",
+        "Options": [
+            "a) Single Point Failure",
+            "b) Multi Point Tolerant",
+            "c) Single Point Tolerant",
+            "d) Multi-Tolerant"
+        ],
+        "Answer": "Answer: a\nExplanation: None.\n"
+    },
+    {
+        "id": 274,
+        "Question": "Which one of the following is NOT a Single System Image Clustering Solution?",
+        "Options": [
+            "a) Open VMS",
+            "b) HP-TruCluster",
+            "c) OpenSSI",
+            "d) NovelNetware"
+        ],
+        "Answer": "Answer: d\nExplanation: None.\n"
+    },
+    {
+        "id": 275,
+        "Question": "Which one is a common software fault tolerant model for safety critical jobs such as flight control software?",
+        "Options": [
+            "a) Active-Active config.",
+            "b) Active-Backup config",
+            "c)  N-Version Programming",
+            "d) Failover"
+        ],
+        "Answer": "Answer: c\nExplanation: None.\n"
+    }
+]

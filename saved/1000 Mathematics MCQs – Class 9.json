@@ -1,0 +1,2190 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following is Natural number?",
+        "Options": [
+            "a) 3.5",
+            "b) 7",
+            "c) 0",
+            "d) -2"
+        ],
+        "Answer": "Answer: b\nExplanation: Natural numbers contains {1, 2, 3…}.\n3.5 is not an integer, so it is not natural number.\n0 and -2 are not natural numbers because they are not the part of natural numbers’ set.\n"
+    },
+    {
+        "id": 2,
+        "Question": "Integer numbers set is denoted by which letter?",
+        "Options": [
+            "a) N",
+            "b) W",
+            "c) Q",
+            "d) Z"
+        ],
+        "Answer": "Answer: d\nExplanation: Integers are denoted by Z where Z contains {…-2, -1, 0, 1, 2 …}.\n"
+    },
+    {
+        "id": 3,
+        "Question": "Find the incorrect option (Assume conventional notations).",
+        "Options": [
+            "a) Q = p/q where p and q are integers and q=0",
+            "b) N = {1, 2, 3…}",
+            "c) W = {0, 1, 2, 3…}",
+            "d) Z = {…-2, -1, 0, 1, 2…}"
+        ],
+        "Answer": "Answer: a\nExplanation: Q = p/q where p and q are integers and q = 0 is an incorrect option. In the option, q=0 is given which is incorrect it should be q ≠ 0. All other options are correct since N set includes all positive integers, W set includes all integers and zero and Z set includes zero and all positive and negative integers.\n"
+    },
+    {
+        "id": 4,
+        "Question": "There are _________ rational numbers between 2 and 3.",
+        "Options": [
+            "a) zero",
+            "b) two",
+            "c) infinite",
+            "d) data is insufficient"
+        ],
+        "Answer": "Answer: b\nExplanation: 0 = 0/1 = 0/2 =… and so on. Here 0 and any number in the denominator is integer and denominator ≠ 0 so according to definition, zero is a rational number.\n"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following is not rational number?",
+        "Options": [
+            "a) 8/9",
+            "b) 5/7",
+            "c) -3/2",
+            "d) √2"
+        ],
+        "Answer": "Answer: c\nExplanation: Between 2 and 3, there are infinite numbers which are rational numbers like 11/5, 12/5, 13/6, 17/8 and so on. They all are integers and no denominator is zero so they are rational numbers. Thus, we can find infinite numbers who satisfies this condition.\nSo we can say that “There are infinite rational numbers between any two integers”.\n"
+    },
+    {
+        "id": 6,
+        "Question": "How many whole numbers are there between -3 and 3 (Including -3 and 3)?",
+        "Options": [
+            "a) Four",
+            "b) Zero",
+            "c) Seven",
+            "d) Three"
+        ],
+        "Answer": "Answer: b\nExplanation: All integers {…-2, -1, 0, 1, 2…} can be represented in the form of p/q where p and q are integers and q ≠ 0. Example – 0/1, 2/1, etc. Hence, all integers are rational numbers.\n2/5 is rational number but 2/5= 0.4 which is not an integer. Hence, all rational numbers are not integers.\n"
+    },
+    {
+        "id": 7,
+        "Question": "Rational numbers are denoted by ______",
+        "Options": [
+            "a) N",
+            "b) Z",
+            "c) Q",
+            "d) W"
+        ],
+        "Answer": "Answer: d\nExplanation: A number is said to be rational number if it can be represented by p/q where p and q are integers and q≠0 but √2 = √2/1 and √2 = 1.414213… which is not integer hence, √2 is not rational number.\n"
+    },
+    {
+        "id": 8,
+        "Question": "Irrational numbers are denoted by _______",
+        "Options": [
+            "a) N",
+            "b) Z",
+            "c) Q",
+            "d) S"
+        ],
+        "Answer": "Answer: d\nExplanation: As per the conventional notation, irrational numbers are denoted by ‘S’.\nN, Z and Q are used for Natural numbers, Integers and Rational numbers respectively.\n"
+    },
+    {
+        "id": 9,
+        "Question": "\\(\\frac{1 + \\sqrt{3}}{2}\\) is ____________",
+        "Options": [
+            "a) rational number",
+            "b) irrational number",
+            "c) natural number",
+            "d) integer"
+        ],
+        "Answer": "Answer: b\nExplanation: According to definition, a number is said to be irrational if it can’t be represented in the form of p/q, where p and q are integers and q ≠ 0.\nHere, \\(\\sqrt{3}\\) ≈ 1.73 which is not an integer. So as per the definition, the given number is irrational number.\n"
+    },
+    {
+        "id": 10,
+        "Question": "Real numbers are denoted by which letter?",
+        "Options": [
+            "a) R",
+            "b) W",
+            "c) Q",
+            "d) N"
+        ],
+        "Answer": "Answer: a\nExplanation: As per the conventional notation, irrational numbers are denoted by ‘R’.\nW, Q and N are used for Whole numbers, Rational numbers and Natural numbers respectively.\n"
+    },
+    {
+        "id": 11,
+        "Question": "How many real numbers are there between 3 and 8 (Including 3 and 8)?",
+        "Options": [
+            "a) Six",
+            "b) Four",
+            "c) Infinite",
+            "d) Five"
+        ],
+        "Answer": "Answer: a\nExplanation: Real numbers comprise rational numbers and irrational numbers.\n{Real numbers} = {Rational numbers} + {Irrational numbers}\nHence we can say that all irrational numbers are real numbers.\n"
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following is not irrational number?",
+        "Options": [
+            "a) \\(\\frac{\\sqrt{9}}{2}\\) ",
+            "b) π",
+            "c) \\(\\frac{\\sqrt{3}}{2}\\) ",
+            "d) \\(\\frac{\\sqrt{11}}{2}\\)"
+        ],
+        "Answer": "Answer: c\nExplanation: There are infinite numbers between 3 and 8 like 3.45, 5.56, 5.95, 6, 7.41…. and so on. All these numbers are real according to the definition of real numbers\n{Real numbers} = {Rational numbers} + {Irrational numbers}\nHence we can say that there are infinite real numbers between any two integers.\n"
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following is the correct way to write \\(5.4\\bar{12}\\)?",
+        "Options": [
+            "a) 5.412412412…",
+            "b) 5.4121212…",
+            "c) -5.412",
+            "d) 5.4 – 12"
+        ],
+        "Answer": "Answer: b\nExplanation: Bar sign is used to show the blocks of numbers which are repeated. Here, the sign of ‘bar’ ( ̅ )  is only over two numbers, 1 and 2 which means block of these two numbers is repeated infinite times. There is no sign of bar over ‘4’ which shows that ‘4’ is not repeated.\n"
+    },
+    {
+        "id": 14,
+        "Question": "0.3454545…..=_____________",
+        "Options": [
+            "a) 345/1000",
+            "b) 350/995",
+            "c) 355/900",
+            "d) 342/990"
+        ],
+        "Answer": "Answer: d\nExplanation: Let 0.3454545…=x\nThen, 100x=34.54545…..\n100x=34.2 + 0.3454545…\n100x=34.2 + x\n99x=34.2\nThen, x=34.2/99\nx=342/990.\n"
+    },
+    {
+        "id": 15,
+        "Question": "0.3333… is a/an ______________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number"
+        ],
+        "Answer": "Answer: a\nExplanation: Let’s take a known rational number to understand this.\nFor example, 3/4\nWe know that 3/4 is a rational number because both 3 and 4 are natural\nnumbers and 3/4=0.75 which is terminating expansion.\nNow, let’s take one example of non-terminating and recurring expansion.\nFor example 0.5787878…\nLet x=0.5787878…\nThen 100x=57.878787…\n100x=57.3 + 0.5787878…\n100x=57.3 + x\n99x=57.3\nThen, x=57.3/99\nx=573/990\nThis is of the form of p/q where p and q are natural numbers. Hence we can say that .5787878… is rational number.\nHence, we can conclude that the decimal expansion of rational numbers is either terminating or non-terminating and recurring (repeating).\nWe can also conclude that ‘The decimal expansion of irrational numbers is non-terminating and non-recurring.’\n"
+    },
+    {
+        "id": 16,
+        "Question": "0.238765563246… is a/an __________",
+        "Options": [
+            "a) rational number",
+            "b) irrational number",
+            "c) natural number",
+            "d) whole number"
+        ],
+        "Answer": "Answer: c\nExplanation: Let 0.333…=x\nThen, 10x=3.33333…\n10x=3 + 0.333…\n10x=3 + x\n9x=3\nThen, x=3/9=1/3\nThis is of the form p/q where p and q are natural numbers. Hence by definition, 0.3333…. is a rational number.\nAnother method: Decimal expansion of rational numbers is either terminating or non-terminating and recurring (repeating).\nAs we can see that 0.3333… is non-terminating and recurring so it is a rational number.\n"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following number is an irrational number between 1/3 and 2/3?",
+        "Options": [
+            "a) 0.3333….",
+            "b) 0.343403400…",
+            "c) 0.55555….",
+            "d) 0.67670671…."
+        ],
+        "Answer": "Answer: b\nExplanation: Given number is not an integer, so it does not belong to natural number and whole number set.\nIt is not-terminating and non-recurring, so we can say that 0.238765563246…is an irrational number and not a rational number.\n"
+    },
+    {
+        "id": 18,
+        "Question": "√5 is a/an ___________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number"
+        ],
+        "Answer": "Answer: b\nExplanation: 1/3=0.3333… and 2/3=0.6666…0.333… and 0.555… are non-terminating and recurring, so they can be represented in the form p/q where p and q are integers. Hence they are rational numbers. 0.343403400 and 0.67670671… are non-terminating and non-recurring. Hence they are irrational numbers. But, among 0.343403400…and 0.67670671, only 0.343403400 is between 1/3 and 2/3. So option 0.343403400… is correct.\n"
+    },
+    {
+        "id": 19,
+        "Question": "Summation or Subtraction of two non-zero rational numbers is a/an __________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational Number",
+            "d) irrational number"
+        ],
+        "Answer": "Answer: c\nExplanation: Let’s take two non-zero rational numbers to understand this.\nConsider two numbers, 1/2 and 3/4\nAdding these two, we get 1/2 + 3/4 = {4 + (2*3)}/2*4\n= 10/8\n= 5/4\nWhich is rational number since its result is terminating (5/4 = 1.25).\nSubtracting these two, we get 3/4 – 1/2 = {(2*3) – 4}/2*4\n= 2/8\n= 1/4\nWhich is rational number since its result is terminating (1/4 = 0.25).\nHence, result of two terminating numbers would also be terminating so we can say that Summation or Subtraction of two rational number is always rational number.\nHowever, as we saw in this example, it is not necessary that the result of summation or subtraction of two non-zero rational number would be Integer. So the result may or may not be Natural number or Whole number.\n"
+    },
+    {
+        "id": 20,
+        "Question": "If we multiply or divide two rational numbers, we get a/an __________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational Number",
+            "d) irrational number"
+        ],
+        "Answer": "Answer: c\nExplanation: Let’s take two non-zero rational numbers to understand this.\nConsider two numbers, 1/2 and 3/4\nMultiplying these two, we get 1/2 * 3/4 = 3/8\nWhich is rational number since its result is terminating (3/8= 0.875).\nSubtracting these two, we get (3/4) / (1/2) = (3*2) / 4\n = 6/4\nWhich is rational number since its result is terminating (6/4= 1.5).\nHence, result of two terminating numbers would also be terminating so we can say that Summation or Subtraction of two rational number is always rational number.\nHowever, as we saw in this example, it is not necessary that the result of product or division of two non-zero rational number would be Integer. So the result may or may not be Natural number or Whole number.\n"
+    },
+    {
+        "id": 21,
+        "Question": "If we add or subtract an irrational number and a rational number (non-zero), then we get a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) rational",
+            "c) irrational",
+            "d) rational or irrational"
+        ],
+        "Answer": "Answer: c\nExplanation: Let’s take two non-zero numbers to understand this. One rational and one irrational number.\nConsider two numbers, 3 and \\(\\sqrt{2}\\) \nAdding these two, we get 3 + \\(\\sqrt{2}\\)\nNow, \\(\\sqrt{2}\\) = 1.414213…\nExpansion of √2 is non-terminating, hence result of 3 + \\(\\sqrt{2}\\) would be non-terminating and non-recurring.\nThe same will happen while subtracting this.\nHence, we can say that if we add or subtract an irrational number and a rational number (non-zero) then we get an irrational number.\n"
+    },
+    {
+        "id": 22,
+        "Question": "If we add or subtract two irrational numbers, we get __________ number.",
+        "Options": [
+            "a) natural",
+            "b) rational",
+            "c) irrational",
+            "d) rational or irrational"
+        ],
+        "Answer": "Answer: d\nExplanation: Let’s take two irrational numbers to understand this.\nConsider \\(\\sqrt{2}\\) and –\\(\\sqrt{2}\\)\nBy adding these, we get \\(\\sqrt{2}\\) + (-\\(\\sqrt{2}\\)) = 0\nWhich is rational number since it is terminating.\nNow, consider \\(\\sqrt{5}\\) and \\(\\sqrt{2}\\)\nBy adding these, we get \\(\\sqrt{5}\\) + \\(\\sqrt{2}\\)\nWhich is irrational since the expansion of √5 and √2 is non-terminating and non-recurring.\nNow, let’s take two numbers for subtraction.\nConsider \\(\\sqrt{2}\\) and \\(\\sqrt{2}\\).\nBy subtracting these, we get \\(\\sqrt{2} – \\sqrt{2}\\) = 0\nWhich is rational number since it is terminating.\nConsider \\(\\sqrt{5}\\) and \\(\\sqrt{2}\\)\nBy subtracting these, we get \\(\\sqrt{5}\\) – \\(\\sqrt{2}\\)\nWhich is irrational since the expansion of \\(\\sqrt{5}\\) and \\(\\sqrt{2}\\) is non-terminating and non-recurring.\nHence, we can say that if we add or subtract two irrational numbers, we get rational or irrational number.\n"
+    },
+    {
+        "id": 23,
+        "Question": "3 + \\(\\sqrt{2}\\) is a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) irrational",
+            "c) rational",
+            "d) whole"
+        ],
+        "Answer": "Answer: b\nExplanation: \\(\\sqrt{2}\\) = 1.414213…\nSince the expansion of √2 is non-terminating and non-recurring, result of 3 + \\(\\sqrt{2}\\) would be also non-terminating and non-recurring. So we can say that 3 + \\(\\sqrt{2}\\) is an irrational number.\n"
+    },
+    {
+        "id": 24,
+        "Question": "π – π is __________ number.",
+        "Options": [
+            "a) natural",
+            "b) irrational",
+            "c) rational",
+            "d) negative"
+        ],
+        "Answer": "Answer: c\nExplanation: π – π = 0\nWhich is rational number since it is terminating.\n"
+    },
+    {
+        "id": 25,
+        "Question": "By simplifying \\((\\sqrt{7}+\\sqrt{5}) * (\\sqrt{7}-\\sqrt{5})\\), we get __________",
+        "Options": [
+            "a) 24",
+            "b) 2",
+            "c) 12",
+            "d) 74"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that \\((\\sqrt{a}+\\sqrt{b}) * (\\sqrt{a}-\\sqrt{b})\\) = a-b\nBy applying that rule here, we get = \\((\\sqrt{7}+\\sqrt{5}) * (\\sqrt{7}-\\sqrt{5})\\) \n= 7-5\n= 2.\n"
+    },
+    {
+        "id": 26,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{\\sqrt{3}}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{\\sqrt{3}}{3}\\) ",
+            "b) \\(\\sqrt{3}\\) ",
+            "c) \\(\\frac{3}{\\sqrt{3}}\\) ",
+            "d) \\(3\\sqrt{3}\\)"
+        ],
+        "Answer": "Answer: a\nExplanation: When the denominator of an expression contains a term with a square root, the process of converting it to an equivalent expression whose denominator is a rational number is called rationalising the denominator.\nBy multiplying \\(\\frac{1}{\\sqrt{3}}\\) by \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\), we will get same expression since \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\) = 1.\nTherefore, \\(\\frac{1}{\\sqrt{3}} = \\frac{1}{\\sqrt{3}} * (\\frac{\\sqrt{3}}{\\sqrt{3}}) = \\frac{\\sqrt{3}}{3}\\).\n"
+    },
+    {
+        "id": 27,
+        "Question": "By simplifying \\((\\sqrt{3}+\\sqrt{2}) * (\\sqrt{3}+\\sqrt{2})\\), we get __________",
+        "Options": [
+            "a) 5 + 4√6",
+            "b) 5 + 2√6",
+            "c) 1",
+            "d) 5"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that \\((\\sqrt{a}+\\sqrt{b}) * (\\sqrt{a}+\\sqrt{b}) = a + 2\\sqrt{a}\\sqrt{b} + b.\\) \nBy applying that rule here, we get \\((\\sqrt{3}+\\sqrt{2}) * (\\sqrt{3}+\\sqrt{2}) = 3 + 2\\sqrt{3}\\sqrt{2} + 2\n= 5 + 2\\sqrt{6}\\) since \\(\\sqrt{a}\\sqrt{b} = \\sqrt{(ab)}\\),\n\\(\\sqrt{3}\\sqrt{2} = \\sqrt{(3*2)} = \\sqrt{6}\\).\n"
+    },
+    {
+        "id": 28,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{(6-\\sqrt{3})}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{6-\\sqrt{3}}{3}\\) ",
+            "b) \\(\\frac{6-\\sqrt{3}}{33}\\) ",
+            "c) \\(\\frac{6+\\sqrt{3}}{3}\\) ",
+            "d) \\(\\frac{6+\\sqrt{3}}{33}\\)"
+        ],
+        "Answer": "Answer: d\nExplanation: When the denominator of an expression contains a term with a square root, the process of converting it to an equivalent expression whose denominator is a rational number is called rationalising the denominator.\nBy multiplying \\(\\frac{1}{(6-\\sqrt{3})}\\) by \\(6+\\sqrt{3}\\), we will get same expression since \\(\\frac{6+\\sqrt{3}}{6+\\sqrt{3}}\\) = 1.\nTherefore, \\(\\frac{1}{(6-\\sqrt{3})} = \\frac{1}{(6-\\sqrt{3})} * \\frac{6+\\sqrt{3}}{6+\\sqrt{3}} = \\frac{6+\\sqrt{3}}{(6*6) – (\\sqrt{3}*\\sqrt{3})}\\) \n= \\(\\frac{6+\\sqrt{3}}{(36-3)}\\) \n= \\(\\frac{6+\\sqrt{3}}{33}\\).\n"
+    },
+    {
+        "id": 29,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{5+\\sqrt{7}}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{5-\\sqrt{7}}{5+\\sqrt{7}}\\) ",
+            "b) \\(\\frac{5-\\sqrt{7}}{18}\\) ",
+            "c) \\(\\frac{5+\\sqrt{7}}{18}\\) ",
+            "d) \\(\\frac{5+\\sqrt{7}}{5-\\sqrt{7}}\\)"
+        ],
+        "Answer": "Answer: b\nExplanation: When the denominator of an expression contains a term with a square root, the process of converting it to an equivalent expression whose denominator is a rational number is called rationalising the denominator.\nBy multiplying \\(\\frac{1}{5+\\sqrt{7}}\\) by \\(5-\\sqrt{7}\\), we will get same expression since \\(\\frac{5-\\sqrt{7}}{5-\\sqrt{7}}\\) = 1.\nTherefore, \\(\\frac{1}{5+\\sqrt{7}} = {\\frac{1}{5+\\sqrt{7}}} * (\\frac{5-\\sqrt{7}}{5-\\sqrt{7}})\\) \n= \\(\\frac{5-\\sqrt{7}}{(5*5)-(\\sqrt{7}*\\sqrt{7})}\\) \n= \\(\\frac{5-\\sqrt{7}}{25-7}\\) \n= \\(\\frac{5-\\sqrt{7}}{18}\\).\n"
+    },
+    {
+        "id": 30,
+        "Question": "Summation or Subtraction of rational number and irrational number is always a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number"
+        ],
+        "Answer": "Answer: d\nExplanation: Let’s take one rational number and one irrational number for example.\nConsider 3 and \\(\\sqrt{2}\\) \nWe know that 3 is rational number and \\(\\sqrt{2}\\) is irrational number.\nBy adding 3 and \\(\\sqrt{2}\\), we get 3+\\(\\sqrt{2}\\) \nWe know that \\(\\sqrt{2}\\) = 1.414213…\nSince the expansion of \\(\\sqrt{2}\\) is non-terminating and non-recurring, expansion of 3+\\(\\sqrt{2}\\) will also be non-terminating and non-recurring. Therefore result of summation will be irrational number.\nThe same will happen if we subtract \\(\\sqrt{2}\\) from 3.\nHence we can say that Summation or Subtraction of rational number and irrational number is always irrational number.\n"
+    },
+    {
+        "id": 31,
+        "Question": "By simplifying (8)2/3, we get __________",
+        "Options": [
+            "a) 4",
+            "b) 16",
+            "c) (8)2/(8)3",
+            "d) 32"
+        ],
+        "Answer": "Answer: a\nExplanation: According to laws of exponents, am/n = \\((\\sqrt[n]{a})^m\\).\nApplying that rule here, 82/3 = \\((\\sqrt[3]{8})^2\\) \n= 22\n= 4."
+    },
+    {
+        "id": 32,
+        "Question": "By simplifying (3)3/2, we get __________",
+        "Options": [
+            "a) (3)3/(3)2",
+            "b) (3)2/(3)3",
+            "c) \\(\\sqrt{27}\\) ",
+            "d) \\(\\sqrt[3]{9}\\)"
+        ],
+        "Answer": "Answer: c\nExplanation: According to laws of exponents, am/n = \\((\\sqrt[n]{a})^m\\).\nApplying that rule here, 33/2 = (33)1/2\n= 271/2\n= \\(\\sqrt{27}\\).\n"
+    },
+    {
+        "id": 33,
+        "Question": "By simplifying (5)3/8, we get __________",
+        "Options": [
+            "a) (5)3/(58)",
+            "b) (125)1/8",
+            "c) (5)8/(5)3",
+            "d) 524"
+        ],
+        "Answer": "Answer: b\nExplanation: According to laws of exponents, am/n = \\((\\sqrt[n]{a})^m\\).\nApplying that rule here, 53/8= (53)1/8\n = (5*5*5)1/8\n = (125)1/8.\n"
+    },
+    {
+        "id": 34,
+        "Question": "By simplifying (3)1/3 * (3)2/3, we get __________",
+        "Options": [
+            "a) (3)2/9",
+            "b) (3)-1/9",
+            "c) 9",
+            "d) 3"
+        ],
+        "Answer": "Answer: d\nExplanation: According to laws of exponents, am an = a(m+n)\nApplying that rule here, (3)1/3 * (3)2/3 = 3(1/3+2/3)\n= 3(1+2)/3\n= 33/3\n= 31 = 3.\n"
+    },
+    {
+        "id": 35,
+        "Question": "By simplifying (7)2/5 * (7)3/4, we get __________",
+        "Options": [
+            "a) (7)6/20",
+            "b) 7",
+            "c) (7)23/20",
+            "d) (7)-7/20"
+        ],
+        "Answer": "Answer: c\nExplanation: According to laws of exponents, am an = a(m+n)\nApplying that rule here, (7)2/5 * (7)3/4 = (7)(2/5+3/4)\n= (7)((2*4)+(5*3))/(5*4)\n= (7)(8+15)/20\n= (7)23/20.\n"
+    },
+    {
+        "id": 36,
+        "Question": "By simplifying (9)1/4 * (9)7/4, we get __________",
+        "Options": [
+            "a) 81",
+            "b) 9",
+            "c) 3",
+            "d) 27"
+        ],
+        "Answer": "Answer: a\nExplanation: According to laws of exponents, am an = a(m+n)\nApplying that rule here, (9)1/4 * (9)7/4 = (9)(1+7)/4\n= (9)8/4\n= (9)2\n= 81.\n"
+    },
+    {
+        "id": 37,
+        "Question": "By simplifying (5)3/4/(5)1/4, we get __________",
+        "Options": [
+            "a) (5)1/4",
+            "b) (5)3/16",
+            "c) \\(\\sqrt[3]{5}\\) ",
+            "d) \\(\\sqrt[2]{5}\\)"
+        ],
+        "Answer": "Answer: d\nExplanation: According to laws of exponents, am/an = am-n\nApplying that rule here, (5)3/4/(5)1/4 = (5)(3/4-1/4)\n= (5)(3-1)/4\n= (5)2/4\n= (5)1/2\n= \\(\\sqrt[2]{5}\\).\n"
+    },
+    {
+        "id": 38,
+        "Question": "By simplifying (4)9/(4)3, we get __________",
+        "Options": [
+            "a) 427",
+            "b) 46",
+            "c) 412",
+            "d) 43"
+        ],
+        "Answer": "Answer: b\nExplanation: According to laws of exponents, am/an = am-n\nApplying that rule here, (4)9/(4)3 = 4(9-3)\n= 46.\n"
+    },
+    {
+        "id": 39,
+        "Question": "By simplifying (13)1/2/(13)7/2, we get __________",
+        "Options": [
+            "a) 137/4",
+            "b) 13-3",
+            "c) \\(\\frac{1}{\\sqrt[2]{13}}\\) ",
+            "d) \\(\\frac{1}{\\sqrt[3]{13}}\\)"
+        ],
+        "Answer": "Answer: b\nExplanation: According to laws of exponents, am/an = am-n\nApplying that rule here, (13)1/2/(13)7/2 = 13(1/2-7/2)\n= 13((1)-(7))/(2)\n= 13((-6))/(2)\n= 13-3.\n"
+    },
+    {
+        "id": 40,
+        "Question": "By simplifying (4)1/3*(16)1/3, we get __________",
+        "Options": [
+            "a) 4",
+            "b) 8",
+            "c) 643",
+            "d) 16"
+        ],
+        "Answer": "Answer: a\nExplanation: According to laws of exponents, (am)*(bm) = (ab)m\nApplying that rule here, (4)1/3*(16)1/3 = (4*16)1/3\n= (64)1/3\n= 4.\n"
+    },
+    {
+        "id": 41,
+        "Question": "By simplifying 23*53, we get __________",
+        "Options": [
+            "a) 106",
+            "b) 100",
+            "c) 1000",
+            "d) 109"
+        ],
+        "Answer": "Answer: c\nExplanation: According to laws of exponents, (am)*(bm) = (ab)m\nApplying that rule here, 23*53=(2*5)3\n=(10)3\n= 1000.\n"
+    },
+    {
+        "id": 42,
+        "Question": "By simplifying (2)1/2/(18)-1/2, we get __________",
+        "Options": [
+            "a) 36",
+            "b) 362",
+            "c) 9",
+            "d) 6"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that according to laws of exponents, 1/18-1/2 = 181/2\nHence, (2)1/2/(18)-1/2 =(2)1/2 (18)1/2\nAccording to laws of exponents, (am)*(bm) = (ab)m\nApplying that rule here, (2)1/2 (18)1/2 = (2*18)1/2\n= (36)1/2\n= 6.\n"
+    },
+    {
+        "id": 43,
+        "Question": "What is the coefficient of x3 in a polynomial 6x4 + 3x2 + 8x + 5?",
+        "Options": [
+            "a) 6",
+            "b) 3",
+            "c) 8",
+            "d) 0"
+        ],
+        "Answer": "Answer: d\nExplanation: Coefficient is the number which is multiplied with respective variable.\nIn the given polynomial 6x4 + 3x2 + 8x + 5, there is not an expression containing x3. So we can write 6x4+ 3x2+8x+5 as 6x4 + 0x3 + 3x2 + 8x + 5. We can see that 0 is multiplied with expression x3, so coefficient of x3 is 0.\n"
+    },
+    {
+        "id": 44,
+        "Question": "What is the degree of a polynomial of 4x7+9x5+5x2+11?",
+        "Options": [
+            "a) 7",
+            "b) 4",
+            "c) 5",
+            "d) 2"
+        ],
+        "Answer": "Answer: b\nExplanation: For an expression to be a polynomial, exponent of variable has to be whole number.\n\\(\\frac{1}{\\sqrt[2]{x}}\\) can be written as x-1/2. We can see that exponent of x is -1/2 which is not whole number (W = {0, 1, 2, 3…}). Hence, \\(\\frac{1}{\\sqrt[2]{x}}\\) is not a polynomial.\n"
+    },
+    {
+        "id": 45,
+        "Question": "What is the degree of a polynomial 7?",
+        "Options": [
+            "a) 7",
+            "b) 1",
+            "c) 0",
+            "d) 2"
+        ],
+        "Answer": "Answer: a\nExplanation: Degree of a polynomial is the highest power of variable in a polynomial.\nThe term with the highest power of x is 4x7 and exponent of x in that term is 7, so the degree of polynomial of 4x7+ 9x5+5x2+11 is 7.\n"
+    },
+    {
+        "id": 46,
+        "Question": "What is the degree of 0?",
+        "Options": [
+            "a) Not defined",
+            "b) 1",
+            "c) 2",
+            "d) 0"
+        ],
+        "Answer": "Answer: c\nExplanation: Degree of a non-zero constant polynomial is zero.\nWe can see that given polynomial 7 contain only one term and that is constant. 7 can also be written as 7x0.\nHence degree of 7 is zero.\n"
+    },
+    {
+        "id": 47,
+        "Question": "A quadratic polynomial can have at most __________ terms.",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 2",
+            "d) 3"
+        ],
+        "Answer": "Answer: a\nExplanation: Degree of the zero polynomial is not defined.\nZero polynomial is denoted by 0, and degree for that is not defined.\n"
+    },
+    {
+        "id": 48,
+        "Question": "(x-y)2 = __________",
+        "Options": [
+            "a) x2 + 2xy+y2",
+            "b) x2 – 2xy+y2",
+            "c) x2 – y2",
+            "d) x2 + y2"
+        ],
+        "Answer": "Answer: b\nExplanation: We can write (x-y)2 as (x-y) * (x-y) = x2-xy-yx + y2\n= x2-2xy + y2.\n"
+    },
+    {
+        "id": 49,
+        "Question": "How many terms are there in a polynomial 5x2+2x-2?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: c\nExplanation: We can get number of terms by separating them by “+” or “–” sign.\nIn the given polynomial 5x2+2x-2, if we separate expressions by “+” or “–” sign, we get three separate terms as 5x2, 2x and 2.\nHence we can say that there are three terms in the polynomial 5x2+2x-2.\n"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following is the example of Trinomial?",
+        "Options": [
+            "a) 9x3+ 5x2+7x+2",
+            "b) 9",
+            "c) 7x-2",
+            "d) 5x2+2x-2"
+        ],
+        "Answer": "Answer: d\nExplanation: Polynomials only having three terms are called Trinomials.\nHence to find trinomial polynomial, we have to find polynomial which has three terms. We can see that 5x2+2x-2 has three terms namely 5x2, 2x and 2. Hence it is trinomial.\nSimilarly, polynomials only having one term are called Monomials and polynomials only having two terms are called Binomials.\n"
+    },
+    {
+        "id": 51,
+        "Question": "If p(x) = 4x2+7x-8, then the value of p(2) is __________",
+        "Options": [
+            "a) 20",
+            "b) 18",
+            "c) 22",
+            "d) 14"
+        ],
+        "Answer": "Answer: c\nExplanation: If p(x) is any polynomial, then p(a) means substituting x by a in a polynomial.\nTherefore, p(2) means, putting 2 in place of x in 4x2+7x-8.\nHence, p(2) = 4(2)2+7(2)-8 = 4(4) + 14 – 8\n= 16 + 14 – 8\n= 22.\n"
+    },
+    {
+        "id": 52,
+        "Question": "What is the zero of p(x) = x2+6x+9?",
+        "Options": [
+            "a) -3",
+            "b) -6",
+            "c) -9",
+            "d) -2"
+        ],
+        "Answer": "Answer: a\nExplanation: If p(x) is any polynomial, then for “a” to be a zero of the polynomial p(x), p(a) = 0.\nTherefore, equating p(x) with 0, we get x2+6x+9=0\n(x+3)2 = 0\nx+3 = 0\nx = -3\nHence, -3 is the zero of the polynomial x2+6x+9 because p(-3) = 0.\n"
+    },
+    {
+        "id": 53,
+        "Question": "\\(\\frac{(5x^3 + 2x^2 + x)}{x}\\) = __________",
+        "Options": [
+            "a) 5x3 + 2x2 + 1",
+            "b) 5x4 + 2x3 + x",
+            "c) 5x2 + 2x2 + x",
+            "d) 5x2 + 2x + 1"
+        ],
+        "Answer": "Answer: d\nExplanation: \\(\\frac{(5x^3 + 2x^2 + x)}{x} = \\frac{5x^3}{x} + \\frac{2x^2}{x} + \\frac{x}{x}\\) \n= 5x2 + 2x + 1.\n"
+    },
+    {
+        "id": 54,
+        "Question": "What is the remainder if we divide 6x3 + x2 – 2x + 4 by x-2 ?",
+        "Options": [
+            "a) 48",
+            "b) 52",
+            "c) -26",
+            "d) -24"
+        ],
+        "Answer": "Answer: b\nExplanation: According to remainder theorem, if p(x) be any polynomial of degree greater than or equal to one and let “a” be any real number. If p(x) is divided by the linear polynomial x-a, then the remainder is p(a).\nSo to know the value of remainder, we have to find the value of p(2).\np(2) = 6(2)3 + (2)2 – 2(2) + 4\n= 6(8) + 4 – 4 + 4\n= 48 + 4\n= 52.\n"
+    },
+    {
+        "id": 55,
+        "Question": "Find the value of k, if x-3 is a factor of 5x3-2x2+x+k.",
+        "Options": [
+            "a) 50",
+            "b) 60",
+            "c) -60",
+            "d) -120"
+        ],
+        "Answer": "Answer: b\nExplanation: According to factor theorem, x-a is a factor of p(x) if p(a) = 0.\nTherefore x-1 is a factor of 4x2-9x-6 is a factor if p(1)=0.\np(1) = 4(1)2-9(1)-6 = 4 – 9 – 6\n= -11 ≠ 0\nTherefore, we can say that x-1 is not a factor of 4x2-9x-6.\n"
+    },
+    {
+        "id": 56,
+        "Question": "What do we get after factorising x2+6x-27?",
+        "Options": [
+            "a) (x+9)(x-3)",
+            "b) (x-9)(x+3)",
+            "c) (x-9)(x-3)",
+            "d) (x+9)(x+3)"
+        ],
+        "Answer": "Answer: d\nExplanation: According to factor theorem, x-a is a factor of p(x) if p(a) = 0.\nHere, it is given that x-3 is a factor of 5x3-2x2+x+k.\nTherefore, p(3) must be equal to zero.\np(3) = 5(3)3-2(3)2+3+k = 0\nTherefore, 5(27) – 2(9) + 3 + k = 0\n135 – 18 + 3 + k=0\n120 + k = 0\nTherefore,  k= -120\n"
+    },
+    {
+        "id": 57,
+        "Question": "What do we get after factoring 49x2-28xy+.4y2?",
+        "Options": [
+            "a) (7x+2y)2",
+            "b) (49x-4y)2",
+            "c) (7x-2y)2",
+            "d) (7x-28y)2"
+        ],
+        "Answer": "Answer: a\nExplanation: To factorise  x2+6x-27, we have to find two numbers ‘a’ and ‘b’ such that a+b=6 and a*b=27.\nFor that we have to find factors of -27, which are ±1, ±3, ±9.\nNow we have to arrange two numbers from these numbers such that a+b=6 and a*b=27.\nBy considering this, we get two numbers +9 and -3\n9 + (-3) = 6 and 9*-3 = -27\nNow after manipulating terms, we get  x2+9x- 3x-27.\nx2+9x- 3x-27 = x(x+9)-3(x+9)\n= (x+9)(x-3).\n"
+    },
+    {
+        "id": 58,
+        "Question": "26*34 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 900",
+            "b) 884",
+            "c) 916",
+            "d) 844"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that a2-2ab+.b2 = (a-b)2\n49x2-28xy+.4y2 can also be written as (7x)2-2(7)(2)xy+(2y)2\nHere, a = 7x and b = 2y.\nTherefore,  49x2-28xy+.4y2 = (7x)2-2(7)(2)xy+(2y)2\n= (7x-2y)2.\n"
+    },
+    {
+        "id": 59,
+        "Question": "27*29 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 783",
+            "b) 753",
+            "c) 763",
+            "d) 793"
+        ],
+        "Answer": "Answer: b\nExplanation: 26*34 can also be written as (30-4)*(30+4)\nWe know that (a-b)*(a+b) = a2 -b2\nSimilarly, 26*34 = (30-4)*(30+4)\n= 302 – 42\n= 900 – 16\n= 884.\n"
+    },
+    {
+        "id": 60,
+        "Question": "953 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 856395",
+            "b) 857625",
+            "c) 857375",
+            "d) 852395"
+        ],
+        "Answer": "Answer: a\nExplanation: We know that (a+b)*(a+c) = a2 + (b+c)a + bc\n27*29 can also be written as (25+2)*(25+4)\nNow using above identity, 27*29 = (25+2)*(25+4)\n= 252 + (2+4)25 + (4)(2)\n= 625 + 6(25) + 8\n= 625 + 150 + 8\n= 783.\n"
+    },
+    {
+        "id": 61,
+        "Question": "What do we get after expanding (p+3q-2z)2?",
+        "Options": [
+            "a) p2 + 9q2 + 4z2 + 6pq – 12qz + 4zp",
+            "b) p2 + 9q2 + 4z2 + 12pq + 12qz + 4zp",
+            "c) p2 + 9q2 + 4z2 – 12pq – 12qz – 4zp",
+            "d) p2 + 9q2 + 4z2 + 6pq – 12qz – 4zp"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that (x-y)3 = x3– y3 – 3 xy (x-y).\n953  can also be written as (100-5)3\nTherefore, 953= (100-5)3 = (100)3 – (5)3 – 3(100)(5)(100-5)\n= 1000000 – 125 – 1500(95)\n= 1000000 – 125 – 142500\n= 857375.\n"
+    },
+    {
+        "id": 62,
+        "Question": "What do we get after factorising x3+ 8y3+ z3 – 4xyz?",
+        "Options": [
+            "a) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "b) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "c) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "d) (x + 2y + z) (x2 + 4y2+  z2 – 2xy – 2yz – zx)"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that (a+b+c)2 = a2 + b2 + c2 + 2ab + 2bc + 2ca\n(p+3q-2z)2can also be written as (p+3q+(-2z))2.\nHere, a = p, b = 3q and c = -2z\nTherefore, using that formula we get (p+3q+(-2z))2\n= p2 + (3q)2 + (-2z)2 + 2(p)(3q) + 2(3q)(-2z) + 2(-2z)(p)\n= p2 + 9q2 + 4z2 + 6pq – 12qz – 4zp.\n"
+    },
+    {
+        "id": 63,
+        "Question": "Point where XX’ and YY’ intersect, is called __________",
+        "Options": [
+            "a) abscissa",
+            "b) ordinate",
+            "c) origin",
+            "d) coordinate"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in diagram, point where XX’ and YY’ intersect, is denoted by “O”. It is called Origin.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q1.png\" alt=\"\" width=\"337\" height=\"275\" class=\"alignnone size-full wp-image-271390\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q1.png 337w, https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q1-300x245.png 300w\" sizes=\"(max-width: 337px) 100vw, 337px\" />\n"
+    },
+    {
+        "id": 64,
+        "Question": "How many parts does the axes divide the plane into?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four"
+        ],
+        "Answer": "Answer: d\nExplanation: As shown in diagram, two axes XX’ and YY’ divide the plane into four parts.\nOne part is\nEach part is called quadrant. They are measured anticlockwise from axis OX.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q2.png\" alt=\"\" width=\"413\" height=\"402\" class=\"alignnone size-full wp-image-271391\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q2.png 413w, https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q2-300x292.png 300w\" sizes=\"(max-width: 413px) 100vw, 413px\" />\n"
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following are positive directions?",
+        "Options": [
+            "a) OX’ and OY’",
+            "b) OX and OY’",
+            "c) OX’ and OY",
+            "d) OX and OY"
+        ],
+        "Answer": "Answer: a\nExplanation: As shown in diagram below, point P is located at right hand side from y axis and right hand side of y axis is positive x axis, therefore distance of point P perpendicular to Y axis is measured along positive x axis.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q3a.png\" alt=\"\" width=\"430\" height=\"384\" class=\"alignnone size-full wp-image-271398\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q3a.png 430w, https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q3a-300x268.png 300w\" sizes=\"(max-width: 430px) 100vw, 430px\" />\n"
+    },
+    {
+        "id": 66,
+        "Question": "If a point is in 2nd quadrant, then it is in __________ form.",
+        "Options": [
+            "a) (+, +)",
+            "b) (+, -)",
+            "c) (-, +)",
+            "d) (-, -)"
+        ],
+        "Answer": "Answer: d\nExplanation: As shown in below diagram,\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q4.png\" alt=\"\" width=\"368\" height=\"321\" class=\"alignnone size-full wp-image-271397\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q4.png 368w, https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q4-300x262.png 300w\" sizes=\"(max-width: 368px) 100vw, 368px\" />\nPositive numbers lie on the directions OX and OY and Negative numbers lie on the directions OX’ and OY’, therefore positive directions are OX and OY.\n"
+    },
+    {
+        "id": 67,
+        "Question": "Why is coordinate geometry used?",
+        "Options": [
+            "a) To find square root of a number",
+            "b) To locate a point in a plane precisely",
+            "c) To create different shapes",
+            "d) To multiply numbers"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in diagram below, any point in 2nd quadrant will be in the form (-, +) since 2nd quadrant is enclosed by negative x – axis and positive y – axis.\nSimilarly, any point in 1st quadrant will be in the form (+, +).\nAny point in 3rd quadrant will be in the form (-, -).\nAny point in 4th quadrant will be in the form (+, -).\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q5.png\" alt=\"\" width=\"429\" height=\"391\" class=\"alignnone size-full wp-image-271396\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q5.png 429w, https://www.sanfoundry.com/wp-content/uploads/2020/03/maths-questions-answers-coordinate-geometry-cartesian-system-q5-300x273.png 300w\" sizes=\"(max-width: 429px) 100vw, 429px\" />\n"
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following is the correct way to represent the point p(2, -3) in the cartesian system?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1a.png\" alt=\"\" width=\"251\" height=\"262\" class=\"alignnone size-full wp-image-271793\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1b.png\" alt=\"\" width=\"273\" height=\"258\" class=\"alignnone size-full wp-image-271794\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1c.png\" alt=\"\" width=\"259\" height=\"268\" class=\"alignnone size-full wp-image-271791\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1d.png\" alt=\"\" width=\"234\" height=\"246\" class=\"alignnone size-full wp-image-271792\" />"
+        ],
+        "Answer": "Answer: b\nExplanation: p(2, -3) means that the distance of the point from y – axis is 2 in positive direction and from x – axis is 3 in negative direction.\nTherefore, point is located at distance 2 along OX axis and 3 along OY’ axis.\nConsidering this, option b is correct.\n"
+    },
+    {
+        "id": 69,
+        "Question": "Point p(0, 4) lies along __________ axis.",
+        "Options": [
+            "a) OX",
+            "b) OX’",
+            "c) OY",
+            "d) OY’"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in the diagram below, p(0, 4) means that its x-coordinate is 0 and y-coordinate is 4. Therefore the point’s distance from y-axis will be zero. i.e. it will lie on positive side of y – axis and its distance from x-axis will be 4.\nConsidering this, we can locate the point p(0, 4) as shown in diagram which lies on OY axis.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q2.png\" alt=\"\" width=\"289\" height=\"298\" class=\"alignnone size-full wp-image-271790\" />\n"
+    },
+    {
+        "id": 70,
+        "Question": "Point p(-3, 5) lies in __________ quadrant.",
+        "Options": [
+            "a) 1st",
+            "b) 2nd",
+            "c) 3rd",
+            "d) 4th"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in the diagram below, p(-3, 5) means that its x-coordinate is -3 and y-coordinate is 5. Therefore point’s distance from y-axis will be 3 in negative direction (Along XX’ axis) and its distance from x-axis will be 5 in positive direction (along OY axis).\nConsidering this, we can locate the point p(-3, 5) as shown in diagram which lies in 2nd quadrant.\nOR\nShort trick: We can see that p(-3, 5) is of (-, +) form. We know that any point of (-, +) form lies in 2nd quadrant.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q3.png\" alt=\"\" width=\"305\" height=\"314\" class=\"alignnone size-full wp-image-271789\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q3.png 305w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q3-291x300.png 291w\" sizes=\"(max-width: 305px) 100vw, 305px\" />\n"
+    },
+    {
+        "id": 71,
+        "Question": "Linear equations are of __________ form.",
+        "Options": [
+            "a) ax2+bx+c = 0",
+            "b) ax+by+c = 0",
+            "c) x2+y2 = a2",
+            "d) x2-y2 = a2"
+        ],
+        "Answer": "Answer: b\nExplanation: Linear equations of two variables are generally denoted by ax+by+c = 0.\nGenerally, x and y are used as variables however, other letters can be used instead of x and y.\n"
+    },
+    {
+        "id": 72,
+        "Question": "How many solutions does a linear equation have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four"
+        ],
+        "Answer": "Answer: a\nExplanation: Let’s understand this by an example:\nSuppose we want to find the solution for 9x-3 = 0\n9x-3 = 0\n9x = 3\nTherefore x = 1/3\nWe can see that this linear equation has only one solution. i.e. x = 1/3\nIt means that there is only one number which satisfies the given equation.\n"
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following is the correct way to represent the equation 3x=9 in ax+by+c = 0 form?",
+        "Options": [
+            "a) 3x = -0y + 9",
+            "b) 3x + 0y = 9",
+            "c) 3x + 0y – 9 = 0",
+            "d) 3x + 0y = 9"
+        ],
+        "Answer": "Answer: c\nExplanation: In ax + by + c = 0, a, b and c are numbers and a, b≠0 while x and y are variables.\nGiven equation is 3x=9.\nIf we want it to represent in the ax+by+c=0 form, we can write 3x + 0y – 9 = 0 where a = 3, b = 0 and c = -9.\n"
+    },
+    {
+        "id": 74,
+        "Question": "Find the solution for the linear equation 2.5x=5?",
+        "Options": [
+            "a) x=-2",
+            "b) x=5",
+            "c) x=3",
+            "d) x=2"
+        ],
+        "Answer": "Answer: d\nExplanation: 2.5x=5\nWe know that equations is not affected by dividing the same non-zero number both sides.\nHence, dividing the equation by 2.5 both sides.\nTherefore x=5/2.5\nHence, x = 2\n"
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following is the solution for 2x+4y=12?",
+        "Options": [
+            "a) x=2, y=2",
+            "b) x=1, y=0",
+            "c) x=3, y=1",
+            "d) x=-1, y=4"
+        ],
+        "Answer": "Answer: a\nExplanation: To find the solution of given equation, put the respective values of x and y in the given equation. If it satisfies the equation, it is the solution of given equation.\nLet’s check the values given in option a, which are x=2,y=2.\n2(2) + 4(2) = 4 + 8 = 12\nWhich satisfies the equation 2x+4y=12\nHence, it is the solution of the given equation.\n"
+    },
+    {
+        "id": 76,
+        "Question": "What are the number of solutions of linear equation 2x+4y=12?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Infinite"
+        ],
+        "Answer": "Answer: d\nExplanation: To find the solution, we can select arbitrary value of either x or y and we will get the appropriate value of the other variable.\nSuppose we take value of x=0, then we get 2(0) + 4y=12\ny=12/4\nTherefore, y=4\nNow, for x = 1, we get 2(1) + 4y = 12\n4y=12-2=10\nTherefore, y = 10/4\ny = 2.5\nLikewise, we can get infinite solutions by taking arbitrary values of either x or y.\n"
+    },
+    {
+        "id": 77,
+        "Question": "What are the number of solutions of set of linear equations x+2y=6 and 3x+6y=16?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Zero",
+            "d) Infinite"
+        ],
+        "Answer": "Answer: b\nExplanation: To locate the points of the equations on graph, let’s take arbitrary value of x and y equal to zero.\nBy taking x = 0, we get 0 + y = 3\nTherefore, y = 3\nFirst point is (0, 3)\nNow by taking y = 0, we get x + 0 = 3\nTherefore x = 3\nHence, second point is (3, 0)\nNow that we have two points, we can generate a line by locating two points (0, 3) and (3, 0)\nConsidering this,\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-graph-linear-equations-two-variables-q1b.png\" alt=\"\" width=\"253\" height=\"257\" class=\"alignnone size-full wp-image-311530\" />\nabove graphis correct as the line passes through two points (0, 3) and (3, 0).\n"
+    },
+    {
+        "id": 78,
+        "Question": "Which of the following line satisfies the equation x=2?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a.png\" alt=\"\" width=\"233\" height=\"235\" class=\"alignnone size-full wp-image-271813\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a.png 233w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a-150x150.png 150w\" sizes=\"(max-width: 233px) 100vw, 233px\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1b.png\" alt=\"\" width=\"233\" height=\"239\" class=\"alignnone size-full wp-image-271812\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1c.png\" alt=\"\" width=\"243\" height=\"247\" class=\"alignnone size-full wp-image-271811\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1d.png\" alt=\"\" width=\"244\" height=\"252\" class=\"alignnone size-full wp-image-271810\" />"
+        ],
+        "Answer": "Answer: b\nExplanation: Line x=2 means value of x-coordinate is 2 throughout the line and it doesn’t change. Line shown in diagram satisfies this condition since the value of x-coordinate doesn’t change on that line.\n"
+    },
+    {
+        "id": 79,
+        "Question": "Line of the equation y=a (a is constant) is __________",
+        "Options": [
+            "a) Parallel to X – axis",
+            "b) Parallel to Y – axis",
+            "c) Makes an angle of 45 degree with X – axis",
+            "d) Makes an angle of 45 degree with Y – axis"
+        ],
+        "Answer": "Answer: a\nExplanation: y=a where a is constant shows that shape of this line is independent of value of X. It means that value of Y will be same throughout the line. This line is shown below.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q2.png\" alt=\"\" width=\"286\" height=\"291\" class=\"alignnone size-full wp-image-271809\" />\n"
+    },
+    {
+        "id": 80,
+        "Question": "Number of solutions of the equation x-4=0 are?",
+        "Options": [
+            "a) Infinite",
+            "b) Three",
+            "c) Two",
+            "d) One"
+        ],
+        "Answer": "Answer: d\nExplanation: Since the given equation x-4=0 is only in one variable, i.e. x, it has only one solution and that is x=4 and it is independent of value of y.\n"
+    },
+    {
+        "id": 81,
+        "Question": "Number of solutions of the equation x+0y-4=0 are?",
+        "Options": [
+            "a) One",
+            "b) Three",
+            "c) Infinite",
+            "d) Two"
+        ],
+        "Answer": "Answer: c\nExplanation: Since the given equation is in two variables x and y and coefficient of y is 0, solutions of this equation are: (x, y) = (4, 0), (4, 1), (4, 2), …… (4, r) where r is any real number. You can see that solution only have to satisfy the value of x and it true for any real value of y. Thus the given equation has infinite solutions.\n"
+    },
+    {
+        "id": 82,
+        "Question": "What does geometry mean?",
+        "Options": [
+            "a) Measurement of land",
+            "b) Measurement of physical objects",
+            "c) Measurement of velocity",
+            "d) Measurement of Pressure"
+        ],
+        "Answer": "Answer: a\nExplanation: The word geometry comes from the Greek words geo which means the earth and metrein which means to measure. Therefore geometry is assumed to have originated from the need for measuring land.\n"
+    },
+    {
+        "id": 83,
+        "Question": "How many dimensions does a point have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Zero"
+        ],
+        "Answer": "Answer: d\nExplanation: According to Euclid’s definition, a point doesn’t have length, breadth and height. Therefore a point has zero dimension.\n"
+    },
+    {
+        "id": 84,
+        "Question": "How many dimensions does a line have?",
+        "Options": [
+            "a) Zero",
+            "b) One",
+            "c) Two",
+            "d) Three"
+        ],
+        "Answer": "Answer: b\nExplanation: According to Euclid’s definition, a line is breathless length. Hence, a line has only one dimension, i.e. Length.\n"
+    },
+    {
+        "id": 85,
+        "Question": "How much lines can pass from one point?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Infinite",
+            "d) Zero"
+        ],
+        "Answer": "Answer: a\nExplanation: Above statement is one of the Euclid’s axioms.\nIt can be understood by the following example:\nLet a = b and a = c, then we can simply state that b = c. Here, b and c are equal to same thing (a here) so they are equal to each other.\n"
+    },
+    {
+        "id": 86,
+        "Question": "How much lines can pass from two distinct points?",
+        "Options": [
+            "a) Zero",
+            "b) Only one",
+            "c) Only two",
+            "d) Infinite"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in below figure, we can draw as much lines as we want which are passing from one point O. Hence, infinite lines can pass from one point.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-euclids-axioms-postulates-q2.png\" alt=\"\" width=\"187\" height=\"176\" class=\"alignnone size-full wp-image-311547\" />\n"
+    },
+    {
+        "id": 87,
+        "Question": "If P, Q and R are three points on a line and Q lies between P and R, then __________",
+        "Options": [
+            "a) PR + QR = PR",
+            "b) PQ + PR = PR",
+            "c) PQ + PR = QR",
+            "d) PQ + QR = PR"
+        ],
+        "Answer": "Answer: b\nExplanation: According to Euclid’s axiom, given two distinct points, there is a unique line that passes through them.\nAs shown in below figure, there is only one line that can pass through two distinct points O and P.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-euclids-axioms-postulates-q3.png\" alt=\"\" width=\"412\" height=\"178\" class=\"alignnone size-full wp-image-311548\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-euclids-axioms-postulates-q3.png 412w, https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-euclids-axioms-postulates-q3-300x130.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\" />\n"
+    },
+    {
+        "id": 88,
+        "Question": "“For every line x and for every point o not lying on x, there exists a unique line y passing through o and parallel to x.” This statement is __________",
+        "Options": [
+            "a) Pythagoras’ theorem",
+            "b) Heron’s theorem",
+            "c) Thales’ theorem",
+            "d) Playfair’s axiom"
+        ],
+        "Answer": "Answer: b\nExplanation: The given statement is slightly different from Euclid’s 5th postulate which is “When the sum of the measures of the interior angles on the same side of the falling line is less than two right angles (<180), then the two straight lines, if produced indefinitely, meet on that side on which the sum of angles is less than two right angles.”\nIt can be understood by the diagram given below.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-equivalent-versions-euclids-fifth-postulate-q1.png\" alt=\"\" width=\"255\" height=\"184\" class=\"alignnone size-full wp-image-271827\" />\nFalling line is PQ and sum of two angles BPQ and YQP is greater than 180 degree and we can see that lines AB and XY will not meet on the right side of the line PQ.\n"
+    },
+    {
+        "id": 89,
+        "Question": "A line with two endpoints is called __________",
+        "Options": [
+            "a) line",
+            "b) ray",
+            "c) line-segment",
+            "d) triangle"
+        ],
+        "Answer": "Answer: c\nExplanation: A line-segment has two endpoints, P and Q as shown in below diagram.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q1.png\" alt=\"\" width=\"355\" height=\"50\" class=\"alignnone size-full wp-image-271839\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q1.png 355w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q1-300x42.png 300w\" sizes=\"(max-width: 355px) 100vw, 355px\" />\n"
+    },
+    {
+        "id": 90,
+        "Question": "How many endpoints does a ray have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four"
+        ],
+        "Answer": "Answer: a\nExplanation: A ray has one end point P as shown in below diagram. It originates from this point.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q2.png\" alt=\"\" width=\"332\" height=\"54\" class=\"alignnone size-full wp-image-271838\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q2.png 332w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q2-300x49.png 300w\" sizes=\"(max-width: 332px) 100vw, 332px\" />\n"
+    },
+    {
+        "id": 91,
+        "Question": "If x is an acute angle, then what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 0° < x < 90°",
+            "c) 90° < x < 180°",
+            "d) 180° < x < 360°"
+        ],
+        "Answer": "Answer: b\nExplanation: An acute angle always measures between 0° and 90°, therefore the value of an acute angle is always between 0° and 90°. It is shown in the diagram below in which ∠POQ is an acute angle whose value is less than 90°.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q3.png\" alt=\"\" width=\"257\" height=\"231\" class=\"alignnone size-full wp-image-271837\" />\n"
+    },
+    {
+        "id": 92,
+        "Question": "If x is an obtuse angle, then what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 180° < x < 360°",
+            "c) 0° < x < 90°",
+            "d) 90° < x < 180°"
+        ],
+        "Answer": "Answer: d\nExplanation: An obtuse angle always measures between 90° and 180°, therefore the value of an acute angle is always between 90° and 180°. In the diagram given below, ∠PQR is an obtuse angle whose value is greater than 90° and less than 180°.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q4.png\" alt=\"\" width=\"361\" height=\"218\" class=\"alignnone size-full wp-image-271836\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q4.png 361w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q4-300x181.png 300w\" sizes=\"(max-width: 361px) 100vw, 361px\" />\n"
+    },
+    {
+        "id": 93,
+        "Question": "If x is a right angle, what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 180° < x < 360°",
+            "c) 0° < x < 90°",
+            "d) 90° < x < 180°"
+        ],
+        "Answer": "Answer: a\nExplanation: A right angle is exactly equal to 90°. It is shown in the diagram below in which ∠POQ is the right angle whose value is equal to 90°.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q5.png\" alt=\"\" width=\"262\" height=\"237\" class=\"alignnone size-full wp-image-271835\" />\n"
+    },
+    {
+        "id": 94,
+        "Question": "What is the angle formed by a line?",
+        "Options": [
+            "a) 90°",
+            "b) 180°",
+            "c) 270°",
+            "d) 360°"
+        ],
+        "Answer": "Answer: b\nExplanation: It can be shown in the diagram given below that angle formed by a line is 180 degree.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q6.png\" alt=\"\" width=\"316\" height=\"71\" class=\"alignnone size-full wp-image-271834\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q6.png 316w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q6-300x67.png 300w\" sizes=\"(max-width: 316px) 100vw, 316px\" />\n"
+    },
+    {
+        "id": 95,
+        "Question": "If 180° < x < 360°, then x is a __________ angle.",
+        "Options": [
+            "a) acute",
+            "b) obtuse",
+            "c) reflex",
+            "d) right"
+        ],
+        "Answer": "Answer: c\nExplanation: An angle which is greater than 180° but less than 360° is called reflex angle. It is shown in the diagram below in which ∠PQR is a reflex angle.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q7.png\" alt=\"\" width=\"434\" height=\"177\" class=\"alignnone size-full wp-image-271833\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q7.png 434w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-lines-angles-introduction-definitions-basic-terms-q7-300x122.png 300w\" sizes=\"(max-width: 434px) 100vw, 434px\" />\n"
+    },
+    {
+        "id": 96,
+        "Question": "The sum of complimentary angles is __________",
+        "Options": [
+            "a) > 90°",
+            "b) < 90°",
+            "c) = 90°",
+            "d) = 180°"
+        ],
+        "Answer": "Answer: d\nExplanation: ∠PQS and ∠SQR are adjacent angles because they have one common arm (ray QS) and one common vertex (Point Q), ray PQ and ray QR are their non-common arms.\nFor adjacent angles ∠PQS and ∠SQR,\n∠PQS + ∠SQR = ∠PQR.\n"
+    },
+    {
+        "id": 97,
+        "Question": "The sum of two supplementary angles is __________",
+        "Options": [
+            "a) > 90°",
+            "b) < 90°",
+            "c) = 90°",
+            "d) = 180°"
+        ],
+        "Answer": "Answer: a\nExplanation: Linear pair of angles is formed when non-common arms of two angles form a line.\nIn the given diagram, non-common arms of two angles POR and ROQ are OP and OQ form a line PQ.\n"
+    },
+    {
+        "id": 98,
+        "Options": [
+            "a) i-I, ii-II, iii-III",
+            "b) i-II, ii-I, iii-III",
+            "c) i-III, ii-I, iii-II",
+            "d) i-III, ii-II, iii-I"
+        ],
+        "Answer": "Answer: d\nExplanation: When a transversal intersects two lines, pair of angles are formed. ∠1 and ∠5, ∠2 and ∠6, ∠4 and ∠8, ∠3 and ∠7 are corresponding angles. ∠1 and ∠7, ∠4 and ∠6 are alternate exterior angles. ∠2 and ∠8, ∠3 and ∠5 are alternate interior angles. ∠2 and ∠5, ∠3 and ∠8 are interior angles on the same side of transversal.\n"
+    },
+    {
+        "id": 99,
+        "Question": "The sum of the angles of a triangle is equal to __________",
+        "Options": [
+            "a) 270°",
+            "b) 90°",
+            "c) 180°",
+            "d) 360°"
+        ],
+        "Answer": "Answer: b\nExplanation: From figure, ∠EBC + ∠ABC = 180°   (Linear Pair)\n⇒ 135° + ∠ABC = 180°\n⇒ ∠ABC = 45°\nAlso, ∠ACB + ∠ACD = 180°   (Linear Pair)\n⇒ 120° + ∠ACB = 180°\n⇒ ∠ACB = 60°\nIn ∆ ABC, ∠BAC + ∠ABC + ∠ACB = 180°   (Angle Sum property of triangle)\n⇒ 45° + x + 60° = 180°\n⇒ x = 180° – 105°\n⇒ x = 75°\n"
+    },
+    {
+        "id": 100,
+        "Question": "A triangle has __________ vertices.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in below diagram, triangle ABC has three vertices namely A, B and C. Similarly, it has three edges AB, BC and AC and three angles ∠A, ∠B and ∠C.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-triangles-basics-q1.png\" alt=\"\" width=\"192\" height=\"220\" class=\"alignnone size-full wp-image-271866\" />\n"
+    },
+    {
+        "id": 101,
+        "Question": "Which one is true if triangle ABC is congruent to triangle PQR?",
+        "Options": [
+            "a) AB = PQ",
+            "b) AB = QR",
+            "c) BC = QR",
+            "d) ∠A = ∠Q"
+        ],
+        "Answer": "Answer: a\nExplanation: ABC \\(\\leftrightarrow\\) PQR means triangles ABC and PQR are congruent to each other and if they are congruent to each other, AB = PQ, BC = QR and AC = PR.\nSimilarly ∠A = ∠P, ∠B = ∠Q and ∠C = ∠R.\nAnd for vertices, A = P, B = Q and C = R.\n"
+    },
+    {
+        "id": 102,
+        "Options": [
+            "2. From the given diagram below, we can say that triangles ABC and PQR are congruent.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-criteria-congruence-triangles-q2.png\" alt=\"\" width=\"459\" height=\"207\" class=\"alignnone size-full wp-image-271877\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-criteria-congruence-triangles-q2.png 459w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-criteria-congruence-triangles-q2-300x135.png 300w\" sizes=\"(max-width: 459px) 100vw, 459px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: We can see that AB = PQ, ∠A = ∠P and BC = QR (All these things are given in the diagram).\nTherefore, according to SAS (Side-Angle-Side) congruent rule, triangles ABC and PQR are congruent.\n"
+    },
+    {
+        "id": 103,
+        "Options": [
+            "2. From the diagram given below, we can say that ΔABC and ΔPQR are congruent.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-some-more-criteria-congruence-triangles-q2.png\" alt=\"\" width=\"427\" height=\"203\" class=\"alignnone size-full wp-image-271919\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-some-more-criteria-congruence-triangles-q2.png 427w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-some-more-criteria-congruence-triangles-q2-300x143.png 300w\" sizes=\"(max-width: 427px) 100vw, 427px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: As we can see that AB = PQ, BC = QR and CA = RP, according to SSS rule (Theorem 7.4), ΔABC and PQR are congruent and hence angles of ΔABC are equal to corresponding angles of ΔPQR.\nTherefore, ∠A = ∠P, ∠B = Q, ∠C = ∠R.\n"
+    },
+    {
+        "id": 104,
+        "Question": "If three out of four points are collinear, we get __________",
+        "Options": [
+            "a) line",
+            "b) square",
+            "c) triangle",
+            "d) rectangle"
+        ],
+        "Answer": "Answer: c\nExplanation: As shown in figure, out of four points A, B, C and D, three points A, B and C are collinear and we get a triangle.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-quadrilaterals-introduction-q1.png\" alt=\"\" width=\"194\" height=\"202\" class=\"alignnone size-full wp-image-271930\" />\n"
+    },
+    {
+        "id": 105,
+        "Question": "Quadrilateral has __________ sides.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four"
+        ],
+        "Answer": "Answer: d\nExplanation: A figure formed by joining four points is called quadrilateral as shown in the diagram. It also has four sides (AB, BC, CD and AD) and four angles (∠A, ∠B,∠C and ∠D).\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-quadrilaterals-introduction-q2.png\" alt=\"\" width=\"238\" height=\"162\" class=\"alignnone size-full wp-image-271929\" />\n"
+    },
+    {
+        "id": 106,
+        "Question": "The sum of four angles of quadrilateral is equal to __________",
+        "Options": [
+            "a) 90°",
+            "b) 360°",
+            "c) 180°",
+            "d) 270°"
+        ],
+        "Answer": "Answer: b\nExplanation: Let’s take a quadrilateral as shown in figure. By dividing it diagonally, we can see that it breaks into two triangles.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-quadrilaterals-introduction-q3.png\" alt=\"\" width=\"252\" height=\"150\" class=\"alignnone size-full wp-image-271928\" />\nWe know that sum of three angles of any triangle is equal to 180°.\nHence, ∠QPR + ∠Q + ∠QRP = 180° and ∠SPR + ∠S + ∠PRS = 180°.\nNow to get the sum of four angles of quadrilateral,\n∠P + ∠Q + ∠R + ∠S = (∠QPR + ∠SPR) + ∠Q + (∠QRP + ∠PRS) + ∠S\n= (∠QPR + ∠Q + ∠QRP) + (∠SPR + ∠S + ∠PRS)\n= 180° + 180°\n= 360°\n"
+    },
+    {
+        "id": 107,
+        "Question": "If one pair of opposite sides are parallel in a quadrilateral, it is called __________",
+        "Options": [
+            "a) trapezium",
+            "b) rhombus",
+            "c) square",
+            "d) parallelogram"
+        ],
+        "Answer": "Answer: a\nExplanation: In a trapezium, one pair of sides are parallel as shown in the diagram.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q1.png\" alt=\"maths-questions-answers-types-quadrilaterals-q1\" width=\"231\" height=\"149\" class=\"alignnone size-full wp-image-268551\" />\n"
+    },
+    {
+        "id": 108,
+        "Question": "Which of the following shapes represent a rhombus?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2a.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2a\" width=\"178\" height=\"194\" class=\"alignnone size-full wp-image-268550\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2b\" width=\"243\" height=\"197\" class=\"alignnone size-full wp-image-268549\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b.png 243w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b-100x80.png 100w\" sizes=\"(max-width: 243px) 100vw, 243px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2c\" width=\"176\" height=\"175\" class=\"alignnone size-full wp-image-268548\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c.png 176w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c-150x150.png 150w\" sizes=\"(max-width: 176px) 100vw, 176px\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2d.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2d\" width=\"255\" height=\"296\" class=\"alignnone size-full wp-image-268547\" />"
+        ],
+        "Answer": "Answer: c\nExplanation: A quadrilateral is said to be rhombus if all sides of it are equal. We can see that in Figure C, all sides are equal and hence, it represents a rhombus.\n"
+    },
+    {
+        "id": 109,
+        "Question": "At which angle do diagonals of a rhombus bisects each other?",
+        "Options": [
+            "a) 180°",
+            "b) 360°",
+            "c) 270°",
+            "d) 90°"
+        ],
+        "Answer": "Answer: b\nExplanation: For a quadrilateral to be a square, following conditions has to be satisfied.\nAll the sides should be equal, each pair of the sides should be parallel and one angle has to be right angle.\n"
+    },
+    {
+        "id": 110,
+        "Question": "What is the quadrilateral formed by the angle bisectors of a parallelogram?",
+        "Options": [
+            "a) Square",
+            "b) Rectangle",
+            "c) Circle",
+            "d) Rhombus"
+        ],
+        "Answer": "Answer: b\nExplanation:\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-properties-parallelogram-q1.png\" alt=\"\" width=\"276\" height=\"115\" class=\"alignnone size-full wp-image-308724\" />\nPQ || RS ⇒ ∠P + ∠S = 180°  (Interior angles on the same side of transversal)\n⇒ ½ ∠P + ½ ∠S = ½ x 180°\n⇒ ∠APS + ∠PSA = 90°  ——————-(i)\nIn ΔASP, ∠APS + ∠PSA + ∠SAP = 180°  (Angle sum property of triangle)\n⇒ 90° + ∠SAP = 180°  (from equation i)\n⇒ ∠SAP = 90°\n⇒ ∠DAB = 90° (Vertically opposite angle)\nSimilarly, ∠ADB = 90°, ∠ABC = 90°, ∠DCB = 90°.\nHence, ABCD is a rectangle.\n"
+    },
+    {
+        "id": 111,
+        "Options": [
+            "2. As shown in the diagram below, for the same perimeter, areas of rectangle and parallelogram are same.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-properties-parallelogram-2-q2.png\" alt=\"\" width=\"537\" height=\"210\" class=\"alignnone size-full wp-image-311568\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-properties-parallelogram-2-q2.png 537w, https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-properties-parallelogram-2-q2-300x117.png 300w\" sizes=\"(max-width: 537px) 100vw, 537px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: A quadrilateral is said to be a parallelogram if each pair of opposite sides is parallel but as we can see in the Figure B, trapezium has only one pair of sides which are parallel hence, it is not parallelogram.\n"
+    },
+    {
+        "id": 112,
+        "Question": "From the given diagram, what can be said about ∆ADB and ∆BCD?",
+        "Options": [
+            "a) They are congruent to each other",
+            "b) They are not congruent to each other",
+            "c) ∠ABD = ∠ADB",
+            "d) ∠BDC = ∠DBC"
+        ],
+        "Answer": "Answer: b\nExplanation: For rectangle, area = AD * AB and\nfor parallelogram, area = PR * SR\nWe can see that AB = SR = 3 but PR < AD hence area of parallelogram < area of rectangle.\n"
+    },
+    {
+        "id": 113,
+        "Question": "From the diagram, if BD and AC are diagonals of a parallelogram ABCD then what is true for them?",
+        "Options": [
+            "a) BO = AO",
+            "b) BO = OC",
+            "c) BO = OD",
+            "d) AO = OD"
+        ],
+        "Answer": "Answer: a\nExplanation: We can see that diagonal BD divides the parallelogram into two triangles ABD and BDC.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-properties-parallelogram-2-q3.png\" alt=\"\" width=\"248\" height=\"164\" class=\"alignnone size-full wp-image-311569\" />\nNow, for these two triangles,\n∠ADB = ∠DBC (Pair of alternate angles)\nBD = BD (Same sides)\n∠ABD = ∠BDC (Pair of alternate angles)\nTherefore, according to ASA rule, we can say that triangles ABD and BDC are congruent to each other.\n"
+    },
+    {
+        "id": 114,
+        "Question": "If the ratio of four angles of a quadrilateral is ∠A : ∠B : ∠C : ∠D = 1 : 2 : 3 : 4, what is the value of ∠C?",
+        "Options": [
+            "a) 90°",
+            "b) 108°",
+            "c) 180°",
+            "d) 72°"
+        ],
+        "Answer": "Answer: b\nExplanation: Let ∠A = x, then ∠B = 2x, ∠C = 3x and ∠D = 4x\nWe know that sum of the four angles of a quadrilateral is 360°.\nTherefore, ∠A + ∠B + ∠C + ∠D = 360°\nx  + 2x + 3x  + 4x  = 360°\n10x  = 360°.\nx  = 36°.\nNow, ∠C = 3x = 3(36°) = 108°.\n"
+    },
+    {
+        "id": 115,
+        "Options": [
+            "10. From the diagram given below, if P, Q and R are mid points of sides AB, BC and AC respectively, then ΔRQP is congruent to ΔBDE, ΔDAF and ΔEFC.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-mid-point-theorem-q10.png\" alt=\"\" width=\"291\" height=\"235\" class=\"alignnone size-full wp-image-311579\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: c\nExplanation: Since In ΔABC, D and E are midpoints of the sides AB and AC and DE || BC, by mid-point theorem, DE = ½ BC = ½ x 18 = 9cm.\n"
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following option represents two figures which are on the same base and same parallels?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2a.png\" alt=\"\" width=\"287\" height=\"233\" class=\"alignnone size-full wp-image-271962\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2b.png\" alt=\"\" width=\"257\" height=\"206\" class=\"alignnone size-full wp-image-271961\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2c.png\" alt=\"\" width=\"286\" height=\"233\" class=\"alignnone size-full wp-image-271960\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2d.png\" alt=\"\" width=\"190\" height=\"238\" class=\"alignnone size-full wp-image-271959\" />"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in diagram below, two figures have the same area but they are not congruent as they have different sides.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q1.png\" alt=\"\" width=\"589\" height=\"207\" class=\"alignnone size-full wp-image-271963\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q1.png 589w, https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q1-300x105.png 300w\" sizes=\"(max-width: 589px) 100vw, 589px\" />\n"
+    },
+    {
+        "id": 117,
+        "Question": "The collection of all the points in a plane, which are at a fixed distance from a fixed point in the plane, is called __________",
+        "Options": [
+            "a) square",
+            "b) triangle",
+            "c) rectangle",
+            "d) circle"
+        ],
+        "Answer": "Answer: d\nExplanation: The given statement is the definition of the circle.\n“The collection of all the points” is the circumferential of the circle and “fixed point” is the centre.\n"
+    },
+    {
+        "id": 118,
+        "Question": "A circle divides the plane into __________ parts.",
+        "Options": [
+            "a) two",
+            "b) three",
+            "c) four",
+            "d) five"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in the diagram below, a circle divides the plane into three parts:\n1) Interior, 2) Circle and 3) Exterior.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-introduction-related-terms-q2.png\" alt=\"\" width=\"346\" height=\"228\" class=\"alignnone size-full wp-image-271976\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-introduction-related-terms-q2.png 346w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-introduction-related-terms-q2-300x198.png 300w\" sizes=\"(max-width: 346px) 100vw, 346px\" />\n"
+    },
+    {
+        "id": 119,
+        "Question": "The region between an arc and the two radii, joining the centre to the end points of the arc is called __________",
+        "Options": [
+            "a) arc",
+            "b) chord",
+            "c) sector",
+            "d) area of circle"
+        ],
+        "Answer": "Answer: a\nExplanation: As we can see in the diagram that arc ABC is the longer one, therefore it is called major arc ABC.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-introduction-related-terms-q3.png\" alt=\"\" width=\"180\" height=\"191\" class=\"alignnone size-full wp-image-271975\" />\nSimilarly, smaller side is called minor arc AC.\n"
+    },
+    {
+        "id": 120,
+        "Question": "When does both segments and both sectors become equal?",
+        "Options": [
+            "a) When two arcs are equal",
+            "b) When radius = 2 * chord",
+            "c) When two arcs are unequal",
+            "d) When chord = radius"
+        ],
+        "Answer": "Answer: b\nExplanation: There are two types of segments in the circle, which are major segments and minor segments.\nThe shaded area is on the shorter side of the arc, therefore it is called minor segment.\n"
+    },
+    {
+        "id": 121,
+        "Options": [
+            "2. From the diagram given below, if lengths of the chords AB and PQ are equal, then ∠AOB = ∠POQ.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-angle-subtended-chord-point-q2.png\" alt=\"maths-questions-answers-angle-subtended-chord-point-q2\" width=\"228\" height=\"207\" class=\"alignnone size-full wp-image-268578\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: We can see from the diagram that “O” is the centre of the circle, therefore angle formed by the chord at the centre is ∠AOB.\n"
+    },
+    {
+        "id": 122,
+        "Question": "How many circles can pass through three points which are not collinear?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four"
+        ],
+        "Answer": "Answer: a\nExplanation: As shown in diagrams below, if a circle passes through three collinear points A, B and C, the third point either lies outside the circle (figure 1) or inside the circle (figure 2).\n\n\n\t<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-through-three-points-q1a.png\" alt=\"maths-questions-answers-circles-through-three-points-q1a\" width=\"336\" height=\"233\" class=\"alignnone size-full wp-image-268585\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-through-three-points-q1a.png 336w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-through-three-points-q1a-300x208.png 300w\" sizes=\"(max-width: 336px) 100vw, 336px\" />\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-circles-through-three-points-q1b.png\" alt=\"maths-questions-answers-circles-through-three-points-q1b\" width=\"252\" height=\"236\" class=\"alignnone size-full wp-image-268584\" />\n"
+    },
+    {
+        "id": 123,
+        "Options": [
+            "10. From the figure given below, a quadrilateral ABCD is cyclic.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-cyclic-quadrilaterals-q10.png\" alt=\"\" width=\"218\" height=\"206\" class=\"alignnone size-full wp-image-311592\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: All the angles of a cyclic quadrilateral lie on a circle (circumscribed circle) and sum of either pair of opposite angles of cyclic quadrilateral is 180˚. Among the given figures, only the answer figure satisfies the angle sum property of the quadrilateral and the conditions of cyclic quadrilateral.\n"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following formula is used for finding the area of triangle?",
+        "Options": [
+            "a) base * height",
+            "b) \\(\\frac{1}{2}\\) * base * height",
+            "c) 2 * base * height",
+            "d) base2 * height"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in the diagram below, area of the triangle is given by \\(\\frac{1}{2}\\) * base * height where, base = BC and height is AD.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-herons-formula-introduction-area-triangle-herons-formula-q1.png\" alt=\"\" width=\"242\" height=\"226\" class=\"alignnone size-full wp-image-271991\" />\n"
+    },
+    {
+        "id": 125,
+        "Question": "In heron’s formula  \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\), what is the value of s if a, b and c are sides of the triangle?",
+        "Options": [
+            "a) \\(\\frac{a+b+c}{4}\\) ",
+            "b) a+b+c",
+            "c) \\(\\frac{a+b+c}{2}\\) ",
+            "d) 2a+2b+2c"
+        ],
+        "Answer": "Answer: c\nExplanation: In heron’s formula  \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\), s is the half perimeter of the triangle.\nPerimeter of the triangle having sides a, b and c is a + b + c.\nHence, s = half perimeter of the triangle = \\(\\frac{a+b+c}{2}\\).\n"
+    },
+    {
+        "id": 126,
+        "Question": "What is the area of the triangle having sides equal to 10 cm, 16 cm and 24 cm?",
+        "Options": [
+            "a) \\(25\\sqrt{15} cm^2\\) ",
+            "b) \\(35\\sqrt{17} cm^2\\) ",
+            "c) \\(15\\sqrt{13} cm^2\\) ",
+            "d) \\(15\\sqrt{15} cm^2\\)"
+        ],
+        "Answer": "Answer: d\nExplanation: a = 10, b = 16 and c = 24\ns = \\(\\frac{a+b+c}{2}=\\frac{10+16+24}{2} = \\frac{50}{2}\\) = 25\nAccording to heron’s formula, area of the triangle = \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\) \n= \\(\\sqrt{25*(25-10)*(25-16)*(25-24)}\\) \n= \\(\\sqrt{25*15*9*1}\\) \n= \\(15\\sqrt{15} cm^2\\) \n"
+    },
+    {
+        "id": 127,
+        "Question": "The sides of a triangle are in the proportion of 2 : 3 : 5 and its perimeter is 200 cm. The area of this triangle is __________ cm2.",
+        "Options": [
+            "a) 375 \\(\\sqrt{23}\\) ",
+            "b) 375 \\(\\sqrt{21}\\) ",
+            "c) 345 \\(\\sqrt{23}\\) ",
+            "d) 345 \\(\\sqrt{21}\\)"
+        ],
+        "Answer": "Answer: a\nExplanation: Let the side of a triangles be a = 2x, b = 3x and c = 5x.\nPerimeter of the triangle is 200 cm.\nTherefore a + b + c = 2x + 3x + 5x = 200\n10x = 200\nHence, x = 20\na = 2x = 2(20) = 40 cm\nb = 3x = 3(30) = 90 cm\nc = 5x = 5(20) = 100 cm\nNow, s = \\(\\frac{a+b+c}{2}=\\frac{40+90+100}{2} = \\frac{230}{2}\\) = 115\nAccording to heron’s formula, area of the triangle = \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\)\n= \\(\\sqrt{115*(115-40)*(115-90)*(115-100)}\\) \n= \\(\\sqrt{115*75*25*15}\\) \n= \\(375 \\sqrt{23}\\) \n"
+    },
+    {
+        "id": 128,
+        "Question": "A triangular board having sides 45m, 30m and 35m is used for advertising. One company uses this board for its advertisement for 4 months. How much rent will the company has to pay if the rent is Rs 3500 per m2?",
+        "Options": [
+            "a) Rs 611800",
+            "b) Rs 1835400",
+            "c) Rs 611900",
+            "d) Rs 1835500"
+        ],
+        "Answer": "Answer: c\nExplanation: 90 + 140 + 80 = 310m\nConsidering 5m space for gate opening, length of fencing = 310 – 5 = 305m.\nCost of 1m fencing = Rs 15,\nThen the cost for 305m fencing = 305 * 15\n= Rs 4575.\n"
+    },
+    {
+        "id": 129,
+        "Question": "An umbrella is made by stitching 8 triangular pieces of cloth of two different colours, each piece measures 60cm, 60cm and 20cm. How much cloth of each colour is required for the umbrella?",
+        "Options": [
+            "a) \\(50\\sqrt{35} cm^2\\) ",
+            "b) \\(25\\sqrt{65} cm^2\\) ",
+            "c) \\(50\\sqrt{45} cm^2\\) ",
+            "d) \\(25\\sqrt{55} cm^2\\)"
+        ],
+        "Answer": "Answer: a\nExplanation: s = \\(\\frac{a+b+c}{2}=\\frac{60+60+20}{2} = \\frac{140}{2}\\) = 70\nAccording to heron’s formula, area of the triangle = \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\) \n= \\(\\sqrt{70*(70-60)*(70-60)*(70-20)}\\) \n= \\(\\sqrt{70*10*10*50}\\) \n= 100\\(\\sqrt{35} cm^2\\) \nThis area is the combined area of both colours.\nHence, area of each colour = \\(\\frac{100\\sqrt{35}}{2}\\) \n= \\(50\\sqrt{35} cm^2\\).\n"
+    },
+    {
+        "id": 130,
+        "Question": "A triangle and a parallelogram has same base and same area as shown in the diagram below. Dimensions of triangle are 28cm, 26cm and 30cm with 28cm being the base. What is the height of the parallelogram?",
+        "Options": [
+            "a) 15cm",
+            "b) 10cm",
+            "c) 12cm",
+            "d) 18cm"
+        ],
+        "Answer": "Answer: c\nExplanation: a = 28, b = 26 and c = 30 cm.\ns = \\(\\frac{a+b+c}{2}=\\frac{28+26+30}{2} = \\frac{84}{2}\\) = 42\nAccording to heron’s formula, area of the triangle = \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\) \n= \\(\\sqrt{42*(42-28)*(42-26)*(42-30)}\\) \n= \\(\\sqrt{42*14*16*12}\\) \n= 336 cm2\nIt is given that area of the triangle and the parallelogram is same.\nNow, we know that area of a parallelogram = base * perpendicular (height of a parallelogram)\nTherefore, 28 * height  = 336\nheight = \\(\\frac{336}{28}\\) \nheight = 12cm.\n"
+    },
+    {
+        "id": 131,
+        "Question": "Total surface area of a cuboid having dimensions l*b*h is __________",
+        "Options": [
+            "a) l*b*h",
+            "b) 2(lb + bh + lh)",
+            "c) lb + bh + lh",
+            "d) 6l2"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in the figure below,\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-surface-areas-volumes-q1.png\" alt=\"\" width=\"358\" height=\"216\" class=\"alignnone size-full wp-image-311597\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-surface-areas-volumes-q1.png 358w, https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-surface-areas-volumes-q1-300x181.png 300w\" sizes=\"(max-width: 358px) 100vw, 358px\" />\nThe total surface area of a cuboid is the sum of the area of six rectangles constituting the cuboid.\nThe six rectangles forms three pairs of rectangles (which are at opposite sides) who have the same surface area.\nArea of one pair of rectangles having sides l and b = 2(l*b)\nArea of the second pair of rectangle having sides b and h = 2(b*h)\nArea of the third pair of rectangle having sides l and h = 2(l*h)\nThe total area of the cuboid = sum of three pairs of rectangles\n= 2(l*b) + 2(b*h) + 2(l*h)\n= 2(lb + bh + lh).\n"
+    },
+    {
+        "id": 132,
+        "Question": "Total surface area of a cube having sides l is given by __________",
+        "Options": [
+            "a) l*b*h",
+            "b) 2(lb + bh + lh)",
+            "c) lb + bh + lh",
+            "d) 6l2"
+        ],
+        "Answer": "Answer: d\nExplanation: A cube has six equal sides.\nHence, total surface area of a cube = sum of areas of 6 sides (as shown in the figure below)\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2021/01/mathematics-questions-answers-surface-areas-volumes-q2.png\" alt=\"\" width=\"239\" height=\"225\" class=\"alignnone size-full wp-image-311598\" />\nArea of one side of a cube having side equal to ‘l’ = l2\nTotal surface area of the cube = l2 + l2 + l2+l2+ l2 + l2\n= 6l2.\n"
+    },
+    {
+        "id": 133,
+        "Question": "A cube of side equal to 20 cm is open from the top. Its total surface area is __________ cm2.",
+        "Options": [
+            "a) 2000",
+            "b) 2400",
+            "c) 2500",
+            "d) 8000"
+        ],
+        "Answer": "Answer: a\nExplanation: The cube is open from the top, hence total surface area of the cube will be equal to 6l2 – l2 = 5l2\n= 5(20)2\n= 5(400)\n= 2000.\n"
+    },
+    {
+        "id": 134,
+        "Question": "A box of dimensions 25cm * 30cm * 45cm is to be painted. A container which contains colour has a capacity to paint 1075cm2. How much containers are required to paint the box completely?",
+        "Options": [
+            "a) 6",
+            "b) 5",
+            "c) 4",
+            "d) 3"
+        ],
+        "Answer": "Answer: a\nExplanation: For the box, l = 25, b = 30 and h = 45 (given)\nTotal surface area of the box = 2(lb + bh + lh)\n= 2{(25*30) + (30*45) + (25*45)}\n= 2{3225}\n= 6450 cm2.\n1075 cm2 of area can be painted by one container.\nTherefore, to paint 6450 cm2 of area, number of containers requires are = \\(\\frac{6450}{1075}\\) = 6.\n"
+    },
+    {
+        "id": 135,
+        "Question": "A water tank of dimensions 2m * 3m * 1.5m is to be painted leaving its base. Find the total cost of painting the tank if rate of painting = ₹20/m2.",
+        "Options": [
+            "a) ₹540",
+            "b) ₹500",
+            "c) ₹420",
+            "d) ₹400"
+        ],
+        "Answer": "Answer: c\nExplanation: For the tank, l = 2m, b = 3m and h = 1.5m (given).\nThe total area of the tank = 2{(2*3) + (3*1.5) + (2*1.5)}\n= 2{13.5}\n= 27 m2\nBut it is given that all sides except the base are to be painted.\nHence, total area to be painted = 27 – (2*3)\n= 21 m2\nNow, the cost of painting 1 m2 = ₹20\nHence, the cost of painting 21 m2 = 21 * 20 = ₹420.\n"
+    },
+    {
+        "id": 136,
+        "Question": "A man has built a cubical water tank in his house. All sides of it are equal to 1.8m. All sides except the base are to be covered by tiles having equal sides of 30cm. How much money will he spend on tiles if cost of tiles is ₹400/dozen?",
+        "Options": [
+            "a) ₹7000",
+            "b) ₹7200",
+            "c) ₹6000",
+            "d) ₹6500"
+        ],
+        "Answer": "Answer: b\nExplanation: Total surface area of the cubical tank = 6l2\n= 6(1.8)2\n= 19.44 m2\n= 194400 cm2\nIt is given that tiles are to be covered leaving the base.\nHence, the total area that is to be covered by tiles = 19.44 – (1.8*1.8)\n= 16.2 m2\n= 162000 cm2\nArea of one tile = 30*30 = 900 cm2\nHence, total number of tiles required = \\(\\frac{Total \\,area \\,that \\,is \\,to \\,be \\,covered \\,by \\,tiles}{Area \\,of \\,one \\,tile}\\) \n= \\(\\frac{162000}{900}\\) \n= 180\n180 tiles = \\(\\frac{180}{12}\\) = 15 dozens of tiles\nTotal cost of tiles = Rate of tiles/dozen * Total number of dozens tiles required\n= 400*18\n= ₹7200.\n"
+    },
+    {
+        "id": 137,
+        "Options": [
+            "1. A transparent cylinder shown in the figure below is a right circular cylinder.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q1.png\" alt=\"maths-questions-answers-surface-area-right-circular-cylinder-q1\" width=\"132\" height=\"225\" class=\"alignnone size-full wp-image-268610\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: The cylinder shown in the figure is circular but it is not perpendicular to the base so we can’t say it is right circular cylinder.\nA right circular cylinder is shown in the figure below. We can see that it is at the right angle to the base.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q1a.png\" alt=\"maths-questions-answers-surface-area-right-circular-cylinder-q1a\" width=\"156\" height=\"236\" class=\"alignnone size-full wp-image-268609\" />\n"
+    },
+    {
+        "id": 138,
+        "Question": "Curved surface area of a cylinder having base radius “r” and height “h” is equal to __________",
+        "Options": [
+            "a) 2πrh + 2πr2",
+            "b) 2πr2",
+            "c) 2πrh",
+            "d) 4πr2"
+        ],
+        "Answer": "Answer: c\nExplanation:\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2a.png\" alt=\"maths-questions-answers-surface-area-right-circular-cylinder-q2a\" width=\"202\" height=\"236\" class=\"alignnone size-full wp-image-268608\" />\nIf we unfold the cylinder given in the above figure, the area of the rectangle gives us the area of curved surface area of a cylinder (As shown in the figure below).\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b.png\" alt=\"maths-questions-answers-surface-area-right-circular-cylinder-q2b\" width=\"334\" height=\"257\" class=\"alignnone size-full wp-image-268607\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b.png 334w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b-300x231.png 300w\" sizes=\"(max-width: 334px) 100vw, 334px\" />\nOne side of the rectangle is equal to “h” and the other side is equal to perimeter of circular edge of the cylinder, i.e. “2πr”.\nHence, the curved surface area of the cylinder = 2πr * h\n= 2πrh.\n"
+    },
+    {
+        "id": 139,
+        "Question": "A cylinder has a curved surface area of 2640 cm2 and radius of 14 cm, what is the height of cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 16cm",
+            "b) 20cm",
+            "c) 28cm",
+            "d) 30cm"
+        ],
+        "Answer": "Answer: a\nExplanation: Total surface area of a cylinder = curved surface area + 2 * area of the circular base\nIf we unfold the cylinder given in the above figure, the area of the rectangle gives us the area of curved surface area of a cylinder (As shown in the figure below).\n <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b.png\" alt=\"maths-questions-answers-surface-area-right-circular-cylinder-q2b\" width=\"334\" height=\"257\" class=\"alignnone size-full wp-image-268607\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b.png 334w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cylinder-q2b-300x231.png 300w\" sizes=\"(max-width: 334px) 100vw, 334px\" />\nOne side of the rectangle is equal to “h” and the other side is equal to perimeter of circular edge of the cylinder, i.e. “2πr”.\nHence, the curved surface area of the cylinder = 2πr * h\n= 2πrhArea of circular base = 2πr2\nHence, total surface area of a cylinder = curved surface area + 2 * area of the circular base\n= 2πrh + 2πr2.\n"
+    },
+    {
+        "id": 140,
+        "Question": "A roller has diameter of 0.7m and length of 1m. It is used to roll over the cricket pitch. The surface area of the cricket pitch is equal to 60m2. How much revolution will roller make to move once over the pitch? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 25",
+            "b) 28",
+            "c) 30",
+            "d) 26"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that curved surface area of a cylinder = 2πrh\nCurved surface area = 2640 cm2 and r = 14 cm (given)\nTherefore, 2 * \\(\\frac{22}{7}\\) * 14 * h = 2640\nh = 30cm.\n"
+    },
+    {
+        "id": 141,
+        "Question": "A cylindrical water container of radius 56 cm and height of 180 cm is to be made from metal. What is the area of metal required? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 28.9m2",
+            "b) 25.5m2",
+            "c) 30m2",
+            "d) 26.7m2"
+        ],
+        "Answer": "Answer: b\nExplanation: The effective area that will be in contact with the pitch is the curved surface area of the cylinder.\nDiameter of the roller = 0.7m\nHence, radius of the roller = 0.35m and height (length here) of the roller = 1m\nWe know that curved surface area of a cylinder = 2πr\n= 2 * \\(\\frac{22}{7}\\) * 0.35 * 1\n= 2.2 m2\nArea of the cricket pitch = 60m2\nLet’s assume that the roller makes “n” revolutions to move once over the pitch.\nTherefore, n * curved surface area of the roller = surface area of the pitch\nn = \\(\\frac{Surface \\,area \\,of \\,the \\,pitch}{Curved \\,surface \\,area \\,of \\,the \\,roller}\\) \n= \\(\\frac{60}{2.2}\\) \n= 27.27\n≈ 28 revolutions.\n"
+    },
+    {
+        "id": 142,
+        "Question": "A water well has a height of 8m and diameter of 3.5m. What is the cost of plastering its curved surface and base at the rate of ₹50/m2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹15000",
+            "b) ₹14500",
+            "c) ₹14000",
+            "d) ₹14700"
+        ],
+        "Answer": "Answer: d\nExplanation: The area of material required will be equal to total surface area of the cylinder.\nWe know that the total surface area of the cylinder = 2πrh + 2πr2\n= \\((2 * \\frac{22}{7} * 0.56 * 1.8) + {2 * \\frac{22}{7} * (1.80)^2}\\) \n= 6.336 + 20.365\n= 26.7 m2.\n"
+    },
+    {
+        "id": 143,
+        "Options": [
+            "1. In the figure given below, the cone is right circular cone.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cone-q1.png\" alt=\"maths-questions-answers-surface-area-right-circular-cone-q1\" width=\"143\" height=\"215\" class=\"alignnone size-full wp-image-268620\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: For the cone to be right circular cone, the line joining its vertex to the centre of its base have to be perpendicular to the base. (As shown in the below figure)\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cone-q1a.png\" alt=\"maths-questions-answers-surface-area-right-circular-cone-q1a\" width=\"179\" height=\"213\" class=\"alignnone size-full wp-image-268619\" />\nBut we can see in the given figure that the line is not perpendicular to the base, hence the given cone is not right circular cone.\n"
+    },
+    {
+        "id": 144,
+        "Question": "The total surface area of a cone of base radius “r” and slanted height “l” is equal to __________",
+        "Options": [
+            "a) πrl + 2πr2",
+            "b) 2πrl + 2πr2",
+            "c) πrl + πr2",
+            "d) 2πr2"
+        ],
+        "Answer": "Answer: c\nExplanation: Total surface area of a cone of base radius “r” and slanted height “l”\n= Curved surface area of a cone + Base area of a cone\n= πrl + πr2.\n"
+    },
+    {
+        "id": 145,
+        "Question": "What is the total surface area of a cone of radius 7cm and height 24cm? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 710 cm2",
+            "b) 704 cm2",
+            "c) 700 cm2",
+            "d) 725 cm2"
+        ],
+        "Answer": "Answer: b\nExplanation: Given, r = 7cm and h = 24cm\nFrom the figure,\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-surface-area-right-circular-cone-q3.png\" alt=\"maths-questions-answers-surface-area-right-circular-cone-q3\" width=\"199\" height=\"223\" class=\"alignnone size-full wp-image-268618\" />\nWe can say that according to the Pythagoras theorem, l2 = r2 + h2\n= 72 + 242\n= 625\nTherefore, l = 25cm\nWe know that total surface area of a cone = πrl + πr2\n= πr (l + r)\n= \\(\\frac{22}{7}\\) * 7 (25+7)\n= 704 cm2.\n"
+    },
+    {
+        "id": 146,
+        "Question": "The curved surface area of a cone is 1980 cm2 and its radius is 21cm, what is the slanted height of a cone? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 25cm",
+            "b) 28cm",
+            "c) 35cm",
+            "d) 30cm"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that the curved surface area of a cone = πrl\nπrl = 1980\n\\(\\frac{22}{7}\\) * 21 * l = 1980\nl = 30cm.\n"
+    },
+    {
+        "id": 147,
+        "Question": "A tent of conical shape of base radius 28m and slanted height 20m is to be made from a certain material. What is the total cost of clothing material if the rate of material is ₹80/m2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹140800",
+            "b) ₹150000",
+            "c) ₹130500",
+            "d) ₹140000"
+        ],
+        "Answer": "Answer: a\nExplanation: The curved surface are of a conical tent = πrl\n= \\(\\frac{22}{7}\\) * 28 * 20\n= 1760m2\nCost of 1m2 of material = ₹80\nHence, the total cost of 1760m2 = 1760 * 80\n= ₹140800.\n"
+    },
+    {
+        "id": 148,
+        "Question": "A vessel of conical shape of radius 14cm and slanted height 20cm is to be coloured. What is the cost of painting at a rate of ₹2/cm2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹1540",
+            "b) ₹1660",
+            "c) ₹1760",
+            "d) ₹1500"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that curved surface area of We know that the curved surface area of a cone = πrl\nFor the given conical vessel, r = 14cm and l = 20cm (given)\nHence, curved surface area of vessel = πrl\n= \\(\\frac{22}{7}\\) * 14 * 20\n= 880cm2\nNow, the cost of painting 1cm2 area = ₹2\nThen the cost of painting 880cm2 area = 880*2\n= ₹1760.\n"
+    },
+    {
+        "id": 149,
+        "Question": "Surface area of a sphere of radius “r” is given by __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2"
+        ],
+        "Answer": "Answer: b\nExplanation: If a sphere has radius equal to ”r”, then its surface area is given by 4πr2.\n"
+    },
+    {
+        "id": 150,
+        "Question": "Curved surface area of hemisphere of radius “r” is equal to __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2"
+        ],
+        "Answer": "Answer: a\nExplanation: Hemisphere is created when a sphere is divided in two equal parts.\nHence, the curved surface are of a hemisphere = \\(\\frac{Surface \\,area \\,of \\,a \\,sphere}{2}\\) \n= \\(\\frac{4πr^2}{2}\\) \n= 2πr2.\n"
+    },
+    {
+        "id": 151,
+        "Question": "Total surface are of a hemisphere of radius “r” is equal to __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2"
+        ],
+        "Answer": "Answer: c\nExplanation: Total surface area of a hemisphere = Curved surface area + Base area\n= 2πr2 + πr2\n= 3πr2.\n"
+    },
+    {
+        "id": 152,
+        "Question": "Total surface area of a hemisphere is 4158cm2, the diameter of the hemisphere is equal to __________ cm. (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 40",
+            "b) 20",
+            "c) 21",
+            "d) 42"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that total surface area of a hemisphere = 3πr2\n3πr2= 4158\n3 * \\(\\frac{22}{7}\\) * r2 = 4158\nr2 = 441\nHence, r = 21cm\nTherefore, diameter of hemisphere = 2r = 2 * 21 = 42cm.\n"
+    },
+    {
+        "id": 153,
+        "Question": "If surface area of a sphere of radius “R” is equal to curved surface area of a hemisphere of radius “r”, what is the ratio of R/r?",
+        "Options": [
+            "a) 1/2",
+            "b) 1/√2",
+            "c) 2",
+            "d) √2"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that surface area of a sphere of radius “R” is given by 4πR2 and\ncurved surface area of hemisphere of radius “r” is equal to 2πr2.\nIt is given that surface area of a sphere of radius “R” is equal to curved surface area of a hemisphere of radius “r”.\nHence, 4πR2 = 2πr2\n2R2 = r2\n\\(\\frac{R^2}{r^2} = \\frac{1}{2}\\) \n\\(\\frac{R}{r} = \\frac{1}{\\sqrt{2}}\\).\n"
+    },
+    {
+        "id": 154,
+        "Question": "A hemispheric dome of radius 3.5m is to be painted at a rate of ₹600/m2. What is the cost of painting it? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹46200",
+            "b) ₹45000",
+            "c) ₹47260",
+            "d) ₹48375"
+        ],
+        "Answer": "Answer: c\nExplanation: It can be seen that h = 4r … (1)\nWe know that curved surface area of a cylinder = 2πrh\nAnd surface area of a sphere = 4πr2\n(We know that curved surface area of a cylinder)/(And surface area of a sphere) = 2πrh/(4πr2)\n= \\(\\frac{2πr(4r)}{4πr^2}\\) (From result (1))\n= \\(\\frac{2πrh}{4πr^2}\\) \n= 2/1.\n"
+    },
+    {
+        "id": 155,
+        "Question": "A balloon’s radius increases 3 times when the air is pumped in it. If the surface area of the balloon after pumping the air is A2 and its surface area before pumping the air is A1, then what is the value of \\(\\frac{A_1}{A_2}\\) ?",
+        "Options": [
+            "a) \\(\\frac{9}{1}\\) ",
+            "b) \\(\\frac{1}{3}\\) ",
+            "c) \\(\\frac{3}{1}\\) ",
+            "d) \\(\\frac{1}{9}\\)"
+        ],
+        "Answer": "Answer: a\nExplanation: We know that curved surface are of a hemisphere = 2πr2\n= 2 * \\(\\frac{22}{7}\\) * (3.5)2\n= 77m2\nNow, the cost of painting 1m2 of area = ₹600\nThen, the cost of painting 77m2 of area = 77 * 600\n= ₹46200.\n"
+    },
+    {
+        "id": 156,
+        "Question": "Volume of a cuboid of length l, breadth b and height h is given by __________",
+        "Options": [
+            "a) l * b * h",
+            "b) l3",
+            "c) l2",
+            "d) π * l * b * h"
+        ],
+        "Answer": "Answer: a\nExplanation: Volume of a cuboid of length l, breadth b and height h = l * b * h\n"
+    },
+    {
+        "id": 157,
+        "Question": "Volume of a cube of sides equal to l is given by __________",
+        "Options": [
+            "a) l * b * h",
+            "b) l3",
+            "c) l2",
+            "d) π * l * b * h"
+        ],
+        "Answer": "Answer: b\nExplanation: Volume of a cube of sides equal to l is given by l3.\n"
+    },
+    {
+        "id": 158,
+        "Question": "Volume of a cuboid is 1176cm3, its length and breadth are 12cm and 7cm respectively. What is the height of the cuboid?",
+        "Options": [
+            "a) 24cm",
+            "b) 11cm",
+            "c) 14cm",
+            "d) 20cm"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that the volume of a cuboid = l * b * h\n12 * 7 * h = 1176\nh = 14cm.\n"
+    },
+    {
+        "id": 159,
+        "Question": "A wall of dimensions 3m * 12cm * 7m is to be made by using bricks of dimesions 25cm * 12cm * 10cm. How much bricks are required to construct the wall?",
+        "Options": [
+            "a) 825",
+            "b) 820",
+            "c) 850",
+            "d) 840"
+        ],
+        "Answer": "Answer: d\nExplanation: For wall, length = 3m = 300cm, breadth = 12cm and height = 7m = 700cm\nVolume of the wall = 300 * 12 * 700\n= 2520000cm3\nVolume of bricks = 25 * 12 * 10\n= 3000cm3\nNumber of bricks required = \\(\\frac{Volume \\,of \\,the \\,wall}{Volume \\,of \\,one \\,brick}\\) \n= 252000/3000\n= 840.\n"
+    },
+    {
+        "id": 160,
+        "Question": "What is the cost of digging a pit of cuboidal shape dimensions of which are 5m * 6m * 3m at the rate of ₹35/m3?",
+        "Options": [
+            "a) ₹3000",
+            "b) ₹3150",
+            "c) ₹3375",
+            "d) ₹3225"
+        ],
+        "Answer": "Answer: b\nExplanation: Volume of the pit = 5 * 6 * 3\n= 90m3\nCost of digging of 1m3 = ₹35\nTherefore, cost of digging 90m3 = 90 * 35\n= ₹3150.\n"
+    },
+    {
+        "id": 161,
+        "Question": "A village has population of 1500 people and requirement of water per head is 200 litres. Water container providing water has dimensions 15m * 25m * 12m. For how many days would the water in the container last? (1000 litres = 1m3)",
+        "Options": [
+            "a) 10 days",
+            "b) 18 days",
+            "c) 12 days",
+            "d) 15 days"
+        ],
+        "Answer": "Answer: d\nExplanation: Requirement of water of village for one day = 1500 * 200\n= 300000 litres\n= \\(\\frac{300000}{1000}\\) m3\n= 300m3\nVolume of the water container = 15 * 25 * 12\n= 4500m3\nNumber of days for which the water in the container would last = \\(\\frac{Volume \\,of \\,the \\,container}{Water \\,requirement \\,of \\,village \\,for \\,one \\,day} = \\frac{4500}{300}\\) \n= 15 days.\n"
+    },
+    {
+        "id": 162,
+        "Question": "A water is flowing through the tap at the rate of 50 cm3/s. What is the time requires to fill the container of dimensions 20cm * 10cm * 10cm?",
+        "Options": [
+            "a) 40 seconds",
+            "b) 30 seconds",
+            "c) 45 seconds",
+            "d) 50 seconds"
+        ],
+        "Answer": "Answer: a\nExplanation: Volume of the container = 20 * 10 * 10\n= 2000cm3\nTime required to fill the container = \\(\\frac{Volume \\,of \\,container}{Flow \\,rate \\,of \\,water}\\) \n= 2000/50\n= 40 seconds.\n"
+    },
+    {
+        "id": 163,
+        "Question": "Volume of a cylinder having radius r and height h is given by __________",
+        "Options": [
+            "a) r * h2",
+            "b) h * r2",
+            "c) πr2h",
+            "d) \\(\\frac{1}{3}\\)πr2h"
+        ],
+        "Answer": "Answer: c\nExplanation: Volume of a cylinder can be given by multiplying base area with its height.\nHence, volume of a cylinder having radius r and height h is equal to πr2h where πr2 is base area and h is height.\n"
+    },
+    {
+        "id": 164,
+        "Question": "A cylinder has radius of 7cm and its volume is 1540cm3, what is the height of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 10cm",
+            "b) 14cm",
+            "c) 11cm",
+            "d) 15cm"
+        ],
+        "Answer": "Answer: a\nExplanation: Volume of a cylinder having radius r and height h is equal to πr2h.\nπr2h = 1540\n\\(\\frac{22}{7}\\) * 7 * 7 * h = 1540\nh = 10cm.\n"
+    },
+    {
+        "id": 165,
+        "Question": "A cylinder has volume of 176cm3 and height equal to 14cm, what is the diameter of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 6cm",
+            "b) 8cm",
+            "c) 2cm",
+            "d) 4cm"
+        ],
+        "Answer": "Answer: d\nExplanation: Volume of a cylinder having radius r and height h is equal to πr2h.\nπr2h = 176\n\\(\\frac{22}{7}\\) * 14 * r2 = 176\nr2 = 4\nTherefore, r = 2cm\nWe know that diameter = 2 * radius\n= 2 * 2\n= 4cm.\n"
+    },
+    {
+        "id": 166,
+        "Question": "A glass of cylindrical shape has radius of 3.5cm and height equal to 8cm. A water jug has a volume equal to 1540cm3. How many times the water has to be poured from glass to fill the jug completely? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 6",
+            "b) 5",
+            "c) 4.5",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Volume of a cylindrical glass = πr2h\n= \\(\\frac{22}{7}\\) * 3.5 * 3.5 * 8\n= 308cm3\nVolume of a water jug = 1540cm3\nTherefore, number of times the water has to be poured from glass to fill the jug completely\n= \\(\\frac{Volume \\,of \\,a \\,water \\,jug}{Volume \\,of \\,a \\,cylindrical \\,glass} = \\frac{1540}{308}\\) \n= 5.\n"
+    },
+    {
+        "id": 167,
+        "Question": "Cylindrical pillars are to be made for a flat whose radius is 15cm and height is 3.5m. What is the total amount of concrete (in cm3) required to make 15 identical pillars? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 3513600",
+            "b) 3712500",
+            "c) 4125300",
+            "d) 3917800"
+        ],
+        "Answer": "Answer: b\nExplanation: Volume of one cylindrical pillar = πr2h\n= \\(\\frac{22}{7}\\) * 15 * 15 * 350\n= 247500cm3\nHence, total volume of 15 pillars = 15 * 247500\n= 3712500cm3\nTherefore, the total amount of concrete required to make 15 identical pillars = 3712500cm3.\n"
+    },
+    {
+        "id": 168,
+        "Question": "A cylinder has a base area equal to 21cm2 and height equal to 11cm. What is the volume of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 230cm3",
+            "b) 220cm3",
+            "c) 225cm3",
+            "d) 231cm3"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that base area of a cylinder is equal to πr2.\nVolume of a cylinder = πr2h\n= 21 * 11\n= 231cm3.\n"
+    },
+    {
+        "id": 169,
+        "Question": "A steel pipe has outer radius equal to 3cm and inner radius equal to 2cm. Its length is equal to 5m. What is the mass of the pipe if one cm3 of steel is 8.05 gram? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 63.25 kg",
+            "b) 65 kg",
+            "c) 67 kg",
+            "d) 61 kg"
+        ],
+        "Answer": "Answer: a\nExplanation: Let the outer radius = ro = 3cm\nInner radius = ri = 2cm\nHeight (here length) = l = 5m = 500cm\nVolume of pipe = π * (ro 2 – ri 2) * l\n= \\(\\frac{22}{7}\\) * (32 – 22) * 500\n= 7857.14cm3\nMass of 1cm3 is 8.05 gram\nTherefore, mass of 7857.14cm3 is equal to 8.05 * 7857.14\n= 63249.97gm\n≈ 63250 gm\n= 63.25 kg.\n"
+    },
+    {
+        "id": 170,
+        "Question": "Volume of a right circular cone of radius r and height h is given by __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3}\\) πr3"
+        ],
+        "Answer": "Answer: c\nExplanation: Volume of three cones is equal to volume of a cylinder which has the same radius and height as the cone.\nWe know that volume of a cylinder = πr2h\nHence, volume of a cone = \\(\\frac{1}{3}\\) πr2h.\n"
+    },
+    {
+        "id": 171,
+        "Question": "What is the volume of a cone having radius of 21cm and height of 5cm?",
+        "Options": [
+            "a) 2310cm3",
+            "b) 2500cm3",
+            "c) 6930cm3",
+            "d) 7500cm3"
+        ],
+        "Answer": "Answer: a\nExplanation: We know that volume of a cone = \\(\\frac{1}{3}\\) πr2h\n= \\(\\frac{1}{3} * \\frac{22}{7}\\) * 21 * 21 * 5\n= 6930cm3.\n"
+    },
+    {
+        "id": 172,
+        "Question": "A cone has slanted height of 5cm and height of 4cm, its volume (in cm3) is __________",
+        "Options": [
+            "a) 38.71",
+            "b) 36.50",
+            "c) 37.00",
+            "d) 37.71"
+        ],
+        "Answer": "Answer: d\nExplanation: From the figure shown below,\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-volume-right-circular-cone-q3.png\" alt=\"\" width=\"191\" height=\"207\" class=\"alignnone size-full wp-image-272018\" />\nAccording to Pythagoras theorem, r2 + h2 = l2\nr = \\(\\sqrt{l^2-h^2}\\) \n= \\(\\sqrt{5^2-4^2}\\) \n= 3cm\nWe know that volume of a cone = \\(\\frac{1}{3}\\) πr2h\n= \\(\\frac{1}{3} * \\frac{22}{7}\\) * 3 * 3 * 4\n= 37.71.\n"
+    },
+    {
+        "id": 173,
+        "Question": "Ratio of volume of a cone to the volume of a cylinder for same base radius and same height is __________",
+        "Options": [
+            "a) 3",
+            "b) \\(\\frac{1}{3}\\) ",
+            "c) 2",
+            "d) \\(\\frac{1}{2}\\)"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that volume of a cone = \\(\\frac{1}{3}\\) πr2h and volume of a cylinder= πr2h\nHence, \\(\\frac{volume \\,of \\,a \\,cone}{volume \\,of \\,a \\,cylinder} = \\frac{1/3 πr^2 h}{πr^2 h}\\) \n= \\(\\frac{1}{3}\\).\n"
+    },
+    {
+        "id": 174,
+        "Question": "A triangle having sides equal to 7cm, 24cm and 25cm forms a cone when revolved about 24cm side. What is the volume of a cone formed?",
+        "Options": [
+            "a) 1225cm3",
+            "b) 1232cm3",
+            "c) 4000cm3",
+            "d) 3696cm3"
+        ],
+        "Answer": "Answer: b\nExplanation: As shown in the figure, when the cone is formed, its base radius is 14cm and height is 24cm.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-volume-right-circular-cone-q5.png\" alt=\"\" width=\"247\" height=\"211\" class=\"alignnone size-full wp-image-272017\" />\nWe know that volume of a cone = \\(\\frac{1}{3}\\) πr2h\n= \\(\\frac{1}{3} * \\frac{22}{7}\\) * 7 * 7 * 24\n= 1232cm3.\n"
+    },
+    {
+        "id": 175,
+        "Question": "Volume of a sphere of radius r is equal to __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3} πr^3\\)"
+        ],
+        "Answer": "Answer: a\nExplanation: Volume of a sphere is \\(\\frac{4}{3}\\) π times the cube of a radius.\nTherefore, volume of a sphere is equal to \\(\\frac{4}{3} πr^3\\).\n"
+    },
+    {
+        "id": 176,
+        "Question": "Volume of a hemisphere of radius r is equal to __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3} πr^3\\)"
+        ],
+        "Answer": "Answer: d\nExplanation: Volume of a hemisphere is half the volume of a sphere.\nWe know that volume of a sphere of radius r is equal to \\(\\frac{4}{3} πr^3\\).\nTherefore, volume of a hemisphere is equal to \\(\\frac{2}{3} πr^3\\).\n"
+    },
+    {
+        "id": 177,
+        "Question": "What is the radius of a sphere having volume of 4851cm3? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 9 cm",
+            "b) 11 cm",
+            "c) 10.5 cm",
+            "d) 11.3 cm"
+        ],
+        "Answer": "Answer: c\nExplanation: We know that volume of a sphere of radius r is equal to \\(\\frac{4}{3} πr^3\\).\n\\(\\frac{4}{3} πr^3\\) = 4851\n\\(\\frac{4}{3} * \\frac{22}{7} * r^3\\) = 4851\n\\(r^3 = \\frac{9261}{8}\\) \nTherefore, r = \\(\\frac{21}{2}\\) = 10.5 cm.\n"
+    },
+    {
+        "id": 178,
+        "Question": "Curved surface area of a hemisphere is equal to 2772 cm2, what is its volume? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 19464 cm3",
+            "b) 19404 cm3",
+            "c) 19427 cm3",
+            "d) 19425 cm3"
+        ],
+        "Answer": "Answer: b\nExplanation: We know that curved surface area of a hemisphere is equal to 2πr2.\n2πr2 = 2772\nr2 = \\(\\frac{2772*7}{2*22}\\) = 441\nTherefore, r = 21cm\nNow, we know that volume of a hemisphere is equal to \\(\\frac{2}{3}\\) πr3.\nHence, V = \\(\\frac{2}{3}\\) πr3\n= \\(\\frac{2*22*21*21*21}{3*7}\\) \n= 19404 cm3.\n"
+    },
+    {
+        "id": 179,
+        "Question": "A hollow sphere of outer radius of 4 cm and thickness of 3 cm is to be made from metal. What is the total amount of metal required (in cm3) to make the sphere? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 281",
+            "b) 264",
+            "c) 225",
+            "d) 227"
+        ],
+        "Answer": "Answer: b\nExplanation: Outer radius ro = 4cm\nInner radius ri = outer radius – thickness\n= 4 – 3\nri = 1cm\nThis means that the sphere is hollow and volume of metal required = \\(\\frac{4}{3} πr_o^3 – \\frac{4}{3} πr_i^3\\) \n= \\(\\frac{4}{3} π (4^3 – 1^3)\\) \n= \\(\\frac{4*22*63}{3*7}\\) \n= 264 cm3.\n"
+    },
+    {
+        "id": 180,
+        "Question": "Cost of whitewashing a sphere is 1232₹ at the rate of 2₹/cm2. What is the volume of a sphere? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) \\(\\frac{4324}{3}\\) ",
+            "b) \\(\\frac{4317}{5}\\) ",
+            "c) \\(\\frac{4312}{3}\\) ",
+            "d) \\(\\frac{4312}{7}\\)"
+        ],
+        "Answer": "Answer: c\nExplanation: Area of a sphere = \\(\\frac{Total \\,cost \\,of \\,whitewashing}{Rate \\,of \\,whitewashing/cm^2}\\) \n= \\(\\frac{1232}{2}\\) \n= 616 cm2\nWe know that total surface area of a sphere = 4πr2\n4πr2 = 616\nr2 = \\(\\frac{616*7}{22*4}\\) \n= 49\nTherefore, r = 7cm\nNow, volume of a sphere = \\(\\frac{4}{3} πr^3\\) \n= \\(\\frac{4}{3} * \\frac{22}{7}\\) * 73\n= \\(\\frac{4312}{3}\\).\n"
+    },
+    {
+        "id": 181,
+        "Options": [
+            "a) 5",
+            "b) 7",
+            "c) 10",
+            "d) 20"
+        ],
+        "Answer": "Answer: b\nExplanation: The total number of students which have got particular marks is called frequency of those marks.\nWe can see from the figure that highest number of students is 5 who have got 7 marks.\nTherefore, for 7 marks there exists the highest frequency.\n"
+    },
+    {
+        "id": 182,
+        "Question": "",
+        "Options": [
+            "a) 63",
+            "b) 64",
+            "c) 1",
+            "d) 223"
+        ],
+        "Answer": "Answer: a\nExplanation: Range of the data can be given by the following formula:\nRange = Highest value – Lowest value\nHighest value and lowest value from the data are 64 and 1 respectively.\nHence, range = 64 – 1\n= 63.\n"
+    },
+    {
+        "id": 183,
+        "Question": "",
+        "Options": [
+            "a) 25",
+            "b) 52.5",
+            "c) 55",
+            "d) 60"
+        ],
+        "Answer": "Answer: c\nExplanation: Upper limit of a particular class is the highest value of that class.\nIn this case, the class is 50-55 and the highest value is 55.\n"
+    },
+    {
+        "id": 184,
+        "Question": "",
+        "Options": [
+            "a) 25",
+            "b) 67.5",
+            "c) 70",
+            "d) 65"
+        ],
+        "Answer": "Answer: d\nExplanation: Lower limit of a particular class is the lowest value of that class.\nIn this case, the class is 65-70 and the lowest value is 65.\nHence, lower limit is 65.\n"
+    },
+    {
+        "id": 185,
+        "Question": "Which of the following graph is “bar graph”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1c.png\" alt=\"maths-questions-answers-geographical-representation-data-q1c\" width=\"272\" height=\"265\" class=\"alignnone size-full wp-image-268644\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1d.png\" alt=\"maths-questions-answers-geographical-representation-data-q1d\" width=\"249\" height=\"274\" class=\"alignnone size-full wp-image-268643\" />"
+        ],
+        "Answer": "Answer: a\nExplanation: In bar graphs, bar of uniform width are drawn on X-axis with equal space between them while values of variables are shown on Y-axis.\nHeight of the bars depend on the values of variables.\nWe can in figure 1 that it matches with the characteristics of bar graphs. Hence, it is the example of bar graphs.\n"
+    },
+    {
+        "id": 186,
+        "Question": "Which of the following graph is the example of “histogram”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1c.png\" alt=\"maths-questions-answers-geographical-representation-data-q1c\" width=\"272\" height=\"265\" class=\"alignnone size-full wp-image-268644\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1d.png\" alt=\"maths-questions-answers-geographical-representation-data-q1d\" width=\"249\" height=\"274\" class=\"alignnone size-full wp-image-268643\" />"
+        ],
+        "Answer": "Answer: b\nExplanation: Histograms are similar to bar graphs but they are used for continuous class intervals.\nIn this types of graphs, width of the bar is equal to class interval and height of the bar is equal to frequency of the particular class intervals.\n"
+    },
+    {
+        "id": 187,
+        "Question": "Which of the following graph is the example of “frequency polygon”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c.png\" alt=\"maths-questions-answers-geographical-representation-data-q3c\" width=\"369\" height=\"360\" class=\"alignnone size-full wp-image-268642\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c.png 369w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c-300x293.png 300w\" sizes=\"(max-width: 369px) 100vw, 369px\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3d.png\" alt=\"maths-questions-answers-geographical-representation-data-q3d\" width=\"247\" height=\"273\" class=\"alignnone size-full wp-image-268641\" />"
+        ],
+        "Answer": "Answer: c\nExplanation: Frequency polygons can be drawn by joining mid points of upper sides of rectangles of histograms.\nIt is shown in the figure given below.\n<img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3e.png\" alt=\"maths-questions-answers-geographical-representation-data-q3e\" width=\"289\" height=\"255\" class=\"alignnone size-full wp-image-268640\" />\n"
+    },
+    {
+        "id": 188,
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 20",
+            "d) 6"
+        ],
+        "Answer": "Answer: d\nExplanation: From the table, we can see that there are three class intervals which contains weight more than 55 kg, 55-60, 60-65 and 65-70 and frequency of them are 2, 3 and 1 respectively.\nTherefore, total number of students who weigh more than 55 kg are 2 + 3 + 1 = 6.\n"
+    },
+    {
+        "id": 189,
+        "Options": [
+            "a) 6.9",
+            "b) 5.8",
+            "c) 6.6",
+            "d) 6"
+        ],
+        "Answer": "Answer: c\nExplanation: Mean of the marks can be found out by following way.\n\n\nMarks xi\nNo. of Students fi\nfi xi\n\n\n3\n1\n3\n\n\n4\n2\n8\n\n\n5\n2\n10\n\n\n6\n4\n24\n\n\n7\n5\n35\n\n\n8\n3\n24\n\n\n9\n2\n18\n\n\n10\n1\n10\n\n\nTotal\n\\(\\sum f_i=20\\)\n\\(\\sum_{i=1}^8 f_i x_i=132\\) \n\n\nWe know that mean \\(\\bar{\\bar{x}} = \\frac{∑_{i=1}^8 f_i x_i}{\\sum f_i} = \\frac{132}{20}\\)\n= 6.6\n"
+    },
+    {
+        "id": 190,
+        "Question": "",
+        "Options": [
+            "a) 170",
+            "b) 165",
+            "c) 160",
+            "d) 169"
+        ],
+        "Answer": "Answer: d\nExplanation: We know that mean = \\(\\frac{Sum \\,of \\,all \\,observations}{Number \\,of \\,observations}\\) \n165 = \\(\\frac{168+170+x+160+162+164+162}{7}\\) \n1155 = 986 + x\nTherefore, x = 169.\n"
+    },
+    {
+        "id": 191,
+        "Question": "",
+        "Options": [
+            "a) 26",
+            "b) 23",
+            "c) 25.22",
+            "d) 29"
+        ],
+        "Answer": "Answer: a\nExplanation: If data contains n values and n is odd number, then median is the \\((\\frac{n+1}{2})^{th}\\) observation after arranging them in either ascending or descending order.\nHence first, we will arrange the observations in ascending order:\n20  21  23  25  26  29  32  33  39\nNow, we can see that number of observations are nine, which is odd.\nHence median = \\((\\frac{n+1}{2})^{th}\\) th observation = (9+1)/2\n= 10/2\n= 5th observation\nWhich is 26.\n"
+    },
+    {
+        "id": 192,
+        "Question": "",
+        "Options": [
+            "a) 60",
+            "b) 58",
+            "c) 54",
+            "d) 59"
+        ],
+        "Answer": "Answer: b\nExplanation: Here, the number of observations are even (six).\nHence, median = \\(\\frac{n/2 \\,th \\,observation + (n/2+1)th \\,observation}{2}\\) \nWhere, n = no. of observation\nMedian = \\(\\frac{6/2 th \\,observation + (6/2+1)th \\,observation}{2}\\) \n= \\(\\frac{3^{rd} \\,observation + 4^{th} \\,observation}{2}\\) \n54 = \\(\\frac{50+x}{2}\\) \n108 = 50 + x\nHence, x = 58.\n"
+    },
+    {
+        "id": 193,
+        "Question": "",
+        "Options": [
+            "a) 92",
+            "b) 9",
+            "c) 93",
+            "d) 89"
+        ],
+        "Answer": "Answer: d\nExplanation: Mode is the value of the observation which occurs too frequently or frequency of which is highest.\nWe can see in the given observations that 89 has the highest frequency (3) or in other words, it occurs three times.\nHence, the value of mode is 89.\n"
+    },
+    {
+        "id": 194,
+        "Question": "What is the probability of event of obtaining minimum one head?",
+        "Options": [
+            "a) 0.5",
+            "b) 0.8",
+            "c) 0.55",
+            "d) 0.16"
+        ],
+        "Answer": "Answer: b\nExplanation: Number of events of obtaining minimum one head = 55 + 105\n= 160\nHence, P (E) = probability of event of obtaining minimum on head\n= \\(\\frac{Number \\,of \\,events \\,of \\,obtaining \\,minimum \\,one \\,head}{Number \\,of \\,total \\,trials}\\) \n= \\(\\frac{160}{200}\\) \n= 0.8.\n"
+    },
+    {
+        "id": 195,
+        "Question": "What is the probability of getting ‘4’ as outcome?",
+        "Options": [
+            "a) 0.16",
+            "b) 0.158",
+            "c) 0.156",
+            "d) 0.131"
+        ],
+        "Answer": "Answer: d\nExplanation: We can see from the table that we get ‘4’ 79 times out of 500 trials.\nTherefore, probability of getting ‘4’ as outcome = \\(\\frac{Event \\,of \\,occurence \\,of \\,getting \\,’4′}{Total \\,number \\,of \\,trials}\\) \n= \\(\\frac{79}{500}\\) \n= 0.158.\n"
+    },
+    {
+        "id": 196,
+        "Question": "What is the probability that the student has scored more than 80?",
+        "Options": [
+            "a) 0.6",
+            "b) 0.8",
+            "c) 0.4",
+            "d) 0.5"
+        ],
+        "Answer": "Answer: a\nExplanation: It can be seen that the student have scored 3 out of 5 times more than 80 marks.\nTherefore, probability that the student has scored more than 80 = \\(\\frac{number \\,of \\,occurrence \\,of \\,event}{Total \\,number \\,of \\,trials}\\) \n= \\(\\frac{3}{5}\\) \n= 0.6.\n"
+    },
+    {
+        "id": 197,
+        "Question": "What is the probability that the family has at least one boy?",
+        "Options": [
+            "a) 0.415",
+            "b) 0.270",
+            "c) 0.73",
+            "d) 0.315"
+        ],
+        "Answer": "Answer: c\nExplanation: In this case, having at least one boy means one boy or two boys.\nHence, number of families having at least one boy = 415 + 315 = 730\nTherefore, the probability that the family has at least one boy = \\(\\frac{number \\,of \\,families \\,having \\,at \\,least \\,one \\,boy }{Total \\,number \\,of \\,families} = \\frac{730}{1000}\\) \n= 0.73.\n"
+    },
+    {
+        "id": 198,
+        "Question": "What is the probability of being 18-35 years of age and having more than 1 accidents?",
+        "Options": [
+            "a) 0.06",
+            "b) 0.6",
+            "c) 0.08",
+            "d) 0.1"
+        ],
+        "Answer": "Answer: a\nExplanation: We can see that total number of events of being 18-35 years of age and having more than 1 accidents = 90\nTotal number of events = 1500\nHence, probability of being 18-35 years of age and having more than 1 accidents = \\(\\frac{90}{1500}\\) \n= 0.06.\n"
+    },
+    {
+        "id": 199,
+        "Question": "What is the probability of being elder than 35 years of age and having at least one accident?",
+        "Options": [
+            "a) 0.41",
+            "b) 0.25",
+            "c) 0.354",
+            "d) 0.333"
+        ],
+        "Answer": "Answer: c\nExplanation: We can see that total number of events of being elder than 35 years of age and having at least 1 accident = 277 + 78 + 118 + 59\n= 532\nTotal number of events = 1500\nHence, probability of being 18-29 years of age and having more than 1 accidents = \\(\\frac{532}{1500}\\) \n= 0.354.\n"
+    },
+    {
+        "id": 200,
+        "Question": "What is the probability of being 35-50 years of age and having more no accidents?",
+        "Options": [
+            "a) 0.29",
+            "b) 0.35",
+            "c) 0.09",
+            "d) 0.08"
+        ],
+        "Answer": "Answer: a\nExplanation: We can see that total number of events of being 35-50 years of age and having more than 1 accidents = 145\nTotal number of events = 1500\nHence, probability of being 18-29 years of age and having more than 1 accidents = \\(\\frac{145}{1500}\\) \n= 0.29.\n"
+    }
+]

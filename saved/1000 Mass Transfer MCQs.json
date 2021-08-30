@@ -1,0 +1,4086 @@
+[
+    {
+        "id": 1,
+        "Question": "The ratio of a mass concentration of species A to the total mass density of the mixture is known as",
+        "Options": [
+            "a) Mass density",
+            "b) Concentration",
+            "c) Mole fraction",
+            "d) Mass fraction"
+        ],
+        "Answer": "Answer: d\nExplanation: It is defined as p a/p. "
+    },
+    {
+        "id": 2,
+        "Question": "For a binary mixture of species A and B, the mass average velocity is defined as",
+        "Options": [
+            "a) 2 pa Va + pb Vb/ p",
+            "b) pa Va + pb Vb/ p",
+            "c) pa Va + 2 pb Vb/ p",
+            "d) pa Va + pb Vb/ 2 p"
+        ],
+        "Answer": "Answer: b\nExplanation: pa Va + pb Vb/ pa + pb = pa Va + pb Vb/ p. "
+    },
+    {
+        "id": 3,
+        "Question": "The ratio of number of moles of species A to the total number of moles of the mixture is known as",
+        "Options": [
+            "a) Mole fraction",
+            "b) Mass fraction",
+            "c) Partial pressure",
+            "d) Mass density"
+        ],
+        "Answer": "Answer: a\nExplanation: It is defined as na/n. "
+    },
+    {
+        "id": 4,
+        "Question": "A binary mixture of oxygen and nitrogen with partial pressures in the ratio 0.21 and 0.79 is contained in a vessel at 300 K. If the total pressure of the mixture is 1 * 10 5 N/m2, find molar concentration of oxygen",
+        "Options": [
+            "a) 8.42 * 10-1 kg mol/m3",
+            "b) 8.42 * 10-2 kg mol/m3",
+            "c) 8.42 * 10-3 kg mol/m3",
+            "d) 8.42 * 10-4 kg mol/m3"
+        ],
+        "Answer": "Answer: c\nExplanation: 0.21 * 10 5/8341 * 300 = 8.42 * 10 -3 kg mol/m3. "
+    },
+    {
+        "id": 5,
+        "Question": "For a binary mixture of species A and B, the molar average velocity is defined as",
+        "Options": [
+            "a) n a V a + n b V b",
+            "b) n a V a + n b V b/n",
+            "c) n a V a + n b V b/2 n",
+            "d) n a V a + 2 n b V b/n"
+        ],
+        "Answer": "Answer: b\nExplanation: n A V A + n B V B/n A + n B = n A V A + n B V B/n. "
+    },
+    {
+        "id": 6,
+        "Question": "A binary mixture of oxygen and nitrogen with partial pressures in the ratio 0.21 and 0.79 is contained in a vessel at 300 K. If the total pressure of the mixture is 1 * 10 5 N/m2, find overall mass density",
+        "Options": [
+            "a) 4.156 kg/m3",
+            "b) 3.156 kg/m3",
+            "c) 2.156 kg/m3",
+            "d) 1.156 kg/m3"
+        ],
+        "Answer": "Answer: c\nExplanation: The slight movement of air over the top of the tube does not bring about any change in the concentration profile of air. "
+    },
+    {
+        "id": 7,
+        "Question": "A binary mixture of oxygen and nitrogen with partial pressures in the ratio 0.21 and 0.79 is contained in a vessel at 300 K. If the total pressure of the mixture is 1 * 10 5 N/m2, find molar fraction of nitrogen",
+        "Options": [
+            "a) 0.79",
+            "b) 0.21",
+            "c) 0.23",
+            "d) 0.13"
+        ],
+        "Answer": "Answer: d\nExplanation: For oxygen = 0.269 kg/m3 and for nitrogen = 0.887 kg/m3. "
+    },
+    {
+        "id": 8,
+        "Question": "A binary mixture of oxygen and nitrogen with partial pressures in the ratio 0.21 and 0.79 is contained in a vessel at 300 K. If the total pressure of the mixture is 1 * 10 5 N/m2, find mass fraction of oxygen",
+        "Options": [
+            "a) 0.133",
+            "b) 0.233",
+            "c) 0.333",
+            "d) 0.433"
+        ],
+        "Answer": "Answer: a\nExplanation: Molar fraction is equal to the partial pressure. "
+    },
+    {
+        "id": 9,
+        "Question": "A binary mixture of oxygen and nitrogen with partial pressures in the ratio 0.21 and 0.79 is contained in a vessel at 300 K. If the total pressure of the mixture is 1 * 10 5 N/m2, find the average molecular weight of the mixture",
+        "Options": [
+            "a) 28.84",
+            "b) 29.84",
+            "c) 30.84",
+            "d) 31.84"
+        ],
+        "Answer": "Answer: b\nExplanation: 0.269/1.156 = 0.233. "
+    },
+    {
+        "id": 10,
+        "Question": "In which of the following conditions mass transfer will occur spontaneously? C and z is concentration and distance respectively.",
+        "Options": [
+            "a) dC/dz>0",
+            "b) dC/dz<0",
+            "c) dC/dz=0",
+            "d) None of the Mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Mass transfer occurs in the direction of decreasing concentration."
+    },
+    {
+        "id": 11,
+        "Question": "Which among the following is always true for mass transfer to occur?",
+        "Options": [
+            "a) Difference in concentration",
+            "b) Difference in Pressure",
+            "c) Difference in temperature",
+            "d) Difference in chemical potential"
+        ],
+        "Answer": "Answer: d\nExplanation: Mass transfer occurs to attain an equilibrium position or to minimize the energy of the system. Mass occur can occur even if there is no difference in concentration, pressure and temperature. Example: – A ball rolls down a slope to minimize its potential energy."
+    },
+    {
+        "id": 12,
+        "Question": "A solution contains 0.3 moles of solute A, 0.2 moles of B and 0.5 moles of C. What will be the mole fraction of A in the mixture?",
+        "Options": [
+            "a) 0.3",
+            "b) 0.2",
+            "c) 0.5",
+            "d) 1"
+        ],
+        "Answer": "Answer: a\nExplanation: Mole Fraction of A= Moles of A/Total moles"
+    },
+    {
+        "id": 13,
+        "Question": "What is the value of molar average velocity (m/s) of the mixture?",
+        "Options": [
+            "a) 0.036",
+            "b) 0.035",
+            "c) 0.034",
+            "d) 0.033"
+        ],
+        "Answer": "Answer: a\nExplanation: Molar average velocity= (C1u1+C2u2+……….)/C\n                                   =y1u1+y2u2…..\n                                   = 0.21*0.04+0.79*0.035\n                                   =0.036."
+    },
+    {
+        "id": 14,
+        "Question": "What will be the value of mass average velocity (m/s)?",
+        "Options": [
+            "a) 0.981",
+            "b) 0.891",
+            "c) 0.985",
+            "d) 0.857"
+        ],
+        "Answer": "Answer: a\nExplanation: Mass average velocity= (ρ1u1+ρ2u2)/ ρ\n                 ρ1= (p1*M1)/RT\n                   ρ= (p*M)/RT.\n                 Dividing these two equations\n              ρ1/ ρ = (p1*M1)/pM =(y1*M1)/M\n              M=y1*M1+y2*M2=0.79*28+0.21*32=28.84\n              Mass average velocity= (y1*M1*u1+y2*M2*u2)/M\n                                   = (0.21*32*0.04+0.79*0.035)/28.84\n                                   = 0.981."
+    },
+    {
+        "id": 15,
+        "Question": "What is the value of Volume average velocity?",
+        "Options": [
+            "a) 0.036",
+            "b) 0.035",
+            "c) 0.034",
+            "d) 0.033"
+        ],
+        "Answer": "Answer: a\nExplanation: Volume average velocity= Molar average velocity."
+    },
+    {
+        "id": 16,
+        "Question": "In a gas mixture if molecular weights of all the species are equal than which one will be more, Mass average velocity or Molar average velocity?",
+        "Options": [
+            "a) Mass average velocity",
+            "b) Molar average velocity",
+            "c) Both will have the same value",
+            "d) Nothing definite can be said"
+        ],
+        "Answer": "Answer: c\nExplanation: Average molar mass of the mixture=M(x1+x2+………+ xn)=M\n                                                                                             (x1+x2+………+ xn=1)\n                        Mass average velocity=Σuiρi/ρ=uiPui/P\n                        Molar average velocity=Σciui/c=ρuiPi/P (P=cRT)."
+    },
+    {
+        "id": 17,
+        "Question": "Calculate the value of mass average velocity in the previous question?",
+        "Options": [
+            "a) (0.0235, 0.0764, 0.00007)",
+            "b) (0.021, 0.078, 0.01)",
+            "c) (0.1, 0.1 0.1)",
+            "d) (0.079, 0.021, 0.01)"
+        ],
+        "Answer": "Answer: a\nExplanation: Molar average velocity = (c1u1+c2u2+c3u3)/C."
+    },
+    {
+        "id": 18,
+        "Question": "For the calculation of Mass average velocity, which velocity of the molecule is used?",
+        "Options": [
+            "a) Instantaneous Velocity",
+            "b) Mean Velocity",
+            "c) Instantaneous Velocity as well as Mean Velocity",
+            "d) Bulk velocity of the mixture"
+        ],
+        "Answer": "Answer: a\nExplanation: (y1*M1*u1+y2*M2*u2)/M."
+    },
+    {
+        "id": 19,
+        "Question": "Which among the following can be the unit of Flux?",
+        "Options": [
+            "a) Kg*m-2*s-1",
+            "b) Kg*m2*s-1",
+            "c) Kg*m2*s1",
+            "d) Kg*m*s2"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 20,
+        "Question": "A molecule in a mixture moves with a velocity of 0.03m/s in (+x) direction. The concentration of the particle is 0.5 mol/liter. A observer is running in (-x) direction with a velocity of 2m/s. calculate the value of molar flux (mol/m2.s) relative to the observer.",
+        "Options": [
+            "a) 0.015",
+            "b) 15",
+            "c) 1.015",
+            "d) 1015"
+        ],
+        "Answer": "Answer:a\nExplanation: Dimension analysis.\n             Flux= rate at which a species passes through a unit area, in unit time."
+    },
+    {
+        "id": 21,
+        "Question": "In the previous question what will be the value of flux (mol/m2.s) with respect to a stationary observer?",
+        "Options": [
+            "a) 0.015",
+            "b) 15",
+            "c) 1.015",
+            "d) 1015"
+        ],
+        "Answer": "Answer: d\nExplanation: Molar flux with respect to observer= C(u-U)\n                                               (C=500mol/m3, u=0.03m/s, U= (-) 2m/s)."
+    },
+    {
+        "id": 22,
+        "Question": "Under which of the following conditions mass average velocity and molar average velocity are equal?",
+        "Options": [
+            "a) In a very dilute solution",
+            "b) If molecular weights of all the species are equal",
+            "c) Always different",
+            "d) In dilute solutions as well as in solutions in which all components have same molecular weights"
+        ],
+        "Answer": "Answer: b\nExplanation: Here U=0."
+    },
+    {
+        "id": 23,
+        "Question": "The mass flow rate of a component in a mixture in X-direction is 2kg/s. The area vector at a particular cross-section is (1.1, 3.2, 5.4) cm2. Calculate the value of flux (kg/cm2.s) through the cross-section.",
+        "Options": [
+            "a) 0.31",
+            "b) 2.2",
+            "c) 1.82",
+            "d) 6.45"
+        ],
+        "Answer": "Answer: d\nExplanation: None."
+    },
+    {
+        "id": 24,
+        "Question": "Fick’s law is given by the formula",
+        "Options": [
+            "a) N b = – D b c d C b/d x",
+            "b) N b = – 2 D b c d C b/d x",
+            "c) N b = – 3 D b c d C b/d x",
+            "d) N b = – 4 D b c d C b/d x"
+        ],
+        "Answer": "Answer: a\nExplanation: Experimental evidences shows that molecular diffusion is goverened by the empirical relation suggested by Fick. "
+    },
+    {
+        "id": 25,
+        "Question": "What is the unit of diffusion coefficient?",
+        "Options": [
+            "a) m2",
+            "b) s",
+            "c) m2 s",
+            "d) m2/s"
+        ],
+        "Answer": "Answer: b\nExplanation: Equimolal diffusion between species B and C of a binary gas system implies that each molecule of component B is replaced by each molecule of constituent C. "
+    },
+    {
+        "id": 26,
+        "Question": "What is the molecular weight of ammonia?",
+        "Options": [
+            "a) 31",
+            "b) 53",
+            "c) 29",
+            "d) 39"
+        ],
+        "Answer": "Answer: d\nExplanation: D = – N/ (d C/ d x). "
+    },
+    {
+        "id": 27,
+        "Question": "What is the molecular volume of air at normal boiling point?",
+        "Options": [
+            "a) 29.89 cm3/gm mole",
+            "b) 39.89 cm3/gm mole",
+            "c) 49.89 cm3/gm mole",
+            "d) 59.89 cm3/gm mole"
+        ],
+        "Answer": "Answer: c\nExplanation: Formula of ammonia is NH3. "
+    },
+    {
+        "id": 28,
+        "Question": "What is the value of Schmidt number for hydrogen?",
+        "Options": [
+            "a) 0.23",
+            "b) 0.22",
+            "c) 0.21",
+            "d) 0.21"
+        ],
+        "Answer": "Answer: a\nExplanation: Air contains some dust particles due to which its molecular volume decreases by a small factor. "
+    },
+    {
+        "id": 29,
+        "Question": "What is the molecular weight of Sulphur-dioxide?",
+        "Options": [
+            "a) 84",
+            "b) 74",
+            "c) 64",
+            "d) 54"
+        ],
+        "Answer": "Answer: b\nExplanation: Schmidt number = v/D. "
+    },
+    {
+        "id": 30,
+        "Question": "The dimension of diffusion coefficient is given by",
+        "Options": [
+            "a) M L T -2",
+            "b) L 2 T -1",
+            "c) L T -1",
+            "d) M L -2 T"
+        ],
+        "Answer": "Answer: d\nExplanation: D = 0.0043 T 3/2/p t (V b1/3 + V c1/3) 2 [1/M    b + M c] ½."
+    },
+    {
+        "id": 31,
+        "Question": "For what kind of mixtures DAB=DBA holds?",
+        "Options": [
+            "a) Ideal",
+            "b) Real",
+            "c) For both real and ideal",
+            "d) This relation is never true."
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 32,
+        "Question": "In the expression for molar flux NA=(NA+NB)CA/C – DABdCA/dz, the terms representing bulk flow and molecular diffusion are, respectively",
+        "Options": [
+            "a) (NA+NB)CA/C, DABdCA/dz",
+            "b) (NA+NB)CA/C, DABdCA/dz",
+            "c) (NA+NB)CA/C, (NA+NB)CA/C",
+            "d) (DABdCA/dz, DABdCA/dz)"
+        ],
+        "Answer": "Answer:a\nExplanation: None."
+    },
+    {
+        "id": 33,
+        "Question": "Consider loss of ethanol vapor by diffusion from a half-filled open test tube. At what point in the diffusion path will the contribution of the bulk flow term to the molar flux be maximum?",
+        "Options": [
+            "a) At the liquid-gas interface",
+            "b) In the bulk liquid",
+            "c) In the bulk gas",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: At the liquid-gas interface concentration will be maximum.\n                        Bulk liquid is not a part of the diffusion path."
+    },
+    {
+        "id": 34,
+        "Question": "A reaction 3A+2B+C=1.5D+E occurs in a reactor at steady state. What will be the value of the flux ratio NA/ND",
+        "Options": [
+            "a)-2",
+            "b)-0.5",
+            "c) 2",
+            "d)-0.5"
+        ],
+        "Answer": "Answer: a\nExplanation: NA/ND= (rate of disappearance of A)/(rate of appearance of D)\n                                    = -3/1.5\n                                    = -2."
+    },
+    {
+        "id": 35,
+        "Question": "A sheet of Fe 1.0 mm thick is exposed to an oxidizing gas on one side and a deoxidizing gas on the other at 725°C. After reaching steady state, the Fe membrane is exposed to room temperature, and the C concentrations at each side of the membrane are 0.012 and 0.075 wt%. Calculate the diffusion coefficient (m2/sec) if the diffusion flux is 1.4×10-8kg/m2-sec.",
+        "Options": [
+            "a) 9.87*10-12",
+            "b) 9.87*10-13",
+            "c) 9.87*10-11",
+            "d) 9.87*10-10"
+        ],
+        "Answer": "Answer: a\nExplanation: By Fick’s law, JA=(-)DAB*dC/dx\n                                        CA(uA-U)= (-)DABdC/dx…………1\n                         Diffusion velocity= (uA-U)=(-DABdC/dx)/CA\n                                 dC/dx  = -50e-10x\n                     CA= 5 mol/lit\n                   Put all the values in equation 1."
+    },
+    {
+        "id": 36,
+        "Question": "At which condition molar flux with respect to a stationary observer and with respect to an observer moving with molar average velocity?",
+        "Options": [
+            "a) In a very dilute solution",
+            "b) In a highly concentrated solution",
+            "c) At moderate concentration",
+            "d) Never"
+        ],
+        "Answer": "Answer: a\nExplanation: Convert from wt% to kg/m3 .\n                          Concentration in kg/m3=[C1/(C1/ρ1+C2/ρ2)]*1000\n                          0.012% and 0.075% in kg/m3 are 0.270 and 1.688 respectively.\n                          Putting all the values in the equation JA=(-)DABdC/dx."
+    },
+    {
+        "id": 37,
+        "Question": "Which among the following is the statement of the ‘Fick’s Law’?",
+        "Options": [
+            "a) The molar flux of species relative to an observer moving with the molar average velocity is proportional to the concentration gradient of the species.",
+            "b) The mass flux of species relative to an observer moving with the molar average velocity is proportional to the concentration gradient of the species.",
+            "c) The molar flux of species relative to an observer moving with the mass average velocity is proportional to the concentration gradient of the species.",
+            "d) The molar flux of species relative to a stationary observer is proportional to the concentration gradient of the species."
+        ],
+        "Answer": "Answer: a\nExplanation: In a very dilute solution, the contribution of the bulk flow term becomes negligible.\n                    NA= (NA+NB)CA/C – DABdCA/dz  (general equation)\n                    (NA+NB)CA/C =0                             (in dilute solution)\n                     NA= -DABdCA/dz = JA."
+    },
+    {
+        "id": 38,
+        "Question": "The gas A diffuses through non-diffusing B from point 1 to point 2. The total pressure is 2atm and yA1=0.1 and yA2=0.Then the ratio (dPA/dz)1/(dPA/dz)2 is",
+        "Options": [
+            "a) 10",
+            "b) 1.11",
+            "c) 0.9",
+            "d) 2.3"
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 39,
+        "Question": "In industries titanium is hardened through diffusion of carbon. The concentration of carbon at 1mm into the surface of the titanium slab is 0.25kg/m3 and at 3mm the concentration is 0.68kg/m3. The rate at which the carbon is entering into its surface is 1.27*10-9kg/m2.s. calculate the value of diffusion coefficient of carbon.",
+        "Options": [
+            "a) 5.91*10-12",
+            "b) 5.91*10-10",
+            "c) 5.91*10-11",
+            "d) 5.91*10-13"
+        ],
+        "Answer": "Answer: c\nExplanation: None."
+    },
+    {
+        "id": 40,
+        "Question": "The mass transfer by convection can take place under how many conditions?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Free or forced conditions. "
+    },
+    {
+        "id": 41,
+        "Question": "Lewis number is given by",
+        "Options": [
+            "a) 4 α/D",
+            "b) 3 α/D",
+            "c) 2 α/D",
+            "d) α/D"
+        ],
+        "Answer": "Answer: d\nExplanation: It forms the connecting link between the temperature and concentration profiles. "
+    },
+    {
+        "id": 42,
+        "Question": "Prandtl number is given by",
+        "Options": [
+            "a) V/α",
+            "b) 2 V/α",
+            "c) 3 V/α",
+            "d) 4 V/α"
+        ],
+        "Answer": "Answer: a\nExplanation: It is related to velocity and temperature profiles. "
+    },
+    {
+        "id": 43,
+        "Question": "Schmidt number is given by",
+        "Options": [
+            "a) 2 V/D",
+            "b) D/V",
+            "c) V/D",
+            "d) 2 D/V"
+        ],
+        "Answer": "Answer: c\nExplanation: It is related to velocity and concentration profiles. "
+    },
+    {
+        "id": 44,
+        "Question": "Sherwood number is given by",
+        "Options": [
+            "a) 3/2 h m L/D",
+            "b) ½ h m L/D",
+            "c) 3 h m L/D",
+            "d) h m L/D"
+        ],
+        "Answer": "Answer: d\nExplanation: It is a non-dimensional mass transfer number. "
+    },
+    {
+        "id": 45,
+        "Question": "The solution for velocity, concentration and temperature boundary layers will be same if",
+        "Options": [
+            "a) Prandtl number = Schmidt number= Lewis number",
+            "b) Prandtl number = 2 Schmidt number= Lewis number",
+            "c) Prandtl number = Schmidt number= 2 Lewis number",
+            "d) 2 Prandtl number = Schmidt number= Lewis number"
+        ],
+        "Answer": "Answer: a\nExplanation: All the three boundary layers must coincide. "
+    },
+    {
+        "id": 46,
+        "Question": "Convective mass transfer involves the transportation of material between a boundary surface and a moving fluid or between two immiscible fluids. It is prescribed by the relation",
+        "Options": [
+            "a) 2 h m (d C B)",
+            "b) ½ h m (d C B)",
+            "c) h m (d C B)",
+            "d) 3/2 h m (d C B)"
+        ],
+        "Answer": "Answer: c\nExplanation: It is equal to m/A = h m (d C B). "
+    },
+    {
+        "id": 47,
+        "Question": "Which number forms the connecting link between the velocity and temperature profiles?",
+        "Options": [
+            "a) Fourier number",
+            "b) Prandtl number",
+            "c) Stanton number",
+            "d) Biot number"
+        ],
+        "Answer": "Answer: b\nExplanation: These profiles become identical when Prandtl number is equal to one. "
+    },
+    {
+        "id": 48,
+        "Question": "Which number forms the connecting link between the velocity and concentration profiles?",
+        "Options": [
+            "a) Schmidt number",
+            "b) Reynolds number",
+            "c) Stanton number",
+            "d) Fourier number"
+        ],
+        "Answer": "Answer: a\nExplanation: These profiles become identical when Schmidt number is equal to one. "
+    },
+    {
+        "id": 49,
+        "Question": "Which number forms the connecting link between the temperature and concentration profiles?",
+        "Options": [
+            "a) Prandtl number",
+            "b) Schmidt number",
+            "c) Fourier number",
+            "d) Lewis number"
+        ],
+        "Answer": "Answer: d\nExplanation: When Lewis number is equal to unity, these two profiles are identical. "
+    },
+    {
+        "id": 50,
+        "Question": "What is the value of emissivity for polished aluminum?",
+        "Options": [
+            "a) 0.01",
+            "b) 0.02",
+            "c) 0.03",
+            "d) 0.04"
+        ],
+        "Answer": "Answer: c\nExplanation: The emissivity of the surface of a material is its effectiveness in emitting energy as thermal radiation. "
+    },
+    {
+        "id": 51,
+        "Question": "Which one is having highest emissivity?",
+        "Options": [
+            "a) Tarnished copper",
+            "b) Polished aluminum",
+            "c) Aluminum foil",
+            "d) Polished copper"
+        ],
+        "Answer": "Answer: a\nExplanation: Emissivity of tarnished copper is 0.75 while that of polished aluminum, aluminum foil and polished copper are 0.03, 0.05 and 0.03 respectively. "
+    },
+    {
+        "id": 52,
+        "Question": "What is the value of emissivity for polished copper?",
+        "Options": [
+            "a) 0.02",
+            "b) 0.03",
+            "c) 0.04",
+            "d) 0.05"
+        ],
+        "Answer": "Answer: b\nExplanation: This is the total hemispherical emissivity from the surfaces. It describes thermal radiation emitted near specific wavelength and at specific angles to surface."
+    },
+    {
+        "id": 53,
+        "Question": "What is the value of emissivity for tarnished copper?",
+        "Options": [
+            "a) 0.78",
+            "b) 0.77",
+            "c) 0.76",
+            "d) 0.75"
+        ],
+        "Answer": "Answer: d\nExplanation: This is optically thick material. The absorptivity at the wavelengths doesn’t depend on the thickness of the material."
+    },
+    {
+        "id": 54,
+        "Question": "Which one is having the lowest emissivity?",
+        "Options": [
+            "a) Polished stainless steel",
+            "b) White marble",
+            "c) Snow",
+            "d) Asphalt"
+        ],
+        "Answer": "Answer: a\nExplanation: Emissivity of polished stainless steel is 0.60 while that of white marble, snow and asphalt are 0.95, 0.97 and 0.90 respectively. "
+    },
+    {
+        "id": 55,
+        "Question": "What is the value of emissivity for dull stainless steel?",
+        "Options": [
+            "a) 0.24",
+            "b) 0.23",
+            "c) 0.22",
+            "d) 0.21"
+        ],
+        "Answer": "Answer: d\nExplanation: It is transparent with low emissivity coatings. It emits less thermal radiation than an ordinary window. "
+    },
+    {
+        "id": 56,
+        "Question": "What is the value of emissivity for white marble?",
+        "Options": [
+            "a) 0.96",
+            "b) 0.95",
+            "c) 0.94",
+            "d) 0.93"
+        ],
+        "Answer": "Answer: b\nExplanation: It is based on evacuated glass tube collectors. Sunlight is absorbed by a selective surface. "
+    },
+    {
+        "id": 57,
+        "Question": "Which one is having highest emissivity?",
+        "Options": [
+            "a) Red brick",
+            "b) Concrete",
+            "c) Black paint",
+            "d) Dull stainless steel"
+        ],
+        "Answer": "Answer: c\nExplanation: Emissivity of black paint is 0.97 while that of red brick, concrete and dull stainless steel are 0.93, 0.88 and 0.21 respectively. "
+    },
+    {
+        "id": 58,
+        "Question": "What is the value of emissivity for asphalt?",
+        "Options": [
+            "a) 0.90",
+            "b) 0.80",
+            "c) 0.70",
+            "d) 0.60"
+        ],
+        "Answer": "Answer: a\nExplanation: It is an ordinary black surface that absorbs sunlight efficiently but emits thermal radiation copiously. "
+    },
+    {
+        "id": 59,
+        "Question": "Which one is having the lowest emissivity?",
+        "Options": [
+            "a) Snow",
+            "b) White marble",
+            "c) Concrete",
+            "d) Polished stainless steel"
+        ],
+        "Answer": "Answer: d\nExplanation: Emissivity of polished stainless steel is 0.60 while that of snow, white marble and concrete are 0.97, 0.95 and 0.88 respectively. "
+    },
+    {
+        "id": 60,
+        "Question": "What is the value of the Schmidt number for ammonia?",
+        "Options": [
+            "a) 0.78",
+            "b) 0.79",
+            "c) 0.81",
+            "d) 0.82"
+        ],
+        "Answer": "Answer: a\nExplanation: Ammonia also known as Azane is a colorless gas with a characteristic pungent smell. It is also used in many commercial cleaning products. "
+    },
+    {
+        "id": 61,
+        "Question": "What is the value of the Schmidt number for carbon-dioxide?",
+        "Options": [
+            "a) 0.92",
+            "b) 0.93",
+            "c) 0.94",
+            "d) 0.95"
+        ],
+        "Answer": "Answer: c\nExplanation: It is a colorless, odorless gas vital to life on earth. This naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms. "
+    },
+    {
+        "id": 62,
+        "Question": "What is the dimension of the Schmidt number?",
+        "Options": [
+            "a) Newton",
+            "b) Meter",
+            "c) Celsius",
+            "d) It is a dimensional quantity"
+        ],
+        "Answer": "Answer: d\nExplanation: Schmidt number = v/D and it has no dimensions. "
+    },
+    {
+        "id": 63,
+        "Question": "Which one of the following is having the lowest value of Schmidt number?",
+        "Options": [
+            "a) Oxygen",
+            "b) Water",
+            "c) Benzene",
+            "d) Ethyl alcohol"
+        ],
+        "Answer": "Answer: b\nExplanation: Schmidt number of water is 0.60 while that of oxygen, ethyl alcohol and benzene are 0.75, 1.76 and 1.30 respectively."
+    },
+    {
+        "id": 64,
+        "Question": "What is the value of the Schmidt number for water?",
+        "Options": [
+            "a) 0.62",
+            "b) 0.61",
+            "c) 0.60",
+            "d) 0.59"
+        ],
+        "Answer": "Answer: c\nExplanation: Water is a transparent fluid and its molecules are connected by covalent bonds. It is tasteless and odorless. "
+    },
+    {
+        "id": 65,
+        "Question": "Schmidt number is given by the formula",
+        "Options": [
+            "a) 2 D/v",
+            "b) v/D",
+            "c) D/v",
+            "d) 2 v/D"
+        ],
+        "Answer": "Answer: b\nExplanation: Schmidt number is defined as the ratio of viscosity and mass diffusivity and is used to characterize fluid flows in which there are simultaneous momentum and mass diffusion convection processes. "
+    },
+    {
+        "id": 66,
+        "Question": "Which one of the following is having the highest value of Schmidt number?",
+        "Options": [
+            "a) Benzene",
+            "b) Carbon dioxide",
+            "c) Acetic acid",
+            "d) Ammonia"
+        ],
+        "Answer": "Answer: a\nExplanation: Schmidt number of benzene is 1.78 while that of carbon dioxide, acetic acid and ammonia are 0.78, 1.16 and 0.78 respectively."
+    },
+    {
+        "id": 67,
+        "Question": "What is the value of the Schmidt number for acetic acid?",
+        "Options": [
+            "a) 4.16",
+            "b) 3.16",
+            "c) 2.16",
+            "d) 1.16"
+        ],
+        "Answer": "Answer: d\nExplanation: It is a colorless liquid and weak acid. It is an important chemical reagent. "
+    },
+    {
+        "id": 68,
+        "Question": "What is the value of the Schmidt number for benzene?",
+        "Options": [
+            "a) 1.96",
+            "b) 1.86",
+            "c) 1.76",
+            "d) 1.66"
+        ],
+        "Answer": "Answer: c\nExplanation: Its molecule is composed of six carbon atoms joined in a ring with one hydrogen atom attached to each carbon atom."
+    },
+    {
+        "id": 69,
+        "Question": "Schmidt number is given by",
+        "Options": [
+            "a) German engineer",
+            "b) British engineer",
+            "c) French engineer",
+            "d) American engineer"
+        ],
+        "Answer": "Answer: a\nExplanation: It was named after the German engineer Ernst Heinrich Wilhelm Schmidt. "
+    },
+    {
+        "id": 70,
+        "Question": "What is the value of diffusivity for ammonia?",
+        "Options": [
+            "a) 0.26",
+            "b) 0.27",
+            "c) 0.28",
+            "d) 0.29"
+        ],
+        "Answer": "Answer: c\nExplanation: Ammonia is a colorless gas and it boils at a pressure of one atmosphere. It is easily liquefied due to the strong hydrogen bonding. Its unit is cm2/s. "
+    },
+    {
+        "id": 71,
+        "Question": "Which one is having the highest value of diffusivity?",
+        "Options": [
+            "a) Hydrogen",
+            "b) Oxygen",
+            "c) Water",
+            "d) Methanol"
+        ],
+        "Answer": "Answer: a\nExplanation: Thermal diffusivity of hydrogen is 0.410 while that of oxygen, water and methanol are 0.206, 0.259 and .0159 respectively. Its unit is cm    2/s. "
+    },
+    {
+        "id": 72,
+        "Question": "What is the value of diffusivity for hydrogen?",
+        "Options": [
+            "a) 0.210",
+            "b) 0.310",
+            "c) 0.410",
+            "d) 0.510"
+        ],
+        "Answer": "Answer: c\nExplanation: It is highly flammable and will burn in air at a very wide range of concentrations. It reacts with every oxidizing agent. Its unit is cm    2/s. "
+    },
+    {
+        "id": 73,
+        "Question": "Which one is having the lowest value of diffusivity?",
+        "Options": [
+            "a) Acetic acid",
+            "b) Oxygen",
+            "c) Benzene",
+            "d) Toluene"
+        ],
+        "Answer": "Answer: d\nExplanation: Thermal diffusivity of toluene is 0.084 while that of acetic acid, oxygen and benzene are 0.133, 0.206 and 0.081 respectively. Its unit is cm    2/s. "
+    },
+    {
+        "id": 74,
+        "Question": "What is the value of diffusivity for water?",
+        "Options": [
+            "a) 0.233",
+            "b) 0.256",
+            "c) 0.276",
+            "d) 0.298"
+        ],
+        "Answer": "Answer: b\nExplanation: It is transparent in the visible electromagnetic spectrum. It has high specific heat capacity and latent heat of vaporisation. Its unit is cm    2/s. "
+    },
+    {
+        "id": 75,
+        "Question": "Which one is having the highest value of diffusivity?",
+        "Options": [
+            "a) Water",
+            "b) Oxygen",
+            "c) Hydrogen",
+            "d) Carbon dioxide"
+        ],
+        "Answer": "Answer: a\nExplanation: Thermal diffusivity of water is 0.256 while that of oxygen, hydrogen and carbon dioxide are 0.206, 0.210 and 0.164 respectively. Its unit is cm2/s. "
+    },
+    {
+        "id": 76,
+        "Question": "What is the value of diffusivity for ethyl alcohol?",
+        "Options": [
+            "a) 0.117",
+            "b) 0.118",
+            "c) 0.119",
+            "d) 0.120"
+        ],
+        "Answer": "Answer: c\nExplanation: There are extensive hydrogen bonding between its molecules. Its unit is cm2/s. "
+    },
+    {
+        "id": 77,
+        "Question": "Which one is having the lowest value of diffusivity?",
+        "Options": [
+            "a) Glucose",
+            "b) Urea",
+            "c) Ethanol",
+            "d) Oxygen"
+        ],
+        "Answer": "Answer: a\nExplanation: Thermal diffusivity of glucose is 0.60 while that of urea, oxygen and ethanol are 8.06, 1.80 and 1.00 respectively. Its unit is cm2 /s. "
+    },
+    {
+        "id": 78,
+        "Question": "What is the value of diffusivity for benzene?",
+        "Options": [
+            "a) 0.055",
+            "b) 0.066",
+            "c) 0.077",
+            "d) 0.088"
+        ],
+        "Answer": "Answer: d\nExplanation: It is having higher diffusivity so they diffuse faster into each other. Its unit is cm2/s. "
+    },
+    {
+        "id": 79,
+        "Question": "Which one is having the highest value of diffusivity?",
+        "Options": [
+            "a) Ammonia",
+            "b) Urea",
+            "c) Glucose",
+            "d) Ethanol"
+        ],
+        "Answer": "Answer: b\nExplanation: Thermal diffusivity of urea is 8.06 while that of ammonia, glucose and ethanol are 1.76, 0.60 and 1.00 respectively. Its unit is cm    2/s. "
+    },
+    {
+        "id": 80,
+        "Question": "Which one is having highest density?",
+        "Options": [
+            "a) Snow",
+            "b) Teflon",
+            "c) Soil",
+            "d) Sand"
+        ],
+        "Answer": "Answer: b\nExplanation: Teflon, also known as polytetrafluoroethylene has density 2200 kg/m3. It is a thermoplastic polymer, which is a white solid at room temperature. Density of snow, soil and sand are 110 kg/m3, 2050 kg/m3 and 1515 kg/m3 respectively."
+    },
+    {
+        "id": 81,
+        "Question": "What is the density of paper in kg/m3?",
+        "Options": [
+            "a) 910",
+            "b) 920",
+            "c) 930",
+            "d) 940"
+        ],
+        "Answer": "Answer: c\nExplanation: Paper density is used in pulp or fabric industry in order to measure of the mass of the product per unit of area for a type of paperboard."
+    },
+    {
+        "id": 82,
+        "Question": "Which one is having the least density?",
+        "Options": [
+            "a) Ice",
+            "b) Pyrex",
+            "c) Paraffin",
+            "d) Marble"
+        ],
+        "Answer": "Answer: a\nExplanation: Ice is water. Depending on the presence of impurities such as particles of soil or bubbles of air, it can appear transparent or a more or less opaque bluish-white color."
+    },
+    {
+        "id": 83,
+        "Question": "What is the density of sand in kg/m3?",
+        "Options": [
+            "a) 1215",
+            "b) 1315",
+            "c) 1415",
+            "d) 1515"
+        ],
+        "Answer": "Answer: d\nExplanation: Density of sand can vary depending on the grain size and moisture content and how tightly it is compacted. "
+    },
+    {
+        "id": 84,
+        "Question": "What is the density of snow in kg/m3?",
+        "Options": [
+            "a) 100",
+            "b) 110",
+            "c) 120",
+            "d) 130"
+        ],
+        "Answer": "Answer: b\nExplanation: Snow is precipitation in the form of flakes of crystalline water ice that falls from clouds. It is a granular material, soft, white and fluffy structure. "
+    },
+    {
+        "id": 85,
+        "Question": "Which one is having least density?",
+        "Options": [
+            "a) Clay",
+            "b) Coal",
+            "c) Cotton",
+            "d) Banana"
+        ],
+        "Answer": "Answer: c\nExplanation: Cotton is a soft, fluffy staple fiber that grows in a boll. The fiber is spun into yarn or thread. Density of cotton is 80 kg/m3 while that of clay, coal and banana are 1460 kg/m3, 1350 kg/m3 and 980 kg/m3. "
+    },
+    {
+        "id": 86,
+        "Question": "What is the density of limestone in kg/m3?",
+        "Options": [
+            "a) 2320",
+            "b) 2430",
+            "c) 2530",
+            "d) 2630"
+        ],
+        "Answer": "Answer: a\nExplanation: It is also known as calcium hydroxide. It is a colorless crystal which is obtained from calcium oxide."
+    },
+    {
+        "id": 87,
+        "Question": "What is the density of granite in kg/m3?",
+        "Options": [
+            "a) 2130",
+            "b) 2230",
+            "c) 2530",
+            "d) 2630"
+        ],
+        "Answer": "Answer: d\nExplanation: It is granular and phaneritic in nature. This mainly consists of feldspar, mica and quartz."
+    },
+    {
+        "id": 88,
+        "Question": "Which one is having highest density?",
+        "Options": [
+            "a) Leather",
+            "b) Paper",
+            "c) Balsa",
+            "d) Snow"
+        ],
+        "Answer": "Answer: a\nExplanation: Density of leather is 998 kg/m3 while that of paper, balsa and snow are 930 kg/m3, 140 kg/m3 and 110 kg/m    3. "
+    },
+    {
+        "id": 89,
+        "Question": "What is the density of oak in kg/m3?",
+        "Options": [
+            "a) 445",
+            "b) 545",
+            "c) 645",
+            "d) 745"
+        ],
+        "Answer": "Answer: b\nExplanation: Oak has spirally arranged leaves, with lobate margins in many species. There are strong molecular forces of attraction between their bonds."
+    },
+    {
+        "id": 90,
+        "Question": "Consider the above problem, find out the value of Reynolds number",
+        "Options": [
+            "a) 14.09 * 10 8",
+            "b) 14.09 * 10 7",
+            "c) 14.09 * 10 6",
+            "d) 14.09 * 10 5"
+        ],
+        "Answer": "Answer: c\nExplanation: Sc = µ/p D. "
+    },
+    {
+        "id": 91,
+        "Question": "Consider the above problem, find the value of Sherwood number",
+        "Options": [
+            "a) 84.44",
+            "b) 74.44",
+            "c) 64.44",
+            "d) 54.44"
+        ],
+        "Answer": "Answer: a\nExplanation: h m = 0.0296 (Re) -0.2 (V)/ (Sc) 0.667. "
+    },
+    {
+        "id": 92,
+        "Question": "The empirical correlation for local mass transfer coefficient for laminar boundary layer flow past a flat plate is given by",
+        "Options": [
+            "a) Sh X = 0.332 (Re) 0.5 (Sc) 0.23",
+            "b) Sh X = 0.332 (Re) 0.5 (Sc) 0.33",
+            "c) Sh X = 0.332 (Re) 0.5 (Sc) 0.43",
+            "d) Sh X = 0.332 (Re) 0.5 (Sc) 0.53"
+        ],
+        "Answer": "Answer: d\nExplanation: Re = V l p/ µ. "
+    },
+    {
+        "id": 93,
+        "Question": "The empirical correlation for local mass transfer coefficient for turbulent boundary layer flow past a flat plate is given by",
+        "Options": [
+            "a) Sh X = 0.332 (Re) 0.5 (Sc) 0.33",
+            "b) Sh X = 0.332 (Re) 0.6 (Sc) 0.33",
+            "c) Sh X = 0.0298 (Re) 0.7 (Sc) 0.33",
+            "d) Sh X = 0.0298 (Re) 0.8 (Sc) 0.33"
+        ],
+        "Answer": "Answer: b\nExplanation: Schmidt number = v/D = 1.89. "
+    },
+    {
+        "id": 94,
+        "Question": "The expression for average mass transfer coefficient is",
+        "Options": [
+            "a) Sh = 0.664 (Re) 0.5 (Sc) 0.33",
+            "b) Sh = 0.664 (Re) 0.6 (Sc) 0.33",
+            "c) Sh = 0.332 (Re) 0.7 (Sc) 0.33",
+            "d) Sh = 0.332 (Re) 0.8 (Sc) 0.33"
+        ],
+        "Answer": "Answer: a\nExplanation: h m = (Sherwood number) D/d =0.0176 m/s. "
+    },
+    {
+        "id": 95,
+        "Question": "Sherwood number is a function of",
+        "Options": [
+            "a) Lewis number and Reynolds number",
+            "b) Prandtl number and Lewis number",
+            "c) Reynolds number and Schmidt number",
+            "d) Schmidt number and Lewis number"
+        ],
+        "Answer": "Answer: c\nExplanation: Sherwood number = -0.023 (Re) 0.83 (Sc) 0.44 = 64.44."
+    },
+    {
+        "id": 96,
+        "Question": "What is the melting point of chromium?",
+        "Options": [
+            "a) 2118 K",
+            "b) 2218 K",
+            "c) 2318 K",
+            "d) 2418 K"
+        ],
+        "Answer": "Answer: a\nExplanation: It is a chemical element with atomic number 24. It is a steely-gray, lustrous, hard and brittle metal and has a high melting point."
+    },
+    {
+        "id": 97,
+        "Question": "What is the melting point of cobalt?",
+        "Options": [
+            "a) 1449 K",
+            "b) 1559 K",
+            "c) 1669 K",
+            "d) 1769 K"
+        ],
+        "Answer": "Answer: d\nExplanation: It is found only in chemically combined form. It occurs as two crystallographic structures i.e. hcp and fcc."
+    },
+    {
+        "id": 98,
+        "Question": "Which one is having the highest melting point?",
+        "Options": [
+            "a) Bismuth",
+            "b) Beryllium",
+            "c) Cadmium",
+            "d) Copper pure"
+        ],
+        "Answer": "Answer: b\nExplanation: Melting point of beryllium is 1550 k while that of bismuth, cadmium and pure copper are 545 K, 594 K and 1358 K respectively. "
+    },
+    {
+        "id": 99,
+        "Question": "What is the melting point of germanium?",
+        "Options": [
+            "a) 1211 K",
+            "b) 1311 K",
+            "c) 1411 K",
+            "d) 1511 K"
+        ],
+        "Answer": "Answer: a\nExplanation: It is a lustrous, hard, grayish-white metalloid in the carbon group. It is a semiconductor which reacts and form complexes with oxygen in nature. "
+    },
+    {
+        "id": 100,
+        "Question": "Which one is having a minimum melting point?",
+        "Options": [
+            "a) Tin",
+            "b) Iron pure",
+            "c) Germanium",
+            "d) Gold"
+        ],
+        "Answer": "Answer: c\nExplanation: Melting point of germanium is 1211 K while that of tin, pure iron and gold are 1505 K, 1810 K and 1336 K respectively. "
+    },
+    {
+        "id": 101,
+        "Question": "What is the melting point of nichrome?",
+        "Options": [
+            "a) 1572 K",
+            "b) 1672 K",
+            "c) 1772 K",
+            "d) 1872 K"
+        ],
+        "Answer": "Answer: b\nExplanation: Nichrome generally refers to an alloy of nickel, chromium and iron. Nichrome alloys are used in resistance wire. "
+    },
+    {
+        "id": 102,
+        "Question": "What is the melting point of palladium?",
+        "Options": [
+            "a) 1527 K",
+            "b) 1627 K",
+            "c) 1727 K",
+            "d) 1827 K"
+        ],
+        "Answer": "Answer: d\nExplanation: It is a rare and lustrous silvery-white metal. Palladium has the lowest melting point and is the least dense. "
+    },
+    {
+        "id": 103,
+        "Question": "Which one is having a maximum melting point?",
+        "Options": [
+            "a) Palladium",
+            "b) Magnesium",
+            "c) Platinum pure",
+            "d) Lead"
+        ],
+        "Answer": "Answer: c\nExplanation: Melting point of pure platinum is 2045 K while that of palladium, magnesium and lead are 1827 K, 923 K and 601 K respectively. "
+    },
+    {
+        "id": 104,
+        "Question": "What is the melting point of tin?",
+        "Options": [
+            "a) 505 K",
+            "b) 605 K",
+            "c) 705 K",
+            "d) 805 K"
+        ],
+        "Answer": "Answer: a\nExplanation: It is the main group metal in group 14 of the periodic table. It has 10 stable isotopes, the largest number in the periodic table. "
+    },
+    {
+        "id": 105,
+        "Question": "Which one is having a minimum melting point?",
+        "Options": [
+            "a) Titanium",
+            "b) Zinc",
+            "c) Uranium",
+            "d) Rhodium"
+        ],
+        "Answer": "Answer: b\nExplanation: Melting point of zinc is 693 K while that of titanium, uranium and rhodium are 3269 K, 1406 K and 2236 K respectively. "
+    },
+    {
+        "id": 106,
+        "Question": "The Concentration of the two phases in a closed system at the Interphase is",
+        "Options": [
+            "a) Changes continuously",
+            "b) Never changes",
+            "c) Becomes zero",
+            "d) Increases till the driving force becomes zero"
+        ],
+        "Answer": "Answer: b\nExplanation: The concentration changes only if the component of the two phases added or removed. Generally, Interphase occurs at equilibrium. Once the additional component is added to a system at equilibrium, the concentration changes till it become uniform but it will be differ from the previous."
+    },
+    {
+        "id": 107,
+        "Question": "Diffusion of components between the phases at equilibrium is",
+        "Options": [
+            "a) Zero",
+            "b) Infinity",
+            "c) Changes continuously",
+            "d) Diffusion never occurs"
+        ],
+        "Answer": "Answer: a\nExplanation: At equilibrium, the concentration becomes uniform so the rate of diffusion stops.  "
+    },
+    {
+        "id": 108,
+        "Question": "The real driving force of the mass transfer is",
+        "Options": [
+            "a) Chemical potential",
+            "b) Physical potential",
+            "c) Pressure gradient",
+            "d) Concentration gradient"
+        ],
+        "Answer": "Answer: a\nExplanation: Generally at a steady state, the net transfer remains same so the concentration will be same at every point."
+    },
+    {
+        "id": 109,
+        "Question": "According to Lewis and Whitman theory, the departure from concentration equilibrium at the Interphase is due to",
+        "Options": [
+            "a) Low mass transfer rates",
+            "b) High mass transfer rates",
+            "c) Moderate mass transfer rate",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Generally, the concentration changes with distance but never changes with time at steady state. From the concept of driving force, the y- coordinate should be concentration."
+    },
+    {
+        "id": 110,
+        "Question": "The equilibrium concentrations in the gas and the liquid phases, in mole fraction, give rise to a curve known as",
+        "Options": [
+            "a) Equilibrium distribution curve",
+            "b) Equilibrium concentration curve",
+            "c) Differential distribution curve",
+            "d) Differential concentration curve"
+        ],
+        "Answer": "Answer: a\nExplanation: Chemical potential represents the dynamic equilibrium of the mass transfer."
+    },
+    {
+        "id": 111,
+        "Question": "In a certain process, there is a variation in the driving force between the phases, such a process is",
+        "Options": [
+            "a) Batch process",
+            "b) Semi-batch process",
+            "c) Continuous process",
+            "d) Isothermal process"
+        ],
+        "Answer": "Answer: a\nExplanation: In a batch process, concentration changes with time results in varying in driving force."
+    },
+    {
+        "id": 112,
+        "Question": "Assume an ideal solution with pure component A, has a vapour pressure of 300 mmHg and the total pressure of 1atm. The concentration in terms of mole ratio is",
+        "Options": [
+            "a) 0.65",
+            "b) 0.28",
+            "c) 0.39",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Only the solute gets transfer from the respective phases. All the non-diffusing solvent remains same as it in the both entering phases."
+    },
+    {
+        "id": 113,
+        "Options": [
+            "6. The figure given below is a single stage ideal co- current process of solute transfer from liquid to gas phases.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-freshers-q6.png\" alt=\"mass-transfer-questions-answers-freshers-q6\" width=\"605\" height=\"372\" class=\"alignnone size-full wp-image-169197\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-freshers-q6.png 605w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-freshers-q6-300x184.png 300w\" sizes=\"(max-width: 605px) 100vw, 605px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation:\n          Gs(Y1)+Ls(X1)= Gs(Y2)+Ls(X2)\n          Gs(Y1-Y2)= Ls(X2-X1)\n          Y2-Y1= -Ls/Gs(X2-X1)\nSlope of the operating line is –Ls/Gs."
+    },
+    {
+        "id": 114,
+        "Question": "The driving force line between the operating line and the equilibrium line depends on",
+        "Options": [
+            "a) Relative diffusion resistance",
+            "b) Relative mass resistance",
+            "c) Cumulative resistance",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: There are parallel operating lines so the slope will be same."
+    },
+    {
+        "id": 115,
+        "Question": "For Air-Water system Lewis Number equals to",
+        "Options": [
+            "a) Approx 1",
+            "b) 0",
+            "c) Infinity",
+            "d) 0 to 1"
+        ],
+        "Answer": "Answer: b\nExplanation: Only for the counter current process, the mean driving force is large so small equipment is needed."
+    },
+    {
+        "id": 116,
+        "Question": "A device where two insoluble phases are brought into contact is known as",
+        "Options": [
+            "a) Trays",
+            "b) Stage",
+            "c) Cascade",
+            "d) Sieves"
+        ],
+        "Answer": "Answer: b\nExplanation:  The stage is a single device where the phases are allowed to contact each other. "
+    },
+    {
+        "id": 117,
+        "Question": "Ideal stages are also known as",
+        "Options": [
+            "a) Equilibrium or Theoretical stages",
+            "b) Equilibrium or Actual stages",
+            "c) Differential or Theoretical stages",
+            "d) Differential or Actual stages"
+        ],
+        "Answer": "Answer: a\nExplanation:  Ideal stages are always equilibrium stages. Actual stages are practical stages hence theoretical stages are Ideal stages."
+    },
+    {
+        "id": 118,
+        "Question": "More than one stages are interconnected to form",
+        "Options": [
+            "a) Trays",
+            "b) Sieves",
+            "c) Cascades",
+            "d) Multiple stage"
+        ],
+        "Answer": "Answer: c\nExplanation:  More than one stage is cascades."
+    },
+    {
+        "id": 119,
+        "Question": "The main purpose of cascades is",
+        "Options": [
+            "a) To get maximum conversion",
+            "b) To  increase  mass transfer rates",
+            "c) To get more efficiency",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Though all the above mention is applicable, the main purpose is to increase the extent of mass transfer."
+    },
+    {
+        "id": 120,
+        "Question": " (Yn- Yn-1)/ (Yn*-Yn-1) is",
+        "Options": [
+            "a) Fractional overall",
+            "b) Murphree stage",
+            "c) Stage",
+            "d) Tray"
+        ],
+        "Answer": "Answer: b\nExplanation:  The leaving stream is in equilibrium with its actual concentration. It is known as Murphree stage efficiency.\n"
+    },
+    {
+        "id": 121,
+        "Question": " ______________ is defined as the number of equilibrium stages to the number of real stages.",
+        "Options": [
+            "a) Murphree stage efficiency",
+            "b) Fractional overall efficiency",
+            "c) Stage efficiency",
+            "d) Overall efficiency"
+        ],
+        "Answer": "Answer: a\nExplanation:  one operating line = one stage."
+    },
+    {
+        "id": 122,
+        "Question": "For the multistage counter current gas dispersed operation, which of the following equipment is better?",
+        "Options": [
+            "a) Agitated vessel",
+            "b) Sparged vessel",
+            "c) Tray tower",
+            "d) Wetted wall column"
+        ],
+        "Answer": "Answer: b\nExplanation: For the increased extent of the mass transfer tray tower is the best equipment for gas dispersion. "
+    },
+    {
+        "id": 123,
+        "Question": "During gas dispersion, if a chemical reaction between gas and liquid phase is needed, then the preferred equipment is",
+        "Options": [
+            "a) Agitated vessel",
+            "b) Sparged vessel",
+            "c) Tray tower",
+            "d) Wetted wall column"
+        ],
+        "Answer": "Answer: a\nExplanation: For a reaction to occur we need agitation for a perfect mixing between two phases."
+    },
+    {
+        "id": 124,
+        "Question": "The fraction of volume occupied by the gas-liquid mixture in the equipment/vessel to the volume occupied by the gas is",
+        "Options": [
+            "a) Liquid holdup",
+            "b) Gas holdup",
+            "c) Gas-liquid holdup",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The gas holdup gives the fraction of gas in the gas-liquid mixture. "
+    },
+    {
+        "id": 125,
+        "Question": "In a Sparged vessel of area 50 cm, the flow rate of the gas is 2 cubic meters per second then the value of superficial gas velocity in meters per second is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: d\nExplanation: Superficial gas velocity = (Volume flow rate/ cross sectional area)\n Superficial gas velocity= (2/0.5) =4."
+    },
+    {
+        "id": 126,
+        "Question": "In sparged vessel of area 50 cm and a gas holdup of 3 cubic meters per cubic meters, the flow rate of the gas is 5 cubic meters per second. The value of true gas velocity in meters per second is",
+        "Options": [
+            "a) 1.11",
+            "b) 2.22",
+            "c) 3.33",
+            "d) 4.44"
+        ],
+        "Answer": "Answer: c\nExplanation: Superficial gas velocity= (5/0.5)= 10\n             True gas velocity = Superficial velocity/ gas hold up\n                               =10/3 = 3.33."
+    },
+    {
+        "id": 127,
+        "Question": "Guess the diameter of the bubble for an air-water system in a sparged vessel with gas holdup of 0.1 and liquid flow rate of 0.15 meters per second.",
+        "Options": [
+            "a) 7.786 x10-3",
+            "b) 7.786 x10-4",
+            "c) 9.832 x10-3",
+            "d) 9.832 x10-4"
+        ],
+        "Answer": "Answer: a\nExplanation: For a sparged vessel, the diameter of the bubble = (2.344 x10-3)/(Relative velocity of the liquid upwards)0.67\nThe relative velocity of the liquid upward= liquid flow rate/ (1- gas holdup)\nRelative velocity = 0.15/0.9\nDiameter = 7.786 x10-3."
+    },
+    {
+        "id": 128,
+        "Question": "In a Bubble column, if the velocity of the gas is low, then the bubble diameter is equals to______",
+        "Options": [
+            "a) Vessel",
+            "b) Sparger orifice",
+            "c) Volume of vessel/ interfacial area",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In sparged vessel or bubble column, the gas is dispersed into liquid through the orifice. So for a low gas velocity the diameter of the bubble will be similar to orifice diameter."
+    },
+    {
+        "id": 129,
+        "Question": "If the relative velocity of the gas and liquid inside the bubble column of cross sectional area 0.2 meters with gas holdup of 0.736 is 3.6 meters square per second. The expected slip velocity is",
+        "Options": [
+            "a) 3.6 m/s",
+            "b) 4.89 m/s",
+            "c) 7.2 m/s",
+            "d) 9.78 m/s"
+        ],
+        "Answer": "Answer: a\nExplanation: The slip velocity is the relative velocity of both liquid and gas."
+    },
+    {
+        "id": 130,
+        "Question": "Guess the interfacial area of a bubble with a gas volume of 2.5 x10^-3 cubic meters and diameter of 0.125 cm.",
+        "Options": [
+            "a) 2 sq.m",
+            "b) 4 sq.m",
+            "c) 6 sq.m",
+            "d) 12 sq.m"
+        ],
+        "Answer": "Answer: d\nExplanation: As the bubble is a sphere, the surface area is (6 x volume)/diameter\nInterfacial area= (6 x 2.5 x10^-3)/ 0.00125= 12 sq.m"
+    },
+    {
+        "id": 131,
+        "Question": "Find the process where an agitated vessel is required.",
+        "Options": [
+            "a) Vegetable oil hydrogenation",
+            "b) Production of penicillin",
+            "c) Paper stock chlorination",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In the given examples, the chemical reaction is required for the product formation. Therefore, the agitation vessel is needed for all the examples mentioned."
+    },
+    {
+        "id": 132,
+        "Question": "The higher difference in pressure inside the tray tower cause",
+        "Options": [
+            "a) Flooding",
+            "b) Loading",
+            "c) Weeping",
+            "d) Dumping"
+        ],
+        "Answer": "Answer: b\nExplanation:  The turbulence intensity should be high for a better efficiency. For that, the mass transfer co-efficient should be high."
+    },
+    {
+        "id": 133,
+        "Question": "Humidification is a",
+        "Options": [
+            "a) Mass transfer operation",
+            "b) Heat transfer operation",
+            "c) Simultaneous heat and mass transfer",
+            "d) Neither mass and heat transfer operation"
+        ],
+        "Answer": " Answer: c\nExplanation:  From the gas heat as well as the solute components are removed."
+    },
+    {
+        "id": 134,
+        "Question": "In humidification the gas is ____________ in the liquid for the mass transfer to take part.",
+        "Options": [
+            "a) Soluble",
+            "b) Insoluble",
+            "c) Partially soluble",
+            "d) Inert"
+        ],
+        "Answer": "Answer: b\nExplanation: Generally, the purpose is to add the moisture to the gas. So, the gas won’t soluble in the liquid. Due to the heat transfer, the solute gets transferred between the phases."
+    },
+    {
+        "id": 135,
+        "Question": "At the gas temperature, the liquid is in equilibrium with vapour for ____________",
+        "Options": [
+            "a) Saturated gas",
+            "b) Unsaturated gas",
+            "c) Partially saturated gas",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The name saturated means the net mass transfer between the phases is equal which means the system is at equilibrium. "
+    },
+    {
+        "id": 136,
+        "Question": "In an operation, the enthalpy is similar throughout the initial and final condition such operation is",
+        "Options": [
+            "a) Adiabatic",
+            "b) Non-adiabatic",
+            "c) Isothermal",
+            "d) Non-isothermal"
+        ],
+        "Answer": "Answer: a\nExplanation: For an adiabatic condition, there won’t be any heat addition or removal. So the enthalpy remains the same."
+    },
+    {
+        "id": 137,
+        "Question": "For an air(A)-water vapour(B) mixture, the partial pressure of the air is 5 pa and the total pressure of the system is  15 pa. The absolute humidity in mass of air/mass of water vapour is",
+        "Options": [
+            "a) 0.805",
+            "b) 0.311",
+            "c) 0.705",
+            "d) 0.411"
+        ],
+        "Answer": "Answer: a\nExplanation: Absolute humidity = 5/ (10-5) x (29/18) = 0.805."
+    },
+    {
+        "id": 138,
+        "Question": "Mass absolute humidity is",
+        "Options": [
+            "a) Absolute humidity",
+            "b) Grosvenor humidity",
+            "c) Relative humidity",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Grosvenor proved the absolute humidity in terms of mass absolute humidity."
+    },
+    {
+        "id": 139,
+        "Question": "By differencing the temperature, heat added or removed is",
+        "Options": [
+            "a) Sensible heat",
+            "b) Latent heat",
+            "c) Heat of vaporization",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Heat gain or loss is known as sensible heat."
+    },
+    {
+        "id": 140,
+        "Question": "For an air(A)-water vapour(B) mixture, the partial pressure of the air is 5 pa and the total pressure of the system is  15 pa. The molal absolute humidity is",
+        "Options": [
+            "a) 0.5",
+            "b) 1",
+            "c) 1.5",
+            "d) 2"
+        ],
+        "Answer": "Answer: a\nExplanation: Pressure of A/Total pressure- Pressure of A = 5/10 =0.5."
+    },
+    {
+        "id": 141,
+        "Question": "The humidity is represented in",
+        "Options": [
+            "a) Humidity chart",
+            "b) Psychometric chart",
+            "c) Psychometric chart or humidity chart",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The chart where dry bulb and wet bulb temperature are interlinked is a humidity chart or psychometric chart."
+    },
+    {
+        "id": 142,
+        "Question": "De-humidification is done in",
+        "Options": [
+            "a) Adiabatic temperature",
+            "b) Adiabatic saturated temperature",
+            "c) Adiabatic unsaturated temperature",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For de-humidification, there should be no heat addition or heat removal. For that, the adiabatic saturation temperature is maintained."
+    },
+    {
+        "id": 143,
+        "Question": "Partial pressure equals vapour pressure if it is___________",
+        "Options": [
+            "a) Saturated",
+            "b) Unsaturated",
+            "c) Isothermal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: At saturation, the vapour-gas mixture will be at equilibrium so the vapour pressure equals partial pressure."
+    },
+    {
+        "id": 144,
+        "Question": "Say True or False",
+        "Options": [
+            "I) Vapour- at superheated temperature",
+            "II) Gas – at condensation temperature",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: Since vapour has liquid portion we cannot say superheated. Superheated means free from other components like unique gas."
+    },
+    {
+        "id": 145,
+        "Question": "Guess the saturated molar absolute humidity of the gas(A.- Vapour(B. mixture at 100 degree Celsius. Vapour pressure of A is 300 mmHg and the total pressure is 760 mmHg.",
+        "Options": [
+            "a) 0.39",
+            "b) 0.65",
+            "c) 0.60",
+            "d) Cannot determine"
+        ],
+        "Answer": "Answer: b\nExplanation: Saturated molar humidity= Vapour pressure of A/ Vapour pressure of B\n                                                                     = 300/(760-300) =0.65."
+    },
+    {
+        "id": 146,
+        "Question": "The system is unsaturated if partial pressure _________ equilibrium vapour pressure.",
+        "Options": [
+            "a) Less than",
+            "b) Greater than",
+            "c) Equals to",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If saturated, the vapour pressure equals partial pressure. If unsaturated, the pressure will be less than vapour pressure."
+    },
+    {
+        "id": 147,
+        "Question": "Consider a saturated gas(A.-vapour(B. mixture , if the absolute molal humidity is 0.265 and the total pressure= 760 mmHg. Find the vapour pressure of B.",
+        "Options": [
+            "a) 149.21 mmHg",
+            "b) 159.21 mmHg",
+            "c) 169.21 mmHg",
+            "d) 600.8 mmHg"
+        ],
+        "Answer": "Answer: d\nExplanation: First, we have to find the vapour pressure of A.\n 0.265= pA/760-pA\npA= 159.21\npB=760-159.21= 600.8."
+    },
+    {
+        "id": 148,
+        "Question": "The vapour pressure of the nitrogen gas is 400mmHg and the partial pressure is 300mmHg. Find the relative saturation.",
+        "Options": [
+            "a) 75",
+            "b) 133",
+            "c) 100",
+            "d) 50"
+        ],
+        "Answer": "Answer: a\nExplanation: Relative saturation or relative humidity = (partial pressure/vapour pressure. x100\n                                                      =75."
+    },
+    {
+        "id": 149,
+        "Question": "Thermometer measurement temperature is",
+        "Options": [
+            "a) Dry bulb temperature",
+            "b) Wet bulb temperature",
+            "c) Dew point temperature",
+            "d) Room temperature"
+        ],
+        "Answer": "Answer: a\nExplanation: Dry bulb temperature is the actual measuring temperature of the thermometer."
+    },
+    {
+        "id": 150,
+        "Question": "Temperature at which the partial pressure of the gas-vapour mixture equals vapour pressure _______",
+        "Options": [
+            "a) Dry bulb temperature",
+            "b) Wet bulb temperature",
+            "c) Dew point temperature",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The point at 100% saturation is known as dew point. Below the point, the vapour starts to condense."
+    },
+    {
+        "id": 151,
+        "Question": "Spray tower is a _______ process.",
+        "Options": [
+            "a) Co-current",
+            "b) Counter current",
+            "c) Continuous",
+            "d) Batch"
+        ],
+        "Answer": " Answer: b\nExplanation: Here, the gas is passed through the bottom and the liquid is sprayed at the top."
+    },
+    {
+        "id": 152,
+        "Question": "Find the rate of non-diffusing solute, if the mole fraction of the gas phase is 0.65 and the diffusing rate is 70 moles/hr.",
+        "Options": [
+            "a) 2 4.5 moles/hr",
+            "b) 200 moles/hr",
+            "c) 18.18 moles/hr",
+            "d) 37.7 moles/hr"
+        ],
+        "Answer": " Answer: a\nExplanation: Gs= G(1-y)\n               =70 x(1-0.65)\n               =24.5 moles/hr."
+    },
+    {
+        "id": 153,
+        "Question": "For the Absorber design, the plotting with mole ratio helps to find the",
+        "Options": [
+            "a) Slope of operating line",
+            "b) Slope of equilibrium curve",
+            "c) Minimum number of trays",
+            "d) Maximum number of trays"
+        ],
+        "Answer": " Answer: a\nExplanation: For reducing the pumping cost and to create sufficient pressure drop.\n"
+    },
+    {
+        "id": 154,
+        "Question": "Given for an absorber, the minimum non diffusing liquid flow rate is 20 moles/hr and the non diffusing gas flow rate is 30 moles/hr. As the actual liquid flow rate is 2.5 times the minimum. Find the slope of the operating line.",
+        "Options": [
+            "a) 1.67",
+            "b) 3.75",
+            "c) 2.67",
+            "d) 4.25"
+        ],
+        "Answer": " Answer: c\nExplanation: Stripper is liquid to gas transfer but absorber is gas to liquid transfer.\n"
+    },
+    {
+        "id": 155,
+        "Question": "The equilibrium characteristics of the solubility of a gas in liquid helps to determine the",
+        "Options": [
+            "a) Rate",
+            "b) Concentration",
+            "c) Time",
+            "d) No existence of equilibrium characteristics"
+        ],
+        "Answer": "Answer: b\nExplanation: Solute transfer from liquid to gas is known as stripping or desorption. The solute transfer of gas to liquid is known as Absorption."
+    },
+    {
+        "id": 156,
+        "Question": "Which of the following is not an example of ideal solution?",
+        "Options": [
+            "a) Solution of benzene in toluene",
+            "b) Solution of ethyl and propyl alcohol",
+            "c) Paraffin hydrocarbon gas in paraffin oil",
+            "d) Solution of isobutane and olefins"
+        ],
+        "Answer": "Answer: a\nExplanation:  The equilibrium diagram helps to determine the flux with the help of mass transfer co-efficient and concentration gradient. "
+    },
+    {
+        "id": 157,
+        "Question": "According to Raoult’s law, for a pure component solution the partial pressure is equals to",
+        "Options": [
+            "a) Total pressure",
+            "b) Vapour pressure",
+            "c) Atmospheric pressure",
+            "d) Mole fraction of respective phase"
+        ],
+        "Answer": "Answer:  b\nExplanation:  As per the equilibrium solubility curve, if the temperature increases partial pressure increases resulting in decreasing solubility."
+    },
+    {
+        "id": 158,
+        "Question": " According to Hendry’s law,",
+        "Options": [
+            "a) Y=(p/P)",
+            "b) Y=(p* P)",
+            "c) p=(Y/P)",
+            "d) p=(Y*P)"
+        ],
+        "Answer": "Answer: d\nExplanation:  Only adjacent homologous series falls in ideal solution category. Here, isobutane is an alkane and olefins are alkenes."
+    },
+    {
+        "id": 159,
+        "Question": "Find the false statement for the better choice of the absorbent.",
+        "Options": [
+            "a) Gas solubility should be high",
+            "b) Vapour pressure should be low",
+            "c) Viscosity should be high",
+            "d) Low freezing point"
+        ],
+        "Answer": "Answer: b\nExplanation:  Generally, Raoult’s law states that equilibrium partial pressure of a component at certain conditions equals the product of the mole fraction and the vapour pressure. For a pure component (i.e.)   mole fraction equals one.\nTherefore, the partial pressure equals vapour pressure."
+    },
+    {
+        "id": 160,
+        "Question": "Find the most common example for absorption.",
+        "Options": [
+            "a) Ammonia and air in solvent water",
+            "b) Ammonia and Carbon dioxide in solvent water",
+            "c) Methane and air in solvent water",
+            "d) Methane and Carbon dioxide in solvent water"
+        ],
+        "Answer": "Answer:  a\nExplanation:  For a straight line Y=m*x, the law proved by Hendry. (i.e.) Y=(y/P) =m*x.\nWhere, Y=equilibrium mole fraction in vapour\n               pA= partial pressure\n               P= Total pressure."
+    },
+    {
+        "id": 161,
+        "Question": "Find the improper characteristic of ideal solution.",
+        "Options": [
+            "a) The average intermolecular force of attraction and repulsion are unchanged on mixing",
+            "b) Volume varies linearly with compositions",
+            "c) No evolution of heat",
+            "d) The total partial pressure varies linearly with compositions"
+        ],
+        "Answer": "Answer:  a\nExplanation:   Dalton proved a generalized equation states that total pressure is equals to the sum of the partial pressure of the components. Raoult’s law is applicable for only ideal solution since the partial pressure is equals to the product of mole fraction and the vapour pressure."
+    },
+    {
+        "id": 162,
+        "Question": "For the Absorber design, the plotting with mole ratio helps to find the",
+        "Options": [
+            "a) Slope of operating line",
+            "b) Slope of equilibrium curve",
+            "c) Minimum number of trays",
+            "d) Maximum number of trays"
+        ],
+        "Answer": "Answer: a\nExplanation:  The plot with mole fraction will give an operating line as a curve; it will be very difficult to find the slope of the operating line. Therefore the use of mole ratio plot will give us a liner operating the line. "
+    },
+    {
+        "id": 163,
+        "Question": "The equation helps us to find the number of trays in an absorber theoretically is _________",
+        "Options": [
+            "a) Frenske’s Equation",
+            "b) Rayleigh’s Equation",
+            "c) Kremser’s Equation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation:  Kremser brown derived an equation for determining the number of stages."
+    },
+    {
+        "id": 164,
+        "Question": "Packed towers are _____________",
+        "Options": [
+            "a) Absorption tower",
+            "b) Stripper",
+            "c) Absorber or Stripper",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer:  a\nExplanation: If absorption factor increases, the number of trays decreases. So the cost decreases."
+    },
+    {
+        "id": 165,
+        "Question": "Packing height in the packed tower = NTU x __________",
+        "Options": [
+            "a) HTU",
+            "b) HETP",
+            "c) NTU",
+            "d) HETP + HTU"
+        ],
+        "Answer": "Answer: b\nExplanation:  Absorption factor= slope of operating line /slope of equilibrium line."
+    },
+    {
+        "id": 166,
+        "Question": "Consider a sugar solution[ Sugar + Water]; On  vaporization water only evaporate since sugar is________",
+        "Options": [
+            "a) Volatile",
+            "b) Non-Volatile",
+            "c) Cryogenic",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Here, the separation is done by vaporization.\n"
+    },
+    {
+        "id": 167,
+        "Question": "Distillation is possible only if the solution components are_____________",
+        "Options": [
+            "a) Volatile",
+            "b) Non-volatile",
+            "c) Cryogenic",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: There is no boiling point for the Non-volatile compound. So the sugar has no vapour pressure.\n"
+    },
+    {
+        "id": 168,
+        "Question": "No further process required for _____________",
+        "Options": [
+            "a) Absorption",
+            "b) Extraction",
+            "c) Distillation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the distillation is done by vaporization the components should be volatile for separation."
+    },
+    {
+        "id": 169,
+        "Question": "Look out the distribution curve, if the line PM is lesser than shown the separation is more",
+        "Options": [
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-quiz-q5.png\" alt=\"mass-transfer-quiz-q5\" width=\"424\" height=\"372\" class=\"alignnone size-full wp-image-169233\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-quiz-q5.png 424w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-quiz-q5-300x263.png 300w\" sizes=\"(max-width: 424px) 100vw, 424px\" />",
+            " Where, x,y are the concentrations in mole fractions",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: c\nExplanation: Distillation is the only process gives the pure component separation."
+    },
+    {
+        "id": 170,
+        "Question": "In a solution (A and B); The vapour pressure of A is 260 mmHg and B is 360 mmHg; Find the relative volatility?",
+        "Options": [
+            "a) 0.72",
+            "b) 1.38",
+            "c) 2",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The separation will be less. Since the distribution curve represents the volatility variance."
+    },
+    {
+        "id": 171,
+        "Question": "If the gas phase composition of a component A is 0.65 and its relative volatility is 2. Find the liquid phase composition.",
+        "Options": [
+            "a) 0.48",
+            "b) 0.58",
+            "c) 0.68",
+            "d) 0.78"
+        ],
+        "Answer": "Answer: a\nExplanation: Relative volatility= vapour pressure of A/ Vapour pressure of B\n                                                     = 260/360\n                                                    =0.72."
+    },
+    {
+        "id": 172,
+        "Question": "Find the vapour pressure of component A in an ideal mixture, if its liquid composition and the partial pressure is 0.65 and 260 mmHg.",
+        "Options": [
+            "a) 260 mmHg",
+            "b) 400 mmHg",
+            "c) 760 mmHg",
+            "d) Cannot determine"
+        ],
+        "Answer": "Answer: a\nExplanation: Relative volatility= 0.65/(1-0.65) * (1-x)/x\n                                 2= 1.85 * (1-x)/x ; x= 0.48."
+    },
+    {
+        "id": 173,
+        "Question": "Consider an ideal vapour-liquid binary mixture, find the total pressure if the vapour pressure of A is 260 mmHg and the vapour pressure of B is 520 mmHg and the composition of A in mole fraction is 0.55.",
+        "Options": [
+            "a) 177 mmHg",
+            "b) 277 mmHg",
+            "c) 377 mmHg",
+            "d) 477 mmHg"
+        ],
+        "Answer": " Answer: b\nExplanation: Separation cannot be done if the two components have the same vapour pressure."
+    },
+    {
+        "id": 174,
+        "Question": "Guess the exact relation between the vapour phase mole fraction and relative volatility.",
+        "Options": [
+            "a) y= A*x/(1+x(A+1))",
+            "b) y= A*x/(1-x(A-1))",
+            "c) y= A*x/(1+x(A-1))",
+            "d) y= A*x/(1-x(A+1))"
+        ],
+        "Answer": "Answer: a\nExplanation: y=0.85;  x=0.45 ; relative volatility= (0.85/0.15) * (0.55/0.45) = 6.92."
+    },
+    {
+        "id": 175,
+        "Question": "Given the total pressure is 2 atm. Also the partial pressure of the two components in an ideal solution is 1 atm and 0.5 atm. It shows __________ deviation.",
+        "Options": [
+            "a) Positive",
+            "b) Negative",
+            "c) Neutral",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If the total pressure is greater than sum of partial pressure then it shows positive deviation.\n"
+    },
+    {
+        "id": 176,
+        "Question": "If the vapour pressure of the two components in a binary mixture is same, then it is a________",
+        "Options": [
+            "a) Isotope",
+            "b) Azeotrope",
+            "c) Differential boiling point",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Azeotrope is a mixture with a same boiling point.\n"
+    },
+    {
+        "id": 177,
+        "Question": "Minimum boiling azeotrope has_________",
+        "Options": [
+            "a) Large positive deviation",
+            "b) Less positive deviation",
+            "c) Large negative deviation",
+            "d) Less negative deviation"
+        ],
+        "Answer": "Answer: a\nExplanation: The difference of vapour pressure is large it shows large positive deviation.\n"
+    },
+    {
+        "id": 178,
+        "Question": "Azeotropic composition can be eliminated by",
+        "Options": [
+            "a) Changing pressure",
+            "b) Changing temperature",
+            "c) Changing volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Azeotrope is a constant boiling mixture since it component has the same boiling point.\n"
+    },
+    {
+        "id": 179,
+        "Question": "When the two liquid mixtures are completely insoluble then the total pressure of the mixture is",
+        "Options": [
+            "a) Sum of the vapour pressure",
+            "b) Sum of the partial pressure",
+            "c) Pressure cannot be determined",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Since there  is a low vapour pressure at the point A, it the representation of low volatile component.\n"
+    },
+    {
+        "id": 180,
+        "Question": "Flash vaporization is a",
+        "Options": [
+            "a) Equilibrium distillation",
+            "b) Differential distillation",
+            "c) Simple distillation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the liquids are partially vaporized and allowed to be in equilibrium with vapour."
+    },
+    {
+        "id": 181,
+        "Question": " Binary mixture of 100 kmol/hr enters into a flash drum has equimolar composition. The distillate obtained is 60 kmol/hr and the enthalpy of distillate, residue and feed are 500 KJ/kmol, 200 KJ/kmol and 400 KJ/kmol. Find the bottom flow rate in kmol/hr.",
+        "Options": [
+            "a) 10",
+            "b) 20",
+            "c) 30",
+            "d) 40"
+        ],
+        "Answer": "Answer: b\nExplanation: The feed must be pre-heated."
+    },
+    {
+        "id": 182,
+        "Question": "Find the ratio of distillate to residual flow rates, if a binary mixture containing 65% of more volatile component while the distillate and the residue compositions are 90% and 30%.",
+        "Options": [
+            "a) 0.4",
+            "b) 1.4",
+            "c) 2.4",
+            "d) 3.4"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the more volatile component has the low vapour pressure it will becomes vapour and comes out in the top."
+    },
+    {
+        "id": 183,
+        "Question": "What happens to the liquid after preheating when enter to the cyclonic flash drum?",
+        "Options": [
+            "a) Starts to evaporate",
+            "b) Split with centrifugal force",
+            "c) Comes out in residue",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: -W/D = HD-HF/HW-HF\nWhere, HD, HW,HF are enthalpy of distillate, residue and feed.\n-W/60 = -0.5\nW= 30."
+    },
+    {
+        "id": 184,
+        "Question": "Express the flash vaporization",
+        "Options": [
+            "a) Single stage operation",
+            "b) Multi component operation",
+            "c) Still operation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: -W/D=(xd – xf)/(xw-xf)\nFinally we ger –W/D= -0.416\nD/W= 2.4."
+    },
+    {
+        "id": 185,
+        "Question": "Find the heat given( in KJ)  to the feed for the flash vaporization process if the ratio of residue to the distillate is 0.65 and the enthalpy of feed, distillate and the residue are 500, 800 and 200 KJ/kmol respectively. The feed rate is 100 kmol/hr.",
+        "Options": [
+            "a) 4343",
+            "b) 5353",
+            "c) 6363",
+            "d) 7373"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the column is like cyclone it will split the liquid with a centrifugal force for the further separation."
+    },
+    {
+        "id": 186,
+        "Question": "Find the distillate and the residue rates in mole/hr, if the feed rate is 100 mol/hr; The compositions of feed, distillate and residue in terms of mole fraction are 0.65, 0.9 and 0.2.",
+        "Options": [
+            "a) 36,64",
+            "b) 64,36",
+            "c) 20,80",
+            "d) 80,20"
+        ],
+        "Answer": "Answer: a\nExplanation: Only a single drum is used."
+    },
+    {
+        "id": 187,
+        "Question": "Hint: can neglect pre-heater.",
+        "Options": [
+            "a) 0.45",
+            "b) 0.575",
+            "c) 0.6",
+            "d) 0.65"
+        ],
+        "Answer": "Answer: c\nExplanation: -W/D = (HD-(Hf+Q/f))/ (Hw- (Hf+Q/F))\nOn apply the values,  we get 6363 KJ "
+    },
+    {
+        "id": 188,
+        "Question": "The column used for differential distillation is_______________",
+        "Options": [
+            "a) Still",
+            "b) Differential column",
+            "c) Batch column",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In flash vaporization, only a small portion of liquid gets flashed."
+    },
+    {
+        "id": 189,
+        "Question": "Simple distillation is a___________ process.",
+        "Options": [
+            "a) Batch",
+            "b) Continuous",
+            "c) Adiabatic",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Still is the distillation column used for differential distillation."
+    },
+    {
+        "id": 190,
+        "Question": "After the separation by differential distillation, the high volatile and low volatile components are stored in _____________",
+        "Options": [
+            "a) Batch",
+            "b) Cuts",
+            "c) Distill",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Here, the liquid mixture is filled in the still for a certain time to attain the vapour liquid equilibrium."
+    },
+    {
+        "id": 191,
+        "Question": "For a ternary mixture, the number of cuts required is_________",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the low volatile component has a high boiling point it will be the final portion."
+    },
+    {
+        "id": 192,
+        "Question": "The equation applicable for batch distillation is _________",
+        "Options": [
+            "a) Frenske’s equation",
+            "b) Rayleigh equation",
+            "c) Wilke-chan equation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Cuts are the place where the different volatile components are stored."
+    },
+    {
+        "id": 193,
+        "Question": "Estimate the feed rate, if the composition of the more volatile component in the feed is 50% and the residue is 10% and the equilibrium relation is given by y*= 1.975x. Also, the rate of residue is 60 mol/hr.",
+        "Options": [
+            "a) 213 mol/hr",
+            "b) 313 mol/hr",
+            "c) 413 mol/hr",
+            "d) 513 mol/hr"
+        ],
+        "Answer": "Answer: b\nExplanation: The first two high volatile components are stored in two cuts and the low volatile remains in the still itself."
+    },
+    {
+        "id": 194,
+        "Options": [
+            "a) 0.52",
+            "b) 0.62",
+            "c) 0.72",
+            "d) 0.82"
+        ],
+        "Answer": "Answer: a\nExplanation: For the differential distillation to get the effective distillation the process must be slow to attain the vapour- liquid equilibrium."
+    },
+    {
+        "id": 195,
+        "Question": "",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 2.43",
+            "d) Data inadequate"
+        ],
+        "Answer": "Answer: b\nExplanation: If pre-cooling occurs, the vapour gets condense in the still itself so there will be alter in equilibrium."
+    },
+    {
+        "id": 196,
+        "Question": "Find the rate of distillate, if the composition of the more volatile component in the feed  is 50% and the residue is 10% and the equilibrium relation is given by y*= 1.975x. Also the rate of residue is 60 mol/hr.",
+        "Options": [
+            "a) 153 mol/hr",
+            "b) 253 mol/hr",
+            "c) 353 mol/hr",
+            "d) 453 mol/hr"
+        ],
+        "Answer": "Answer: b\nExplanation: Rayleigh proposed the numerical analysis of the batch distillation."
+    },
+    {
+        "id": 197,
+        "Question": "Rectifying continuously is known as _____________",
+        "Options": [
+            "a) Partialization",
+            "b) Fractionation",
+            "c) Condensation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Fractionation is the continuous separation of volatile component."
+    },
+    {
+        "id": 198,
+        "Question": "The top of the fractionators has ______ temperature.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) No",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: To maintain the dew point we need to have a low temperature.  "
+    },
+    {
+        "id": 199,
+        "Question": "The section above the feed tray in a fractionator is known as ______________",
+        "Options": [
+            "a) Enriching section",
+            "b) Rectifying section",
+            "c) Feed section",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The enriching section where the low volatile components are absorbed in the liquid condensed."
+    },
+    {
+        "id": 200,
+        "Options": [
+            "4. The notation X from the figure below is known as Reflux.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-online-test-q4.png\" alt=\"mass-transfer-online-test-q4\" width=\"443\" height=\"305\" class=\"alignnone size-full wp-image-169273\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-online-test-q4.png 443w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-online-test-q4-300x207.png 300w\" sizes=\"(max-width: 443px) 100vw, 443px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: a\nExplanation: Some part of the condensed product are sent back to the rectifying column for the effective separation is known as reflux."
+    },
+    {
+        "id": 201,
+        "Question": "The bottom of the fractionators has a ______ temperature.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) No",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: To maintain the bubble point we need to have a high temperature. "
+    },
+    {
+        "id": 202,
+        "Question": "The section below the feed tray in a fractionator is known as ______________",
+        "Options": [
+            "a) Enriching section",
+            "b) Rectifying section",
+            "c) Feed section",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The rectifying section where the high volatile components are stripped from the liquid condensed."
+    },
+    {
+        "id": 203,
+        "Question": "The use of vapour produced from the reboiler is",
+        "Options": [
+            "a) To strip out more volatile component from liquid",
+            "b) To strip out low volatile component from the liquid",
+            "c) To increase the temperature of the fractionator bottom",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The reflux ratio is the ratio of reflux(R) to the Distillate(D)."
+    },
+    {
+        "id": 204,
+        "Question": "The light key components are__________",
+        "Options": [
+            "a) More volatile",
+            "b) Less volatile",
+            "c) Non volatile",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The vapour from the stripping section strips the more volatile component to form distillate."
+    },
+    {
+        "id": 205,
+        "Question": "Find the reflux ratio if the feed , residue and reflux rate is 100, 40 and 50 mole/hr.",
+        "Options": [
+            "a) 1.25",
+            "b) 0.83",
+            "c) 1.5",
+            "d) 1"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the light key components have a low boiling point it is a more volatile component."
+    },
+    {
+        "id": 206,
+        "Question": "The Enriching section operating line intercept at the origin in McCabe-Thiele method when",
+        "Options": [
+            "a) Reflux ratio = Zero",
+            "b) Reflux ratio= Infinity",
+            "c) Reflux ratio= One",
+            "d) Reflux ratio= 1.5 to 2 times Reflux minimum"
+        ],
+        "Answer": "Answer: b\nExplanation: When the Enriching section operating line intercept at origin then the operating line will become the diagonal line (45 degree line) that means all the condenser product are refluxed( No distillate). i.e. Reflux  ratio =(R/D) if D=0 then reflux ratio tends to infinity that gives a minimum number of trays for designing the distillation column."
+    },
+    {
+        "id": 207,
+        "Question": "If the feed enters the distillation column at its dew point, then the slope of the Flash vaporization operating line is",
+        "Options": [
+            "a) Infinity",
+            "b) 0",
+            "c) 1",
+            "d) Between 0 and 1"
+        ],
+        "Answer": "Answer:  b\nExplanation:  If the feed at dew point means the feed condition is saturated vapour so the enthalpy of feed is same as the enthalpy of the vapour. Therefore the slope of the Q-line is 0. Since Q-line is the Flash vaporization operating line."
+    },
+    {
+        "id": 208,
+        "Question": "If there is no reflux to a fractionating column then",
+        "Options": [
+            "a) Large condenser size is needed",
+            "b) Less reboiler size needed",
+            "c) Minimum number of trays",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Because if there is no reflux stream to the continuous distillation column then the entire vapour product after condensed from the condenser  becomes a distillate but practically it is not possible but as per the theory in order to get all the vapour as distillate the condenser must be so large which is economically cost more."
+    },
+    {
+        "id": 209,
+        "Question": "After leaving the condenser if the liquid is at bubble point then which of the following is correct?",
+        "Options": [
+            "a) Same concentration  of distillate and reflux",
+            "b) Different concentration of distillate and reflux",
+            "c) No latent heat is removed",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the latent heats are alone removed by the condenser so the concentration of liquid entering the condenser and the concentration leaving the condenser are same."
+    },
+    {
+        "id": 210,
+        "Question": "McCabe –Thiele method excludes ________ information.",
+        "Options": [
+            "a) Entropy",
+            "b) Enthalpy",
+            "c) Flow rate",
+            "d) Number of theoretical stages"
+        ],
+        "Answer": "Answer: b\nExplanation: Ponchon-Savarit method alone includes enthalpy concentration data. "
+    },
+    {
+        "id": 211,
+        "Question": "In order to find the total number of theoretical trays we usually add one stage additional for ___________",
+        "Options": [
+            "a) Condenser",
+            "b) Reboiler",
+            "c) Condenser or Reboiler",
+            "d) No additional trays"
+        ],
+        "Answer": "Answer: b\nExplanation: According to McCabe’s assumptions only equimolal flow rates of both liquid and gas are maintained."
+    },
+    {
+        "id": 212,
+        "Question": "Find the heat removed by the condenser if the net heat out of the condenser is 25000 J and the total moles are 25.",
+        "Options": [
+            "a) 1000 J",
+            "b) 10000 J",
+            "c) 5000 J",
+            "d) 2000 J"
+        ],
+        "Answer": "Answer: a\nExplanation: As this method includes enthalpy concentration data it helps to determine the negligible heat loss."
+    },
+    {
+        "id": 213,
+        "Question": "Find the flow rate of liquid entering into the enriching section if the internal reflux ratio is 1.5 times min. Given minimum reflux ratio is 0.95 and the gas flow rate is 35 mol/hr.",
+        "Options": [
+            "a) 49.87 mol/hr",
+            "b) 22.167 mol/hr",
+            "c) 55.26 mol/hr",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Here the reflux ratio is based on the flow rates of the final plates of the enriching section or stripping section; so internal reflux ratio comes to the part."
+    },
+    {
+        "id": 214,
+        "Question": "Fractionator(s) required for separating binary azeotropic mixture is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: b\nExplanation: Azeotropes has the same boiling point so for effective separation of two mixture we need additional fractionator since the vapour."
+    },
+    {
+        "id": 215,
+        "Question": "Process mainly involved in Azeotropic separation is",
+        "Options": [
+            "a) Condensation",
+            "b) Decantation",
+            "c) Agitation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Decantation is the process of separating the two solutions by precipitation or other. The decanted products are sent to the other fractionator."
+    },
+    {
+        "id": 216,
+        "Question": "Condenser required for rectifying binary Azeotropic mixture is",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4"
+        ],
+        "Answer": "Answer: a\nExplanation: Yes. On the second fractionator, the more volatile components get transferred from condensed liquid to the reboiler vapour."
+    },
+    {
+        "id": 217,
+        "Question": "If the distillate has a composition of azeotrope and the residue has rich phase of one component. Then the azeotropic mixture is a",
+        "Options": [
+            "a) Maximum-boiling mixture",
+            "b) Minimum boiling mixture",
+            "c) Constant boiling mixture",
+            "d) Differential boiling mixture"
+        ],
+        "Answer": "Answer: a\nExplanation: Since the distillate vapour from the fractionator are sent to the same condenser used for the first for minimizing the fixed cost."
+    },
+    {
+        "id": 218,
+        "Question": "Distillate from the first fractionator should be ______ bubble point.",
+        "Options": [
+            "a) Below",
+            "b) More than",
+            "c) Equals to",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Minimum boiling mixture is the mixture where the high volatile component goes to the distillate and other comes to residue."
+    },
+    {
+        "id": 219,
+        "Question": "The method applicable for Azeotropic rectification is",
+        "Options": [
+            "a) McCabe method",
+            "b) Ponchon method",
+            "c) Extraction method",
+            "d) Other method"
+        ],
+        "Answer": "Answer: a\nExplanation: If the distillate is above bubble point then the vapour gets loss from the decanter. "
+    },
+    {
+        "id": 220,
+        "Question": "For the azeotropic rectification which, of the following is applicable?",
+        "Options": [
+            "a) Distillate should be above bubble point",
+            "b) To have the excessive vapour loss",
+            "c) To decrease the internal reflux ratio",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Rectification of azeotropes is based on enthalpy data so Ponchon Savorit method is preferred. "
+    },
+    {
+        "id": 221,
+        "Question": "At Total reflux",
+        "Options": [
+            "a) Residue is nil",
+            "b) Distillate is nil",
+            "c) Reflux is nil",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  For total reflux no distillate formation; all the condensed vapour are sent back to fractionator."
+    },
+    {
+        "id": 222,
+        "Question": "Reflux ratio is infinity at",
+        "Options": [
+            "a) Total reflux",
+            "b) Minimum reflux",
+            "c) Part reflux",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Total reflux there condensed vapours are sent back to the column itself."
+    },
+    {
+        "id": 223,
+        "Question": "Estimate the condenser requirement for total reflux.",
+        "Options": [
+            "a) Small condenser",
+            "b) Medium condenser",
+            "c) Large condenser",
+            "d) Partial condenser"
+        ],
+        "Answer": "Answer: a\nExplanation: Reflux ratio becomes infinity at distillate is equals to zero. Since reflux ratio = Reflux/distillate\nAt distillate = 0; Reflux ratio= infinity."
+    },
+    {
+        "id": 224,
+        "Question": "For a minimum reflux ratio ________ condenser or reboiler loads are used.",
+        "Options": [
+            "a) Less",
+            "b) More",
+            "c) Infinity",
+            "d) Partial"
+        ],
+        "Answer": "Answer: c\nExplanation: Since if the large condenser are used, vapour gets condensed and becomes reflux where distillate is zero."
+    },
+    {
+        "id": 225,
+        "Question": "Most economical cost is",
+        "Options": [
+            "a) Minimum cost",
+            "b) Optimum cost",
+            "c) Balanced cost",
+            "d) Fixed cost"
+        ],
+        "Answer": "Answer: b\nExplanation:  Optimum cost will be efficient at any conditions."
+    },
+    {
+        "id": 226,
+        "Question": "Consider an operating line touches the equilibrium line, and then the fixed cost becomes",
+        "Options": [
+            "a) Minimum",
+            "b) Infinite",
+            "c) No fixed cost",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If the operating line touches the equilibrium line, obviously the number of trays becomes infinite leads to infinite fixed cost."
+    },
+    {
+        "id": 227,
+        "Question": "If the reflux ratio increases _________ increases.",
+        "Options": [
+            "a) Fixed cost",
+            "b) Operating cost",
+            "c) Optimum",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  The operating cost will be low if the numbers of trays are more; simultaneously if the number of trays increases."
+    },
+    {
+        "id": 228,
+        "Question": "If the reflux increases ________ increases in the fractionator.",
+        "Options": [
+            "a) Diameter",
+            "b) Length",
+            "c) Volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If the reflux ratio increases, the load of condenser has to increase which leads to increase of operating cost."
+    },
+    {
+        "id": 229,
+        "Question": "Total cost is",
+        "Options": [
+            "a) Operating + optimum cost",
+            "b) Fixed + optimum cost",
+            "c) Fixed + operating cost",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If the reflux ratio is more, reflux increases. For the more condensed liquid, the column diameter should be more."
+    },
+    {
+        "id": 230,
+        "Question": "At optimum reflux ratio,",
+        "Options": [
+            "a) Operating  and optimum cost are equal",
+            "b) Operating  and fixed cost are equal",
+            "c) Fixed and optimum cost are equal",
+            "d) Total and optimum cost are equal"
+        ],
+        "Answer": "Answer: c\nExplanation: The total cost is estimated by the sum of cost of trays and other devices like condenser, reboiler which equals the sum of operating and fixed cost."
+    },
+    {
+        "id": 231,
+        "Question": "Total cost will be minimum at",
+        "Options": [
+            "a) Minimum reflux ratio",
+            "b) Maximum reflux ratio",
+            "c) Optimum reflux ratio",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: To get the optimum cost the cost used for the trays and other devices should be the same."
+    },
+    {
+        "id": 232,
+        "Options": [
+            "9. A designer gave us a report on distillation column and said he was perfect.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-campus-interviews-q9.png\" alt=\"mass-transfer-questions-campus-interviews-q9\" width=\"432\" height=\"213\" class=\"alignnone size-full wp-image-169304\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-campus-interviews-q9.png 432w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-campus-interviews-q9-300x148.png 300w\" sizes=\"(max-width: 432px) 100vw, 432px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: c\nExplanation: At optimum reflux ratio, the fixed cost and the operating cost will be equal so the total cost will be minimum."
+    },
+    {
+        "id": 233,
+        "Question": "Estimate the fixed cost if the operational cost is 7 lakhs and the total cost is 15 lakhs.",
+        "Options": [
+            "a) 21 lakhs",
+            "b) 8 lakhs",
+            "c) 7 lakhs",
+            "d) None of the mentioned"
+        ],
+        "Answer": " Answer: b\nExplanation: We can get the minimum operational cost only at minimum reflux ratio.\n"
+    },
+    {
+        "id": 234,
+        "Question": "Which of the following reboiler is considering as an additional tray?",
+        "Options": [
+            "a) Jacketed kettle",
+            "b) Internal reboiler",
+            "c) Kettle-reboiler",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Kettle boiler is the external boiler considered as an additional tray."
+    },
+    {
+        "id": 235,
+        "Question": "The vertical-syphon reboilers are not preferred because of",
+        "Options": [
+            "a) Fouling",
+            "b) Overheat",
+            "c) Large tubes",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The internal reboilers need shutting down of distillation column for cleaning."
+    },
+    {
+        "id": 236,
+        "Question": "The reboiler which is most preferred is",
+        "Options": [
+            "a) External",
+            "b) Internal",
+            "c) Middle",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Vertical-syphon has inside tubes fouls frequently."
+    },
+    {
+        "id": 237,
+        "Options": [
+            "9. Will this arrangement is possible and effective.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-aptitude-test-q9.png\" alt=\"mass-transfer-questions-aptitude-test-q9\" width=\"344\" height=\"420\" class=\"alignnone size-full wp-image-169308\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-aptitude-test-q9.png 344w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-aptitude-test-q9-246x300.png 246w\" sizes=\"(max-width: 344px) 100vw, 344px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: Jacketed kettle needs fractionator shut down and has low heat transfer area."
+    },
+    {
+        "id": 238,
+        "Question": "Most reboilers are",
+        "Options": [
+            "a) Heat regulators",
+            "b) Heat exchangers",
+            "c) Heat analyser",
+            "d) Heat rectifiers"
+        ],
+        "Answer": "Answer: a\nExplanation: External reboiler can easily replace and no need for shutting down of fractionator."
+    },
+    {
+        "id": 239,
+        "Question": "At what feed condition the slope of q line is infinity?",
+        "Options": [
+            "a) Saturated vapour",
+            "b) Saturated liquid",
+            "c) Superheated vapour",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: At saturated liquid the enthalpy of feed and the liquid is same so q=1 and slope = infinity."
+    },
+    {
+        "id": 240,
+        "Question": "Find the feed condition from the below distribution curve.",
+        "Options": [
+            "a) Saturated vapour",
+            "b) Saturated liquid",
+            "c) Superheated vapour",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation:  Since the slope of the q-line is between 1 and 0 it is a superheated vapour."
+    },
+    {
+        "id": 241,
+        "Question": "In an operation the slope of the q-line is found to be 0; then the enthalpy of feed equals enthalpy of _____________",
+        "Options": [
+            "a) Liquid",
+            "b) Vapour",
+            "c) Mixture",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Slope of q line = q/q-1\nIf the enthalpy of feed and vapour are equal then the q becomes zero; q line also becomes zero."
+    },
+    {
+        "id": 242,
+        "Question": "Consider a saturated liquid-vapour mixture, if the liquid flow rate inside the enriching and the stripping section of a fractionator is 50 and 40 mol/hr. Also the feed rate is 10 mol/hr.  Find the feed condition.",
+        "Options": [
+            "a) Saturated vapour",
+            "b) Saturated liquid",
+            "c) Superheated vapour",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: q= 50-40/10 = 1; then the feed condition is a saturated liquid."
+    },
+    {
+        "id": 243,
+        "Question": "At what feed condition the slope of the flash vaporization line becomes 0?",
+        "Options": [
+            "a) Saturated vapour",
+            "b) Saturated liquid",
+            "c) Superheated vapour",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: From the feed condition we can estimate that the feed has a mixture of liquid and vapour. From the distribution diagram, the vapour composition is 60% and the liquid composition is 40%."
+    },
+    {
+        "id": 244,
+        "Question": "The point where the operating line and the equilibrium line meets in distillation methods is known as",
+        "Options": [
+            "a) Plait point",
+            "b) Q point",
+            "c) Pinch point",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: For a saturated vapour, the enthalpy of feed and the enthalpy of vapour is same so the value of q= 0; slope of q-line is 0."
+    },
+    {
+        "id": 245,
+        "Question": "The equilibrium composition of liquid and vapour in a feed can be identified by,",
+        "Options": [
+            "a) intersection of q line with equilibrium line",
+            "b) intersection of q line with operating line",
+            "c) intersection of operating line with equilibrium line",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: At the pinch point, separation is not possible since it requires an infinite number of trays in the enriching section if operating and equilibrium line meets."
+    },
+    {
+        "id": 246,
+        "Question": "If the feed enters the distillation column at its dew point, then the slope of the Flash vaporization operating line is",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) Between 0 and 1",
+            "d) Infinity"
+        ],
+        "Answer": "Answer: a\nExplanation: For the saturated liquid, slope of q-line should be infinity."
+    },
+    {
+        "id": 247,
+        "Question": "In Azeotropic distillation __________ remains low.",
+        "Options": [
+            "a) Heat",
+            "b) Volatility",
+            "c) Relative volatility",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Same vapour pressure of the mixture has nearby volatility."
+    },
+    {
+        "id": 248,
+        "Question": "Find the distillation preferred for the binary mixture having component A and B with vapour pressure 360mmHg and 355mmHg.",
+        "Options": [
+            "a) Multi-component distillation",
+            "b) Reactive distillation",
+            "c) Azeotropic distillation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Relative volatility = Vapour pressure of A/ Vapour pressure of B\n                                 = 360/355 =  1.014 ( Azeotropic composition). "
+    },
+    {
+        "id": 249,
+        "Question": "The term entrainer used in",
+        "Options": [
+            "a) Multi-component distillation",
+            "b) Reactive distillation",
+            "c) Azeotropic distillation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Entrainer increases the relative volatility."
+    },
+    {
+        "id": 250,
+        "Question": "By adding Entrainer the __________ azeotropes forms.",
+        "Options": [
+            "a) Low boiling",
+            "b) High boiling",
+            "c) No",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Since when we add entrainer the relative volatility increases by formation of low boiling azeotropes."
+    },
+    {
+        "id": 251,
+        "Question": "The use of solvent for increasing the relative volatility is for",
+        "Options": [
+            "a) Multi-component distillation",
+            "b) Reactive distillation",
+            "c) Azeotropic distillation",
+            "d) Extractive distillation"
+        ],
+        "Answer": "Answer: d\nExplanation: Generally, solvent is used for extraction. As it helps to alter the relative volatility it is used in extractive distillation."
+    },
+    {
+        "id": 252,
+        "Question": "Find the Azeotropic mixture.",
+        "Options": [
+            "a) Air-water",
+            "b) Acetic acid- water",
+            "c) Acetic acid- alcohol",
+            "d) Air-alcohol"
+        ],
+        "Answer": "Answer: a\nExplanation: See, in Azeotropic distillation the overhead products will be composed of entrainer added. In order to pure product heat is given to the distillate product."
+    },
+    {
+        "id": 253,
+        "Question": "By adding entrainer or solvent one of the component’s _________ gets reduced.",
+        "Options": [
+            "a) Boiling point",
+            "b) Bubble point",
+            "c) Dew point",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Acetic acid- water mixture has the nearby same boiling point."
+    },
+    {
+        "id": 254,
+        "Question": "Solvent extraction is basically known as",
+        "Options": [
+            "a) Gas-liquid extraction",
+            "b) Liquid- liquid extraction",
+            "c) Liquid –solid extraction",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: The solute in the liquid mixture can be separated with liquid solvent. Also generally extraction is a liquid-liquid operation and the solvent used is a liquid."
+    },
+    {
+        "id": 255,
+        "Question": "Liquid-liquid mixture is separated with solvent extraction by adding _______ solvent.",
+        "Options": [
+            "a) Soluble",
+            "b) Insoluble",
+            "c) Partially soluble",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Generally, mass transfer occurs, if an insoluble phase is added to a mixture. In extraction, the insoluble phase is a liquid solvent."
+    },
+    {
+        "id": 256,
+        "Question": "Solvent lean phase are known as",
+        "Options": [
+            "a) Extract",
+            "b) Raffinate",
+            "c) Residue",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The expected solutes are extracted from the liquid by the solvent is more in extract phase."
+    },
+    {
+        "id": 257,
+        "Question": "Fractional extraction is also known as ________",
+        "Options": [
+            "a) Solvent",
+            "b) Double solvent",
+            "c) Triple solvent",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The extracted solute will be rich in a solvent rich phase known as extract. Remaining small quantity of solute present in the solvent lean phase is known as raffinate."
+    },
+    {
+        "id": 258,
+        "Question": "The composition of substances in the extraction are represented by __________",
+        "Options": [
+            "a) Rectangle",
+            "b) Isosceles triangle",
+            "c) Equilateral triangle",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: There are many other ways to separate multi-components from the liquid solution with the help of two or more solvents."
+    },
+    {
+        "id": 259,
+        "Question": "Find the separation factor if the ratio of weight fraction of solute in the extract to raffinate is 0.75. Also given the ratio of dilutant in raffinate to extract is 0.5.",
+        "Options": [
+            "a) 1",
+            "b) 1.25",
+            "c) 1.5",
+            "d) 1.75"
+        ],
+        "Answer": "Answer: a\nExplanation: If the distribution co-efficient is greater than 1 the solvent requirement for the extraction operation will be low."
+    },
+    {
+        "id": 260,
+        "Question": "For getting rapid absorption rate, low pressure drop and more heat transfer we need?",
+        "Options": [
+            "a) Low viscous solvent",
+            "b) More viscous solvent",
+            "c) No viscous solvent",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  If the viscosity is high, the handling will be really tough so for better handling the viscosity should be low."
+    },
+    {
+        "id": 261,
+        "Question": "Stages in the extractor are _______________",
+        "Options": [
+            "a) Equilibrium stages",
+            "b) Theoretical stages",
+            "c) Equilibrium or theoretical stages",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  c\nExplanation: The extractor stages are maintained in equilibrium to get the effect mass transfer."
+    },
+    {
+        "id": 262,
+        "Options": [
+            "a) 100",
+            "b) 125",
+            "c) 150",
+            "d) 50"
+        ],
+        "Answer": "Answer: b\nExplanation: Extraction needs mixing and separation."
+    },
+    {
+        "id": 263,
+        "Question": "Find the pure solvent rate if the feed ( F= 100 kmol/hr) composition is 0.65 and mixture solute composition is 0.5.",
+        "Options": [
+            "a) 10 kmol/hr",
+            "b) 20 kmol/hr",
+            "c) 30 kmol/hr",
+            "d) 40 kmol/hr"
+        ],
+        "Answer": "Answer: a\nExplanation:  Every extracting process needs mixing and separating unit."
+    },
+    {
+        "id": 264,
+        "Question": "Find the mixture composition of feed and pure solvent if the ratio of solvent to feed rate is 0.5 and the feed composition is 0.5.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.25",
+            "c) 0.33",
+            "d) 0.4"
+        ],
+        "Answer": "Answer: a\nExplanation: Pure solvent in the sense no solute present initially so ys= 0."
+    },
+    {
+        "id": 265,
+        "Question": "The extraction compositions in equilibrium are represented by equilateral triangle whose coordinates are known as",
+        "Options": [
+            "a) Isobar",
+            "b) Isotrope",
+            "c) Isotherm",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The coordinates of the equilateral triangle are constant temperatures so it is an isotherm. "
+    },
+    {
+        "id": 266,
+        "Options": [
+            "4. Justify that X represents heterogeneity of the solution.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-terinary-equilibrium-diagram-q4.png\" alt=\"mass-transfer-questions-answers-terinary-equilibrium-diagram-q4\" width=\"404\" height=\"288\" class=\"alignnone size-full wp-image-169358\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-terinary-equilibrium-diagram-q4.png 404w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-questions-answers-terinary-equilibrium-diagram-q4-300x214.png 300w\" sizes=\"(max-width: 404px) 100vw, 404px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: Solubility curve represent the components solubility on other component."
+    },
+    {
+        "id": 267,
+        "Question": "The system becomes solutropic if the tie line inside the binodal solubility curves becomes_________",
+        "Options": [
+            "a) Vertical",
+            "b) Horizontal",
+            "c) Straight",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Binodal curve is the solubility curve of the ternary diagram."
+    },
+    {
+        "id": 268,
+        "Question": "The plait point is the ____ tie line of the binodal curve.",
+        "Options": [
+            "a) Last",
+            "b) First",
+            "c) Middle",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Here LPM represents the binodal solubility curve which represents the three component mixture."
+    },
+    {
+        "id": 269,
+        "Question": "Find the Distribution coefficient if equilibrium solute concentration in extract is 0.75 and the solute concentration in Raffinate is 0.6.",
+        "Options": [
+            "a) 1.25",
+            "b) 0.8",
+            "c) 1",
+            "d) 0"
+        ],
+        "Answer": "Answer:  b\nExplanation: If the tie line becomes horizontal the mixture solubility on each other remains same which represents solutropic system."
+    },
+    {
+        "id": 270,
+        "Question": "__________ is the single stage device in extractor types.",
+        "Options": [
+            "a) Mixer settler",
+            "b) Sieve trays",
+            "c) Agitator vessel",
+            "d) Packed column"
+        ],
+        "Answer": "Answer:  a\nExplanation: Mixer-settler is a single stage device used for extraction operation."
+    },
+    {
+        "id": 271,
+        "Question": "The substance to get mixed enters into the mixer through.",
+        "Options": [
+            "a) Orifice",
+            "b) Nozzle",
+            "c) Orifice or nozzle",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Settler is used for settling."
+    },
+    {
+        "id": 272,
+        "Question": "Line mixers are ________",
+        "Options": [
+            "a) Small",
+            "b) Large",
+            "c) Very high",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Orifice or nozzle both are used for allowing the substance into the mixer."
+    },
+    {
+        "id": 273,
+        "Question": "If the holding time is more in a mixer then _______ will be poor.",
+        "Options": [
+            "a) Mass transfer",
+            "b) Heat transfer",
+            "c) Momentum transfer",
+            "d) Both mass and momentum transfer"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Line mixers or flow mixers are used inside pipes so it must be small."
+    },
+    {
+        "id": 274,
+        "Question": "More than three stages of mixer settler attached to get _____________",
+        "Options": [
+            "a) Multi-component cascade",
+            "b) Mixer settler cascade",
+            "c) Extraction multi-stages",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Due to the loss of energy by pressure drop the liquids gets dispersed inside the mixer."
+    },
+    {
+        "id": 275,
+        "Question": "The extractor preferred for getting immediate dispersion after piping is ___________________",
+        "Options": [
+            "a) Don extractor",
+            "b) Box extractor",
+            "c) Boltzmann extractor",
+            "d) Immediate dispersion is not possible"
+        ],
+        "Answer": "Answer:  a\nExplanation: If the holding of liquids inside the mixer is poor then the rate of mass transfer gets decrease."
+    },
+    {
+        "id": 276,
+        "Question": "If a system has low interfacial tension _________ extractor is preferred.",
+        "Options": [
+            "a) Packed column",
+            "b) Pulse column",
+            "c) Sieve plates",
+            "d) Agitator column"
+        ],
+        "Answer": "Answer: b\nExplanation:  Generally two or more stages inter connected to form cascades so it is an mixer settler cascades. "
+    },
+    {
+        "id": 277,
+        "Question": "_____________ mixing is applicable for differential contractors.",
+        "Options": [
+            "a) Axial",
+            "b) Radial",
+            "c) Both axial and radial",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The box arrangement of alternate stages produces immediate dispersion."
+    },
+    {
+        "id": 278,
+        "Question": "Packed tower with ________ packing preferable for liquid extraction.",
+        "Options": [
+            "a) Uniform",
+            "b) Random",
+            "c) Complete",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: For a system with low interfacial tension need not need mechanical agitation so sieve plates are preferred."
+    },
+    {
+        "id": 279,
+        "Question": "Motivational force in a differential contractor is",
+        "Options": [
+            "a) Centrifugal force",
+            "b) Gravitational force",
+            "c) Electromagnetic forces",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  Due to the reduction of concentration difference between the phases axial mixing is preferred."
+    },
+    {
+        "id": 280,
+        "Question": "The high density difference among the liquid in the extractor cause ________",
+        "Options": [
+            "a) Flooding",
+            "b) Loading",
+            "c) Agitation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: To reduce axial mixing random packing are preferred in a packed column."
+    },
+    {
+        "id": 281,
+        "Question": "Direct dryers are ___________",
+        "Options": [
+            "a) Batch driers",
+            "b) Continuous driers",
+            "c) Semi-batch driers",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  In batch drying process the heat is directly allowed over the solids."
+    },
+    {
+        "id": 282,
+        "Question": "For estimating the drier size it is necessary to know _________",
+        "Options": [
+            "a) Time of drying",
+            "b) Heat of drying",
+            "c) Speed of drying",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In cabinet the solids are loaded and the hot gas is passed over. So it’s a kind of direct drying operation."
+    },
+    {
+        "id": 283,
+        "Question": "Constant drying conditions include",
+        "Options": [
+            "a) Temperature constant",
+            "b) Humidity constant",
+            "c) Velocity constant",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The design of drier is based on drying curve rate which demonstrates the time rate."
+    },
+    {
+        "id": 284,
+        "Question": "Find the gas phase mass transfer co-efficient for a unbound moisture to remove if the flux is 5 kg/sq.m sec and the difference in humidity of the liquid and the main stream is 0.5 units.",
+        "Options": [
+            "a) 5",
+            "b) 10",
+            "c) 20",
+            "d) 30"
+        ],
+        "Answer": "Answer: b\nExplanation: For an effective batch drying operation to take place, the ratio of wet and dry surface should be same."
+    },
+    {
+        "id": 285,
+        "Question": "The value of _________ remains constant while drying if speed and direction of gas flow never change.",
+        "Options": [
+            "a) Mass transfer co-efficient",
+            "b) Humidity",
+            "c) Moisture",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation:  The temperature, humidity and velocity should be constant for constant drying condition. "
+    },
+    {
+        "id": 286,
+        "Question": "If the dry spot appears in the substance in the batch drying curve at ___________",
+        "Options": [
+            "a) Critical moisture content",
+            "b) Equilibrium moisture content",
+            "c) Bound moisture",
+            "d) Unbound moisture"
+        ],
+        "Answer": "Answer:  a\nExplanation:  The moisture content decreases with time."
+    },
+    {
+        "id": 287,
+        "Question": "After critical moisture content _________ starts.",
+        "Options": [
+            "a) Saturated drying region",
+            "b) Unsaturated drying region",
+            "c) Constant drying region",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Flux = 8/4 * 0.4 = 0.8."
+    },
+    {
+        "id": 288,
+        "Question": "After the unsaturated drying completed ________ starts to evaporate.",
+        "Options": [
+            "a) Bound",
+            "b) Unbound",
+            "c) Equilibrium",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: After the constant rate period, the unsaturated drying surface is known as falling rate period."
+    },
+    {
+        "id": 289,
+        "Question": "Find the time taken to dry 50% to 40% of moisture (dry basis) if critical moisture content is 30%. If the weight of the wet solid is 5 kg and the product of area and the constant rate is 0.5 kg/min.",
+        "Options": [
+            "a) 20 sec",
+            "b) 40 sec",
+            "c) 60 sec",
+            "d) 80 sec"
+        ],
+        "Answer": "Answer: c\nExplanation: Time for drying = ( wet solid weight * change in moisture )/ Area * constant rate\n                                                   = (5 * 0.1/0.5) min = 1 min = 60 sec."
+    },
+    {
+        "id": 290,
+        "Question": "Find the period if the initial and the final moisture content are 60% and 40%.  Also the critical moisture content is 30%.",
+        "Options": [
+            "a) Constant rate period",
+            "b) Falling rate period",
+            "c) Unsaturated period",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Here the final moisture content is greater than critical moisture content so it must be a constant rate period."
+    },
+    {
+        "id": 291,
+        "Question": " Find the period if the initial and the final moisture content are 50% and 20%.  Also the critical moisture content is 30%.",
+        "Options": [
+            "a) Constant rate period",
+            "b) Falling rate period",
+            "c) saturated period",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Here the final moisture content is less than critical moisture content so it must be a falling rate period or unsaturated drying."
+    },
+    {
+        "id": 292,
+        "Question": "Find the initial moisture content for the batch process if the final moisture content is 25% (dry basis) and the constant moisture content is 40%. (Includes constant and falling rate period)",
+        "Options": [
+            "a) 35",
+            "b) 30",
+            "c) 60",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  For the constant drying period the rate of drying remains constant by analysing drying curve."
+    },
+    {
+        "id": 293,
+        "Question": "Find the final moisture content for the batch process if the initial moisture content is 75% (dry basis) and the constant moisture content is 40%. (Includes constant and falling rate period)",
+        "Options": [
+            "a) 45",
+            "b) 50",
+            "c) 60",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  c\nExplanation:  Difference in moisture = (time *area* rate )/Weight of the solid = 0.48."
+    },
+    {
+        "id": 294,
+        "Question": "Falling rate period of a batch process starts at",
+        "Options": [
+            "a) Saturated drying surface",
+            "b) Unsaturated drying surface",
+            "c) Both unsaturated and saturated region",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Here the initial moisture content must be greater than critical moisture content."
+    },
+    {
+        "id": 295,
+        "Question": "Falling rate period of the batch drying curve = _______ + ___________",
+        "Options": [
+            "a) Internal movement, unsaturated surface drying",
+            "b) Internal movement, saturated surface drying",
+            "c) External movement, unsaturated surface drying",
+            "d) External movement,  saturated surface drying"
+        ],
+        "Answer": "Answer: d\nExplanation:  Here the final moisture content must be less than critical moisture content."
+    },
+    {
+        "id": 296,
+        "Question": "Find the region if the final and the initial moisture content are 40% and 30% (Dry basis) and the critical moisture content is 45%.",
+        "Options": [
+            "a) Constant rate",
+            "b) Falling rate",
+            "c) Internal movement",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  The bound moistures gets evaporated only at unsaturated surface which is a falling rate period."
+    },
+    {
+        "id": 297,
+        "Question": "Find the moisture to be evaporated per kg of dried product if initial and final moisture content per kg of dry solid is 85% and 15%.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.6",
+            "c) 0.7",
+            "d) 0.8"
+        ],
+        "Answer": "Answer: c\nExplanation:  Moisture to dry = Initial moisture – final moisture content = 0.85 – 0.15 =0.7 per kg of dry solid. "
+    },
+    {
+        "id": 298,
+        "Question": "Convert 80% of moisture in wet basis to dry basis ( kg water/kg dry solid)",
+        "Options": [
+            "a) 4",
+            "b) 8",
+            "c) 12",
+            "d) 16"
+        ],
+        "Answer": "Answer: a\nExplanation: 0.8/1-0.8 = 4 kg water/kg dry solid."
+    },
+    {
+        "id": 299,
+        "Question": "If the equilibrium vapour pressure is lower than pure liquid pressure then the moisture content is ___________",
+        "Options": [
+            "a) Bound moisture",
+            "b) Unbound moisture",
+            "c) Equilibrium moisture",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Bound moisture is the inside moisture present inside the compound which can be removed only by unsaturated surface drying.\n"
+    },
+    {
+        "id": 300,
+        "Question": "The substance moisture exerts equilibrium vapour pressure equals to vapour pressure of liquid is ________",
+        "Options": [
+            "a) Bound moisture",
+            "b) Unbound moisture",
+            "c) Equilibrium moisture",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: The saturated surface moisture is unbound moisture which equals the equilibrium vapour pressure."
+    },
+    {
+        "id": 301,
+        "Question": "The method of drying by conduction through materials are done by _________",
+        "Options": [
+            "a) Direct driers",
+            "b) Indirect driers",
+            "c) Tray driers",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The moisture which can be evaporated is known as free moisture which is the moisture excess to equilibrium moisture."
+    },
+    {
+        "id": 302,
+        "Question": "The substance like food stuff, pharma products are dried by _______ drying.",
+        "Options": [
+            "a) Direct",
+            "b) Indirect",
+            "c) Freeze",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  Conduction through metals is heating indirectly so here indirect driers are used."
+    },
+    {
+        "id": 303,
+        "Question": "Convert 5 kg of moisture /kg of dry solid to wet basis.",
+        "Options": [
+            "a) 3/6",
+            "b) 4/6",
+            "c) 5/6",
+            "d) 1"
+        ],
+        "Answer": "Answer: c\nExplanation: The compounds have to be preserved carefully so for drying these products we need sublimation drying known as freeze drying."
+    },
+    {
+        "id": 304,
+        "Question": "On spraying the liquid over gas leads to ____________",
+        "Options": [
+            "a) Humidification",
+            "b) Evaporation",
+            "c) Heating of gas",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Drying is the moisture removal process from materials."
+    },
+    {
+        "id": 305,
+        "Question": "The additional operation requires for drying gas and liquid is _________",
+        "Options": [
+            "a) Absorption",
+            "b) Adsorption",
+            "c) Humidification",
+            "d) De-humidification"
+        ],
+        "Answer": "Answer: b\nExplanation: During drying operation, the moisture content in the solid gets evaporated in the form of water vapour."
+    },
+    {
+        "id": 306,
+        "Question": "The moisture in the solid after attaining equilibrium is known as",
+        "Options": [
+            "a) Bound moisture",
+            "b) Unbound moisture",
+            "c) Equilibrium moisture",
+            "d) Free moisture"
+        ],
+        "Answer": "Answer: b\nExplanation:  The moisture in the liquid solution can be removed by spraying the solution droplets in warm/ hot gas. "
+    },
+    {
+        "id": 307,
+        "Question": "The moisture inside the substance is known as __________",
+        "Options": [
+            "a) Bound moisture",
+            "b) Unbound moisture",
+            "c) Equilibrium moisture",
+            "d) Free moisture"
+        ],
+        "Answer": "Answer: b\nExplanation: When we spray a liquid over gas it results in evaporation."
+    },
+    {
+        "id": 308,
+        "Question": "Find the weight of the wet solid if dry solid is 2 kg and the moisture is 0.5 kg.",
+        "Options": [
+            "a) 2 kg",
+            "b) 2.5kg",
+            "c) 3 kg",
+            "d) 3.5 kg"
+        ],
+        "Answer": "Answer: b\nExplanation: Distillation is the only process we can separate to liquid depends on its volatility."
+    },
+    {
+        "id": 309,
+        "Question": "Find the moisture content in dry basis if the weight of dry solid is 5 kg and the moisture is 2 kg.",
+        "Options": [
+            "a) 0.2",
+            "b) 0.3",
+            "c) 0.4",
+            "d) 0.5"
+        ],
+        "Answer": "Answer: a\nExplanation: Drying includes a transfer of solute in the form of water so it requires absorption."
+    },
+    {
+        "id": 310,
+        "Question": "Find the moisture content in wet basis is the weight of the dry solid is 3 kg and the weight of the moisture is 2 kg.",
+        "Options": [
+            "a) 0.2",
+            "b) 0.3",
+            "c) 0.35",
+            "d) 0.4"
+        ],
+        "Answer": "Answer: c\nExplanation: The operation of heat exchange and solute exchange occurs till the equilibrium occurs ( pA=P)."
+    },
+    {
+        "id": 311,
+        "Question": "Wood ash leaching for alkali is known as ________",
+        "Options": [
+            "a) Lixivation",
+            "b) Lixartion",
+            "c) Lixation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: lixivation is common leaching process used for removing alkali from wood ashes."
+    },
+    {
+        "id": 312,
+        "Question": "The boiling point of the solvent is ______",
+        "Options": [
+            "a) Boiling solvent",
+            "b) Decoction",
+            "c) Leaching",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: To get the leached product the solvents are used at its boiling point is known as decoction."
+    },
+    {
+        "id": 313,
+        "Question": "The removal of soluble materials from the solid is known as ________",
+        "Options": [
+            "a) Elution",
+            "b) Decoction",
+            "c) Extraction",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  a\nExplanation: Generally elution is the process of removing soluble materials from the solids."
+    },
+    {
+        "id": 314,
+        "Question": " Which of the following process can accelerate leaching?",
+        "Options": [
+            "a) Heating",
+            "b) Drying",
+            "c) Crushing",
+            "d) Crushing or grinding"
+        ],
+        "Answer": "Answer: b\nExplanation:  Leaching generally used for metallurgical industries for ore removal purposes."
+    },
+    {
+        "id": 315,
+        "Question": "In order to reduce the time required for the removing solute the sugar beets are cut into slices known as",
+        "Options": [
+            "a) Cossettes",
+            "b) Coset",
+            "c) Consot",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For getting leached product from the ore we have to add sulphuric acid to the copper ore."
+    },
+    {
+        "id": 316,
+        "Question": "Find the operation where diffusion of solids not occurs",
+        "Options": [
+            "a) Adsorption",
+            "b) Leaching",
+            "c) Drying",
+            "d) Distillation"
+        ],
+        "Answer": "Answer: d\nExplanation: Distillation is the liquid-liquid operation where no diffusion on solid is possible."
+    },
+    {
+        "id": 317,
+        "Question": "Find the diffusivity through slab if N flux of A 4 mol/sq.m sec, concentration difference is 2mol/cu.m and distance is 3 m.",
+        "Options": [
+            "a) 2 sq.m/s",
+            "b) 4 sq.m/s",
+            "c) 6 sq.m/s",
+            "d) 8 sq.m/s"
+        ],
+        "Answer": "Answer: c\nExplanation: N flux of A= D(AB)/z * concentration difference\n                              D(AB) = 6 sq.m/sec."
+    },
+    {
+        "id": 318,
+        "Question": "Find the activated diffusivity of carbon if energy of activation is 6 kJ; the value of constant diffusivity is 2.5 sq.m/sec.  (Hint: the value of exponential of (-6/RT) is 2.55)",
+        "Options": [
+            "a) 6.375 sq.m/s",
+            "b) 1.02  sq.m/s",
+            "c) 15.3 sq.m/s",
+            "d) 16.25 sq.m/s"
+        ],
+        "Answer": "Answer:  a\nExplanation:  Activated diffusivity= constant diffusivity * exponential value\n                                                             = 2.5 * 2.55\n                                                             = 6.375."
+    },
+    {
+        "id": 319,
+        "Question": "The term activated means _____________",
+        "Options": [
+            "a) Pressure dependency",
+            "b) Temperature dependency",
+            "c) Volume dependency",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  Activated represents the activation energy which depends on temperature."
+    },
+    {
+        "id": 320,
+        "Question": "If the two gases are separated by a polymer membrane, the extent of diffusion depends on _______ law.",
+        "Options": [
+            "a) Hendy",
+            "b) Raoult",
+            "c) Newton",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Concentration is directly proportional to pressure so Hendry law is applicable."
+    },
+    {
+        "id": 321,
+        "Question": "6.For permanent gases diffusivity the order is _________ sq.m/s",
+        "Options": [
+            "a) 10-7",
+            "b) 10-8",
+            "c) 10-9",
+            "d) 10-10"
+        ],
+        "Answer": "Answer:  d\nExplanation: The gas can become permeable to certain substance if it is in an order of 10-10."
+    },
+    {
+        "id": 322,
+        "Question": "The solute movement of fluid on solids are __________",
+        "Options": [
+            "a) Hygrodynamic",
+            "b) Hydrodynamic",
+            "c) Fluid dynamic",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Solute movement is due to pressure difference which is hydrodynamic."
+    },
+    {
+        "id": 323,
+        "Question": "Macroporic surrounding of microscopic pellets powders of different magnitude in size is _______",
+        "Options": [
+            "a) Disperse",
+            "b) Bi-disperse",
+            "c) Tri-disperse",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  If the pore of the solid is inaccessible to external fluids then it is known as isolate."
+    },
+    {
+        "id": 324,
+        "Question": "Find the permeability if diffusivity is 2 units and solubility coefficient is 5 units assume all are in SI units.",
+        "Options": [
+            "a) 10 units",
+            "b) 2.5 units",
+            "c) 0.4 units",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The double surrounding of these pellets is known as bi-disperse."
+    },
+    {
+        "id": 325,
+        "Question": "Diffusion co-efficient in molecular diffusion is estimated by _________",
+        "Options": [
+            "a) Daltons law",
+            "b) Diffusion law",
+            "c) Ficks law",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The mean free path can be found after collision."
+    },
+    {
+        "id": 326,
+        "Question": "Find the total flux for a particle A and B in a steady state if flux of A and B is 2.44 and 4.44 mol/sq.m sec.",
+        "Options": [
+            "a) 2",
+            "b) 4.88",
+            "c) 6.88",
+            "d) 8"
+        ],
+        "Answer": "Answer:  c\nExplanation: Fick’s law is the ratio of J-flux to the concentration gradient."
+    },
+    {
+        "id": 327,
+        "Question": "Find the flux of A ( xA= 0.2) if Total flux is 5 mol/sq.m sec and J flux of A is 2 mol/sq.m sec.",
+        "Options": [
+            "a) 2",
+            "b) 2.5",
+            "c) 3",
+            "d) 3.5"
+        ],
+        "Answer": "Answer: c\nExplanation: Total flux= flux A+ flux B= 6.88."
+    },
+    {
+        "id": 328,
+        "Question": "Find   J flux of A ( xA = 0.5)  if the total N flux is 6 mol/sq.m  sec and N flux of A is 3 mol/sq.m sec.",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3"
+        ],
+        "Answer": "Answer:  c\nExplanation:  N flux of A = J flux of A + Total flux N * xA\n                                       = 2+ 0.5*2 = 3."
+    },
+    {
+        "id": 329,
+        "Question": "Diffusivity of the liquids can be determined by",
+        "Options": [
+            "a) Wilke- lee equation",
+            "b) Wilke- chan equation",
+            "c) Lee and chan equation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation:  N flux of A = J flux of A + Total flux N * xA\n                          3= J flux of A + 6 * 0.5\n                    J flux = 0."
+    },
+    {
+        "id": 330,
+        "Question": "For the molecular diffusion of liquids, if the diffusing molecules having criteria of steady state diffusion of B over non diffusing A then the N flux of A is",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) Negative",
+            "d) Infinity"
+        ],
+        "Answer": "Answer: b\nExplanation: Wilke- Chan derived an equation for diffusivity of liquids."
+    },
+    {
+        "id": 331,
+        "Question": "Find the change in concentration for a steady state equimolar counter diffusion if D(AB)= 6 sq.m/sec, the change in distance is 2 m and the N flux of A is 5  mol/sq.m sec.",
+        "Options": [
+            "a) 0.67",
+            "b) 1.67",
+            "c) 2.67",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer:  b\nExplanation: For non-diffusing A then N flux of B is zero."
+    },
+    {
+        "id": 332,
+        "Question": "Find the diffusivity of AB in sq.m/sec if N flux of A 5 mol/sq.m sec, concentration difference is 2mol/cu.m and distance is 3 m.",
+        "Options": [
+            "a) 2.5",
+            "b) 5.5",
+            "c) 7.5",
+            "d) 10.5"
+        ],
+        "Answer": "Answer: a\nExplanation: For equimolar counter diffusion, the one component flux is negative of other."
+    },
+    {
+        "id": 333,
+        "Question": "__________ energy helps for molecular diffusion.",
+        "Options": [
+            "a) Thermal",
+            "b) Electrical",
+            "c) Internal",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Thermal energy is heat. Heat can cause diffusion among molecules."
+    },
+    {
+        "id": 334,
+        "Question": "For two particles at steady state collision of A and B, J flux of A is 2 mol/sq.m sec find the J flux of B.",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: At steady state collision, J flux of A = – J flux of B = -2."
+    },
+    {
+        "id": 335,
+        "Question": "Estimate the mole fraction if concentration of A is 2 mol/cu.m and the total concentration is 5 mol/cu.m.",
+        "Options": [
+            "a) 0.2",
+            "b) 0.25",
+            "c) 0.4",
+            "d) 1"
+        ],
+        "Answer": "Answer: c\nExplanation:  xA = cA/C = 2/5 = 0.4.\n"
+    },
+    {
+        "id": 336,
+        "Question": "Find the partial pressure of A if the total pressure is 2 atm; Concentration of A is 2 mol/cu.m and total concentration is 5 mol/cu.m.",
+        "Options": [
+            "a) 0.2 atm",
+            "b) 0.4 atm",
+            "c) 0.6 atm",
+            "d) 0.8 atm"
+        ],
+        "Answer": "Answer:  d\nExplanation:  yA= 2/5 = 0.4\n                   pA = 0.4 x 2 = 0.8 atm."
+    },
+    {
+        "id": 337,
+        "Question": "From the reaction, Methane –> Carbon + 2(Hydrogen molecule)  find the ratio of N  Flux of A to the Total N flux( A+B); Given N Flux of B =-2 N flux of A.",
+        "Options": [
+            "a) 1",
+            "b) -1",
+            "c) 2",
+            "d) -2"
+        ],
+        "Answer": "Answer: b\nExplanation:  N flux of A/ Total flux =  N flux of A/ N flux of A – 2 N flux of A = -1."
+    },
+    {
+        "id": 338,
+        "Question": "For a Steady state diffusion of A through Non- diffusing B. N flux of B= ______",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) Infinity"
+        ],
+        "Answer": "Answer: a\nExplanation: Non- diffusing B means N flux of B = 0."
+    },
+    {
+        "id": 339,
+        "Question": "The value of N flux of A under steady state non-diffusing B with diffusing A is _________",
+        "Options": [
+            "a) 0",
+            "b) Constant",
+            "c) Infinity",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation:  Diffusing A with non diffusing B means Flux of A remains Constant while the Flux of B is 0."
+    },
+    {
+        "id": 340,
+        "Question": "In respect to free convection over a vertical flat plate, the Nusselt number for laminar and turbulent flows varies respectively with Grashoff number G    r as",
+        "Options": [
+            "a) G r and G r1/4",
+            "b) G r1/2 and G r1/3",
+            "c) G r1/4 and G r1/3",
+            "d) G r1/3 and G r1/4"
+        ],
+        "Answer": "Answer: c\nExplanation: It varies as G r1/4 and G r1/3. "
+    },
+    {
+        "id": 341,
+        "Question": "Two horizontal steam mains with diameters 5 cm and 15 cm are to be laid in a boiler house that any mutual heat effect is precluded. The mains are at the same surface temperature of 500 degree Celsius whilst the ambient air is at 50 degree Celsius. Workout the ratios of the heat transfer coefficients",
+        "Options": [
+            "a) 0.136",
+            "b) 1.316",
+            "c) 2.136",
+            "d) 3.136"
+        ],
+        "Answer": "Answer: a\nExplanation: h = 1.136 a x -0.12 = 1.136 h x. "
+    },
+    {
+        "id": 342,
+        "Question": "Consider the above problem, workout the heat losses from one meter length of the mains",
+        "Options": [
+            "a) 0.458",
+            "b) 0.448",
+            "c) 0.438",
+            "d) 0.428"
+        ],
+        "Answer": "Answer: d\nExplanation: All these numbers are useful in free convection. "
+    },
+    {
+        "id": 343,
+        "Question": "A spherical heater of 20 cm diameter and at 60 degree Celsius is immersed in a tank of water at 20 degree Celsius. Determine the value of convective heat transfer coefficient",
+        "Options": [
+            "a) 458.32 W/m2 K",
+            "b) 558.32 W/m2 K",
+            "c) 658.32 W/m2 K",
+            "d) 758.32 W/m2 K"
+        ],
+        "Answer": "Answer: b\nExplanation: h 1/h 2 = (d 2/d 1) 0.25 = 1.136. "
+    },
+    {
+        "id": 344,
+        "Question": "Consider the above problem, find out the Grashof number",
+        "Options": [
+            "a) 0.8447 * 10 5",
+            "b) 0.8447 * 10 6",
+            "c) 0.8447 * 10 7",
+            "d) 0.8447 * 10 8"
+        ],
+        "Answer": "Answer: c\nExplanation: Q 1/Q 2 = h 1 d 1 l/h 2 d 2 l = 0.438. "
+    },
+    {
+        "id": 345,
+        "Question": "Consider the above problem, find what percent of power is lost by free convection?",
+        "Options": [
+            "a) 19.478%",
+            "b) 19.378%",
+            "c) 19.278%",
+            "d) 19.178%"
+        ],
+        "Answer": "Answer: a\nExplanation: h = Nusselt number (k/d) = 458.32 W/m2 K. "
+    },
+    {
+        "id": 346,
+        "Question": "More than one tie line is represented in an equilibrium triangular system is known as",
+        "Options": [
+            "a) Single stage extractor",
+            "b) Multistage extractor",
+            "c) Single stage cascades",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: More than one tie line represents more number of stages."
+    },
+    {
+        "id": 347,
+        "Question": "Find the slope of the operating line for the first stage if the dilutant in the feed is 5 kg and the solvent used for the second stage is 10 kg.",
+        "Options": [
+            "a) 0.5",
+            "b) 2",
+            "c) 2.5",
+            "d) Data inadequate"
+        ],
+        "Answer": "Answer:  c\nExplanation: Here three tie lines are used therefore we have three stages."
+    },
+    {
+        "id": 348,
+        "Options": [
+            "9. Can we able to find the extract at the second stage with the known values of E1, R1, S2.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-puzzles-q9.png\" alt=\"mass-transfer-puzzles-q9\" width=\"556\" height=\"273\" class=\"alignnone size-full wp-image-169396\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-puzzles-q9.png 556w, https://www.sanfoundry.com/wp-content/uploads/2017/06/mass-transfer-puzzles-q9-300x147.png 300w\" sizes=\"(max-width: 556px) 100vw, 556px\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: a\nExplanation: From, the diagram the flow is cross and more than one stages are use so it is a multistage cross flow process."
+    },
+    {
+        "id": 349,
+        "Question": "A mixture undergoing multicomponent diffusion is analyzed through the Maxwell-Stefan approach. With regard to this approach which among the following statements are incorrect? The difference in the partial pressure of the Component A over a small distance ∆z (AB)is proportional to",
+        "Options": [
+            "a) The molar concentration at the two points",
+            "b) Length of the diffusion path",
+            "c) Velocity at the point A",
+            "d) Difference in the velocities at point A and B"
+        ],
+        "Answer": "Answer: c\nExplanation: Factual."
+    },
+    {
+        "id": 350,
+        "Question": "If all the components except 1 of the multicomponent diffusing mixture are inert, then what will be the expression for Diffusivity of component 1 in the mixture?",
+        "Options": [
+            "a) D1m=(N1-Y1∑Nj)/(∑(YjN1-Y1Nj)/Dij)",
+            "b) D1m=(Y1∑Nj)/(∑(YjN1-Y1Nj)/Dij)",
+            "c) D1m=N1/(∑[(YjN1-Y1Nj)/Dij])",
+            "d) D1m=(1-Y1)/(∑[Yj/Dij])"
+        ],
+        "Answer": "Answer: d\nExplanation: For an inert component Nj=0."
+    },
+    {
+        "id": 351,
+        "Question": "Which of the following statements are correct?",
+        "Options": [
+            "a) Water vapor diffuses through non-diffusing hydrogen and oxygen",
+            "b) Hydrogen and Oxygen is diffusing through water vapor",
+            "c) Hydrogen is diffusing through water vapor and oxygen",
+            "d) None of Hydrogen, Oxygen and water vapor is diffusing"
+        ],
+        "Answer": "Answer: a\nExplanation: Water vapor has a source (pan) as well as a sink (bulk gas) whereas hydrogen and oxygen have no sink."
+    },
+    {
+        "id": 352,
+        "Question": "What will be the values of the diffusivities (in cm2/s) at the mean gas-film temperature?",
+        "Options": [
+            "a) 0.923,0.267",
+            "b) 0.483,1.351",
+            "c) 0.294,0.368",
+            "d) 1.381,0.364"
+        ],
+        "Answer": "Answer a\nExplanation: Use the relation D∝T1.75\n             Mean gas-film temperature= (30+20)/2=25°C."
+    },
+    {
+        "id": 353,
+        "Question": "What is the value of the flux (kmol/m3.s) of water vapor through a stagnant film of estimated thickness 1.5mm on the water surface?",
+        "Options": [
+            "a) 1.36*10-5",
+            "b) 1.96*10-5",
+            "c) 1.96*10-1",
+            "d) 1.96*10-7"
+        ],
+        "Answer": "Answer: b\nExplanation: Calculate D1m from the equation, D1m=(1-Y1)/(∑〖Yj/Dij〗)\n                        D1m=0.465cm2/s\n                         Use the equation, N1=(D1mC/l)*ln⁡〖(1-Yil)/(1-Y10)〗, where Yil=0(dry air) and Y10=0.023     (17.53/760)."
+    },
+    {
+        "id": 354,
+        "Question": "For a steady state equimolar counter diffusion of A and B. The N flux of A is ________",
+        "Options": [
+            "a) – N flux of A",
+            "b) N flux of A",
+            "c) – N flux of B",
+            "d) N flux of B"
+        ],
+        "Answer": "Answer: c\nExplanation:  For equimolar counter diffusion N Flux of A is opposite to N flux of B."
+    },
+    {
+        "id": 355,
+        "Question": "The value of a ratio of N flux of A to the total N flux for a steady state equimolar counter diffusion is",
+        "Options": [
+            "a) 0",
+            "b) Infinity",
+            "c) 1",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: As the total flux becomes zero, the value of the ratio becomes infinity."
+    },
+    {
+        "id": 356,
+        "Question": "In sulphuric acid plants dry air is used for burning of sulphur. Air is dried in contact with concentrated Sulphuric acid. Moisture diffuses through a layer of air, reaches the surface and gets absorbed in it. Here air is said to be non-diffusing were as moisture is diffusing. Which of the following statements are correct?",
+        "Options": [
+            "a) Moisture has a source and a sink whereas dry air has a source but no sink",
+            "b) Moisture as well as dry air have a sink",
+            "c) Moisture has a source but no sink whereas dry air has a source as well as sink",
+            "d) Moisture as well as dry sir have no sink"
+        ],
+        "Answer": "Answer: a\nExplanation: A component is said to be diffusing if it has both sources as well as a sink."
+    },
+    {
+        "id": 357,
+        "Question": "Consider steady-state equimolar counterdiffusion through the converging-diverging tube. Given: r1=1cm; r2=2cm; NA=10-6 kmol/m2.s at the vessel 1 end of the tube. The rate of transport of B at the vessel 2 end of the tube is",
+        "Options": [
+            "a) 2*10-6 kmol/s, towards vessel 1",
+            "b) 2.5*-7 kmol/s, towards vessel 1",
+            "c) 5*10-6 kmol/s, towards vessel 2",
+            "d) 9*10-7 kmol/s, towards vessel 2"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 358,
+        "Question": "Two large vessels containing gaseous mixture of A and B at different concentrations but at the same total pressure are connected by a tapered tube of length 15cm and end diameters 1cm and 4 cm. what should be the diameter of a cylindrical tube of the same length that allows the same rate of transport of A?",
+        "Options": [
+            "a) 2.5 cm",
+            "b) 2 cm",
+            "c) 3cm",
+            "d) 3.5 cm"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 359,
+        "Question": "At which point of the following locations in the tapered tube of the previous problem is the magnitude of the flux maximum?",
+        "Options": [
+            "a) At the larger diameter end",
+            "b) At the smaller diameter end",
+            "c) Midway in the tube",
+            "d) Somewhere in between the midway and the larger diameter end"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 360,
+        "Question": "Equimolar counterdiffusion of A and B occurs through a spherical film of i.d=ri and thickness δ. The flux of A is NA1 at r=ri. The flux through a flat film of the same thickness is NA2. if NA1 is larger than NA2 by 5%, the film thickness δ is",
+        "Options": [
+            "a) 0.025ri",
+            "b) 0.05ri",
+            "c) 0.1ri",
+            "d) 0.01ri"
+        ],
+        "Answer": "Answer: b\nExplanation: None."
+    },
+    {
+        "id": 361,
+        "Question": "A napthelene hemisphere is placed on a glass plate and a napthelene ball of identical diameter is kept suspended in the stagnant air in two large rooms. The respective shapes of the ball are maintained while they sublime and reduce in size. Which of the following statements are true in this connection?",
+        "Options": [
+            "a) They take the same time for complete sublimation",
+            "b) The sphere disappears first",
+            "c) The hemisphere disappears first",
+            "d) Nothing definite can be said"
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 362,
+        "Question": "Sublimation of a long cylinder made of napthelene occurs in a large volume of stagnant air. The time required for its complete sublimation is",
+        "Options": [
+            "a) infinite",
+            "b) half the time of sublimation of a sphere of the same mass",
+            "c) twice the time of sublimation of a cylinder of the same mass and lengthy/diameter=1",
+            "d) half the time of sublimation of a cylinder of the same mass and lengthy/diameter=1"
+        ],
+        "Answer": "Answer: a\nExplanation: None."
+    },
+    {
+        "id": 363,
+        "Question": "A tapered tube of length 8cm and end diameters 2cm and 4cm connects two vessels containing mixtures of A and B. if the tapered tube is replaced with a cylindrical tube of diameter 6cm, what will be the required length of the cylindrical tube to maintain the same flow rate as in the previous case?",
+        "Options": [
+            "a) 8cm",
+            "b) 16cm",
+            "c) 36cm",
+            "d) 48cm"
+        ],
+        "Answer": "Answer: c\nExplanation: – (Area)*(flux) =Constant=W\n                          W1 for cylinder= (πr2 DAB(P1-P2))/RTL\n                          W2 for tapered tube = (πDAB*r1*r2(P1-P2))/RTL\n                                  Equate W1 and W2."
+    },
+    {
+        "id": 364,
+        "Question": "In a binary gas mixture containing A and B, If NA=-2NB, what will be the expression for NA?",
+        "Options": [
+            "a) 2(D*(P1-P2))/RTL",
+            "b) (D*(P1-P2))/RTL",
+            "c) DP*(2RTZ)-1*ln[(P-P1)/(P-P2)].",
+            "d) 2DP*(RTZ)-1*ln⁡[(P-P1)/(P-P2)]."
+        ],
+        "Answer": "Answer: a\nExplanation: NA= (NA+N)CA/C – DABdCA/dz\n                        NA=(NA/2)PA/P – DAB(dPA/dz) /RT\n                        NA(1-2PA/P) =  – DAB(dPA/dz)/RT\n                        Integrate on both sides."
+    },
+    {
+        "id": 365,
+        "Question": "Oxygen diffuses through a stagnant layer of air, 1mm thick, ambient temperature 28°C and 1atm total pressure. The partial pressure of oxygen on two sides of layer is P1=0.9atm and P2=0.1atm respectively. Calculate the value of Molar flux (in mol/m2.s) with respect to an observer moving with molar average velocity. Calculate this value at the end of the path where P2=0.1atm. Use R=8.205*10-5m3atmK-1mol-1.",
+        "Options": [
+            "a) 2.713",
+            "b) 1.713",
+            "c) 0.1713",
+            "d) 0.01713"
+        ],
+        "Answer": "Answer: b\nExplanation: This is a case of diffusion of A through non-diffusing B.\n                          Molar flux of oxygen, NA= (DAB*P ln⁡[(P-P2)/(P-P1)])/RTl\n                          Putting all the required values in the above equation.\n                                             NA=1.904 mol/m2.s\n                           Molar average velocity, U= (NA+NB)/C\n                                                                      U=NA/C                        (NB=0)\n                                                                      U=NART/P\n                                                                      U=4.702*10-2m/s\n                                                                      Now, UA=UC/CA\n                                                                                                              UA=U/yA=0.4702 m/s (yA is mole fraction of A at the end)\n                                                      JA=CA(uA-U)\n                                                          =PA*( uA-U)/RT\n                                                          =1.713mol/m2.s."
+    },
+    {
+        "id": 366,
+        "Question": "In order to prepare Lithium nitride, air is passed gently over a reactor. Suppose that Nitrogen diffuse to a length 5cm before getting reacted with Lithium. Nitrogen reacts with lithium quickly so that partial pressure of Nitrogen at that point is 0. Reactor is a cylinder of length 10cm and diameter 2cm. Assume air to be a mixture of Nitrogen and Oxygen only. The temperature is 298K and total pressure 1atm. Diffusivity of N2 in O2 is 2*10-5m2/s. Calculate the Molar flux (mol/m2.s) of N2 at a distance of 2.5cm from the top with respect to an observer moving with twice the mass average velocity a direction towards the liquid surface. (R=8.205*10-5m3atmK-1mol-1). Assume z=0 at the top of the reactor.",
+        "Options": [
+            "a)  4.242*10-4",
+            "b)  4.242*10-5",
+            "c) 4.242*10-3",
+            "d) 4.242*10-2"
+        ],
+        "Answer": "Answer: a\nExplanation:\n                           Case: Diffusion of A through non-diffusing B\n                           N2 in air= 79%\n                           O2 in air= 21%\n              Molar flux of N2, NA=0.025mol/m2.s\n             Pressure of N2 at the point z=2.5cm=\n(  DAB*P ln⁡[(P-P5)/(P-P0)])/RTl=(DAB*P ln⁡[(P-P5)/(P-P2.5)])/RTl\nP2.5=0.542atm\nVelocity of N2= NART/P2.5=112.78*10-5m/s\nMolar flux of O2-=0\nVelocity of O2=0\nAverage molar mass=0.542*28+0.458*32=29.832\nMass average velocity= (0.542*28*112.78*10-5)/29.832=57.37*10-5m/s\nRequired molar flux at the distance of z=5, is\n                                               CA(uA-2V)= NA-2PAV/RT=4.242*10-4mol/m2.s."
+    },
+    {
+        "id": 367,
+        "Question": "A binary liquid mixture is separated by distillation process. The more volatile A vaporizes while less volatile B gets transported in opposite direction. Latent heat of vaporization of A and B is 0.5unit and 1unit respectively. What will be the relation between molar flux of A and B",
+        "Options": [
+            "a) NA=2NB",
+            "b) 2NA=NB",
+            "c) NA=4NB",
+            "d) 4NA=NB"
+        ],
+        "Answer": "Answer: a\nExplanation: Latent heat of vaporization of A is provided from condensation of B. NA∆HA=NB∆HB."
+    },
+    {
+        "id": 368,
+        "Question": "In an accident a container containing ethanol(s.g 0.789) falls down in a room of dimension 1*1*2(all in m). Ethanol forms a layer of 2mm. Ethanol vaporizes and diffuses through a stagnant film of air of thickness 2.5mm. What will be the time required for the water layer to disappear completely. The diffusivity of ethanol in air is 2.567*10-5 m2/s. the total pressure is 1.013 bar and the pressure of ethanol in bulk air is 0.02244 bar and at the ethanol-air interface is 0.02718bar. The temperature is 25.2°C.",
+        "Options": [
+            "a) 4.73h",
+            "b) 14.6h",
+            "c) 5.87h",
+            "d) 16.2h"
+        ],
+        "Answer": "Answer: a\nExplanation: This is the case of diffusion of through non diffusing B.\n                NA=DP/RTZ*ln⁡[(P-P1)/(P-P2)]\n                                     NA=(2.567*10-5*1.013)/(0.08317*298.2*2.5*10-3)*ln⁡[(1.013-0.02244)/(1.013-0.02718)] = 2.01*10-6 kmol/m2.s=9.259*10-5kg/m2.s\n                                 Amount of ethanol = 2*10-3*1=0.002m3=1.578kg\n                               Time for evaporation= 1.578/9.259*10-5=17042.87s=4.73h."
+    },
+    {
+        "id": 369,
+        "Question": "In the previous question if the floor has micro pores and water penetrates the floor at a constant rate of 0.1kg/m2h, what will be the time required for the water layer to disappear?",
+        "Options": [
+            "a) 3.64h",
+            "b) 4.73h",
+            "c) 5.94h",
+            "d) 2.36h"
+        ],
+        "Answer": "Answer: a\nExplanation: Combined rate of disappearance= 0.1+9.259*10-5*3600=0.433kg/m2h\nTime for disappearance= 1.578/0.433=3.64h."
+    },
+    {
+        "id": 370,
+        "Question": "The molar average velocity of the components in a binary mixture in which they are in equimolar counter diffusion is",
+        "Options": [
+            "a) Equal to mass average velocity",
+            "b) Zero",
+            "c) Always negative",
+            "d) Always positive"
+        ],
+        "Answer": "Answer:b\nExplanation: NA=-NB."
+    },
+    {
+        "id": 371,
+        "Question": "A cylinder of sulfur is kept in a large volume of stagnant air for sublimation. How much time will be required for its complete sublimation?",
+        "Options": [
+            "a) One fourth the time required by sphere of same mass",
+            "b) Half the time required by a cube of same mass",
+            "c) One fourth the time required by a cube of same mass",
+            "d) Infinite"
+        ],
+        "Answer": "Answer: d\nExplanation: No or negligible mass transfer in stagnant air."
+    },
+    {
+        "id": 372,
+        "Question": "For a gas mixture (A+B) equimolar counterdiffusion takes place. Which among the following statements are correct for molar flux?",
+        "Options": [
+            "a) If temperature is doubled, the flux will get halved",
+            "b) If diffusion length is halved, the flux will get halved",
+            "c) If temperature is halved, the flux will get halved",
+            "d) If temperature is doubled and length is halved, the flux will become four times"
+        ],
+        "Answer": "Answer: a\nExplanation: NA=(D*(P1-P2))/RTL……….(for equimolar counter diffusion)."
+    }
+]

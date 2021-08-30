@@ -1,0 +1,2642 @@
+[
+    {
+        "id": 1,
+        "Question": "Axonometric view is a type of _____________",
+        "Options": [
+            "a) Orthographic view",
+            "b) Pictorial view",
+            "c) Oblique View",
+            "d) Pictorial and Oblique View"
+        ],
+        "Answer": "Answer: b\nExplanation: Views are classified as pictorial and orthographic view and the pictorial view is classified into three subgroups namely perspective axonometric, oblique and orthographic views. Axonometric view is that type of pictorial view in which the line of site is perpendicular to the picture plane.  "
+    },
+    {
+        "id": 2,
+        "Question": "In an axonometric view, line of site are   ______________",
+        "Options": [
+            "a) Perpendicular to plane of projection with all three faces equally inclined to picture plane",
+            "b) Perpendicular to plane of projection with all three faces need not be equally inclined to picture plane",
+            "c) Inclined to the plane of projection at certain angle",
+            "d) One face of the object needs to be parallel"
+        ],
+        "Answer": "Answer: b\nExplanation: An axonometric view is the type of pictorial view in which lines of the sight are perpendicular to the plane of projection. But all three faces need not be equally inclined to picture plane. The one with all three faces equally inclined to the picture plane is termed as isometric view.   "
+    },
+    {
+        "id": 3,
+        "Question": "In which of the following view the vanishing point is assumed to be located at infinity?",
+        "Options": [
+            "a) Perspective view",
+            "b) Orthographic view",
+            "c) Axonometric view",
+            "d) Perspective with one face of object parallel to the plane of picture"
+        ],
+        "Answer": "Answer: c\nExplanation: Since the line of sight is perpendicular to the face and face are inclined at some angle to the picture plane the given figure is drawn in axonometric view, in case of the oblique view one of the face is parallel to the picture plane however in case of the orthographic view line of site are parallel to the picture plane.   "
+    },
+    {
+        "id": 4,
+        "Question": "In which of the below given views, the picture plane is the same as the plane of the projection?",
+        "Options": [
+            "a) Pictorial view",
+            "b) Perspective view",
+            "c) Orthographic view",
+            "d) Oblique view"
+        ],
+        "Answer": "Answer: a\nExplanation: Since one face is parallel to the picture plane and other face are inclined at some given angle thus the given figure best depicts oblique view. In case of perspective view edges appear to vanish at some distant point, in axonometric view line of site are perpendicular to the plane of a picture and orthographic view gives plane and elevation.  "
+    },
+    {
+        "id": 5,
+        "Question": "Projectors are referred to______________",
+        "Options": [
+            "a) Plane of projection",
+            "b) Picture plane",
+            "c) Rays intersecting the corner and edges of the object",
+            "d) Line of site"
+        ],
+        "Answer": "Answer: b\nExplanation: Edges of the object are vanishing at some distant points and angle of inclination varies, thus the given figure is drowned in perspective view. Note that it can note be axonometric as a line of site are not perpendicular, it cannot be oblique as none of the face is parallel to picture plane and cannot be orthographic view as orthographic view gives only one face at one time. "
+    },
+    {
+        "id": 6,
+        "Question": "A designer is looking to draw the side view of a car in perspective, which of the below given choice is the best?",
+        "Options": [
+            "a) Choosing vanishing points in the paper area",
+            "b) Choosing a single vanishing point at infinity",
+            "c) Choosing a three-point perspective",
+            "d) Choosing an orthographic view"
+        ],
+        "Answer": "Answer: c\nExplanation: Axonometric view drawn in such a way that the faces if an object is perpendicular to the line of sight and thus the vanishing rays are parallel and hence vanishing point are at infinity, in orthographic view there is no matter of vanishing point. A perspective view always meant to have a vanishing point at some point."
+    },
+    {
+        "id": 7,
+        "Question": "The principal plane chosen in an orthographic view of a machine drawing is/are ______",
+        "Options": [
+            "a) Horizontal, vertical and side plane",
+            "b) Horizontal and side plane only",
+            "c) Vertical and horizontal plane only",
+            "d) Only vertical plane"
+        ],
+        "Answer": "Answer: c\nExplanation: Since an orthographic view is drawn by projecting the faces of an object on the required plane, thus plane of projection is parallel to the picture plane and lie in the picture plane. Since pictorial view are always drown with more than one face at one time thus cannot have picture plane as the plane of projection.  "
+    },
+    {
+        "id": 8,
+        "Question": "A pictorial view must show __________ of a machine.",
+        "Options": [
+            "a) All the details necessary for its construction",
+            "b) The outside appearance",
+            "c) True shape of the machine",
+            "d) All the faces of the machine"
+        ],
+        "Answer": "Answer: c\nExplanation: Projectors are rays which intersect at the corner of an object and aligned along the edges of the object. They are not plane, so plane of projection and picture plane cannot be referred and line site is not known as projector. "
+    },
+    {
+        "id": 9,
+        "Question": "Side view is drawn by viewing from either the left or right side, whichever is __________",
+        "Options": [
+            "a) Easy to read",
+            "b) Suitable to draw",
+            "c) Having longest dimensions",
+            "d) More informative"
+        ],
+        "Answer": "Answer: b\nExplanation: Generally two point or one point perspective is used to draw a car in perspective drawing; three-point perspective is used in architectural drawing. Since here side view is required, choosing a single vanishing point at infinity is going to give the best view. "
+    },
+    {
+        "id": 10,
+        "Question": "In perspective view, the object can be inclined at ______ angle.",
+        "Options": [
+            "a) 300",
+            "b) 450",
+            "c) 600",
+            "d) Any"
+        ],
+        "Answer": "Answer: a\nExplanation: An orthographic view is drowned of the object using three main views i.e. top view, side view and a front view, so three principal plane is drown named horizontal, vertical and side plane. Top view is termed as plan, side view as profile and front view as elevation. "
+    },
+    {
+        "id": 11,
+        "Question": "The method of ________ projection is universally adopted for the purpose of engineering drawing.",
+        "Options": [
+            "a) Orthographic",
+            "b) Isometric",
+            "c) Oblique",
+            "d) Perspective"
+        ],
+        "Answer": "Answer: b\nExplanation: A pictorial view is a view which is seen from an angle such that its three faces are visible. It shows only the outside appearance of a machine. It does not always show all the details necessary for its construction. It may not show even the true shape of the machine."
+    },
+    {
+        "id": 12,
+        "Question": "Single view may be enough to describe the shape of _______",
+        "Options": [
+            "a) Thick objects",
+            "b) Thin objects",
+            "c) Symmetric objects",
+            "d) Vertical objects"
+        ],
+        "Answer": "Answer: d\nExplanation: Side view could either be from the left or right side depending upon which side gives more details. Two side views can also be given if one side view does not cover all the details."
+    },
+    {
+        "id": 13,
+        "Question": "Sectional views can be drawn to show the ____________",
+        "Options": [
+            "a) Hatching lines",
+            "b) Outside views",
+            "c) Internal details",
+            "d) Symmetric objects"
+        ],
+        "Answer": "Answer: d\nExplanation: In perspective view, the object can be inclined at any angle. Generally, axonometric view is drawn at 300 and oblique view is drawn at 450."
+    },
+    {
+        "id": 14,
+        "Question": "While drawing an object on paper, which of the following method is not suitable regarding to its size?",
+        "Options": [
+            "a) Enlarge suitably if it is too small",
+            "b) Reduce if it is bigger than the paper size",
+            "c) Always should be drawn of the same size",
+            "d) Drawn of the same size if it can be accommodated on the paper"
+        ],
+        "Answer": "Answer: b\nExplanation: The object shown in the figure is symmetric about its axis. For symmetrical objects, 2 views are mostly sufficient to describe the shape."
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is not a subtype of pictorial view?",
+        "Options": [
+            "a) Cabinet view",
+            "b) Auxiliary section view",
+            "c) Cavalier view",
+            "d) 3 vanishing point view"
+        ],
+        "Answer": "Answer: a\nExplanation: By the orthographic projection method the description of the object regarding its shape and size is conveyed in such definite and unmistakable terms that it can be constructed as required. Isometric, Oblique and Perspective projection methods give the pictorial view, which shows only the outside appearance of a machine."
+    },
+    {
+        "id": 16,
+        "Question": "_______ is an object seen by a human eye.",
+        "Options": [
+            "a) Perspective view",
+            "b) Axonometric view",
+            "c) Orthogonal view",
+            "d) Isometric view"
+        ],
+        "Answer": "Answer: b\nExplanation: For thin objects, one view is sufficient to describe the shape. Minimum two to three views are required for describing shape of the thick, symmetric and vertical objects."
+    },
+    {
+        "id": 17,
+        "Question": "The system in which variation in size is accepted is termed as ___________",
+        "Options": [
+            "a) Limit system",
+            "b) Tolerance System",
+            "c) Limit and tolerance system",
+            "d) Variable system"
+        ],
+        "Answer": "Answer: a\nExplanation:  In production line since it is impossible to make a part of exact drawing due to the inaccuracy of machine, setting and measurement thus some deviation is allowed in given maximum and minimum limit. The system in which this variation is accepted is termed as a Limit system and the allowable deviation are termed as tolerances."
+    },
+    {
+        "id": 18,
+        "Question": "What is the basic size?",
+        "Options": [
+            "a) Size calculated by the design engineer to withstand the stress coming in component",
+            "b) Size exactly of that of given object under consideration",
+            "c) Size of the object with given deviations",
+            "d) Size with which a job come out of the shop"
+        ],
+        "Answer": "Answer: a\nExplanation: A design engineer calculate the size of an object using theory of failure and then give the size to the object with which an object of given material can withstand the stresses coming in the component, this size is termed as basic size. It is the size to which limits of tolerance are assigned. "
+    },
+    {
+        "id": 19,
+        "Question": "What is the actual size?",
+        "Options": [
+            "a) Dimension of a component on paper",
+            "b) Dimension of the component manufactured",
+            "c) Size of the component as per theory of failure",
+            "d) Size of the object with all the tolerances"
+        ],
+        "Answer": "Answer: b\nExplanation: The actual size the dimension obtained of a product when it is manufactured and come out of the shop. It may not be of the same size as given on the paper and comes in the dimension between the given tolerances. Simply the size of the manufactured component is actual size."
+    },
+    {
+        "id": 20,
+        "Question": "Tolerance is ___________",
+        "Options": [
+            "a) Difference between the basic size and maximum limit",
+            "b) Difference Between the minimum and basic size",
+            "c) Difference between the maximum and minimum limit size",
+            "d) The maximum size of the component allowed"
+        ],
+        "Answer": "Answer: c\nExplanation: Tolerance is the difference between the maximum and minimum deviation that can be given to a component size thus tolerance is defined as the difference between the maximum and minimum limit size.  "
+    },
+    {
+        "id": 21,
+        "Question": "Cost of manufacturing is ____________",
+        "Options": [
+            "a) Inversely proportional to the amount of tolerance specified",
+            "b) Directly proportional to the amount of tolerance specified",
+            "c) Does not depends on tolerance specified",
+            "d) Does depends non-linearly"
+        ],
+        "Answer": "Answer: a\nExplanation: Generally tolerance is provided in the narrow region, however, narrower the tolerance more difficult it is to manufacture a component thus the cost of manufacturing does depend on the tolerance specified and it is inversely proportional t0 the tolerance provided.  "
+    },
+    {
+        "id": 22,
+        "Question": "As far as possible dimensions should be given in one unit, preferably in _______",
+        "Options": [
+            "a) Meters",
+            "b) Centimeters",
+            "c) Millimeters",
+            "d) Inches"
+        ],
+        "Answer": "Answer: b\nExplanation: Dimensions given for scaled views are the actual dimensions of the object and not the scaled dimensions. Ratio or scale of that scaled dimension to the actual dimension is mentioned at the corner of drawing sheet."
+    },
+    {
+        "id": 23,
+        "Question": "Addition of numerals on the drawing defines the object for ______",
+        "Options": [
+            "a) Shape",
+            "b) Size",
+            "c) Projections",
+            "d) Tolerances"
+        ],
+        "Answer": "Answer: c\nExplanation: It is always preferred that the unit used for dimensions are mm (millimeters). Depending upon the size of the object meters or centimeters can also be used."
+    },
+    {
+        "id": 24,
+        "Question": "Size is given by ________ for linear distances, radii, diameters, angles, etc.",
+        "Options": [
+            "a) Dimensions",
+            "b) Measurements",
+            "c) Arrows",
+            "d) Projections"
+        ],
+        "Answer": "Answer: b\nExplanation: Addition of numerals on the drawing defines its size. Lines and curves represent the shape of the object and the numbers mentioned are the dimensions in mm."
+    },
+    {
+        "id": 25,
+        "Question": "Which of the following is the method of preparing drawing?",
+        "Options": [
+            "a) Machine drawing",
+            "b) Production drawing",
+            "c) Assembly drawing",
+            "d) Finished drawing"
+        ],
+        "Answer": "Answer: a\nExplanation: Size of the drawing is given by the dimensions for linear distances, radii, diameters, angles, etc. Size description is necessary for making a complete drawing."
+    },
+    {
+        "id": 26,
+        "Question": "Output of CAD is not _________",
+        "Options": [
+            "a) Printed with a printer if it is small up to A4 size",
+            "b) Saved in the magnetic memory of the computer",
+            "c) Drawn on the paper with special drawing apparatus",
+            "d) Printed with multiple plotters if it is large"
+        ],
+        "Answer": "Answer: d\nExplanation: Finished drawing is the only method of preparing drawings from the given choices. Machine drawing, Production drawing and Assembly drawing are the types of Mechanical drawings. "
+    },
+    {
+        "id": 27,
+        "Question": "While preparing a drawing with freehand sketching _______",
+        "Options": [
+            "a) Special apparatus are used to draw curves",
+            "b) Angles are drawn with a protractor",
+            "c) Straight lines are drawn with set square",
+            "d) Sketching is done without any aid of drawing apparatus"
+        ],
+        "Answer": "Answer: c\nExplanation: In CAD, drawing is drawn on the screen of the computer using drawing software and not on the paper with a special drawing apparatus. It can be printed on a paper with a printer or plotter or can be stored in the magnetic memory. "
+    },
+    {
+        "id": 28,
+        "Question": "CAD is the method of preparing drawings, which is an abbreviation of ______",
+        "Options": [
+            "a) Computer Aided Drafting",
+            "b) Call a Design",
+            "c) Completely Automated Designing",
+            "d) Common Application Data"
+        ],
+        "Answer": "Answer: d\nExplanation: Freehand sketching is used for expressing ideas only. It is a preliminary drawing and good for the understanding purpose. It is done with pencil and paper without any aid of the drawing apparatus. "
+    },
+    {
+        "id": 29,
+        "Question": "Which of the following statement is not about Computer Aided Drafting?",
+        "Options": [
+            "a) Quality of such drawing is excellent",
+            "b) Output is taken with the help of plotter or printer",
+            "c) Drawings are saved in the magnetic memory of the computer or hard disk",
+            "d) Letters are written using stencils for good appearance"
+        ],
+        "Answer": "Answer: a\nExplanation: CAD is an abbreviation of Computer Aided Drafting. This is the latest method of drafting. CAD is the product of the computer era. "
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following option is not expressing the freehand sketch method of preparing drawing?",
+        "Options": [
+            "a) Sketching is done with pencil and paper",
+            "b) Lines may not be the exact length in such drawings",
+            "c) It is good in learning process",
+            "d) In sketching, circles are drawn with compass"
+        ],
+        "Answer": "Answer: d\nExplanation: In CAD, the drawing is drawn on the screen of the computer using the software. Letters input to the software are directly printed on the paper and no need of stencils. "
+    },
+    {
+        "id": 31,
+        "Question": "_________ is a drawing giving details about size tolerance, heat treatment, etc.",
+        "Options": [
+            "a) Exploded drawing",
+            "b) Production drawing",
+            "c) Assembly drawing",
+            "d) Machine drawing"
+        ],
+        "Answer": "Answer: b\nExplanation: Production drawings also machine drawings. In addition to dimensions, they furnish tolerance, geometric tolerance, surface finish, heat treatment, etc. Production drawing mostly uses orthographic method of representation."
+    },
+    {
+        "id": 32,
+        "Question": "_________ is an authorized document to produce a part in the workshop.",
+        "Options": [
+            "a) Assembly drawing",
+            "b) Exploded drawing",
+            "c) Part drawing",
+            "d) Production drawing"
+        ],
+        "Answer": "Answer: d\nExplanation: Production drawing gives all the design information required for the production process. It is provided by the design department to the production department as an authorized document to produce a part in the workshop. It gives information about allowances, surface finish, heat treatment, etc."
+    },
+    {
+        "id": 33,
+        "Question": "Drawing showing the position of each part with respect to each other is called _______",
+        "Options": [
+            "a) assembly drawing",
+            "b) part drawing",
+            "c) machine drawing",
+            "d) installation drawing"
+        ],
+        "Answer": "Answer: a\nExplanation: Machine consists of many different parts. Assembly drawing is the drawing showing the position of each part with respect to each other. It can also be defined as a drawing showing all the parts in the combined state. It is prepared with the help of part drawings."
+    },
+    {
+        "id": 34,
+        "Question": "Exploded drawing is the drawing which gives the ____________ of each component of an assembly and they arranged in the same sequence in which they are assembled.",
+        "Options": [
+            "a) clear view",
+            "b) sectional view",
+            "c) pictorial view",
+            "d) front view"
+        ],
+        "Answer": "Answer: c\nExplanation: Exploded drawing is the drawing which gives the pictorial view of each part of an assembly. They are arranged in the sequence in which they are assembled. Sometimes, it is difficult to read and interpret the working drawing correctly for a person in industry. Explodes drawing is useful in clearly visualizing different parts of assembly."
+    },
+    {
+        "id": 35,
+        "Question": "Detailed drawing of each part of a machine is called _________",
+        "Options": [
+            "a) part drawing",
+            "b) assembly drawing",
+            "c) patent drawing",
+            "d) tabular drawing"
+        ],
+        "Answer": "Answer: a\nExplanation: A part drawing is a detailed drawing of each part of a machine. It is a production drawing of each part of a machine. Detailed drawing provides information about dimensions and allowances for the manufacture of the parts."
+    },
+    {
+        "id": 36,
+        "Question": "Production drawing of a part of a machine is also called a _______",
+        "Options": [
+            "a) working drawing",
+            "b) installation drawing",
+            "c) machine drawing",
+            "d) sub-assembly drawing"
+        ],
+        "Answer": "Answer: a\nExplanation: Production drawing is also termed as a working drawing or a part drawing. It is a detail drawing of each part of a machine. These working drawing is quite useful for each step in the manufacturing industry. "
+    },
+    {
+        "id": 37,
+        "Question": "Which type of drawing is supplied by the manufacturer to the client?",
+        "Options": [
+            "a) Tabular drawing",
+            "b) Assembly drawing",
+            "c) Client drawing",
+            "d) Installation drawing"
+        ],
+        "Answer": "Answer: d\nExplanation: Installation drawings are the drawings supplied by the manufacturer to the client. It gives the overall dimensions of the assembly which may be needed at the time of installation. Details of foundation holes are an example of installation drawing."
+    },
+    {
+        "id": 38,
+        "Question": "Tabular drawings are used for parts that have __________",
+        "Options": [
+            "a) square shape",
+            "b) same size and same shape",
+            "c) same shape but different sizes",
+            "d) different shape but same size"
+        ],
+        "Answer": "Answer: c\nExplanation: Tabular drawings are used for parts that have different dimension but same shape. In that case, the drawing can be dimensioned with sizes as P, Q, R, S, etc. The values of P, Q, R, and S can be tabulated in the table. Here dimensions of different parts are calculated by taking relative ratios directly."
+    },
+    {
+        "id": 39,
+        "Question": "___________ is used to communicate information to industry.",
+        "Options": [
+            "a) design data",
+            "b) installation drawing",
+            "c) machine drawing",
+            "d) patent drawing"
+        ],
+        "Answer": "Answer: b\nExplanation: Patent drawings are used to get a patent of a machine or machine component. The drawing may be in a pictorial view or in orthographic view as required for patent work depending on the complexity of the part. Both types of views can also be drawn if required."
+    },
+    {
+        "id": 40,
+        "Question": "Working drawing is used by _______",
+        "Options": [
+            "a) production department",
+            "b) customer",
+            "c) marketing department",
+            "d) designer"
+        ],
+        "Answer": "Answer: c\nExplanation: Machine drawing is a drawing of machine elements. Design data may not be readable or easy to interpret to everyone in the industry and installation drawing gives overall dimensions of assembly. Hence, only machine drawing is used to communicate information to industry."
+    },
+    {
+        "id": 41,
+        "Question": "The abbreviation WCS stands for _________",
+        "Options": [
+            "a) Windows Coordinate System",
+            "b) Wide Coordinate system",
+            "c) World Coordinate System",
+            "d) World CAD system"
+        ],
+        "Answer": "Answer: c\nExplanation: 3-dimensional coordinate system with X, Y and Z axes considered up to infinity is termed as WCS. WCS is an abbreviation of World Coordinate System. Icon of WCS is shown at the lower left corner of drawing area."
+    },
+    {
+        "id": 42,
+        "Question": "Which type of coordinate system is used in AutoCAD?",
+        "Options": [
+            "a) 2-Dimensional",
+            "b) 3-Dimensional",
+            "c) 1-Dimensional",
+            "d) User dependent"
+        ],
+        "Answer": "Answer: b\nExplanation: Coordinate system is used in AutoCAD is a 3-Dimensional coordinate system. The axes of this coordinate system are considered up to infinity. This coordinate system is termed as the World Coordinate System."
+    },
+    {
+        "id": 43,
+        "Question": "Origin of User Coordinate System ___________",
+        "Options": [
+            "a) must coincide with WCS",
+            "b) at the left lower corner of drawing area",
+            "c) at the center of drawing area",
+            "d) can be anywhere in the WCS"
+        ],
+        "Answer": "Answer: d\nExplanation: Origin of UCS can be anywhere in the WCS. It may or may not coincide with WCS. It can be moved/shifted anywhere in the drawing area."
+    },
+    {
+        "id": 44,
+        "Question": "When working with User Coordinate System display of square of an icon can be put ON or OFF using ____________",
+        "Options": [
+            "a) UCSICON command",
+            "b) UCS command",
+            "c) Double click on axes",
+            "d) VIEW command"
+        ],
+        "Answer": "Answer: a\nExplanation: When working with User Coordinate System, square of an icon is not displayed. It can be put ON or OFF using UCSICON command. That command further prompts for options."
+    },
+    {
+        "id": 45,
+        "Question": "UCS icon is displayed using a line width of _________ by default.",
+        "Options": [
+            "a) 5 pixel",
+            "b) 1 pixel",
+            "c) 3 pixel",
+            "d) 4 pixel"
+        ],
+        "Answer": "Answer: b\nExplanation: When you see a small square at the intersection of two axes of the coordinate system, you are working with WCS. If there is no box/square at the intersection then you are using UCS. Square or box is the indication of type of coordinate system."
+    },
+    {
+        "id": 46,
+        "Question": "The position and orientation of the UCS origin is controlled by ________",
+        "Options": [
+            "a) UCS command",
+            "b) UCSICON command",
+            "c) VIEW command",
+            "d) MOVE command"
+        ],
+        "Answer": "Answer: b\nExplanation: UCS icon is displayed using a line width of 1 pixel, by default. User can change these widths of line. A user can beef it to 2 or 3 pixel widths."
+    },
+    {
+        "id": 47,
+        "Question": "Select the incorrect statement about Snap from the following options.",
+        "Options": [
+            "a) It is the smallest invisible distance of increment that can be set for the mouse",
+            "b) If it is set ON, the mouse moves in steps of the set increment",
+            "c) If it is set OFF, the mouse cannot move to any intermediate point between the dots of the grid",
+            "d) Function key F9 is used to make Snap on/off"
+        ],
+        "Answer": "Answer: b\nExplanation: Ortho command is operated with a function key F8. It is a toggle key. If it is pressed once ortho command is set on and if pressed again ortho command is set off. Function key F9 is used for snap command."
+    },
+    {
+        "id": 48,
+        "Question": "If _______ mode is set on then all lines are drawn along the X and Y direction only.",
+        "Options": [
+            "a) snap",
+            "b) osnap",
+            "c) ortho",
+            "d) grid"
+        ],
+        "Answer": "Answer: c\nExplanation: Snap command is used to control the movement of a mouse. If it is set on, the mouse moves in steps of the set increment. If it is set off, the mouse can move to any intermediate point between the dots of the grid."
+    },
+    {
+        "id": 49,
+        "Question": "Function key F9 is used to toggle _______",
+        "Options": [
+            "a) snap",
+            "b) ortho",
+            "c) osnap",
+            "d) grid"
+        ],
+        "Answer": "Answer: c\nExplanation:  Word ‘Ortho’ is used for orthogonal. It means 90 degrees to each other. If it is set on then all lines are drawn along the X and Y direction only."
+    },
+    {
+        "id": 50,
+        "Question": "Which function key is used to set Grid on or off?",
+        "Options": [
+            "a) F7",
+            "b) F4",
+            "c) F3",
+            "d) F5"
+        ],
+        "Answer": "Answer: a\nExplanation: Function key F9 is used to toggle Snap. If a designer has to select any intermediate distance between the dots of the grid, snap should be put off by pressing F9. Again pressing of F9 makes the snap on and then the mouse moves in steps of increments. "
+    },
+    {
+        "id": 51,
+        "Question": "Symbol for quadrant snap, which appears on the entity while selecting is ____________",
+        "Options": [
+            "a) □",
+            "b) ◊",
+            "c) ○",
+            "d) ×"
+        ],
+        "Answer": "Answer: a\nExplanation: Function key F7 is used to set grid on or off. It is a toggle key. If it pressed once, puts the grid on and if pressed again, puts the grid off."
+    },
+    {
+        "id": 52,
+        "Question": "It is difficult to pick a point exactly and quickly with the mouse. In order to allow specifying a point exactly, which of the following command will help?",
+        "Options": [
+            "a) Grid",
+            "b) Ortho",
+            "c) Snap",
+            "d) OSNAP"
+        ],
+        "Answer": "Answer: b\nExplanation: Various symbols of object snaps appear on the entity while selecting. ◊ denotes quadrant snap. ○, × and □ represent for Center, Intersection and Endpoint respectively."
+    },
+    {
+        "id": 53,
+        "Question": "Object snap increases ________",
+        "Options": [
+            "a) speed, accuracy and ease of drafting",
+            "b) speed of drawing",
+            "c) memory utilization",
+            "d) accuracy while drafting"
+        ],
+        "Answer": "Answer: d\nExplanation: Object snap allows specifying a point exactly. It is also called OSNAP in short. This option is shown in the draft setting dialog box."
+    },
+    {
+        "id": 54,
+        "Question": "Which function key is used to make OSNAP on/off?",
+        "Options": [
+            "a) F5",
+            "b) F3",
+            "c) F4",
+            "d) F7"
+        ],
+        "Answer": "Answer: a\nExplanation: OSNAP or Object snap is helpful in specifying a point exactly. As a result of which, it increases speed, accuracy and ease of drafting. If OSNAP is set off it takes a larger time or may be difficult to specify a point on the drawing."
+    },
+    {
+        "id": 55,
+        "Question": "Before you use modify commands, you need to make a selection of _________",
+        "Options": [
+            "a) only one object",
+            "b) one or more objects",
+            "c) minimum two objects",
+            "d) maximum two objects"
+        ],
+        "Answer": "Answer: b\nExplanation: To edit an object, designer needs to select the object to be edited. To edit or to modify the design minimum one object is to be selected. AutoCAD has a whole range of tools to select the specific needed object only."
+    },
+    {
+        "id": 56,
+        "Question": "Which items are selected in a fence selection option?",
+        "Options": [
+            "a) Around the fence",
+            "b) Lower the fence",
+            "c) Above the fence",
+            "d) Crosses the fence"
+        ],
+        "Answer": "Answer: d\nExplanation: The fence option allows a designer to draw a polyline. All objects which cross the fence will be selected. This option is invoked by typing F at the “Select objects” prompt."
+    },
+    {
+        "id": 57,
+        "Question": "The most obvious way to select an object in AutoCAD is _________",
+        "Options": [
+            "a) to simply pick it",
+            "b) give the selection command",
+            "c) right click on the object",
+            "d) move the cursor over it"
+        ],
+        "Answer": "Answer: a\nExplanation: Most obvious way to select the object is to simply pick it. Generally, designers just have to place the cursor over the object, click the mouse button and the object will get selected. It is much simple and not different from any other graphic utility."
+    },
+    {
+        "id": 58,
+        "Question": "To select an object designer has to place the pickbox over a part of the object and left click the mouse. When the object has been picked ___________",
+        "Options": [
+            "a) it is highlighted in a black colour",
+            "b) it is highlighted in a thick line",
+            "c) it becomes darker",
+            "d) it is highlighted in a dashed line"
+        ],
+        "Answer": "Answer: d\nExplanation: To select an object designer has to place the pickbox over a part of the object and left click the mouse. Picked object is highlighted in a dashed line. It shows that it is a part of the current selection and the command line reports, 1 found."
+    },
+    {
+        "id": 59,
+        "Question": "For object selection once the window is defined, objects which are ____________ will be selected.",
+        "Options": [
+            "a) around the window",
+            "b) lie entirely within the window",
+            "c) touching the window",
+            "d) only partially enclosed"
+        ],
+        "Answer": "Answer: b\nExplanation: Window allows the designer to define a rectangle using two points exactly the same way as the rectangle command. Once the window is defined, all objects which lie completely within the window will be selected. Objects which are only touching or partially enclosed will not be selected."
+    },
+    {
+        "id": 60,
+        "Question": "Which type of command works only with a crossing window?",
+        "Options": [
+            "a) Stretch",
+            "b) Erase",
+            "c) Copy",
+            "d) Mirror"
+        ],
+        "Answer": "Answer: a\nExplanation: If the window is created from left to right, only the items fully enclosed in the window will get selected. If the window is created from right to left, even the items partially enclosed in the window will get selected. That type of window is called a crossing window."
+    },
+    {
+        "id": 61,
+        "Question": "Which command is used to create multiple copies of selected objects in rectangular or polar form?",
+        "Options": [
+            "a) Change",
+            "b) Polar copy",
+            "c) Array",
+            "d) Pedit"
+        ],
+        "Answer": "Answer: c\nExplanation: Array command is used when an object is to be copied at different positions at regular intervals in polar form. It can be in the rectangular fashion also. To make multiple copies, first select an object, and then type ARRAY at the command line."
+    },
+    {
+        "id": 62,
+        "Question": "__________ command is exclusively used for editing of polygon properties or plines.",
+        "Options": [
+            "a) Grips",
+            "b) Line",
+            "c) Pedit",
+            "d) Explode"
+        ],
+        "Answer": "Answer: c\nExplanation: Pedit command is used to edit polygon properties or polyline or plines. Pline is a single entity which is made up of a continuous series of line and arc segments. The selected line, arc and polyline can be added to an existing polyline with a join option."
+    },
+    {
+        "id": 63,
+        "Question": "By default, for any corner, radius of fillet is _______",
+        "Options": [
+            "a) zero",
+            "b) one",
+            "c) infinite",
+            "d) two"
+        ],
+        "Answer": "Answer: a\nExplanation: Fillet is used to create a round corner between two lines at the corner.  The lines are shortened or lengthened to fit a tangent arc of specified radius. Radius of fillet before applied is zero by default."
+    },
+    {
+        "id": 64,
+        "Question": "Grips are used to ________",
+        "Options": [
+            "a) hide the drawing",
+            "b) modify operations",
+            "c) stop an object from moving",
+            "d) lock an object to fix the properties"
+        ],
+        "Answer": "Answer: b\nExplanation: Grips are small boxes that appear at specific locations on an object when clicked on it. Grip command is used to modify the objects, such as Move, Rotate, Scale and Mirror. Grips are ON by default."
+    },
+    {
+        "id": 65,
+        "Question": "Command used to bevel the corner at specified distances of intersecting lines is _________",
+        "Options": [
+            "a) Join",
+            "b) Fillet",
+            "c) Chamfer",
+            "d) Align"
+        ],
+        "Answer": "Answer: c\nExplanation: Chamfer is the command which works on two lines or a single polyline to create a beveled edge. This command is not directly shown on the modify panel. Designer has to click the triangle on the right side of the fillet icon, to get an option of fillet and chamfer."
+    },
+    {
+        "id": 66,
+        "Question": "A hexagon drawn with a polygon command has six lines. If you try to delete one of its lines, whole hexagon will be deleted. What should be done to edit it?",
+        "Options": [
+            "a) With Explode command break into separate entities",
+            "b) Erase with Erase command",
+            "c) Delete the hexagon and draw again",
+            "d) Use array command"
+        ],
+        "Answer": "Answer: a\nExplanation: Explode is the command which can break the multi-entity objects. Hexagon or any polygon should be broken into separate entities. Separated entities can be edited easily."
+    },
+    {
+        "id": 67,
+        "Question": "Pressing Ctrl and 1 key together is used for ________ command.",
+        "Options": [
+            "a) object selection",
+            "b) correcting mistakes",
+            "c) match properties",
+            "d) modify properties"
+        ],
+        "Answer": "Answer: d\nExplanation: Press Ctrl and 1 key together are used to modify properties command. Another method for it is to type PROPERTIES command on the command line. One of the methods is used to modify properties of existing drawing entity."
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following short-cut key is useful for modifying the 3-dimensional visualization properties?",
+        "Options": [
+            "a) CTRL + 1",
+            "b) CTRL + 5",
+            "c) CTRL + 3",
+            "d) CTRL + 4"
+        ],
+        "Answer": "Answer: b\nExplanation: To change any property of the existing entity, it is necessary to select the item first. In order to modify properties, select the object first. Then, click Home tab on the ribbon and click the triangle at the bottom of Properties panel."
+    },
+    {
+        "id": 69,
+        "Question": "Elements of dimensioning are ___________",
+        "Options": [
+            "a) Extension line, Leader line, Arrowheads",
+            "b) Trim, Crop, Construction line",
+            "c) Polyline, Helix",
+            "d) Donut, Circle"
+        ],
+        "Answer": "Answer: a\nExplanation: Elements of dimensioning consist of some important parts: Extension line, Leader line, Dimensional line, Pair of arrows, Dimensional values. Dimension line indicates the direction on which the dimension is to be measured. Extension line extends or elongates the line outside the object. Arrowhead is an important part of the dimension line, extension line & leader line."
+    },
+    {
+        "id": 70,
+        "Question": "_______ lines extend from the object towards outside.",
+        "Options": [
+            "a) Dimension",
+            "b) Extension",
+            "c) Leader",
+            "d) Arrowhead"
+        ],
+        "Answer": "Answer: a\nExplanation: Extension line elongates the line outside to the object. Extension line indicates the extreme boundaries of the object where a dimension is to be measured. These lines are continuous and thin which are also used in dimensional line, hence the thickness of the line is the same for both the lines."
+    },
+    {
+        "id": 71,
+        "Question": "An extension line should ________ any line.",
+        "Options": [
+            "a) cross",
+            "b) not cross",
+            "c) pass over to",
+            "d) pass below to"
+        ],
+        "Answer": "Answer: b\nExplanation: Extension line should not cross with other lines i.e. Leader line or Dimensional line. When extension line crosses the leader line or dimension line or another extension line, they are not shown broken but extension line crosses the arrow, it has to be shown broken."
+    },
+    {
+        "id": 72,
+        "Question": "A leader line is drawn at an angle between _______ and not less than 30 degrees from horizontal.",
+        "Options": [
+            "a) 30 & 45 degree",
+            "b) 45 & 60 degree",
+            "c) 60 & 75 degree",
+            "d) 75 & 90 degree"
+        ],
+        "Answer": "Answer: b\nExplanation: A leader line is drawn at an angle between 45 & 60 degrees but not less than 30 degrees from horizontal. A leader line should be drawn at an angle 45 degree from horizontal. This is the standard value of an angle. If more than one leader line is used the angle 45 degrees is used for better view. "
+    },
+    {
+        "id": 73,
+        "Question": "Leader line is pointed over an area; arrow is replaced by a dot about _____ diameter.",
+        "Options": [
+            "a) 1 mm",
+            "b) 2 mm",
+            "c) 3 mm",
+            "d) 1.5 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Leader line is pointed over an area; arrow is replaced by a dot about 1.5 mm diameter. A leader line is used to indicate the dimension of a circular object, notes, part numbers etc. Leader line is just inclined thin line followed by horizontal line on which the note is to be written opposite side of line."
+    },
+    {
+        "id": 74,
+        "Question": "The rule followed by the leader line is ____________",
+        "Options": [
+            "a) All notes are written in horizontal direction",
+            "b) Leader line should cross with other dimension lines",
+            "c) Leader line should be very long",
+            "d) Leader line is drawn at an angle less than 30 degrees from horizontal"
+        ],
+        "Answer": "Answer: a\nExplanation: The rules followed by the leader lines are: All notes are written in horizontal direction. Leader line should not cross with other dimension lines. Leader line should not be very long. Leader line is drawn at an angle 45 & 60 degree but not less than 30 degrees from horizontal. Leader line should be radial to an arc or circle pointing towards its center."
+    },
+    {
+        "id": 75,
+        "Question": "Dimension line is drawn slightly away from the object, about _____",
+        "Options": [
+            "a) 4 to 6 mm",
+            "b) 2 to 4 mm",
+            "c) 6 to 8 mm",
+            "d) 8 to 10 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Dimension line is drawn slightly away from the object, about 8 to 10 mm. Distance between the object and dimension line should not be less than 8 mm and not be greater than 10 mm. Dimension line near the object is not suited for the best appearance as well as for too far from the object."
+    },
+    {
+        "id": 76,
+        "Question": "The line which is drawn under the two extension lines, ending with an arrow is called _____",
+        "Options": [
+            "a) leader line",
+            "b) dimension line",
+            "c) extension line",
+            "d) polyline"
+        ],
+        "Answer": "Answer: b\nExplanation: The line which is drawn under the two extension line, ending either with an arrow is called dimension line. The dimension line is also ending with oblique stroke or solid dot. The dimensional line is a thin continuous line broken in middle for give there dimensional values or the line may be continuous and dimensional values are written above it."
+    },
+    {
+        "id": 77,
+        "Question": "The dimensional line should be _______ to the object.",
+        "Options": [
+            "a) vertical",
+            "b) horizontal",
+            "c) parallel",
+            "d) perpendicular"
+        ],
+        "Answer": "Answer: c\nExplanation: The dimensional line should be parallel to the object. Because the dimensional line should not be vertical or horizontal to the object from that point of view proper dimension are not given to the object. It may be given as per the nature of the object. For the best view, the dimension should be parallel to the object."
+    },
+    {
+        "id": 78,
+        "Question": "Preferably a dimension should be placed ______ the view.",
+        "Options": [
+            "a) inside",
+            "b) outside",
+            "c) left side",
+            "d) right side"
+        ],
+        "Answer": "Answer: b\nExplanation: Preferably a dimension should be placed outside the view. The dimension line should be placed outside the view because if it is placed inside the object it becomes too confusing for understanding the dimension of the object. Also, it does not coincide with center line."
+    },
+    {
+        "id": 79,
+        "Question": "Important point on which the arrowhead is to be drawn is ___________",
+        "Options": [
+            "a) They are drawn graphically by using scale",
+            "b) Height of arrow is kept about one third of the length of arrow",
+            "c) They should be non symmetrical about the dimension line",
+            "d) Pointed end of arrow should not touch the extension line"
+        ],
+        "Answer": "Answer: a\nExplanation: Putting dimensions value outside or adjacent to line is one of the methods to be used for dimensioning where sufficent space is not available. In this method the arrowheads will turn outside to inside. Here, the direction of arrowhead also changes."
+    },
+    {
+        "id": 80,
+        "Question": "_______ are the numbers that are written on the dimension line to specify the size of the object drawn in SI or FPS units.",
+        "Options": [
+            "a) Scales",
+            "b) Prime numbers",
+            "c) Even numbers",
+            "d) Dimensional Values"
+        ],
+        "Answer": "Answer: b\nExplanation: For better appearance and the limit of arrowhead height of arrow is one third of the length of arrow. Arrowhead is drawn freehand. Length of the arrow is same as the height of the dimensional values. The arrowhead should be symmetrical with a dimension line."
+    },
+    {
+        "id": 81,
+        "Question": "The dimensional values should be of ______ size.",
+        "Options": [
+            "a) potential",
+            "b) approximate",
+            "c) actual",
+            "d) preferable"
+        ],
+        "Answer": "Answer: d\nExplanation: The numbers which are written above the dimension line to specify their size is called dimensional values. For mechanical engineering, the unit will be in mm, for civil engineering the unit in meters. It is important to indicate the unit in title for understanding."
+    },
+    {
+        "id": 82,
+        "Question": "In dimensioning a 2D sketch, to dimension the radius of the arc ________",
+        "Options": [
+            "a) click on the two end points of arc",
+            "b) click on the arc only",
+            "c) click one of the end point and the arc",
+            "d) click on the center point and arc"
+        ],
+        "Answer": "Answer: b\nExplanation: To dimension the radius of arc it is important to click on the arc only. Clicking on the end points and by defining the center point, radius cannot be dimensioned. Also it is not necessary to click a center point with an arc."
+    },
+    {
+        "id": 83,
+        "Question": "To dimension the true length of arc __________",
+        "Options": [
+            "a) click on the arc, then the two end points",
+            "b) click on the two end points, then the arc",
+            "c) click on the arc only",
+            "d) click on the end points only"
+        ],
+        "Answer": "Answer: a\nExplanation: To dimension the true length of arc, first click on the arc and then the two end points of the arc. Clicking the arc only will give radius of the arc. Also, clicking on the end points only will not give true length of arc, because radius is not defined."
+    },
+    {
+        "id": 84,
+        "Question": "In a multiple view sketching, dimension should be placed on ___________",
+        "Options": [
+            "a) front view only",
+            "b) each view",
+            "c) the face that describe the feature most clearly",
+            "d) the face which has maximum dimensions to show"
+        ],
+        "Answer": "Answer: c\nExplanation: In a multiple view sketching, dimension should be placed on the face that describes the feature most clearly. It is not mandatory to place dimension on every view. Also, it is not necessary that it should be front or top or side view."
+    },
+    {
+        "id": 85,
+        "Question": "Clicking on the model edge and a line intersecting it will dimension for the _______",
+        "Options": [
+            "a) length of model edge",
+            "b) length of intersecting line",
+            "c) angle between them",
+            "d) length of both lines"
+        ],
+        "Answer": "Answer: c\nExplanation: Clicking on the model edge and a line intersecting it will dimension for the angle between them. Clicking on both lines never defines the length of any. Here, the placement of the dimension affects the way the angle is measured."
+    },
+    {
+        "id": 86,
+        "Question": "The various dimensioning methods include ____________",
+        "Options": [
+            "a) Parallel dimensioning",
+            "b) Vertical dimensioning",
+            "c) Inclined dimensioning",
+            "d) Horizontal dimensioning"
+        ],
+        "Answer": "Answer: b\nExplanation: To dimension the perpendicular distance from a point to a line, click the point and a line directly. No need to select a point. It is difficult to select a point on the line which is exactly perpendicular to the point. Selecting any other point on the line and outside point will place the dimension of (inclined) length."
+    },
+    {
+        "id": 87,
+        "Question": "The method which it indicates the distances by linear dimensions measured parallel or perpendicular to reference axes or two perpendicular datum is called _________",
+        "Options": [
+            "a) parallel dimension",
+            "b) chain dimensioning",
+            "c) rectangular coordinates dimensioning",
+            "d) tabular dimensioning"
+        ],
+        "Answer": "Answer: a\nExplanation: The various dimensioning methods are parallel dimensioning, rectangular coordinate dimensioning, chain dimensioning, superimposed running dimensioning, combined dimensioning and tabular dimensioning. In parallel dimensioning the dimensions are given parallel to the object. In chain dimensioning, the dimensions are given in chain form."
+    },
+    {
+        "id": 88,
+        "Question": "The method in which the series of dimensions are applied from one point to other is called _________",
+        "Options": [
+            "a) Parallel dimension",
+            "b) Chain dimensioning",
+            "c) Combined dimensioning",
+            "d) Tabular dimensioning"
+        ],
+        "Answer": "Answer: c\nExplanation: Dimensioning of arbitrary points is written separately as X and Y or in a tabular form. Rectangular coordinate dimensioning mention or show the linear dimensions measured parallel or perpendicular to reference axes or two perpendicular datum. By using arbitrary point i.e. X and Y point is given for the object with any small displacement."
+    },
+    {
+        "id": 89,
+        "Question": "The method which starts with a circle is called as ___________",
+        "Options": [
+            "a) parallel dimensioning",
+            "b) superimposed running dimensioning",
+            "c) combined dimensioning",
+            "d) tabular dimensioning"
+        ],
+        "Answer": "Answer: b\nExplanation: The disadvantage of this method is that tolerances of all the dimensions may be accumulated. In this method the dimension is given continuously without the breaking of dimension. The name indicates chain means give dimension in chain format."
+    },
+    {
+        "id": 90,
+        "Question": "The dimension which is measured with the help of the reference line is called _________",
+        "Options": [
+            "a) parallel dimensioning",
+            "b) superimposed running dimensioning",
+            "c) combined dimensioning",
+            "d) tabular dimensioning"
+        ],
+        "Answer": "Answer: b\nExplanation: It is important in dimensioning method in which the no of dimension which is in series manner by showing only one arrowhead and all on the line. It is a simplified convention method which is used for dimension. Superimposed running dimensioning method starts with a circle."
+    },
+    {
+        "id": 91,
+        "Question": "The method in which it uses the same reference or datum which is used by another dimensioning method is called __________",
+        "Options": [
+            "a) vertical dimensioning",
+            "b) inclined dimensioning",
+            "c) combined dimensioning",
+            "d) horizontal dimensioning"
+        ],
+        "Answer": "Answer: a\nExplanation: In parallel dimensioning, number of dimensions start from a common reference line. Hence each distance is measured with the common reference line. Here, the tolerances do not increase after dimensions."
+    },
+    {
+        "id": 92,
+        "Question": "The method in which it uses the alphabet for dimensioning is called as ________",
+        "Options": [
+            "a) vertical dimensioning",
+            "b) tabular dimensioning",
+            "c) combined dimensioning",
+            "d) horizontal dimensioning"
+        ],
+        "Answer": "Answer: c\nExplanation: The method in which it uses the same reference or datum which is used by another dimensioning method is called combined dimensioning. This method is a combination of two dimensioning method i.e. chain dimensioning and parallel dimensioning. In this method, one or more than one method is used for dimensioning in a single complex object."
+    },
+    {
+        "id": 93,
+        "Question": "_______ in AutoCAD is a transparent imaginary plane on which a drawing is created.",
+        "Options": [
+            "a) Plane",
+            "b) Command",
+            "c) Layer",
+            "d) Overlay"
+        ],
+        "Answer": "Answer: c\nExplanation: A layer is most important properties which are used in AutoCAD on which the drawing is created. Layer is an imaginary plane. This property or facility is very important when the drawing is created for many purposes."
+    },
+    {
+        "id": 94,
+        "Question": "The command which is used to set a new layer is called _______",
+        "Options": [
+            "a) LAYOFF",
+            "b) LAYVPI",
+            "c) LAYDEL",
+            "d) LAYER"
+        ],
+        "Answer": "Answer: d\nExplanation: Layer command means layer properties manager which is used for a number of purposes are following\ni. To set a new layer\nii. To modify an existing layer\niii. Set a layer as current, lock, or freeze a layer\n You can modify the color of layer and assign the layer linetype and lineweight to a layer."
+    },
+    {
+        "id": 95,
+        "Question": "Modifying a layer consist of ________________",
+        "Options": [
+            "a) Line weight and line type",
+            "b) Thawing",
+            "c) Freeze",
+            "d) Deleting a layer"
+        ],
+        "Answer": "Answer: b\nExplanation: These symbols indicate that firstly select the given layer and then highlight the layer in layer properties manager by a click on it. Click on delete option shown above for deleting the selected layer. This option is selected for the unwanted layer which is not used for the drawing. "
+    },
+    {
+        "id": 96,
+        "Question": "Orthographic projection is drawn using two methods which is ___________",
+        "Options": [
+            "a) Second angle and third angle method",
+            "b) First angle and third angle method",
+            "c) First angle and fourth angle method",
+            "d) Second angle and fourth angle method"
+        ],
+        "Answer": "Answer: b\nExplanation: Orthographic projections of the object are drawn using first angle method and third angle method. In first angle method the object is placed in first quadrant. In third angle method the object is placed in third quadrant."
+    },
+    {
+        "id": 97,
+        "Question": "The method in which the object is placed in the first quadrant is known as __________ method.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle"
+        ],
+        "Answer": "Answer: c\nExplanation: In the first angle method, the object is placed in first quadrant formed by the principal planes. In this method the top view is drawn at the bottom of the front view and right side view is drawn on the left hand side of the front view."
+    },
+    {
+        "id": 98,
+        "Question": "In first angle method the top view is drawn _______ of the front view.",
+        "Options": [
+            "a) above",
+            "b) right Side",
+            "c) left side",
+            "d) bottom"
+        ],
+        "Answer": "Answer: d\nExplanation: In first angle method, the top view is drawn at the bottom of the front view. In this method, the right hand side view is drawn on left side of front view. First angle method is mostly used in orthographic projection. It is easy for understanding.  "
+    },
+    {
+        "id": 99,
+        "Question": "The method in which the object is placed in the third quadrant is known as __________ method.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle"
+        ],
+        "Answer": "Answer: a\nExplanation: In third angle method, the object is placed in the third quadrant formed by the picture planes. In this method, the top view is placed in first quadrant. Side view is placed in fourth quadrant and front view is placed in third quadrant."
+    },
+    {
+        "id": 100,
+        "Question": "In third angle method the top view is drawn _______ of the front view.",
+        "Options": [
+            "a) above",
+            "b) right Side",
+            "c) left side",
+            "d) bottom"
+        ],
+        "Answer": "Answer: a\nExplanation: In third angle method, the top view is drawn above the front view. Front view is drawn in the third quadrant and right side view is drawn on the right side of the front view. It is difficult for understanding as compare to first angle method. "
+    },
+    {
+        "id": 101,
+        "Question": "In ______ method the plane of projection is transparent.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle"
+        ],
+        "Answer": "Answer: a\nExplanation: In third angle method the plane of projection is transparent as compare to first angle method. In third angle method the object is shown in the third quadrant with transparent planes. This method is used in United States of America."
+    },
+    {
+        "id": 102,
+        "Question": "On which drawing basic command is mostly used?",
+        "Options": [
+            "a) Two dimensional views",
+            "b) Three dimensional views",
+            "c) Four dimensional views",
+            "d) Five dimensional views"
+        ],
+        "Answer": "Answer: a\nExplanation: The two dimensional views are drawn separately in the drawing. Two dimensional views are drawn with the basic entities or command. It easily draws on the drawing."
+    },
+    {
+        "id": 103,
+        "Question": "The drawing in which both the commands are used i.e. basic and modified command the view is known as __________",
+        "Options": [
+            "a) two dimensional views",
+            "b) three dimensional views",
+            "c) four dimensional views",
+            "d) five dimensional views"
+        ],
+        "Answer": "Answer: b\nExplanation: The three dimensional view is not drawn easily as compare to two dimensional view. The three dimensional view is drawn with the help of basic and modern entities o commands. It is the most important type which is used in drawing."
+    },
+    {
+        "id": 104,
+        "Question": "If the total detail is not obtained from the three directional views the ______ is drawn.",
+        "Options": [
+            "a) pictorial view",
+            "b) oblique view",
+            "c) perspective view",
+            "d) two dimensional view"
+        ],
+        "Answer": "Answer: a\nExplanation: Pictorial view is the advancement or modification of three dimensional views. Pictorial view is drawn or used when the three dimensional view is not easy or confuses the detailing of the object."
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following is a pictorial view?",
+        "Options": [
+            "a) Isometric view",
+            "b) Cavalier view",
+            "c) Axonometric view",
+            "d) Cabinet view"
+        ],
+        "Answer": "Answer: c\nExplanation: Pictorial views are axonometric view, oblique view and perspective views. Pictorial view is drawn for the complex object which is not draw from the three dimensional view. Cavalier view, Cabinet view, Isometric view are not the types of pictorial view."
+    },
+    {
+        "id": 106,
+        "Question": "For __________ an object is first rotated in horizontal plane about a vertical axis to make an angle with the picture plane.",
+        "Options": [
+            "a) isometric view",
+            "b) axonometric view",
+            "c) cavalier view",
+            "d) cabinet view"
+        ],
+        "Answer": "Answer: b\nExplanation: An object is first rotated in horizontal plane about a vertical axis to make an angle with the picture plane is called the Axonometric view. It is then tilted at an angle to which it touches the picture plane. Axonometric view types are Isometric, Diametric and trimetric views."
+    },
+    {
+        "id": 107,
+        "Question": "The type of projections which is preliminary decisions for making drawing is ___________",
+        "Options": [
+            "a) Second angle and third angle method",
+            "b) First angle and third angle method",
+            "c) First angle and fourth angle method",
+            "d) Second angle and fourth angle method"
+        ],
+        "Answer": "Answer: b\nExplanation: The first preliminary decision for making drawing is types of projections. There are two types of projections which are used in industry are first angle method and third angle method. Find the type of projection method which is used in the industry follow the same in types of projection."
+    },
+    {
+        "id": 108,
+        "Question": "The object can be placed in several positions with respect to a projection plane is called _________",
+        "Options": [
+            "a) object viewing",
+            "b) object placing",
+            "c) object Orientation",
+            "d) object drawing"
+        ],
+        "Answer": "Answer: c\nExplanation: Object orientation is the object can be placed in several positions with respect to the projection plane. When the object is oriented in such a way that its faces are parallel to picture plane is the simplest view of viewing."
+    },
+    {
+        "id": 109,
+        "Question": "An object is placed at an angle with picture plane________ the drawing.",
+        "Options": [
+            "a) easy",
+            "b) difficult",
+            "c) complicate",
+            "d) simple"
+        ],
+        "Answer": "Answer: c\nExplanation: An object is placed at an angle with a picture plane complicate the drawing unnecessarily. It is the most important parameter which is used in object orientation. From that point of view the object should be oriented by the proper angle for best viewing. "
+    },
+    {
+        "id": 110,
+        "Question": "__________ of the object should be the largest of all the other views.",
+        "Options": [
+            "a) Right hand side view",
+            "b) Left hand side View",
+            "c) Top View",
+            "d) Front view"
+        ],
+        "Answer": "Answer: d\nExplanation: Front view of the object should be most important or largest of all other views. Also, it shows the maximum part of the object or maximum details of the object. Selecting View is another rule or decision which is used in making a drawing."
+    },
+    {
+        "id": 111,
+        "Question": "Which side view gives more details about the object?",
+        "Options": [
+            "a) Left",
+            "b) Right",
+            "c) Top",
+            "d) Bottom"
+        ],
+        "Answer": "Answer: b\nExplanation: Right hand side view gives more details about the object as compared to left side view. Side view is either left or right side depending upon which side gives more details about the object. Two views are also given if one side view does not clear all dimensions of the object."
+    },
+    {
+        "id": 112,
+        "Question": "The number of views to be drawn depends upon the _______ of the object.",
+        "Options": [
+            "a) Size",
+            "b) Shape",
+            "c) Measure",
+            "d) Dimension"
+        ],
+        "Answer": "Answer: b\nExplanation: On the shape of the object number of views is to be drawn. The number of views is the preliminary decisions for making a drawing. A rectangular object has six phases but only three views are easy for understanding."
+    },
+    {
+        "id": 113,
+        "Question": "Axis symmetric objects require minimum _______",
+        "Options": [
+            "a) one view",
+            "b) two views",
+            "c) three views",
+            "d) four views"
+        ],
+        "Answer": "Answer: b\nExplanation: Axis symmetric objects may require only two objects, because of their axis symmetry property. Because of that there are only two views is required. Both two views give complete details of the object. Objects having negligible thickness can be shown with one view only."
+    },
+    {
+        "id": 114,
+        "Question": "By which property the drawing of the object is to enlarge is __________",
+        "Options": [
+            "a) Selection of scale",
+            "b) Spacing of views",
+            "c) Object orientation",
+            "d) Number of views"
+        ],
+        "Answer": "Answer: a\nExplanation: By using a selection of scale we can enlarge or reduce the size of the object for better understanding. It is another rule for preliminary decisions for making a drawing. "
+    },
+    {
+        "id": 115,
+        "Question": "The dimension put on the drawing is _______ dimensions.",
+        "Options": [
+            "a) approximate",
+            "b) better",
+            "c) actual",
+            "d) true"
+        ],
+        "Answer": "Answer: c\nExplanation: The dimension put on the drawing is the actual dimension and not scaled dimension. Large parts drawing are not fit on the sheet due to this reason the size of the drawing is reduced by reducing scale."
+    },
+    {
+        "id": 116,
+        "Question": "The reduced scale is written in the form _______",
+        "Options": [
+            "a) 1:X",
+            "b) X: 1",
+            "c) X: Y",
+            "d) Y: X"
+        ],
+        "Answer": "Answer: a\nExplanation: The reduced scale is 1:2, 1:5, 1:10, 1:20, 1:50, 1:100 1:200, and 1:500. The reduced scale is shown by 1: X and enlarged scale is shown by X: 1. Enlarged scale is 50:1, 20:1, 5:1, and 2:1. "
+    },
+    {
+        "id": 117,
+        "Question": "A gap of about ________ mm should be kept to accommodate dimensions and view titles.",
+        "Options": [
+            "a) 15-20",
+            "b) 20-35",
+            "c) 25-40",
+            "d) 10-25"
+        ],
+        "Answer": "Answer: c\nExplanation: In spacing of views, a gap of about 25-40 mm should be kept to accommodate dimension and view title. Spacing of views is another preliminary rule for making a drawing. Views should be placed at a proper distance from the axis for better appearance."
+    },
+    {
+        "id": 118,
+        "Question": "For sheets of A3 size, a border is at _______ mm from left and ________ mm for all other sides from the edges of the sheet.",
+        "Options": [
+            "a) 10, 15",
+            "b) 20, 10",
+            "c) 10, 20",
+            "d) 15, 25"
+        ],
+        "Answer": "Answer: b\nExplanation: For sheets of a3 size, border is at 20 mm from left and 10 mm for all other sides from the edges of the sheet. This distance or proportion is selected for the better appearance of view and easy for understanding."
+    },
+    {
+        "id": 119,
+        "Question": "A represent the ________ gap and B represent the ________ gap between views from the border.",
+        "Options": [
+            "a) vertical, horizontal",
+            "b) horizontal, vertical",
+            "c) left, right",
+            "d) right, left"
+        ],
+        "Answer": "Answer: a\nExplanation: There is another left side view for the object an extra width is needed or added. X and Y represent the size of the border. This is the most important rule which is used in making a drawing."
+    },
+    {
+        "id": 120,
+        "Question": "Various types of plotter which are commonly used include ____________",
+        "Options": [
+            "a) Flatbed plotter",
+            "b) Simple plotter",
+            "c) Complex plotter",
+            "d) Combination plotter"
+        ],
+        "Answer": "Answer: a\nExplanation: Various types of plotters are available in the market, like flatbed plotter, drum plotter, etc. The plotters used single pen or multiple pen of different color. There are no plotters which are specifically named as simple or complex or combination plotter."
+    },
+    {
+        "id": 121,
+        "Question": "A drawing created using drafting software is _________ of the drawing.",
+        "Options": [
+            "a) hard copy",
+            "b) soft copy",
+            "c) simple copy",
+            "d) complex copy"
+        ],
+        "Answer": "Answer: b\nExplanation: A drawing created by using drafting software is called soft copy. It cannot be useful at shop floor before softcopy is converted into hardcopy. Direct softcopy is not used at the shop floor. "
+    },
+    {
+        "id": 122,
+        "Question": "The point which is used for plotting is ______________",
+        "Options": [
+            "a) Setting the plotting device",
+            "b) Select the printer",
+            "c) Select the paper",
+            "d) Set the page orientation"
+        ],
+        "Answer": "Answer: a\nExplanation: Setting the plotting device is a point which is used for plotting. In this point, we select the name of the plotter which is connected to the computer or default windows system plotter or printer."
+    },
+    {
+        "id": 123,
+        "Question": "The rule in which we select the size of paper is called _______",
+        "Options": [
+            "a) setting the plotting device",
+            "b) choosing paper size",
+            "c) select the paper",
+            "d) set the page orientation"
+        ],
+        "Answer": "Answer: b\nExplanation: In the rule of paper size we select a paper which is used in plotter for plotting. A list of different standard sizes of ISO and ANSI is displayed. Choose the correct size for drawing which is mostly used."
+    },
+    {
+        "id": 124,
+        "Question": "What is the meaning of display which is used plotter in defining plot area?",
+        "Options": [
+            "a) Chooses the entire drawing even if it is outside the specified limit",
+            "b) Plots the drawing falling within specified limit",
+            "c) Plots whatever is displayed on the screen",
+            "d) Allows choosing a specified area within window on the screen"
+        ],
+        "Answer": "Answer: c\nExplanation: Display option plots whatever is displayed on the screen. Extent option chooses the entire drawing even if it is outside the specified limit. Limits option allows choosing a specified area within a window on the screen."
+    },
+    {
+        "id": 125,
+        "Question": "The property or rule in which in which we select the or choose the scale for plotting is called as ______",
+        "Options": [
+            "a) plot scale",
+            "b) scale",
+            "c) reduced scale",
+            "d) increase scale"
+        ],
+        "Answer": "Answer: a\nExplanation: The property or rule in which in which we select the scale or choose the scale for plotting is called a plot scale. In this property, you can select or write the scale for the paper. Fit to paper select the scale for the automatically."
+    },
+    {
+        "id": 126,
+        "Question": "The property in which the drawing which are not properly aligned is goes to the middle is known as ________",
+        "Options": [
+            "a) plot scale",
+            "b) centering the plot",
+            "c) drawing orientation",
+            "d) previewing"
+        ],
+        "Answer": "Answer: b\nExplanation: The property in which the drawing which is not properly aligned is goes to the middle is known as centering the plot. By clicking the centering the plot, then offset in X and Y directions automatically are displayed."
+    },
+    {
+        "id": 127,
+        "Question": "The property in the plotters is used for changing the printing view i.e. portrait to landscape and landscape to portrait is known as _______",
+        "Options": [
+            "a) plot scale",
+            "b) centering the plot",
+            "c) drawing orientation",
+            "d) previewing"
+        ],
+        "Answer": "Answer: c\nExplanation: The property in the plotters is used for changing the printing view i.e. portrait to landscape and landscape to portrait is known as drawing orientation. Portrait option gives the longer sides of the drawing vertical and landscape option gives longer side horizontal. "
+    },
+    {
+        "id": 128,
+        "Question": "The view which is complete and ready to print is called ________",
+        "Options": [
+            "a) preview",
+            "b) better view",
+            "c) after view",
+            "d) front view"
+        ],
+        "Answer": "Answer: a\nExplanation: The view which is complete and ready to print is called preview. But any operation is not completed this is checked in the preview before plotting. If it is satisfied then it is ready to plot from a plotter."
+    },
+    {
+        "id": 129,
+        "Question": "When the interior of an object is complicated, which of the following view is used?",
+        "Options": [
+            "a) Front view",
+            "b) Side view",
+            "c) Top view",
+            "d) Sectional view"
+        ],
+        "Answer": "Answer: d\nExplanation: When the interior of an object is complicated, the number of dashed is overlap by the continuous lines due to their same position. For that reason sectional view is used. Top view or front view here may or may not be useful."
+    },
+    {
+        "id": 130,
+        "Question": "What is the type of sections from given option?",
+        "Options": [
+            "a) Full section",
+            "b) Side section",
+            "c) Top section",
+            "d) Front section"
+        ],
+        "Answer": "Answer: a\nExplanation: Various types of sections which are used in section view are as following:\n1 – Full section\n2 – Half section\n3 – Revolved section\n4 – Removed section\n5 – Broken out section\n6 – Auxiliary section\n7 – Assembly section. "
+    },
+    {
+        "id": 131,
+        "Question": "When the cutting plane cuts the entire object the section is known as _______",
+        "Options": [
+            "a) Full section",
+            "b) Half section",
+            "c) Revolved section",
+            "d) Removed section"
+        ],
+        "Answer": "Answer: a\nExplanation: When the cutting plane cuts the entire object the section is known as a full section. This method of sectioning is mostly used in sectioning work. It gives the total object details in one section. "
+    },
+    {
+        "id": 132,
+        "Question": "Straight cutting plane in one line can be used if ___________",
+        "Options": [
+            "a) all the hidden objects are not in one line",
+            "b) all the hidden objects are in one line",
+            "c) the single line nor offset sectioning is useful and shape of the object is inclined",
+            "d) it is used for combined objects"
+        ],
+        "Answer": "Answer: b\nExplanation: Straight cutting plane in one line can be used if all the hidden objects are in one line. Offset cutting planes can be used if the hidden objects are in one line. Straight cutting planes are not useful for the combined objects."
+    },
+    {
+        "id": 133,
+        "Question": "Inclined and offset cutting planes can be used if __________",
+        "Options": [
+            "a) all the hidden objects are not in one line",
+            "b) all the hidden objects are in one line",
+            "c) the single line nor offset sectioning is useful and shape of the object is inclined",
+            "d) it is used for combined objects"
+        ],
+        "Answer": "Answer: d\nExplanation: Inclined and offset cutting planes can be used for combined objects. Inclined cutting planes can be useful when neither single line nor offset sectioning is useful. And also it is useful when the shape of the object is inclined."
+    },
+    {
+        "id": 134,
+        "Question": "For the object which is symmetrical about the central axis; from which method of section it can be drawn __________",
+        "Options": [
+            "a) Full section",
+            "b) Half section",
+            "c) Revolved section",
+            "d) Removed section"
+        ],
+        "Answer": "Answer: b\nExplanation: Half section method of sectioning is useful for objects symmetrical about the central axis. For half section consider the two planes which are perpendicular to each other containing the center line of the object. Other methods are not useful for the objects symmetrical about the vertical axis."
+    },
+    {
+        "id": 135,
+        "Question": "When the section is to be drawn for a small area of the object, a ________section is used.",
+        "Options": [
+            "a) full section",
+            "b) half section",
+            "c) revolved section",
+            "d) removed section"
+        ],
+        "Answer": "Answer: c\nExplanation: When the section is to be drawn for a small area of the object, a revolved section is used. The section is at a right angle to the axis of the object and can be placed or drawn anywhere."
+    },
+    {
+        "id": 136,
+        "Question": "Crane hook is to drawn by _________method.",
+        "Options": [
+            "a) full section",
+            "b) half section",
+            "c) removed section",
+            "d) revolved section"
+        ],
+        "Answer": "Answer: d\nExplanation: The cross section of the arm of a pulley is shown by the revolved section method which is not showing by the other sectioning method. For a crane hook, revolved sections are shown at different locations as the section is changing continuously along the axis. Means crane hook is not drawn or shown by the other method. "
+    },
+    {
+        "id": 137,
+        "Question": "The section in which the sectional views are not drawn there itself, but at a place adjacent to it is known as _________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section"
+        ],
+        "Answer": "Answer: a\nExplanation: The section in which the sectional views are not drawn there itself, but at a place adjacent to it is known as a removed section. In this section, the turbine blade and different cross section are to be drawn by this method. Each view is designated by a pair of letters such as A-A, B-B, etc."
+    },
+    {
+        "id": 138,
+        "Question": "The cutting plane cut the small portion after before the is cut by the full or half section, the section is known as __________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section"
+        ],
+        "Answer": "Answer: b\nExplanation: If the cutting plane for full length or half length of the object removes the external features, then the cutting panes used for a small portion. The portion is called a partial section or broken out section. If you take a full section, some external details are removed."
+    },
+    {
+        "id": 139,
+        "Question": "The section which cuts the object at an angle is called ________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section"
+        ],
+        "Answer": "Answer: c\nExplanation: Auxiliary views are drawn when the cutting plane at an angle. It shows the detail of the inclined feature. The section which cuts the object at an angle is called an Auxiliary view."
+    },
+    {
+        "id": 140,
+        "Question": "The section which draws the section of assembly drawing is called as ____________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section"
+        ],
+        "Answer": "Answer: d\nExplanation: A sectional view of the assembly is called the assembly section. This view gives the details when all the parts are assembled together. Assembly drawing is a combined drawing of all the parts joined together at proper places."
+    },
+    {
+        "id": 141,
+        "Question": "Cutting plane is shown by _______ with thick end and two arrows in the direction view.",
+        "Options": [
+            "a) section line",
+            "b) chain line",
+            "c) single line",
+            "d) double line"
+        ],
+        "Answer": "Answer: b\nExplanation: Cutting plane is shown by chain line with thick end and two arrows in the direction view. Cutting plane is named by identification letters such as A-A, X-X, Y-Y, etc. Cutting plane is that which cut the section plane at suitable angle for viewing internal dimensions."
+    },
+    {
+        "id": 142,
+        "Question": "In assembly half section, the section line cut the plane at an angle _________ or ________",
+        "Options": [
+            "a) 35, 45",
+            "b) 45, 125",
+            "c) 35, 135",
+            "d) 45, 135"
+        ],
+        "Answer": "Answer: d\nExplanation: In assembly half section, solid area cut by the cutting plane is shown by thin section lines at 45° or 135°, if material is iron. Means the section cut the plane at an angle 45° or 135°. This angle is also used for the hatching line which is used in section planes when the two objects are adjacent. "
+    },
+    {
+        "id": 143,
+        "Question": "If some important details are in the view it is sown by the ______ line.",
+        "Options": [
+            "a) section line",
+            "b) chain line",
+            "c) dashed line",
+            "d) double line"
+        ],
+        "Answer": "Answer: c\nExplanation: If some important details are required, then dashed lines can be used. Hidden edges are generally not shown if they come in sectional view and should be avoided as far as possible. Because showing both the lines the sectional view is confusing for understanding."
+    },
+    {
+        "id": 144,
+        "Question": "Thin parts like stiffeners, webs, bolts, rivets, etc. are ________ if they are cut by the cutting plane along their axis.",
+        "Options": [
+            "a) not hatched",
+            "b) hatched",
+            "c) sectioned",
+            "d) not sectioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Thin parts like stiffeners, bolts, rivets, webs, etc. are not hatched if they are cut by the cutting plane along their axis. But it is shown by hatched if the cutting plane cuts at right angles to the axis. These parts are never shown with section lines."
+    },
+    {
+        "id": 145,
+        "Question": "________ are not hatched but darkened like solids.",
+        "Options": [
+            "a) Very thin parts",
+            "b) Thin parts",
+            "c) Thick parts",
+            "d) Single part"
+        ],
+        "Answer": "Answer: a\nExplanation: Very thin parts are not hatched but darkened like solids. For small parts, the gap is reduced, and for big parts, the section lines are drawn at a greater distance. For very large areas, section lines are drawn at near the boundary surface up to a certain length and central portion is left unhatched."
+    },
+    {
+        "id": 146,
+        "Question": "Long parts that cannot be accommodated on the drawing sheet are ____________",
+        "Options": [
+            "a) Shown continuous",
+            "b) Shown partly brake and partly continuous",
+            "c) Shown broken",
+            "d) Shown by reducing its scale"
+        ],
+        "Answer": "Answer: c\nExplanation: Long parts that cannot be accommodated on the drawing sheet are shown broken with the cross section conventions. Means, the drawing which is not completely fitted within the sheet is shown by cross section conventions. "
+    },
+    {
+        "id": 147,
+        "Question": "The crests of the thread are shown by a ______ continuous line and roots by ______ continuous line.",
+        "Options": [
+            "a) thin, thick",
+            "b) thick, thin",
+            "c) single, thin",
+            "d) double, thick"
+        ],
+        "Answer": "Answer: b\nExplanation: The crests of the thread are shown by a thick continuous line and roots by thin continuous line. Because it is correct as by the appearance or viewing. Also, it is easy for understanding and details and properties of drawing."
+    },
+    {
+        "id": 148,
+        "Question": "The gap between crest and root lines should not be less than ______ the thickness of thick line.",
+        "Options": [
+            "a) half",
+            "b) equal",
+            "c) twice",
+            "d) thrice"
+        ],
+        "Answer": "Answer: c\nExplanation: The gap between crest and root lines is kept equal to the depth of the thread. It should not be less than twice the thickness of thick line or 0.7 mm whichever is bigger. For hidden screw threads, the crests and roots are shown by dashed line."
+    },
+    {
+        "id": 149,
+        "Question": "Whatever material is cut by the cutting plane, should be _______",
+        "Options": [
+            "a) not hatched",
+            "b) hatched",
+            "c) empty",
+            "d) vertical"
+        ],
+        "Answer": "Answer: b\nExplanation: Incomplete threads are not hatches in assembly of external and internal thread; the area common to both is shown hatched at an angle of external thread. Because the not hatching sows the threads are incomplete in nature according to that view incomplete threads are not hatches in assembly of an external and internal thread."
+    },
+    {
+        "id": 150,
+        "Question": "The hatching line should be inclined at an angle ________",
+        "Options": [
+            "a) 35°",
+            "b) 25°",
+            "c) 45°",
+            "d) 55°"
+        ],
+        "Answer": "Answer: b\nExplanation: Whatever material is cut by the cutting plane should be hatched. If material is other than iron, standard conventions for some commonly used materials are being used. Like aluminum material showing by the inclined lines and this is placed at too far distance."
+    },
+    {
+        "id": 151,
+        "Question": "When two different parts are adjacent to each other, then the section line is drawn at an angle _____ and _______",
+        "Options": [
+            "a) 35° and 125°",
+            "b) 45° and 135°",
+            "c) 45° and 125°",
+            "d) 35° and 135°"
+        ],
+        "Answer": "Answer: c\nExplanation: The hatching lines are parallel to each other and it is normally inclined at an angle 45° or 135°.If the object is inclined to the horizontal. The hatching angle is to be measured from the objects horizontal axis and inclined at an angle 45° or 135°."
+    },
+    {
+        "id": 152,
+        "Question": "For three parts are placed in which of the case is fitted for that ___________",
+        "Options": [
+            "a) Change angle of hatching for third part as 45° or 75°",
+            "b) The gap between the section lines for object is same for the entire object",
+            "c) There will be no offset for the section line",
+            "d) The gap between the section lines for object is not same for the entire object"
+        ],
+        "Answer": "Answer: b\nExplanation: When two different parts are adjacent to each other, then the section line is drawn at an angle 45° and 135°. If one part is hatched at an angle 45° then the second object section line drawn at an angle 135° from horizontal. Due to this section line shows the two different objects. It is easy for understanding that it has two separate objects."
+    },
+    {
+        "id": 153,
+        "Question": "The distance between two section lines is called ________",
+        "Options": [
+            "a) length of the section line",
+            "b) width of the section line",
+            "c) thickness of the section line",
+            "d) pitch of the section line"
+        ],
+        "Answer": "Answer: c\nExplanation: When the three objects is placed adjacent to each other following point is to be noted\n1 – Change angle of hatching for third part as 30° or 60°.\n2 – Offset the lines keeping the angle as 45° or 135°.\n3 – Change the gap between the lines relative to the two objects.\nThe angle of section lines at 45° is to be kept with reference to the axis of the object."
+    },
+    {
+        "id": 154,
+        "Question": "The method which suggests the draw the section lines at equal distances is called _________",
+        "Options": [
+            "a) distance of section lines",
+            "b) drawing section lines",
+            "c) pitch of section lines",
+            "d) angle of section lines"
+        ],
+        "Answer": "Answer: d\nExplanation: The distance between two section lines is pitch of the section line. There is no fixed point or distance at which the section line is draw. It is generally in between the 1 to 3 mm is depending upon the size of the object. Pitch of section lines is one of the most important topics in section lines."
+    },
+    {
+        "id": 155,
+        "Question": "To project the auxiliary the auxiliary view, an imaginary plane, known as _________",
+        "Options": [
+            "a) reference plane",
+            "b) principle plane",
+            "c) normal plane",
+            "d) inclined plane"
+        ],
+        "Answer": "Answer: a\nExplanation: To project the auxiliary the auxiliary view, an imaginary plane, known as reference plane is placed at the angle which is given the view. Even two views for drawing on which the total details are shown is sufficient. It is easy for drawing."
+    },
+    {
+        "id": 156,
+        "Question": "Dimension of one side of the inclined surface can be ______ projected on the reference plane.",
+        "Options": [
+            "a) indirectly",
+            "b) equally",
+            "c) directly",
+            "d) normally"
+        ],
+        "Answer": "Answer: b\nExplanation: Reference plane is perpendicular to the direction of view. The auxiliary view is drawn to the direction view. The auxiliary view is mostly drawn on the dimension of the side view and top view. This is the basic point for drawing auxiliary view."
+    },
+    {
+        "id": 157,
+        "Question": "The method in which the edge or surface is divided into small number of parts and projection is transferred for each point is called _____________",
+        "Options": [
+            "a) drawing auxiliary view of an inclined surface",
+            "b) drawing auxiliary view of an curved surface",
+            "c) drawing auxiliary view of opposite surface",
+            "d) drawing auxiliary view of an equal surface"
+        ],
+        "Answer": "Answer: c\nExplanation: Dimension of one side of the inclined surface can be directly projected on the reference plane. For dimension of the other side, it has to be drawn or transferred from the view. In this method, the auxiliary view may have to be drawn from the suitable distance of the main view; hence the dimension is easily transferred with ruler or divider which is important."
+    },
+    {
+        "id": 158,
+        "Question": "If there are more than one inclined surfaces, then _________",
+        "Options": [
+            "a) auxiliary view for each surface is can drawn single or double",
+            "b) auxiliary view is draw on single view",
+            "c) auxiliary view is draw parallel to the main view",
+            "d) auxiliary view for each surface can be drawn separately"
+        ],
+        "Answer": "Answer: b\nExplanation: If the object has sharp corner or edges, the distances can be measured or draw easily. The problem happens when the object is complex. The method in which the edge or surface is divided into small number of parts and projection is transferred for each point is called drawing auxiliary view of curved surface."
+    },
+    {
+        "id": 159,
+        "Question": "If the surface contours are complicated then_______",
+        "Options": [
+            "a) auxiliary view for each surface is can drawn single or double",
+            "b) auxiliary view is draw on single view",
+            "c) the top view is omitted and auxiliary view is draw by transferring dimension",
+            "d) auxiliary view for each surface can be drawn separately"
+        ],
+        "Answer": "Answer: d\nExplanation: If there are more than one inclined surfaces, an auxiliary view for each surface can be drawn separately. In this method the curved surface is inclined and its width also varies non-linearly. The inclined surface is divided in five parts for transferring its dimension."
+    },
+    {
+        "id": 160,
+        "Question": "Using XLINE command the line is to be drawn is called _______",
+        "Options": [
+            "a) construction line",
+            "b) inclined line",
+            "c) vertical line",
+            "d) horizontal line"
+        ],
+        "Answer": "Answer: c\nExplanation: Sometimes, the surface contours are complicated and projection from the view may be difficult for transferring. In that case, the normal view should be drawn from the actual dimension of view and not by projections or transferring dimension."
+    },
+    {
+        "id": 161,
+        "Question": "In construction line HOR represents ____________",
+        "Options": [
+            "a) create vertical xlines passing through specified points",
+            "b) creates horizontal xlines passing through specified points",
+            "c) creates an xlines parallel to an object at a specified offset distance",
+            "d) creates xlines at a specified angle passing through specified points"
+        ],
+        "Answer": "Answer: a\nExplanation: Using XLINE command the line is to be drawn is called a construction line. In many auxiliary many line are drawn at a certain angle. Xline command had drawn the line from minus infinity to plus infinity through specific point or a specified angle or two specified points."
+    },
+    {
+        "id": 162,
+        "Question": "Command to draw conveniently many construction lines at a specified angle is _________",
+        "Options": [
+            "a) ALINE",
+            "b) LINE",
+            "c) PARLINE",
+            "d) XLINE"
+        ],
+        "Answer": "Answer: b\nExplanation: In construction line,\nHOR – Creates horizontal xlines passing through specified points.\nVer – Create vertical xlines passing through specified points.\nAng – Creates xlines at a specified angle passing through specified points.\nOffset – Creates an xlines parallel to an object at a specified offset distance."
+    },
+    {
+        "id": 163,
+        "Question": "Transfer width of side view to inclined projection lines as shown by _________",
+        "Options": [
+            "a) construction of circle",
+            "b) construction of line",
+            "c) construction of arc",
+            "d) construction of polygon"
+        ],
+        "Answer": "Answer: d\nExplanation: Mostly for drawing the construction line we use the command is known as XLINE command. For drawing construction type this command and select the first point of line. Then select the second point of line and for quit the operation of the construction line press enter to quit. "
+    },
+    {
+        "id": 164,
+        "Question": "The drawing in which the view is drawn at an angle 30° and 150° is called ___________",
+        "Options": [
+            "a) Auxiliary view",
+            "b) Front view",
+            "c) Isometric view",
+            "d) Perspective view"
+        ],
+        "Answer": "Answer: c\nExplanation: The drawing in which the view is drawn at an angle 30° and 150° is called Isometric view. This view is same as the 3d view. It is easy to draw than the 3D view. This view is used when there is no provision for the drawing of 3D view."
+    },
+    {
+        "id": 165,
+        "Question": "The view in which the victory stand is drawn is known as __________",
+        "Options": [
+            "a) auxiliary view",
+            "b) 3D view",
+            "c) perspective view",
+            "d) isometric view"
+        ],
+        "Answer": "Answer: d\nExplanation: The victory stand is an example of the isometric view. In which the three axes are drawn is OX, OY and OZ are at 30° and 150°and vertical to the horizontal axis. In this firstly mark the origin. OX, OY and OZ are the isometric axes."
+    },
+    {
+        "id": 166,
+        "Question": "All horizontal lines are in isometric drawing is _________",
+        "Options": [
+            "a) parallel to OX",
+            "b) parallel to OZ",
+            "c) parallel to OY",
+            "d) inclined to OX"
+        ],
+        "Answer": "Answer: a\nExplanation: All horizontal lines are in isometric drawing is parallel to OX. All vertical lines should be drawn parallel to OZ. Join all the points by a line in the same sequence as in orthographic views. IN orthographic front view all the corners are indicated by point. "
+    },
+    {
+        "id": 167,
+        "Question": "The scale which is used in the isometric drawing is known as ________",
+        "Options": [
+            "a) simple scale",
+            "b) reducing scale",
+            "c) enlarged scale",
+            "d) isometric scale"
+        ],
+        "Answer": "Answer: b\nExplanation: Angles of inclined surfaces are not actual angles in isometric views, because the axes OX and OY are at 120° to each other. Means the angle between the OX and OY are 120°to each other. Hence angle cannot be transferred in these views. "
+    },
+    {
+        "id": 168,
+        "Question": "The command which is used for drawing isometric grid is _____",
+        "Options": [
+            "a) XLINE",
+            "b) POLYLINE",
+            "c) DDRMODES",
+            "d) CIRCLE"
+        ],
+        "Answer": "Answer: d\nExplanation: The scale which is used in the isometric drawing is known as isometric scale. Reducing scale is the scale in which the drawing size is reduced by some assumptions for better viewing. Enlargement scale is the scale which increases the dimension of size by some assumptions for better viewing. "
+    },
+    {
+        "id": 169,
+        "Question": "The default spacing in GRID Y is _________ mm.",
+        "Options": [
+            "a) 11",
+            "b) 21",
+            "c) 12",
+            "d) 10"
+        ],
+        "Answer": "Answer: c\nExplanation: The command which is used for drawing isometric grid is DDRMODES. Isometric grid is used in drawing isometric view. In DDRMODES command type in the box of AutoCAD the dialog box is open in these various options are seen related to the isometric grid."
+    },
+    {
+        "id": 170,
+        "Question": "The model which is created by using basic entities of two dimensioning is called __________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model"
+        ],
+        "Answer": "Answer: b\nExplanation: The model which is created by using basic entities of two dimensioning is called as wire frame model. Wire frame model is made by using two dimensional basic entities such as points, straight lines, curves, polygons, circles, etc. The model shows like a frame constructed out of wire and hence it is called a wire frame model. "
+    },
+    {
+        "id": 171,
+        "Question": "Types of models which is commonly used are ___________",
+        "Options": [
+            "a) Simple model",
+            "b) Composite model",
+            "c) Isometric model",
+            "d) Solid model"
+        ],
+        "Answer": "Answer: d\nExplanation: The types of models which are commonly used are Solid model, Surface model and wire frame model. The wire frame model are the simplest form of models which are used in drawing This model is draw with the help of two dimensional basic entities are line, rectangle, cycle, curves and polygons etc."
+    },
+    {
+        "id": 172,
+        "Question": "In which of the types of wire frame model is used for drawing flat objects?",
+        "Options": [
+            "a) 2D wire frame model",
+            "b) 2.5 wire frame model",
+            "c) 3D wire frame model",
+            "d) Solid model"
+        ],
+        "Answer": "Answer: a\nExplanation: In 2D wire frame model the flat objects are to be drawn. 2.5 wire frame model represents three dimensional objects as long as it does not have side wall details. 3D wire frame model is used for three dimensional representations of objects with side wall details."
+    },
+    {
+        "id": 173,
+        "Question": "The __________ form the basis for surface models.",
+        "Options": [
+            "a) surface model",
+            "b) solid model",
+            "c) wire frame model",
+            "d) isometric model"
+        ],
+        "Answer": "Answer: b\nExplanation: The wire frame models form the basis for surface models. The wire frame model is easy and simple to construct. The wire frame model requires less computer memory for storage compared to surface and solid model. "
+    },
+    {
+        "id": 174,
+        "Question": "The wire frame entities are _________",
+        "Options": [
+            "a) Plane surface",
+            "b) Ruled surface",
+            "c) Tabulated surface",
+            "d) Polygons"
+        ],
+        "Answer": "Answer: d\nExplanation: The basic wire frame model geometric entities are analytic entities and synthetic entities. The analytic entities are points, lines, arcs, circles, fillets, chamfers, and conics. The synthetic entities are various types of splines and Bezier curve."
+    },
+    {
+        "id": 175,
+        "Question": "The representation of complex objects which is not be drawn by wire frame model is called as ____________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model"
+        ],
+        "Answer": "Answer: a\nExplanation: The representation of complex objects such as automotive bodies, aircraft bodies, ship bodies, castings, and dies cannot be achieved by wire frame modeling. In such cases, another method of geometric modeling used is known as surface modeling. "
+    },
+    {
+        "id": 176,
+        "Question": "The surface model is created by using ___________",
+        "Options": [
+            "a) Analytic entities",
+            "b) Synthetic entities",
+            "c) Analytic and Synthetic entities",
+            "d) Basic entities"
+        ],
+        "Answer": "Answer: c\nExplanation: A surface model is generated by using wire frame entities i.e. analytic and synthetic. A system may require one wire frame entity to create a surface of revolution or it may require two wire frame entities to create a ruled surface."
+    },
+    {
+        "id": 177,
+        "Question": "What is the basic part of the surface model on which the surface is to be drawn?",
+        "Options": [
+            "a) Ruled",
+            "b) Ruler",
+            "c) Size",
+            "d) Mesh"
+        ],
+        "Answer": "Answer: d\nExplanation: The mesh is the basic part of the surface model on which the surface is to be drawn. IN order to assist the visualization of a surface on a graphics display, artificial fairing lines, called mesh are added on the surface. The mesh size is controlled by the user. "
+    },
+    {
+        "id": 178,
+        "Question": "The basic surface modeling entities are ____________",
+        "Options": [
+            "a) Polygons",
+            "b) Circle",
+            "c) Surface of revolution",
+            "d) Chamfers"
+        ],
+        "Answer": "Answer: a\nExplanation: The surface form used to model an aircraft body may not be sufficient to model the human heart. The choices of the surface are chosen according to the application. The types of surfaces are used in surface modeling are ruled surface and plane surface."
+    },
+    {
+        "id": 179,
+        "Question": "The surface which is not to be drawn by the surface model drawn by __________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model"
+        ],
+        "Answer": "Answer: c\nExplanation: The basic surface model entities are ruled surface, tabulate surface, plane surface, Bezier surface, B-spline surface, coons patch, fillet surface and offset surface. The basic wire frame entities are circle, polygons and chamfers."
+    },
+    {
+        "id": 180,
+        "Question": "For drawing perspective view firstly draw the __________",
+        "Options": [
+            "a) Perspective view",
+            "b) Top view",
+            "c) Side view",
+            "d) Front view"
+        ],
+        "Answer": "Answer: b\nExplanation: General Principal to draw perspective view remains the same for all projections, except a few constructions for each type. For drawing a perspective view, the steps are divided into three stages\n1 – Top view\n2 – Front view\n3 – Perspective view."
+    },
+    {
+        "id": 181,
+        "Question": "From which of the view we get the piercing point ________",
+        "Options": [
+            "a) Perspective view",
+            "b) Side view",
+            "c) Top view",
+            "d) Front view"
+        ],
+        "Answer": "Answer: c\nExplanation: In the top view, firstly draw the picture plane. Then draw the top view of the object. Then select the station point of the object on the drawing. And then we get the piercing point. Hence we get the piercing point from the drawing top view. "
+    },
+    {
+        "id": 182,
+        "Question": "We get the vanishing point from _________",
+        "Options": [
+            "a) Perspective view",
+            "b) Side view",
+            "c) Top view",
+            "d) Front view"
+        ],
+        "Answer": "Answer: d\nExplanation: In the front view, firstly we draw the ground line. Then draw the front view of the object. Then draw the horizon line. Then draw the vision axis of the object. And we get the vanishing points in the front view of the object. Hence we get the vanishing point from the front view of the object is to be drawn."
+    },
+    {
+        "id": 183,
+        "Question": "From which of the point from which we draw the perspective view?",
+        "Options": [
+            "a) horizontal axis",
+            "b) vertical axis",
+            "c) vanishing point",
+            "d) station point"
+        ],
+        "Answer": "Answer: c\nExplanation: In the perspective view, firstly we draw rays from vanishing point. Then draw vertical projections from a piercing point, getting intersection points of respective corners. And drawing perspective view from the intersection point and join the intersection point. "
+    },
+    {
+        "id": 184,
+        "Question": "For drawing parallel perspective view we use the _____vanishing point.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four"
+        ],
+        "Answer": "Answer: a\nExplanation: For drawing parallel perspective view we use the one vanishing point. In this perspective view firstly draw the top view of the picture, Secondly, draw the Front view of the picture. Thirdly draw the perspective view of the object by the use of one vanishing point of the plane which is called Parallel perspective view."
+    },
+    {
+        "id": 185,
+        "Question": "The drawing in which we use the two vanishing point the view is called _________",
+        "Options": [
+            "a) Parallel perspective view",
+            "b) Perpendicular perspective view",
+            "c) Angular perspective view",
+            "d) Perspective view"
+        ],
+        "Answer": "Answer: c\nExplanation: The drawing in which we use the two vanishing points the view is called Angular perspective. It is one of the best type of perspective. Here, we draw many points such as station points, vision axis and to view, front view and perspective view by using two vanishing points."
+    },
+    {
+        "id": 186,
+        "Question": "What is the purpose of RAY command?",
+        "Options": [
+            "a) to draw line between two points",
+            "b) to draw line in the form of rays",
+            "c) to draw line of infinite length in both direction",
+            "d) to draw a line between multiple point"
+        ],
+        "Answer": "Answer: b\nExplanation: RAY command is used to draw lines in the form of rays. One has to specify minimum of two points to specify ray. Ray is of infinite length only in one direction."
+    },
+    {
+        "id": 187,
+        "Question": "If one specified point P1 first and then point P2, the line passing through P2 to infinity and starting from P1 is called as ________",
+        "Options": [
+            "a) Line",
+            "b) Segment",
+            "c) Ray",
+            "d) 2-point line"
+        ],
+        "Answer": "Answer: c\nExplanation: To draw ray, one has to specify the starting point first. Ray passes through the second point to infinity. Ray is infinite only after the second point."
+    },
+    {
+        "id": 188,
+        "Question": "If one specifies three nonlinear points P1, P2, P3, the ray passes through _________",
+        "Options": [
+            "a) P1 and P2",
+            "b) P1 and P3",
+            "c) P2 and P3",
+            "d) All three points"
+        ],
+        "Answer": "Answer: b\nExplanation: No ray/line will pass through 3 nonlinear points. Ray passes through P1 and P3 if one specifies three nonlinear points. If all three points are linear then ray will pass through all three points."
+    },
+    {
+        "id": 189,
+        "Question": "RAY icon is shown _______",
+        "Options": [
+            "a) on the draw panel",
+            "b) on the home tab",
+            "c) on the expanded draw panel of the home tab",
+            "d) nowhere"
+        ],
+        "Answer": "Answer: c\nExplanation: RAY icon is shown on the expanded draw panel of the home tab. Ray command is used to draw a line passing through two points. First, specify the starting point of the ray and then the point through which the ray passes."
+    },
+    {
+        "id": 190,
+        "Question": "A rivet consists of a cylindrical part called _______",
+        "Options": [
+            "a) head",
+            "b) shank",
+            "c) cylinder",
+            "d) snap"
+        ],
+        "Answer": "Answer: b\nExplanation: Cylindrical part of the rivet is Shank. Snap head is a type of rivet. Rivet has circular head at another end."
+    },
+    {
+        "id": 191,
+        "Question": "Rivets are usually made of ________",
+        "Options": [
+            "a) cast iron",
+            "b) wrought iron",
+            "c) aluminum",
+            "d) steel"
+        ],
+        "Answer": "Answer: b\nExplanation: Wrought iron is generally used to make rivets. Aluminum rivets are also used for light weight and domestic application. Steel and cast iron are not used for making rivets."
+    },
+    {
+        "id": 192,
+        "Question": "Which of the following is not a type of rivet head?",
+        "Options": [
+            "a) Flat head",
+            "b) Mushroom head",
+            "c) High head",
+            "d) Low head"
+        ],
+        "Answer": "Answer: d\nExplanation: Flat head, Mushroom head, High head are the types of rivet head. Low head is not a type of rivet head. Some other types of rivet head are snap head, ellipsoidal head, Round counter sunk head, Pan head, Flat counter sunk head."
+    },
+    {
+        "id": 193,
+        "Question": "Shank diameter of the rivet depends upon the ________",
+        "Options": [
+            "a) thickness of the plates to be joined",
+            "b) height of the shank",
+            "c) material of shank",
+            "d) standards of manufacturing"
+        ],
+        "Answer": "Answer: a\nExplanation: The shank diameter depends upon the thickness of the plates to be joined. The plates are generally of equal sizes. The two parameters, i.e. diameter and thickness are related by Unwin’s formula."
+    },
+    {
+        "id": 194,
+        "Question": "d=6√t is the equation for diameter (d) and thickness (t) when _________",
+        "Options": [
+            "a) d and t are in millimeters",
+            "b) d and t are in inches",
+            "c) d is taken from standard chart and t is calculated",
+            "d) t is taken from standard chart and d is calculated"
+        ],
+        "Answer": "Answer: a\nExplanation: Given formula is a relation of diameter and thickness of rivet when d and t are in millimeters. If d and t are in inches then d is not equal to 6 times of square root of t but 1.2 times of square root of t. values of d and t may be taken from standard tables but the condition in the formula must be satisfied."
+    },
+    {
+        "id": 195,
+        "Question": "Rivets of 3 to 10 mm shank diameter size are not used for_______",
+        "Options": [
+            "a) sheet metal",
+            "b) light structural work",
+            "c) heavy steel structure",
+            "d) iron sheets"
+        ],
+        "Answer": "Answer: c\nExplanation: Rivets of 3 to 10 mm shank diameter are small rivets. These are used for sheet metal and light structural work. These rivets are not used for heavy steel structures."
+    },
+    {
+        "id": 196,
+        "Question": "Size of large rivets varies from _______ shank diameter.",
+        "Options": [
+            "a) 3 to 10 mm",
+            "b) 5 to 20 mm",
+            "c) 10 to 15 mm",
+            "d) 12 to 48 mm"
+        ],
+        "Answer": "Answer: d\nExplanation: Large rivets are of size 12 to 48 mm shank diameter. These rivets are used for heavy steel structures. Rivets ranging from 3 to 10 mm are small rivets."
+    },
+    {
+        "id": 197,
+        "Question": "Thickness of the plates to be joined and the type of joint decides the _______ of the rivet needed.",
+        "Options": [
+            "a) type of head",
+            "b) diameter",
+            "c) length",
+            "d) holes"
+        ],
+        "Answer": "Answer: c\nExplanation: Length of the rivet needed is decided from the thickness of the plates and the type of joint. Diameter is decided from thickness of plate only. Along with it, some standards are considered."
+    },
+    {
+        "id": 198,
+        "Question": "If the volume of the extra length is lesser than the head, the joint may be _________",
+        "Options": [
+            "a) loose",
+            "b) tight",
+            "c) broken",
+            "d) failed"
+        ],
+        "Answer": "Answer: b\nExplanation: At place where rivets are required, holes are drilled with a size slightly more than a diameter of rivet. This is done to ensure free movement of rivet before hammering. If holes are smaller than required size hammering will be required for insertion of the rivet into a hole."
+    },
+    {
+        "id": 199,
+        "Question": "Caulking tool is used for ________ joint.",
+        "Options": [
+            "a) loose",
+            "b) tight",
+            "c) leak-proof",
+            "d) every rivet"
+        ],
+        "Answer": "Answer: a\nExplanation: If the volume of the extra length is lesser than the volume of the head, the joint may be loose. If it is more, size of head formed will be bigger than the head on the other side."
+    },
+    {
+        "id": 200,
+        "Question": "According to arrangements of plates, which of the following is not a type of riveted joints?",
+        "Options": [
+            "a) single cover plate butt joint",
+            "b) double cover plate butt joint",
+            "c) lap joint",
+            "d) zigzag joint"
+        ],
+        "Answer": "Answer: d\nExplanation: According to arrangement of plates butt joint and lap joint are the types of riveted joint. Butt joints may be single cover plate or double cover plate butt joint. Zigzag joint is also type of riveted joint when classified according to arrangements of rivets."
+    },
+    {
+        "id": 201,
+        "Question": "When Plate A and Plate B are joined by overlapping each other, the joint is _________",
+        "Options": [
+            "a) lap joint",
+            "b) single cover plate butt joint",
+            "c) double cover plate butt joint",
+            "d) chain joint"
+        ],
+        "Answer": "Answer: a\nExplanation: Lap joint is a type of riveted joint. In it two plates to be joined are overlapping to each other. In butt joint, two plates to be joined are butted edge to edge and a cover plate on top is used to overlap both the plates to form a joint."
+    },
+    {
+        "id": 202,
+        "Question": "What is the purpose to increase the number of rows of rivets?",
+        "Options": [
+            "a) To increase the strength",
+            "b) To make it double riveted joint",
+            "c) To make a suitable design",
+            "d) Reduce the number of rivets in one row"
+        ],
+        "Answer": "Answer: a\nExplanation: Number of rows of rivets is increased to increase the strength of the joint. If two rows are used, joint is double riveted joint. If three rows are used, joint is triple riveted joint."
+    },
+    {
+        "id": 203,
+        "Question": "For double riveted butt joint, number of rows of rivet is _______________",
+        "Options": [
+            "a) two",
+            "b) three",
+            "c) four",
+            "d) one"
+        ],
+        "Answer": "Answer: c\nExplanation: For double riveted butt joint, total number of rows of rivet is four. It means two rows for each plate i.e. four rows on the cover plate. Double riveting is done to increase the strength of the joint."
+    },
+    {
+        "id": 204,
+        "Question": "For butt joints, number of cover plates can be ________",
+        "Options": [
+            "a) one only",
+            "b) minimum two",
+            "c) two only",
+            "d) one or two"
+        ],
+        "Answer": "Answer: d\nExplanation: One or two plates are used for butt joint. It depends on the application of that joint. If one cover plate is used, it is called as the single cover plate joint and if two cover plates are used, it is known as double cover plate joint."
+    },
+    {
+        "id": 205,
+        "Question": "If one cover plate is used, thickness of cover plate is kept _________ times that of the main plate.",
+        "Options": [
+            "a) 0.75",
+            "b) 1.25",
+            "c) 1.125",
+            "d) 1.5"
+        ],
+        "Answer": "Answer: c\nExplanation: In single plate cover joint only one plate is used as a cover plate. Thickness of cover plate is kept 1.125 times that of the main plate. Here, thickness of cover plate is always more than thickness of the main plate."
+    },
+    {
+        "id": 206,
+        "Question": "If the number of rivets in each adjacent row goes on decreasing in subsequent rows towards edge, it is called _________ riveting.",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag"
+        ],
+        "Answer": "Answer: a\nExplanation: Thickness of cover plate in a double cover plate butt joint is about 0.7 to 0.8. An average thickness of double cover plate butt joint is 0.75 times the thickness of the main plate. Here, main plate is always thicker than cover plate."
+    },
+    {
+        "id": 207,
+        "Question": "If the rivets are used along a number of rows such that the rivets in the adjacent rows are placed directly opposite to each other, it is known as _________",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag"
+        ],
+        "Answer": "Answer: a\nExplanation: According to arrangements of rivets, three types of rivet joints are chain riveting, zigzag riveting and diamond riveting. In diamond riveting, number of rivets in each adjacent row goes on decreasing in subsequent rows towards the edge."
+    },
+    {
+        "id": 208,
+        "Question": "In ________ riveting, the rivets in the adjacent rows are staggered and are placed in between those of the previous row.",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag"
+        ],
+        "Answer": "Answer: b\nExplanation: In chain riveting rivets are used along a number of rows such that the rivets in the adjacent rows are placed directly opposite to each other. Square riveting is not a valid type of riveting. In diamond and zigzag arrangement, rivets are not placed in rows opposite to each other."
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following structural section is not considered for rivet joints?",
+        "Options": [
+            "a) Tee section",
+            "b) Flat section",
+            "c) I section",
+            "d) Circular section"
+        ],
+        "Answer": "Answer: d\nExplanation: Steel structures which are used commonly are flat, tee, angle iron, I or H section, etc. They can be riveted with some standard procedure. But it is difficult or sometimes not possible in case of circular sections."
+    },
+    {
+        "id": 210,
+        "Question": "Explosive rivet is another type of ______ rivet.",
+        "Options": [
+            "a) blind rivet",
+            "b) gusset plates",
+            "c) zigzag riveting",
+            "d) chain riveting"
+        ],
+        "Answer": "Answer: a\nExplanation: Blind rivet has a type named as an explosive rivet. In this type of riveting high pressure is generated at the end of rivet due to the explosion of explosive after putting the rivet in the hole. Therefore, it expands in size to make a head on the other side."
+    },
+    {
+        "id": 211,
+        "Question": "________ is a technique to form a rivet head without access to the other side of the joint.",
+        "Options": [
+            "a) full-tubular riveting",
+            "b) blind riveting",
+            "c) split riveting",
+            "d) flush joint"
+        ],
+        "Answer": "Answer: b\nExplanation: A technique to form a rivet head without access to the other side of the joint is a blind riveting. It has a hole in the center, through which a mandrel is passed. After putting the rivet and mandrel in the hole, the mandrel is pulled to expand the rivet on the other side and then cut and ground."
+    },
+    {
+        "id": 212,
+        "Question": "In explosive rivets, instead of mandrel _______ is used.",
+        "Options": [
+            "a) rod",
+            "b) explosive",
+            "c) breaking type of mandrel",
+            "d) non-breaking type of mandrel"
+        ],
+        "Answer": "Answer: b\nExplanation: In explosive rivets, instead of rivets an explosive is used. The end of rod is made hollow and closed having an explosive material inside. An explosive is blown up after putting the rivet in the hole."
+    },
+    {
+        "id": 213,
+        "Question": "Which type of rivet is used for applications like air-craft?",
+        "Options": [
+            "a) Counter sunk rivet",
+            "b) Blind rivet",
+            "c) Explosive rivet",
+            "d) Flat rivet"
+        ],
+        "Answer": "Answer: a\nExplanation: For applications like air-craft, the rivet should not protrude and should be flushed with the outer surface. Rivet used for these purpose is counter-sunk rivet. Here, the joint can be flushed on one side or on both sides."
+    },
+    {
+        "id": 214,
+        "Question": "For light-work, the rivet size used varies from ______ mm.",
+        "Options": [
+            "a) 4 to 8",
+            "b) 2 to 4",
+            "c) 0 to 3",
+            "d) 3 to 6"
+        ],
+        "Answer": "Answer: d\nExplanation: The rivet size used generally varies from 3 to 6 mm, for light works. Various types of rivets used for light work applications are based upon the strength of joint, its appearance, its configuration, final riveting approach, etc."
+    },
+    {
+        "id": 215,
+        "Question": "L/D ratio for light work applications is kept not more than _______",
+        "Options": [
+            "a) 5:2",
+            "b) 6:1",
+            "c) 4:1",
+            "d) 5:1"
+        ],
+        "Answer": "Answer: b\nExplanation: Diameter of a rivet is not found by preference but by the economics of cost of rivet and labor. Generally, L/D ratio is not kept more than 6:1. They are installed by air, hydraulic, electric or manual methods."
+    },
+    {
+        "id": 216,
+        "Question": "In a __________ the body is sawn to produce a prolonged shank.",
+        "Options": [
+            "a) semi-tubular rivet",
+            "b) tubular rivet",
+            "c) split pin rivet",
+            "d) compression rivet"
+        ],
+        "Answer": "Answer: c\nExplanation: The commonly used rivets are flat, semi-tubular, tubular, split-pin and compression rivet, etc. The body is sawn to produce a prolonged shank, in a split pin riveting. Split pin can also punch its own hole."
+    },
+    {
+        "id": 217,
+        "Question": "For plastics, the margin (i.e. center of rivet to the edge) is between _______",
+        "Options": [
+            "a) 2d to 4d",
+            "b) 1d to 3d",
+            "c) 2d to 3d",
+            "d) 1d to 2d"
+        ],
+        "Answer": "Answer: c\nExplanation: The margin for plastics is 2d to 3d. It depends upon the thickness of the plate. They are installed by electric, air, hydraulic methods using special tools."
+    },
+    {
+        "id": 218,
+        "Question": "Structural drawings are prepared generally to a scale of _______",
+        "Options": [
+            "a) 1:15",
+            "b) 1:20",
+            "c) 1:10",
+            "d) 1:5"
+        ],
+        "Answer": "Answer: c\nExplanation: Generally, structural drawings are prepared to a scale of 1:10. For bigger structures 1:20 scale is selected for structural drawings."
+    },
+    {
+        "id": 219,
+        "Question": "When two structural members are joined at an angle, sometimes ________ are used to impart strength and stiffness to the joint.",
+        "Options": [
+            "a) gusset plates",
+            "b) end joints",
+            "c) end cover",
+            "d) cupped end cover"
+        ],
+        "Answer": "Answer: a\nExplanation: Gusset plates are used to impart strength and stiffness to the joint when two structural members are to be joined at an angle. They are also used at many joints in a roof truss. "
+    },
+    {
+        "id": 220,
+        "Question": "A group of entities, named as BLOCK can be defined as ___________",
+        "Options": [
+            "a) selecting each item",
+            "b) crossing window",
+            "c) a special command",
+            "d) simple windowing"
+        ],
+        "Answer": "Answer: c\nExplanation: If a set of object is to be drawn repeatedly, it I better to make a BLOCK of those objects and save it for further use. This saves a lot of time for drawing objects that are used often. BLOCK is a special command with a group of entities."
+    },
+    {
+        "id": 221,
+        "Question": "Insertion base point of a block ________",
+        "Options": [
+            "a) has to be at its base",
+            "b) has to be on a specific surface only",
+            "c) should be on the block only",
+            "d) can be anywhere on the block or away from the block"
+        ],
+        "Answer": "Answer: d\nExplanation: Insertion point is a point where the base point of the block should appear. It can be anywhere on the block or away from the block. To specify an insertion point one has to specify his co-ordinates or to choose a point on the drawing."
+    },
+    {
+        "id": 222,
+        "Question": "MINSERT command is used to _________",
+        "Options": [
+            "a) make multiple blocks",
+            "b) insert the block in other drawings",
+            "c) insert a block at many places (in an array form)",
+            "d) insert many blocks randomly"
+        ],
+        "Answer": "Answer: a\nExplanation: It is good to draw a BLOCK with its important dimension as 1 or 10 or 100 and its base as horizontal. This helps to calculate the scale factor. Also, it will be easy to calculate the rotation angle while inserting a block."
+    },
+    {
+        "id": 223,
+        "Question": "EXPLODE command is used to_______",
+        "Options": [
+            "a) erase the drawing parts",
+            "b) break a block into separate entities",
+            "c) remove the enter key of the text command",
+            "d) delete the drawing quickly"
+        ],
+        "Answer": "Answer: c\nExplanation: MINSERT is a command which combines the features of INSERT command and rectangular ARRAY command. With MINSERT command, an array of a block can be inserted at the specific insertion point for any number of rows and columns."
+    },
+    {
+        "id": 224,
+        "Question": "Scale factors in the X and Y directions for a block __________",
+        "Options": [
+            "a) can be different without mentioning at the time of saving a block",
+            "b) can be only in a particular ratio",
+            "c) should be the same",
+            "d) can be different if specially mentioned at the time of saving a block"
+        ],
+        "Answer": "Answer: b\nExplanation: If the block is to be inserted not as a group of objects but as a separate object, Explode command is used. It is provided at the bottom left of the Insert dialog box."
+    },
+    {
+        "id": 225,
+        "Question": "How to retrieve a created and saved BLOCK in other drawings?",
+        "Options": [
+            "a) with insert command",
+            "b) with explode command",
+            "c) with array command",
+            "d) it is not possible to retrieve a created and saved block in other drawings"
+        ],
+        "Answer": "Answer: a\nExplanation: While specifying a scale factor a value 1.0 is the default value and it inserts a block of the size used while making a block. Scale factors in X, Y directions can be different without mentioning at the time of saving a block."
+    },
+    {
+        "id": 226,
+        "Question": "If a screw thread advances in the nut when turned in a clockwise direction, it is called _________",
+        "Options": [
+            "a) left hand helix",
+            "b) right hand helix",
+            "c) clockwise helix",
+            "d) anticlockwise helix"
+        ],
+        "Answer": "Answer: b\nExplanation: Right hand helix has the thread that advances in the nut when turned in a clockwise direction. When thread advances in the nut when turned in an anticlockwise direction then it is termed as left hand helix thread."
+    },
+    {
+        "id": 227,
+        "Question": "Threads are classified into V thread, Acme thread, Knuckle thread, etc. on the basis of _________",
+        "Options": [
+            "a) start of threads",
+            "b) hand of helix",
+            "c) profile of the groove",
+            "d) surface"
+        ],
+        "Answer": "Answer: c\nExplanation: On the basis of the profile of the groove, threads are classified as V thread, Acme thread, Knuckle thread, Buttress thread, Square thread, etc. On the basis of start of threads, threads are classified as single start, double start, triple start, etc."
+    },
+    {
+        "id": 228,
+        "Question": "Pitch of the profile depends on the ______",
+        "Options": [
+            "a) nominal diameter",
+            "b) internal diameter",
+            "c) external diameter",
+            "d) mean diameter"
+        ],
+        "Answer": "Answer: a\nExplanation: Threads are specified according to their pitch of profile. Pitch of the profile depends on the nominal diameter of the thread. The proportions of the profile are calculated in terms of the pitch. "
+    },
+    {
+        "id": 229,
+        "Question": "Metric threads are not termed as ___________",
+        "Options": [
+            "a) BSW thread",
+            "b) V thread",
+            "c) American thread",
+            "d) Unified thread"
+        ],
+        "Answer": "Answer: a\nExplanation: A practical modification of V thread is called a metric thread. It is also called an American thread or Unified thread. All these have the included angle of 600. But in BSW thread included angle is 550 and hence it is different."
+    },
+    {
+        "id": 230,
+        "Question": "Depth of thread is ______ times of pitch in case of British Standard Whitworth Thread.",
+        "Options": [
+            "a) 0.75",
+            "b) 0.64",
+            "c) 0.55",
+            "d) 0.80"
+        ],
+        "Answer": "Answer: b\nExplanation: BSW threads are similar to the V threads, but the included angle is 55o. The depth of thread in case of BSW thread is 0.64 times of pitch of the thread. Radii at root and crest are 0.14 times that of pitch."
+    },
+    {
+        "id": 231,
+        "Question": "Vice used for carpentry work has ______ thread.",
+        "Options": [
+            "a) square",
+            "b) buttress",
+            "c) acme",
+            "d) square"
+        ],
+        "Answer": "Answer: b\nExplanation: Buttress threads are used where power is to be transmitted in a single direction only. Hence it is used in applications like vice used for carpentry work. It has efficiency as good as square thread and strength as much as V thread."
+    },
+    {
+        "id": 232,
+        "Question": "Which of the following option do not specify a knuckle thread?",
+        "Options": [
+            "a) Semi-circular profile of radius 1/4th of pitch",
+            "b) Suitably formed by molding or rolling",
+            "c) Used in sheet metal covers for jars",
+            "d) Transmits power in one direction only"
+        ],
+        "Answer": "Answer: d\nExplanation: Knuckle thread has a semi-circular profile of radius 1/4th of the pitch. Knuckle threads are suitably formed by molding as well as rolling and can be used in sheet metal covers for jars. But thread which can transmit power in one direction only is Buttress thread."
+    },
+    {
+        "id": 233,
+        "Question": "Coarse pitches are used for ____________",
+        "Options": [
+            "a) rough application",
+            "b) general application",
+            "c) precision application",
+            "d) special application"
+        ],
+        "Answer": "Answer: a\nExplanation: Pitch for the same diameter thread varies depending upon the application. Coarse pitch is used for rough application, medium pitch for general application and fine pitch is used for precision work."
+    },
+    {
+        "id": 234,
+        "Question": "Square threads are used for ________",
+        "Options": [
+            "a) power transmission",
+            "b) clamping devices",
+            "c) easy operation of engagement and disengagement",
+            "d) fastening purpose"
+        ],
+        "Answer": "Answer: a\nExplanation: Square thread is the simple and strong type of thread profile. It is used for power transmission. Its width and depth are equal to the half of the pitch."
+    },
+    {
+        "id": 235,
+        "Question": "__________ is the slight improvement over square thread.",
+        "Options": [
+            "a) Buttress thread",
+            "b) Knuckle thread",
+            "c) Acme thread",
+            "d) BSW thread"
+        ],
+        "Answer": "Answer: c\nExplanation: An acme thread is a slight improvement over square thread. Sides of the acme thread are inclined at 14.50. Square thread is difficult to cut because a parallel surface of both flanks and hence acme thread are used instead at some places."
+    },
+    {
+        "id": 236,
+        "Question": "A metric thread is designated by _________",
+        "Options": [
+            "a) its profile of the groove",
+            "b) letter M",
+            "c) its hand of the helix",
+            "d) thread profile"
+        ],
+        "Answer": "Answer: b\nExplanation: A metric thread is designated by letter M. It is then followed by major diameter in mm followed by the pitch with an ‘x’ sign in between the diameter and pitch. Coarse pitch is considered if the pitch is not defined."
+    },
+    {
+        "id": 237,
+        "Question": "What do you mean by M10?",
+        "Options": [
+            "a) Metric thread with a major diameter of 10.00mm and fine pitch",
+            "b) Metric thread with a major diameter of 10.00mm and coarse pitch",
+            "c) Metric thread with a major diameter of 10.00cm and fine pitch",
+            "d) Metric thread with a minor diameter of 10.00mm and coarse pitch"
+        ],
+        "Answer": "Answer: b\nExplanation: M denotes metric thread. 10 followed by M denotes a major diameter of thread in mm. here, pitch is not defined. So, it is taken as a coarse pitch thread."
+    },
+    {
+        "id": 238,
+        "Question": "Which thread is denoted by SQ 40*10?",
+        "Options": [
+            "a) Square thread with 40mm major diameter and 10mm pitch",
+            "b) Square thread with 10mm major diameter and 40mm pitch",
+            "c) Metric thread with 40mm major diameter and 10mm pitch",
+            "d) Square thread with 40mm minor diameter and 10mm pitch"
+        ],
+        "Answer": "Answer: a\nExplanation: If a thread is not a metric thread, type of thread is given in abbreviated form. Square thread is abbreviated as SQ. 40*10 denotes 40mm major diameter and 10mm pitch."
+    },
+    {
+        "id": 239,
+        "Question": "If a thread is specified as ‘M 16*1.5 8 g LH DOUBLE’, g stands for ____________",
+        "Options": [
+            "a) type of pitch – coarse",
+            "b) grade",
+            "c) tolerance",
+            "d) hand of the helix"
+        ],
+        "Answer": "Answer: b\nExplanation: Threads are specified by type of thread profile, major diameter, tolerance, hand of helix and start of threads. If not specified, a right hand, single start thread of usual tolerance and grade is presumed."
+    },
+    {
+        "id": 240,
+        "Question": "How to specify metric thread with major diameter 45mm, 2mm pitch, grade 7, tolerance grade h (internal thread), right hand double start threaded profile?",
+        "Options": [
+            "a) M 45*2-7-H-RH-DOUBLE",
+            "b) M 45*2-7-h-RH-DOUBLE",
+            "c) M 45*2-7-H-LH-DOUBLE",
+            "d) M 45*7-2-H-RH-DOUBLE"
+        ],
+        "Answer": "Answer: c\nExplanation: In a given thread specification g is used for tolerance. It is in lower case, representing external threads. If it is in upper case (G), it will be representing internal threads."
+    }
+]

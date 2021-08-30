@@ -1,0 +1,2620 @@
+[
+    {
+        "id": 1,
+        "Question": "_________________ is termed as a replica of the object to be made by the casting process.",
+        "Options": [
+            "a) Pattern",
+            "b) Core",
+            "c) Riser",
+            "d) Spruee"
+        ],
+        "Answer": "Answer: a\nExplanation: A Patten is a casting double which has allowances, provision of the core prints which is used to make a casting. It is a replica into which molten metal will be poured during the casting processes and later the metal is hardened and a component is obtained."
+    },
+    {
+        "id": 2,
+        "Question": "The final dimensions of the pattern are ______ the final dimensions of the casting required.",
+        "Options": [
+            "a) Similar to",
+            "b) Different from",
+            "c) Equal to",
+            "d) Approximate to"
+        ],
+        "Answer": "Answer: b\nExplanation: The Pattern is made given the allowances as required. Once the casting is prepared, the casting is machined to get the required dimensions. Usually, the dimensions of the pattern are more than the dimensions of the castings."
+    },
+    {
+        "id": 3,
+        "Question": "The contractions in the materials depend upon the metallurgical transformation taking place during which of the following process?",
+        "Options": [
+            "a) Solidification",
+            "b) Melting",
+            "c) Calcination",
+            "d) Smelting"
+        ],
+        "Answer": "Answer: a\nExplanation: When a metal undergoes solidification, it undergoes a decrease in volume which is called contraction and hence is it is a major parameter in the metallurgical transformation which is taken into consideration while designing any component for foundry applications."
+    },
+    {
+        "id": 4,
+        "Question": "The shrinkage value given to the pattern must be _________ for the outer dimensions which are to be restrained.",
+        "Options": [
+            "a) Lower",
+            "b) Higher",
+            "c) Equal",
+            "d) Does not alter anything"
+        ],
+        "Answer": "Answer: b\nExplanation: In a dry sand core, the centre of the casting may restrain the casting from the contraction but the edges are not restrained. Thus, it is desirable to provide a higher shrinkage allowance. "
+    },
+    {
+        "id": 5,
+        "Question": "______________ is used to reduce the chances of damaging the mould cavity.",
+        "Options": [
+            "a) Draft Allowance",
+            "b) Shrinkage Allowance",
+            "c) Finish Allowance",
+            "d) Machining Allowance"
+        ],
+        "Answer": "Answer: a\nExplanation: At the time of withdrawing a pattern from the sand mould, the vertical faces of the pattern are in continual contract with sand which damages the mould cavity. Hence the pattern is tapered from the parting line and it is called as the draft allowance."
+    },
+    {
+        "id": 6,
+        "Question": "______________ pattern is expected to be entirely in the drag.",
+        "Options": [
+            "a) Single piece pattern",
+            "b) Split piece pattern",
+            "c) Gated piece pattern",
+            "d) Match plate pattern"
+        ],
+        "Answer": "Answer: a\nExplanation: Single piece pattern is used for various applications. As one of the surfaces is expected to be flat the single piece pattern is expected to be in drag Sometimes the flat surface of the Single piece pattern could also be made to function as a parting line."
+    },
+    {
+        "id": 7,
+        "Question": "The split piece pattern is aligned perfectly using ________",
+        "Options": [
+            "a) Screw Pins",
+            "b) Dowel Pins",
+            "c) T-Pins",
+            "d) Straight pins"
+        ],
+        "Answer": "Answer: b\nExplanation: The dowel pins match with the precisely made holes in the drag half of the pattern and thus align the two halves (cope and drag). The dowel pins are used as location guides for the adjustments of the cope and the drag."
+    },
+    {
+        "id": 8,
+        "Question": "_________ is used for the pattern in the full mould process.",
+        "Options": [
+            "a) Polythene",
+            "b) Polysilicate foam",
+            "c) Polyurethane foam",
+            "d) Polystyrene foam"
+        ],
+        "Answer": "Answer: d\nExplanation: In the full moulding process, the foam evaporates soon after the metal is poured. Hence Polystyrene foam is used as it is light and can easily be formed into any shape required. It can be used as light duty work for small castings."
+    },
+    {
+        "id": 9,
+        "Question": "Hand cutting of runners and gates is eliminated in ______________",
+        "Options": [
+            "a) Split Pattern",
+            "b) Single piece pattern",
+            "c) Gated Pattern",
+            "d) Match Plate Pattern"
+        ],
+        "Answer": "Answer: c\nExplanation: Gated Pattern is an improvement over simple pattern where gating and runner system is integral with a pattern. A Gated Pattern consists if the moulding and control patterns, jigs, the drying plates and the stripping place all embedded in it. "
+    },
+    {
+        "id": 10,
+        "Question": "__________ is a mould forming tool is the hand of Foundry men.",
+        "Options": [
+            "a) Pattern",
+            "b) Arch",
+            "c) Sand",
+            "d) Gating System"
+        ],
+        "Answer": "Answer: a\nExplanation: Mould forming is a one by which the design of the casting which is to be produced is formed. The Pattern is one of the most important parts of the process by which the mould is formed. Hence the foundry men popularly call it as a mould forming tool. "
+    },
+    {
+        "id": 11,
+        "Question": "_______________ used in patterns as heat resistant materials.",
+        "Options": [
+            "a) Fluxes",
+            "b) Refractories",
+            "c) Resin",
+            "d) Acids"
+        ],
+        "Answer": "Answer: b\nExplanation: The refractories are called the heat resistant materials as they can withstand high temperatures without being fused. This is an important property used in design of patterns."
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following types of Cast Iron is not included in the formation of castings?",
+        "Options": [
+            "a) Gray Cast Iron",
+            "b) Malleable Cast Iron",
+            "c) Hematite",
+            "d) White Cast Iron"
+        ],
+        "Answer": "Answer: c\nExplanation: Hematite is an iron ore. It can only be used after extracting the iron from it. Direct application is not permitted."
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following fluxes are not used for the melting of Magnesium alloys?",
+        "Options": [
+            "a) Magnesium Chloride",
+            "b) Magnesium Chloride",
+            "c) Barium Chloride",
+            "d) Chlorine"
+        ],
+        "Answer": "Answer: d\nExplanation: The Chlorine here is a gaseous flux. It is used to remove the dissolved hydrogen and entrapped dross. The entrapped dross is not present in the magnesium alloys."
+    },
+    {
+        "id": 14,
+        "Question": "Which of the following is a drawback of the aluminum used in pattern making?",
+        "Options": [
+            "a) Thermal Conductivity",
+            "b) Mass Density",
+            "c) Tensile Strength",
+            "d) Melting Point"
+        ],
+        "Answer": "Answer: c\nExplanation: The tensile strength of aluminum is very low. This makes it non-suitable for the pattern making applications."
+    },
+    {
+        "id": 15,
+        "Question": "The strong anisotropy exhibited in _________ under deformed condition is a disadvantage when it comes to foundry applications.",
+        "Options": [
+            "a) Zinc",
+            "b) Iron",
+            "c) Aluminium",
+            "d) Steel"
+        ],
+        "Answer": "Answer: a\nExplanation: Zinc shows lack of dimensional stability under the aging condition and is susceptible to intergranular corrosion. Hence it cannot be used widely in foundry applications."
+    },
+    {
+        "id": 16,
+        "Question": "______________ is the most commonly used deoxidizer used in foundry.",
+        "Options": [
+            "a) Tungsten",
+            "b) Molybdenum",
+            "c) Silicon",
+            "d) Titanium"
+        ],
+        "Answer": "Answer: c\nExplanation: Silicon is used in the form of Silicon dioxide as it has the ability to resist oxidation in steel. Hence it is termed as the best deoxidizer."
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following has the highest carbide forming tendency of all alloying elements?",
+        "Options": [
+            "a) Titanium",
+            "b) Chromium",
+            "c) Vanadium",
+            "d) Cobalt"
+        ],
+        "Answer": "Answer: a\nExplanation: Titanium has no effect on the hardening ability and it inhibits grain growth. Hence the titanium has highest carbide forming tendency."
+    },
+    {
+        "id": 18,
+        "Question": "_________ patterns are free from knots and other common defects.",
+        "Options": [
+            "a) Wood",
+            "b) Metal",
+            "c) Plastic",
+            "d) Wax"
+        ],
+        "Answer": "Answer: a\nExplanation: The straight grained and properly seasoned wood such as Mahogany, Teak, Deodar etc., are free from knots and are easy to work with. There are very few defects in casting when worked with these patterns."
+    },
+    {
+        "id": 19,
+        "Question": "____________ is considered as the best pattern and is widely used in foundry.",
+        "Options": [
+            "a) Aluminium",
+            "b) Steel",
+            "c) Zinc",
+            "d) Nickel"
+        ],
+        "Answer": "Answer: a\nExplanation: Aluminium has long durability, excellent resistance to corrosion. Hence, aluminium is usually referred to as the best pattern material. "
+    },
+    {
+        "id": 20,
+        "Question": "The pattern that has application in the investment casting process is __________",
+        "Options": [
+            "a) Plaster",
+            "b) Wax",
+            "c) Wood",
+            "d) Cast Iron"
+        ],
+        "Answer": "Answer: b\nExplanation: Wax Patterns provide good surface finish and impart high accuracy. Hence, they have great use in the Investment Casting Process."
+    },
+    {
+        "id": 21,
+        "Question": "Which of the following is not a function of a Colour Pattern?",
+        "Options": [
+            "a) To show the location of the parting surface",
+            "b) To identify the parts of the castings",
+            "c) Indicate the type of metal to be cast",
+            "d) Identify the core prints"
+        ],
+        "Answer": "Answer: a\nExplanation: The Colour Pattern given by the American System of Colour Code for Castings is to show the location of the pattern construction. The location of the parting surface is depicted by the separating part of the cope and drag or the flat surface in case of single piece pattern."
+    },
+    {
+        "id": 22,
+        "Question": "__________ colour indicated the seats of the loose pattern.",
+        "Options": [
+            "a) Yellow strip on Red",
+            "b) Black strip on Green",
+            "c) Purple strip on Pink",
+            "d) Red strip on Yellow"
+        ],
+        "Answer": "Answer: a\nExplanation: According to the American System of Colour Code for Casting the Diagonal Black Stripes with clear varnish on, is used to strengthen the weak pattern and it is also used to shorten the castings. This code is fixed for the above functions."
+    },
+    {
+        "id": 23,
+        "Question": "The American Colour Code scheme has its applications in ________",
+        "Options": [
+            "a) Foundry",
+            "b) Mines",
+            "c) Assembly Lines",
+            "d) Product Design"
+        ],
+        "Answer": "Answer: b\nExplanation: For the surfaces of the unfinished castings which are left to be either dispatched or kept in inventory are marked by orange colour as well. According to the BIS Colour Code, the colour Orange and Red are used for this function."
+    },
+    {
+        "id": 24,
+        "Question": "Purple colour is used for ________",
+        "Options": [
+            "a) Machineable parts",
+            "b) Non-machineable parts",
+            "c) Parting surface",
+            "d) Cannot be used on any surface"
+        ],
+        "Answer": "Answer: a\nExplanation: The Loose piece pattern is the one in which there is one piece of solid part and has the projections which are formed with the help of loose pieces. These loose pieces are shown in yellow strips on red colour according to the BIS Colour code."
+    },
+    {
+        "id": 25,
+        "Question": "Black Colour is to be applied on the castings which are to be __________",
+        "Options": [
+            "a) Machined",
+            "b) Not to be machined",
+            "c) Filed",
+            "d) Stored"
+        ],
+        "Answer": "Answer: b\nExplanation: The BIS Colour Code System has a function to help the mould maker, distinguish between the parts of the castings and understand what operation is to be performed. It is usually not concerned with the aesthetic looks. They are given only if the customer demands aesthetic looks."
+    },
+    {
+        "id": 26,
+        "Question": "_________________ is a binder that becomes firm at room temperature.",
+        "Options": [
+            "a) Dextrin",
+            "b) Pitch",
+            "c) Rubber Latex",
+            "d) Molasses"
+        ],
+        "Answer": "Answer: c\nExplanation: Rubber Latex is rubber cement. Silica is mixed with water and this latex which is obtained of the plant is added to it. This mixture is then rammed and it hardens at the room temperature and has excellent binding properties."
+    },
+    {
+        "id": 27,
+        "Question": "__________ is a binder that becomes hard on baking.",
+        "Options": [
+            "a) Marine animal oil",
+            "b) Wood Resin",
+            "c) Oil Resin",
+            "d) Coal tar resin"
+        ],
+        "Answer": "Answer: a\nExplanation: Marine animal oil is of the group of binders that do not develop their strength by any kind of physical or chemical changes, rather they are baked to harden them. Usually, Whale oil (Sperm oil) is used for binding applications."
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following is not a protein binder?",
+        "Options": [
+            "a) Gelatin",
+            "b) Casein",
+            "c) Glues",
+            "d) Molasses"
+        ],
+        "Answer": "Answer: d\nExplanation: Molasses is a by-product of the sugar industry. After testing for its applications, molasses was not found to be protein rich; whereas the Gelatin got from meat, casein made from milk and the glue got from plants is all protein rich."
+    },
+    {
+        "id": 29,
+        "Question": "__________ is a binder made from starch.",
+        "Options": [
+            "a) Cereal Binder",
+            "b) Pitch",
+            "c) Limed wood resin",
+            "d) Dextrin"
+        ],
+        "Answer": "Answer: d\nExplanation: Dextrin is a carbohydrate which is produced by hydrolysis of starch or glucose. They are low molecular weight components and have significant binding properties. It is low cost and highly efficient binder."
+    },
+    {
+        "id": 30,
+        "Question": "_________________ are not pure binders but they serve to improve the collapsibility of the core.",
+        "Options": [
+            "a) Clay Binders",
+            "b) Saw dust and Wood flour",
+            "c) Marine Animal Oil",
+            "d) Sulfate Binder"
+        ],
+        "Answer": "Answer: b\nExplanation: Saw dust and Wood flour have very little adhesive strength and it cannot perform well in complex application. It is rarely used for the chances of core collapsing are high. It is used in grain filler compounds only."
+    },
+    {
+        "id": 31,
+        "Question": "______________ is the mechanical binder used in Masonry.",
+        "Options": [
+            "a) Bond stones",
+            "b) Gypsum",
+            "c) Cement",
+            "d) Silicon Fluoride"
+        ],
+        "Answer": "Answer: a\nExplanation: Bond Stone is a stone which is strong and long enough to extend to the wall to its full thickness in order to join it. Hence it is used in Masonry."
+    },
+    {
+        "id": 32,
+        "Question": "_______________ is a binder that is used in the no-bake sand cores.",
+        "Options": [
+            "a) Gum Resin",
+            "b) Synthetic Resin",
+            "c) Coal tar Resin",
+            "d) Wood Resin"
+        ],
+        "Answer": "Answer: b\nExplanation: The synthetic resins like phenol and urea formaldehyde are used as binders. They are mixed with hardeners to bring the chemical reaction. In this process, strength development takes place in a few minutes."
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following is not a function of a core binder?",
+        "Options": [
+            "a) Hold the sand grains together",
+            "b) Give strength to the core",
+            "c) Not to impart collapsibility to core",
+            "d) Make cores to resist erosion and breaking"
+        ],
+        "Answer": "Answer: c\nExplanation: Core is a disposable item used in Foundry. The core binder has a function of imparting adequate collapsibility to the cores before their purpose is served."
+    },
+    {
+        "id": 34,
+        "Question": "____________ is fine pulverized material used as a binder.",
+        "Options": [
+            "a) Water",
+            "b) Sodium Silicate",
+            "c) Iron Oxide",
+            "d) Silica Flour"
+        ],
+        "Answer": "Answer: d\nExplanation: The Silica Flour is fine pulverized materials that are used greatly to increase the amount of oil necessary in oil sand mixtures. This binder is used only when the sand properties are fixed and it need not vary."
+    },
+    {
+        "id": 35,
+        "Question": "___________ are polymerized to strong solids to be used as binders.",
+        "Options": [
+            "a) Bentonite",
+            "b) Fire Clay",
+            "c) Epoxy Resins",
+            "d) Phenol Formaldehyde"
+        ],
+        "Answer": "Answer: d\nExplanation: Phenol Formaldehyde is synthetic resins which are thermosetting. They are dry powder or liquid. They are heated to get excellent binding properties."
+    },
+    {
+        "id": 36,
+        "Question": "_________________ binders are used for large dry sand cores.",
+        "Options": [
+            "a) Sulfate Binders",
+            "b) Pitch",
+            "c) Dextrin",
+            "d) Gelatinalized Starch"
+        ],
+        "Answer": "Answer: a\nExplanation: Sulfate Binders are compounds of wood sugars produced in paper pulp process. It is being used (up to 15%) in the large and dry sand cores as an ingredient of the Pitch as it contains the specified qualities required."
+    },
+    {
+        "id": 37,
+        "Question": "__________ is a binder that resists molten metal.",
+        "Options": [
+            "a) Coal tar",
+            "b) Core oil",
+            "c) Pitch",
+            "d) Chamotte"
+        ],
+        "Answer": "Answer: c\nExplanation: Pitch is a coal tar product. In the form of ground powder, the pitch may be added to up to 3% or more. With the presence of the molten metal around the core, pitch develops the hot strength to resist the molten metal."
+    },
+    {
+        "id": 38,
+        "Question": "______________ contributes towards the baked strength of molding sand.",
+        "Options": [
+            "a) Natural Resin",
+            "b) Carbon",
+            "c) Olivine",
+            "d) Core Oil"
+        ],
+        "Answer": "Answer: d\nExplanation: The vegetable oils, mineral oils are regarded as the core oils. Their content in the sand varies from 0.5% to 3.0% by weight and hence they contribute to in increasing baked strength of molding sand."
+    },
+    {
+        "id": 39,
+        "Question": "__________ is an excellent water soluble binder.",
+        "Options": [
+            "a) Cereal Binder",
+            "b) Zircon",
+            "c) Dextrin",
+            "d) Silica Sand"
+        ],
+        "Answer": "Answer: c\nExplanation: Dextrin is a water soluble binder. The air hardens rapidly and resists core sagging during the handling. The increased moisture content develops the higher tensile strength, baked scratch and the edge hardness."
+    },
+    {
+        "id": 40,
+        "Question": "_________________ is used as the core coating medium.",
+        "Options": [
+            "a) Fire Clay",
+            "b) Plumbago",
+            "c) Bentonite",
+            "d) Cement"
+        ],
+        "Answer": "Answer: b\nExplanation: Just like mould coating, Core coating is also done. It is known as Core washing, dressing etc. Core Surfacing is done my Plumbago or Silica Flour. Plumbago is obtained from plants and imparts a good finishing. It is applied by dipping, spraying etc."
+    },
+    {
+        "id": 41,
+        "Question": "_________________ sands are best molding sands.",
+        "Options": [
+            "a) Refractory Sand",
+            "b) Loam Sand",
+            "c) Natural Sand",
+            "d) Synthetic Sand"
+        ],
+        "Answer": "Answer: a\nExplanation: Refractory Sands maintain their shape and other characteristics even at very high temperatures while they are in contact with the molten metals. Hence they are termed as the best molding sands."
+    },
+    {
+        "id": 42,
+        "Question": "__________ is refractory sand that can be molded to intricate shape.",
+        "Options": [
+            "a) Quartz",
+            "b) Olivine",
+            "c) Bentonite",
+            "d) Clays"
+        ],
+        "Answer": "Answer: b\nExplanation: Olivine is refractory sand. When packed as the mold cavity, they remain sufficiently porous or permeable to give vents to the mould gases to escape out. Hence they are chemically immune and can be molded in intricate shapes."
+    },
+    {
+        "id": 43,
+        "Question": "Which of the following cannot be used repeatedly for making moulds?",
+        "Options": [
+            "a) Sillimanite",
+            "b) Dolomite",
+            "c) Natural Sand",
+            "d) Silica Sand"
+        ],
+        "Answer": "Answer: c\nExplanation: The Natural Sands are to be used for making moulds as soon as it is received from the source. The content of the binding particles is less which makes it unsuitable for the making of moulds which are needed repeatedly."
+    },
+    {
+        "id": 44,
+        "Question": "Which of the following is not included in the Natural Sand?",
+        "Options": [
+            "a) Organic Matter",
+            "b) Water",
+            "c) Clay",
+            "d) Graphite"
+        ],
+        "Answer": "Answer: a\nExplanation: The Natural sand is obtained from sources like deserts, lakes, riverside beds etc. It has a certain quantity of natural binders such as clay. The water (of about 5% to 8%) is mixed before making of the mould is necessary to make it easy for molding."
+    },
+    {
+        "id": 45,
+        "Question": "____________ sand has higher clay content than ordinary sand.",
+        "Options": [
+            "a) Silica Sand",
+            "b) Loam Sand",
+            "c) Illite",
+            "d) Limonite"
+        ],
+        "Answer": "Answer: d\nExplanation: Natural Sand is usually imported from the banks of the water sources. Hence the water content, clay and organic matter are expected from the sand content. However, the chances of the Graphite content are minimal."
+    },
+    {
+        "id": 46,
+        "Question": "______________ requires less proportion of binders.",
+        "Options": [
+            "a) Natural Sand",
+            "b) Synthetic Sand",
+            "c) Loam Sand",
+            "d) Silica Sand"
+        ],
+        "Answer": "Answer: a\nExplanation: The Synthetic sands contain uniform grain size. They acquire proper mold ability with less moisture. They have high permeability and hence greater refractoriness (above 3000oC)."
+    },
+    {
+        "id": 47,
+        "Question": "_________________ is a container which when poured with molten metal produce a casting of the shape of the mould.",
+        "Options": [
+            "a) Mould",
+            "b) Pattern",
+            "c) Core",
+            "d) Spruee"
+        ],
+        "Answer": "Answer: a\nExplanation: Prepared molding sand is packed rigidly around a pattern and when the pattern is withdrawn, a cavity corresponding to the shape of the pattern remains in the sand and is called as the mould."
+    },
+    {
+        "id": 48,
+        "Question": "_____________ Binders are used to harden the skin dried moulds.",
+        "Options": [
+            "a) Linseed Oil",
+            "b) Marine Oil",
+            "c) Vegetable Oil",
+            "d) Synthetic Resins"
+        ],
+        "Answer": "Answer: a\nExplanation: The non-dried condition of the sand is called as the green sand condition. It is used in damp condition and contains free water. Hence the molten metal is poured while it is in the wet state to ensure better quality castings."
+    },
+    {
+        "id": 49,
+        "Question": "______________ is made by assembling a number of cores made individually in separate core boxes and baked.",
+        "Options": [
+            "a) Dry Sand Mould",
+            "b) Air dried Mould",
+            "c) Skin dried Mould",
+            "d) Core Sand Mould"
+        ],
+        "Answer": "Answer: b\nExplanation: Dry Sand is nothing baked Green Sand. The moulds are filled with the green sand and then the entire mold is dried in ovens before molten metal is poured They have high strength and permeability. Hence, the dry sand moulds are used for large castings as they are not suitable for small castings."
+    },
+    {
+        "id": 50,
+        "Question": "_____________ is used to make a metallic die in Investment mould.",
+        "Options": [
+            "a) Sweep Pattern",
+            "b) Master Pattern",
+            "c) Single Piece Pattern",
+            "d) Skeleton Pattern"
+        ],
+        "Answer": "Answer: a\nExplanation: Linseed oil is added with molding sand in the green condition and then the skin of the mould cavity is dried up with the help if gas or flame torches. The structure after drying appears to be like dried skin. Hence the name is Skin dried moulds. "
+    },
+    {
+        "id": 51,
+        "Question": "_________ is produced with the help of heated iron/steel patterns.",
+        "Options": [
+            "a) Loam Mould",
+            "b) Shell Mould",
+            "c) Ceramic Mould",
+            "d) Metal Mould"
+        ],
+        "Answer": "Answer: d\nExplanation: The cores are made with recesses and projections so that they can be fitted together to make a mould. Hence, a core sand mould is said to be an assembly of such components."
+    },
+    {
+        "id": 52,
+        "Question": "IC Engine pistons are cast in ___________",
+        "Options": [
+            "a) Investment Moulds",
+            "b) Shell Moulds",
+            "c) Metal Moulds",
+            "d) Ceramic Moulds"
+        ],
+        "Answer": "Answer: a\nExplanation: Metal Moulds are permanent moulds. It is manufactured by casting and consequent machining of the mould cavity. Hence the dimensional accuracy got is high. The Metal moulds retain their shape for longer time and provide dimensional accuracy."
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following molding method is not used in foundries?",
+        "Options": [
+            "a) Bench",
+            "b) Floor",
+            "c) Machine",
+            "d) Injection"
+        ],
+        "Answer": "Answer: a\nExplanation: In Bench Molding, the light and the heavy moulds can be made. Small and the light molds are prepared on benched. The heavy moulds are molded on the floor but they are cope and the drag are rammed on the benches. Hence, it is said that the height of the bench can be adjusted."
+    },
+    {
+        "id": 54,
+        "Question": "Non Ferrous castings are especially made on _______________",
+        "Options": [
+            "a) Floor Molding",
+            "b) Pit Molding",
+            "c) Bench Molding",
+            "d) Machine Molding"
+        ],
+        "Answer": "Answer: d\nExplanation: The Injection molding process is used for plastic molding. It has no role in the foundry processes and the working materials in foundries are heavier than the plastic."
+    },
+    {
+        "id": 55,
+        "Question": "Castings that cannot be made floor molding can be made using ___________",
+        "Options": [
+            "a) Pit Molding",
+            "b) Injection Molding",
+            "c) Machine Molding",
+            "d) Bench Molding"
+        ],
+        "Answer": "Answer: a\nExplanation: Both the medium and large moulds can be made by floor molding. Usually, green sand is used for medium sized castings and dry sand for large castings. Therefore, both the type of moulds can be made by floor molding."
+    },
+    {
+        "id": 56,
+        "Question": "The sides of the pit drag are lined with ____________",
+        "Options": [
+            "a) Binders",
+            "b) Bricks",
+            "c) Additives",
+            "d) Refractories"
+        ],
+        "Answer": "Answer: b\nExplanation: The cope and drag are both rammed on bench. The height of the mould can be adjusted. Hence the mould maker has to stand and work on the mould in Bench molding. "
+    },
+    {
+        "id": 57,
+        "Question": "Gates, runners, pouring basin etc are made in ____________ in pit molding.",
+        "Options": [
+            "a) Cope",
+            "b) Drag",
+            "c) Pattern",
+            "d) Cores"
+        ],
+        "Answer": "Answer: c\nExplanation: Non-ferrous castings are made by both the type of sand such as Green sand and Dry Sand. These sands are used in the Bench Molding processes. Hence,  bench molding is employed in non-ferrous castings."
+    },
+    {
+        "id": 58,
+        "Question": "Uniform and consistent castings can be obtained by __________ method in molding.",
+        "Options": [
+            "a) Injection Molding",
+            "b) Pit Molding",
+            "c) Machine Molding",
+            "d) Bench"
+        ],
+        "Answer": "Answer: a\nExplanation: Very big castings which cannot be made in flasks are molded in pits dug on the floor. Very large castings can be handled and cast easily through pit molding. In floor molding, the making of such flasks is difficult and not economical."
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following machines is not used in machine molding?",
+        "Options": [
+            "a) Jolting Machine",
+            "b) Sand Slinger",
+            "c) Squeezer Machine",
+            "d) Mill Hopper"
+        ],
+        "Answer": "Answer: b\nExplanation: When the molten metal is poured into the cope and drag assembly, the metals start getting solidified and the gases are emitted out. Due to the compactness of the sand, the gases find it difficult to go out. Hence it is lined with bricks t=for east escape of the gases."
+    },
+    {
+        "id": 60,
+        "Question": "__________ is also termed as an obstruction when positioned in the mould.",
+        "Options": [
+            "a) Gate",
+            "b) Riser",
+            "c) Core",
+            "d) Pattern"
+        ],
+        "Answer": "Answer: c\nExplanation: Core is an obstruction which when positioned in the mould, naturally does not permit the molten metal to fill up the space occupied by core. In this way, a core produces hollow castings."
+    },
+    {
+        "id": 61,
+        "Question": "Cores are not made up of ___________",
+        "Options": [
+            "a) Sand",
+            "b) Wax",
+            "c) Plaster",
+            "d) Ceramics"
+        ],
+        "Answer": "Answer: b\nExplanation: A core is essentially a body of material which forms a component of the mould. It possesses sufficient strength to be handled as an independent unit. Wax does not contain such properties. Hence it cannot be used to make cores."
+    },
+    {
+        "id": 62,
+        "Question": "Cores are required to create ________________",
+        "Options": [
+            "a) Gates",
+            "b) Spruees",
+            "c) Undercuts",
+            "d) Recesses"
+        ],
+        "Answer": "Answer: d\nExplanation: Cores are employed as inserts in moulds to form design features that are otherwise extremely difficult to produce by the simple molding method. Hence cores are required to create the recesses, undercuts and interior cavities that are often a part of castings."
+    },
+    {
+        "id": 63,
+        "Question": "Which of the following is not a step in the core making process?",
+        "Options": [
+            "a) Sand Preparation",
+            "b) Machining",
+            "c) Setting",
+            "d) Finishing"
+        ],
+        "Answer": "Answer: a\nExplanation: Cores provide means of forming the main internal cavities. Cores may provide external undercut features. Hence they may be used to form the large size for the gating system. "
+    },
+    {
+        "id": 64,
+        "Question": "________ cores are used to produce pipe bends.",
+        "Options": [
+            "a) Left and Right hand core box",
+            "b) Split box core box",
+            "c) Half core box",
+            "d) Pump core box"
+        ],
+        "Answer": "Answer: a\nExplanation: Small cores need to have a smooth surface to ensure a smooth casting. These ingredients which do not generate much mold gases. Small cores can be made for limited production and are manually made in hand filled core boxes."
+    },
+    {
+        "id": 65,
+        "Question": "__________ core boxes cost the least of all the core boxes.",
+        "Options": [
+            "a) Loose piece core box",
+            "b) Strickle core box",
+            "c) Gang core box",
+            "d) Half core box"
+        ],
+        "Answer": "Answer: b\nExplanation: Machining is a process which is composed of various operations such as turning, drilling, milling, boring etc. These operations have no significance in the core making process and hence it is not a part of it."
+    },
+    {
+        "id": 66,
+        "Question": "Core sand can be rammed in a dump type core box on a ______________",
+        "Options": [
+            "a) Jolt Machine",
+            "b) Sand Slinger",
+            "c) Core roll over machine",
+            "d) Core extrusion machine"
+        ],
+        "Answer": "Answer: a\nExplanation: In a jolting machine, the core box filled with sand is mounted on a jolt table which is raised to a certain height and then dropped under on its own weight. Sand gets rammed due to this sudden fall."
+    },
+    {
+        "id": 67,
+        "Question": "____________ machine is similar to the mold roll over machine.",
+        "Options": [
+            "a) Core blowing machine",
+            "b) Squeezing machine",
+            "c) Core roll over machine",
+            "d) Core extrusion machine"
+        ],
+        "Answer": "Answer: c\nExplanation: The core roll over machine is similar to the mold roll over machine. Core box is rammed with the sand using the jolt principle. Core box is then rolled over, the core is withdrawn. After this, the core box is sent to the baking oven."
+    },
+    {
+        "id": 68,
+        "Question": "Cores of which of the following shapes are not produced in core extrusion process:",
+        "Options": [
+            "a) Square",
+            "b) Hexagonal",
+            "c) Round",
+            "d) Random"
+        ],
+        "Answer": "Answer: a\nExplanation: Sand Slinger makes use of a high speed rotating sand impeller which throws the sand in the core box at high velocities. The impact action of the sand stream is responsible for the compacting (or ramming) the core."
+    },
+    {
+        "id": 69,
+        "Question": "Core boxes to be used on the core blowing machines are made up of ______________",
+        "Options": [
+            "a) Iron",
+            "b) Brass",
+            "c) Aluminum",
+            "d) Carbon"
+        ],
+        "Answer": "Answer: d\nExplanation: In a core extrusion machine, a die is to be made and fixed at one end. The machine has a hopper through which the core sand is fed to a horizontal spiral conveyor. The cores of basic geometrical shape are only produced in this method. "
+    },
+    {
+        "id": 70,
+        "Question": "The core boxes are provided with wires perform a function of which of the following component?",
+        "Options": [
+            "a) Riser",
+            "b) Gates",
+            "c) Vents",
+            "d) Shell"
+        ],
+        "Answer": "Answer: a\nExplanation: In a core extrusion machine, the spiral conveyor present is rotated and it forces the core sand through a die of specified shape only. Hence only simple cores of regular shapes and uniform cross section can be extruded from this process."
+    },
+    {
+        "id": 71,
+        "Question": "____________ is the oldest binder used in making cores.",
+        "Options": [
+            "a) Coal tar",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Vegetable oil"
+        ],
+        "Answer": "Answer: d\nExplanation: The concept of foundry emerged several years ago. As vegetable oil is considered to have several binding properties, it was used. It gained its popularity due to its wide availability and less expensive in nature."
+    },
+    {
+        "id": 72,
+        "Question": "The cores produced by the binder process called hot-box process is called _________",
+        "Options": [
+            "a) Shell core",
+            "b) Resin bond cores",
+            "c) No-bake cores",
+            "d) Dry sand cores"
+        ],
+        "Answer": "Answer: a\nExplanation: The cores are normally a disposable item which gets destroyed to get it out of the component. One of the GM V-8 engines requires five dry sand cores for every casting."
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following gases is not used in the cold-box process?",
+        "Options": [
+            "a) Amine gas",
+            "b) Sulphur-di-oxide",
+            "c) Carbon-di-oxide",
+            "d) Marsh Gas"
+        ],
+        "Answer": "Answer: b\nExplanation: The core when mixed with synthetic oil in conjunction with cereal or clay is to be baked in convention oven between 200 and 250oC so that the heat causes the binder in polymerizing. This helps the binder perform well."
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is not a component of the gating system?",
+        "Options": [
+            "a) Pouring cups",
+            "b) Sprue",
+            "c) Pattern",
+            "d) Runners"
+        ],
+        "Answer": "Answer: b\nExplanation: When the molten metal poured into the box, it starts to solidify. It results in the emission of certain kinds of gases which may cause a defect in the casting. Thus is gating and the risering system is provided with vent holes to let out these gases."
+    },
+    {
+        "id": 75,
+        "Question": "____________ is responsible for the prevention of erosion and washing away from the sand.",
+        "Options": [
+            "a) Risers",
+            "b) Gates",
+            "c) Vents",
+            "d) Sprue Hole"
+        ],
+        "Answer": "Answer: c\nExplanation: The term gating system refers to all the passageways through which the molten metal passes to enter the mould cavity. Pouring cups, sprue and runners make such passage ways. The pattern is the replica of the component to be obtained is not a part of it."
+    },
+    {
+        "id": 76,
+        "Question": "6.______________ is also called as the feeder head.",
+        "Options": [
+            "a) Pouring basin",
+            "b) Chills",
+            "c) Riser",
+            "d) Gate"
+        ],
+        "Answer": "Answer: a\nExplanation: If the pattern has embedded gating system, its cost reduces considerably and the sand can be rammed harder. It helps to prevent erosion and washing away from the sand as the molten metal flows into the mold."
+    },
+    {
+        "id": 77,
+        "Question": "__________ vacuum in the riser leads to a shrinkage void.",
+        "Options": [
+            "a) Complete",
+            "b) Half",
+            "c) Partial",
+            "d) Approximately full"
+        ],
+        "Answer": "Answer: b\nExplanation: Since the way in which the liquid metal enters the mold has a decided influence upon the quality and soundness of casting, the different passages for the molten metal are carefully designed and produced. Hence the sudden change is direction is not allowed. "
+    },
+    {
+        "id": 78,
+        "Question": "Which is the most common defect caused by the risers?",
+        "Options": [
+            "a) Blow holes",
+            "b) Shrinkage",
+            "c) Crush",
+            "d) Mould Shift"
+        ],
+        "Answer": "Answer: b\nExplanation: Sudden change in direction causes mold erosion due to mold erosion, turbulence and gas pick-up. So Gates are provided to prevent this erosion and washing away of the sand as molten metal flows into the mould.  "
+    },
+    {
+        "id": 79,
+        "Question": "Which of the following is not an example for the gates?",
+        "Options": [
+            "a) Top",
+            "b) Bottom",
+            "c) Parting line side",
+            "d) Blind"
+        ],
+        "Answer": "Answer: a\nExplanation: A gate is a pathway that connects mould cavity to runners so that the molten metal reaches the mould cavity. Top, bottom and parting line side are all the type of gates but the Blind type is a riser which elevates the excess molten metal. "
+    },
+    {
+        "id": 80,
+        "Question": "________________ avoids the forceful impinging action of the molten metal stream into the mould cavity.",
+        "Options": [
+            "a) Top gate",
+            "b) Edge gate",
+            "c) Finger gate",
+            "d) Ring gate"
+        ],
+        "Answer": "Answer: a\nExplanation: A top gate is sometimes also called the Drop gate because the molten metal just drops on the sand in the bottom of the mould."
+    },
+    {
+        "id": 81,
+        "Question": "__________ is used on stove plates castings and bath.",
+        "Options": [
+            "a) Ring gates",
+            "b) Finger gate",
+            "c) Pencil gate",
+            "d) Wedge gate"
+        ],
+        "Answer": "Answer: b\nExplanation: In an edge gate, a stream of liquid metal impinges against the bottom of the mould cavity until a pool is formed. It avoids the forceful impinging action of the molten metal stream into mould cavity."
+    },
+    {
+        "id": 82,
+        "Question": "Which of the following is not an example of the top gate?",
+        "Options": [
+            "a) Finger gate",
+            "b) Wedge gate",
+            "c) Horn gate",
+            "d) Ring gate"
+        ],
+        "Answer": "Answer: d\nExplanation: Wedge gates are used on stove plate castings and bath as they are arranged in series and deliver metal rapidly from an elongated pouring basin. They help in keeping the slag back."
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following gates has the lowest consumption of the metal?",
+        "Options": [
+            "a) Top gates",
+            "b) Bottom gates",
+            "c) Parting line gates",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Wedge gates are in series and the delivery of the molten metal occurs rapidly as the metal is delivered. This process takes time without an elongated basin and hence its modification is done and the finger gate was designed."
+    },
+    {
+        "id": 84,
+        "Question": "Which of the following gates ensures cleaner castings?",
+        "Options": [
+            "a) Edge gate",
+            "b) Branch gate",
+            "c) Strainer gate",
+            "d) Horn gate"
+        ],
+        "Answer": "Answer: c\nExplanation: Top gate is the one in which the molten metal always drops to the bottom of the mould. Hence, finger gate, wedge gate and a ring gate perform such function whereas the horn gate is a bottom gate."
+    },
+    {
+        "id": 85,
+        "Question": "_________ is exposed to atmosphere in open riser.",
+        "Options": [
+            "a) Top end",
+            "b) Bottom end",
+            "c) Partial upper end",
+            "d) Partial bottom end"
+        ],
+        "Answer": "Answer: a\nExplanation: The open riser is the one in which the full riser indicates that the mould cavity has already been completely filled up with the same. It happens because the top end is exposed to the atmosphere."
+    },
+    {
+        "id": 86,
+        "Question": "______________ is the only feeder force in the open riser.",
+        "Options": [
+            "a) Centrifugal force",
+            "b) Gravitation force",
+            "c) Centripetal force",
+            "d) Compression force"
+        ],
+        "Answer": "Answer: b\nExplanation: The liquid metal in the open riser is fed to the solidifying casting under the force of gravity and the atmospheric pressure till the top surface of the riser solidifies and thereafter it is observed that the gravity is only feeder force."
+    },
+    {
+        "id": 87,
+        "Question": "The shape of the open riser is _________",
+        "Options": [
+            "a) Circular",
+            "b) Cylindrical",
+            "c) Cubical",
+            "d) Rectangular"
+        ],
+        "Answer": "Answer: b\nExplanation: In a open riser, the top of the riser was exposed to the atmosphere. An open riser is connected either at the top of the cope or on the side at the parting line. Hence, the shape of the open riser is cylindrical to facilitate these connections."
+    },
+    {
+        "id": 88,
+        "Question": "The cavity of the blind riser is  ______________",
+        "Options": [
+            "a) Square",
+            "b) Desired shape",
+            "c) Round",
+            "d) Rhombus"
+        ],
+        "Answer": "Answer: a\nExplanation: An open riser is open to atmosphere, thus it ensures that unlike a blind riser it will not draw metal from the casting as a result of partial vacuum in the riser. Hence, it is easier to mould compared to a blind riser. "
+    },
+    {
+        "id": 89,
+        "Question": "When a blind riser is used in making of casting, the molten metal cools ________________",
+        "Options": [
+            "a) Rapidly",
+            "b) Moderately",
+            "c) Slowly",
+            "d) Quickly"
+        ],
+        "Answer": "Answer: a\nExplanation: A blind riser is smaller in size than an open riser. They can be placed at any position but the open riser cannot be placed in the drag. It is generally larger than the blind riser. Hence, it is difficult to remove."
+    },
+    {
+        "id": 90,
+        "Question": "_________ is the name given to the removal of cores from the casting.",
+        "Options": [
+            "a) Fettling",
+            "b) Pouring",
+            "c) Molding",
+            "d) Machining"
+        ],
+        "Answer": "Answer: a\nExplanation: Fettling is the name of the process to cover all those operations which help to give the casting a good appearance after the casting has been shaken on a vibrator and then taken out of the sand mould."
+    },
+    {
+        "id": 91,
+        "Question": "__________ portions sticking out of inside the castings are removed by poking and action of the metal rod.",
+        "Options": [
+            "a) Pattern",
+            "b) Cores",
+            "c) Sand",
+            "d) Gates"
+        ],
+        "Answer": "Answer: c\nExplanation: It may be difficult to remove dry sand and hardened cores in the absence of suitable equipment. Hammering or vibrations imparted to the cores does not loosen and break them up. Hence they are removed by poking action using a metal rod."
+    },
+    {
+        "id": 92,
+        "Question": "_____________ is used for removing adhering sand from the castings.",
+        "Options": [
+            "a) Rumbling",
+            "b) Air blasting",
+            "c) Wire brush",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Steel castings, because of their high melting and pouring temperatures and consequent burning of the sand in contact with the molten metal, the possibility of forming of the scales is high. Hence they require more cleaning."
+    },
+    {
+        "id": 93,
+        "Question": "______________ is used as an abrasive in the shot blasting method.",
+        "Options": [
+            "a) Zircon",
+            "b) Coal tar",
+            "c) Chilled iron grit",
+            "d) Molasses"
+        ],
+        "Answer": "Answer: d\nExplanation: Rumbling or Trumbling employs a barrel which is rotated at a certain speed and the castings are put and the sand is removed. Air blasting is a method in which air is supplied at a high speed to remove the sand. Wire brush does the same operation. Hence all the above are used to remove the sand."
+    },
+    {
+        "id": 94,
+        "Question": "____________ force is responsible for cleaning in mechanical blast method.",
+        "Options": [
+            "a) Gravitation force",
+            "b) Tensile force",
+            "c) Centrifugal force",
+            "d) Shear force"
+        ],
+        "Answer": "Answer: a\nExplanation: A wire brush consists of hardened steel wires embedded in a block of wood. The materials on which it can be used as grey cast iron, malleable cast iron, steel castings etc where normal clean strip is sufficient and full cleaning operation may be avoided. "
+    },
+    {
+        "id": 95,
+        "Question": "____________ involves a danger of retaining acid in small interstices of castings.",
+        "Options": [
+            "a) Shot blasting method",
+            "b) Pickling",
+            "c) Hydrolysis",
+            "d) Hydro blasting"
+        ],
+        "Answer": "Answer: c\nExplanation: Chilled iron grit or grit is made by crushing shot. It has irregular sharp edges which act as thousands of tiny chisels and produce more of the scrubbing action than shots in a shot blasting method."
+    },
+    {
+        "id": 96,
+        "Question": " ____________ castings are pickled in hydrofluoric acids.",
+        "Options": [
+            "a) Iron",
+            "b) Brass",
+            "c) Steel",
+            "d) Aluminum"
+        ],
+        "Answer": "Answer: c\nExplanation: The centrifugal force aid in issuing a stream of abrasive particles which impinges on castings being trumbled on an apron conveyor. Due to this high speed action of the centrifugal impellers, the particles are cleaned."
+    },
+    {
+        "id": 97,
+        "Question": "______________ is a defect caused by loose dowels.",
+        "Options": [
+            "a) Mould Shift",
+            "b) Scab",
+            "c) Drop",
+            "d) Blow holes"
+        ],
+        "Answer": "Answer: a\nExplanation: Mould shift produces a casting which does not match at the parting line. There is mismatching of the top and bottom parts of the casting at the mould joint due to worn out, loose, bent or ill-fitting of the clamping pins."
+    },
+    {
+        "id": 98,
+        "Question": "Variation in wall thickness occurs due to _________ core boxes.",
+        "Options": [
+            "a) Rigid",
+            "b) Flexible",
+            "c) Surface finished",
+            "d) Worn out"
+        ],
+        "Answer": "Answer: d\nExplanation: Worn out core boxes give oversize core dimensions. Worn out core prints allowing a core to float or move. Inadequate core print areas permit lifting of the core due to the buoyancy of molten metal. Hence the variation in wall thickness occurs."
+    },
+    {
+        "id": 99,
+        "Question": "__________ usually occurs at the parting line and results in excess of metal.",
+        "Options": [
+            "a) Fins",
+            "b) Fash",
+            "c) Strain",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The fins, fash and strain all occur due to the same reason. They occur at the parting line. Straining or movement of the mould makes a casting appreciably thicker than the pattern. Hence, at the parting line excess metal is accumulated which is to be grounded off."
+    },
+    {
+        "id": 100,
+        "Question": "Patterns having insufficient taper result in __________",
+        "Options": [
+            "a) Fins",
+            "b) Blow holes",
+            "c) Drop",
+            "d) Scab"
+        ],
+        "Answer": "Answer: a\nExplanation: Fins at the mold joint occur when bottom boards are too flexible or if the pattern plates are not sufficiently rigid to keep straight during ramming. Thus the pattern having insufficient taper require excessive rapping for the withdrawal from sand which results in fins at joint. "
+    },
+    {
+        "id": 101,
+        "Question": "_______________ occurs in the casting due to the quality variation.",
+        "Options": [
+            "a) Defects",
+            "b) Melting",
+            "c) Stress-reliving",
+            "d) Solidification"
+        ],
+        "Answer": "Answer: a\nExplanation: Under normal conditions, like all the metallurgical products, castings also contain certain imperfections which contribute to a normal quality variation. Such imperfections are taken as defects or flaws."
+    },
+    {
+        "id": 102,
+        "Question": "Defects by ____________ are discovered by mechanical testing.",
+        "Options": [
+            "a) Heat-treatment",
+            "b) Molding",
+            "c) Material",
+            "d) Pattern"
+        ],
+        "Answer": "Answer: b\nExplanation: The defects such as blowholes, scab etc result in degenerated castings which make them unsuitable to perform the functions they are supposed to perform. That makes the entire casting to be scrapped off. Hence, it is the greatest loss to the industry."
+    },
+    {
+        "id": 103,
+        "Question": "________________ is the displacement of the mould while closing a mould.",
+        "Options": [
+            "a) Drop",
+            "b) Blowholes",
+            "c) Crush",
+            "d) Mould Shift"
+        ],
+        "Answer": "Answer: c\nExplanation: The material used for the making of the castings has several mechanical properties such as tensile strength, compressive strength etc which are expected in the castings. These material defects are defects in mechanical properties (tensile, bending, impact, etc) of the casting."
+    },
+    {
+        "id": 104,
+        "Question": "______________ machine is used to ram sand in the mould box.",
+        "Options": [
+            "a) Jolt Machine",
+            "b) Sand Slinger",
+            "c) Core making machine",
+            "d) Squeezing machine"
+        ],
+        "Answer": "Answer: b\nExplanation: Sand slinger is a machine which has a rapid rotating cup shaped blade that picks up the sand and throws it downward into the molding sand and throws it downwards with a great force and thus it rams the sand in the mould box."
+    },
+    {
+        "id": 105,
+        "Question": "In the sand slinger machine, the density of sand is a result of its ___________",
+        "Options": [
+            "a) Inertia",
+            "b) Acceleration",
+            "c) Velocity",
+            "d) Mass"
+        ],
+        "Answer": "Answer: a\nExplanation: While the sand is rammed in the molding boxes using a sand slinger, sand is filled and rammed at the same time. The density of sand is the result of sand’s inertia which is uniform throughout the mould."
+    },
+    {
+        "id": 106,
+        "Question": "_________ machines are used for shallow patterns.",
+        "Options": [
+            "a) Core making machine",
+            "b) Sand Slinger machine",
+            "c) Squeeze machine",
+            "d) Jolt machine"
+        ],
+        "Answer": "Answer: c\nExplanation: A squeezer, squeeze head plate or presser board slides inside the flask to compress the sand above and around the pattern. The presser plate exerts a substantial amount of pressure. The pressure can be easily distributed for the shallow patterns in a squeeze machine."
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following mediums is not used for the power operated molding machines?",
+        "Options": [
+            "a) Electromagnets",
+            "b) Hydraulic power",
+            "c) Compressed air",
+            "d) Sand Inertia"
+        ],
+        "Answer": "Answer: d\nExplanation: The power operated molding machines are extension versions designed to overcome all the drawbacks of molding occurred by the traditional machines. The sand inertia is used for molding and is not a medium of machine whereas, the use of compressed air, hydraulic power or high impellor is used to obtain performance from power operated machines. "
+    },
+    {
+        "id": 108,
+        "Question": "___________ is used to obtain a uniform mold density in squeezer machine.",
+        "Options": [
+            "a) Sand paper",
+            "b) Flat plate",
+            "c) Rubber",
+            "d) Carbon"
+        ],
+        "Answer": "Answer: a\nExplanation: The squeeze molding machine rams the sand harder at the back of the mold and softer on the pattern face. Sand has the greatest density at the surface where a pressure is applied to sand. In modern machines, the harder ramming on the mould edge is also ensured."
+    },
+    {
+        "id": 109,
+        "Question": "Which of the following is not a power operated machine?",
+        "Options": [
+            "a) Jolt machine",
+            "b) Sand Slinger",
+            "c) Pin lift machine",
+            "d) Jolt squeeze machine"
+        ],
+        "Answer": "Answer: c\nExplanation: In the squeezer machine, squeezing a flat plate produces non-uniform sand density and mold softness, whereas rubber diaphragm squeezing distributes squeeze molding forces more uniformly and thus a uniform mold density is obtained."
+    },
+    {
+        "id": 110,
+        "Question": "____________ establishes the most suitable gating system, riser etc are mounted on the match plate pattern itself.",
+        "Options": [
+            "a) Machine molding",
+            "b) Hand molding",
+            "c) Sand molding",
+            "d) Core molding"
+        ],
+        "Answer": "Answer: c\nExplanation: The pin lift machine is a hand molding machine. The operations and withdrawing of the pattern from the mould in the hand molding machine is accomplished mechanically which is the working phenomenon if pin lift machine."
+    },
+    {
+        "id": 111,
+        "Question": "In green sand molding, the sand id claimed to be green because it has _______",
+        "Options": [
+            "a) Additives",
+            "b) Moisture",
+            "c) Binders",
+            "d) Colours"
+        ],
+        "Answer": "Answer: b\nExplanation: In foundry processes, the sands are called green due to the moisture content in them. The moisture content makes the sand wet which is suitable for the molding. The moisture content varies according to the type of casting to be made."
+    },
+    {
+        "id": 112,
+        "Question": "The sand has to undergo ____________ process before it is called green and is ready for molding.",
+        "Options": [
+            "a) Mulling",
+            "b) Cooling",
+            "c) Heating",
+            "d) Drying"
+        ],
+        "Answer": "Answer: a\nExplanation: The green sand, before being called green has to undergo a process called mulling process in which the clay, binders and various additives are blended together to make it suitable for its usage."
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following is not used in the green sand?",
+        "Options": [
+            "a) Clay",
+            "b) Water",
+            "c) Oil",
+            "d) Chemicals"
+        ],
+        "Answer": "Answer: c\nExplanation: In the making of the green sand, clay is present in the form of bentonite. Water percentage is varied as required for a particular casting. Oil is not the kind of binder used in the green sand. Bentonite is the only binder used."
+    },
+    {
+        "id": 114,
+        "Question": "Green sand molding cannot be used for _________ moulds.",
+        "Options": [
+            "a) Simple",
+            "b) Small",
+            "c) Medium",
+            "d) Complex"
+        ],
+        "Answer": "Answer: d\nExplanation: In green sand molding, the metal is poured in them in wet condition. It is easy to mould the wet sand with hand only for small to medium sized moulds which make it difficult to use the green sand molding for the production of the complex castings."
+    },
+    {
+        "id": 115,
+        "Question": "Green sand molding methods can be used for ________ molding machines.",
+        "Options": [
+            "a) Manual",
+            "b) Semi-automatic",
+            "c) Fully automatic",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The green sand is a mixture of silica sand with 15-25 percent clay and 6-8 percent water. Being damp the sand can be easily worked with hand to give it only desired shape due to its easy mold ability."
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following characteristic is not expected in the green sand in the green sand molding process?",
+        "Options": [
+            "a) Flowable nature",
+            "b) Plastic Nature",
+            "c) Reactivity",
+            "d) Permeability"
+        ],
+        "Answer": "Answer: d\nExplanation: The green sand molding method involves highly moldable sand which ensures flexibility of the castings that could be prepared using this method. It is flexible to be used in all the (manual, semi-automatic and fully automatic) machines."
+    },
+    {
+        "id": 117,
+        "Question": "_____________ is well known as the expendable molding process.",
+        "Options": [
+            "a) Core molding",
+            "b) Hand molding",
+            "c) Machine molding",
+            "d) Shell molding"
+        ],
+        "Answer": "Answer: d\nExplanation: Shell molding uses a resin which is covered in sand to form a mold. This mold casting involves the use of non-reusable or temporary sand depending upon the casting to be made. Hence, it is known as expendable mould."
+    },
+    {
+        "id": 118,
+        "Question": "The patterns can be __________ after the pattern is prepared from shell molding.",
+        "Options": [
+            "a) Scrapped",
+            "b) Non-reused",
+            "c) Reused",
+            "d) Recycled"
+        ],
+        "Answer": "Answer: c\nExplanation: The pattern is placed in a mould in shell casting is a thin-walled shell which is created using a sand resin and applying it all over the pattern. This makes the pattern to be easily reusable for the next subsequent processes."
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following is not used in the shell molding?",
+        "Options": [
+            "a) Metal Pattern",
+            "b) Sand-resin",
+            "c) Dump box",
+            "d) Gating system"
+        ],
+        "Answer": "Answer: a\nExplanation: Shell molding is conducted using an expendable mold. As it includes sand, plastic and investment moulds, the dimensional accuracy obtained from this sand casting. It is used for small to medium parts."
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following cannot be made from the shell molding process?",
+        "Options": [
+            "a) Cylinder heads",
+            "b) Connecting rods",
+            "c) Engine blocks",
+            "d) Valves"
+        ],
+        "Answer": "Answer: d\nExplanation: In a shell molding process, the pattern is incorporated with the gating system as it has to be coated with the required sand resin before the process begins. It does not require the gating system separately. "
+    },
+    {
+        "id": 121,
+        "Question": "The lead times in Shell molding is usually _____________",
+        "Options": [
+            "a) High",
+            "b) Rapid",
+            "c) Short",
+            "d) Medium"
+        ],
+        "Answer": "Answer: d\nExplanation: The valves are prepared using a pressure die casting process or it is done by a green sand molding process. It does not require high work to be done on pattern making which is done in the shell molding process."
+    },
+    {
+        "id": 122,
+        "Question": "The binder used in the shell mold casting process is ___________",
+        "Options": [
+            "a) Thermoplastic",
+            "b) Thermosetting",
+            "c) Plastic",
+            "d) Elastic"
+        ],
+        "Answer": "Answer: c\nExplanation: The lead time refers to the time between the loading and unloading of the component before and after finishing respectively. As the process is automated in the shell molding, the lead time required is short."
+    },
+    {
+        "id": 123,
+        "Question": "________________ facilitates the removal of the shell.",
+        "Options": [
+            "a) Dextrin",
+            "b) Sand",
+            "c) Zircon",
+            "d) Silicone"
+        ],
+        "Answer": "Answer: b\nExplanation: The shell mold casting process uses the thermosetting binder so that they can harden the thin shell of sand when they are baked. They prepare the sand with the properties required for the processes."
+    },
+    {
+        "id": 124,
+        "Question": "Cores in permanent moulds used in gravity die casting are made up of ___________",
+        "Options": [
+            "a) Metals",
+            "b) Metal and Non-metals",
+            "c) Metals and sand",
+            "d) Only sand"
+        ],
+        "Answer": "Answer: b\nExplanation: Water is sometimes used as a cooling agent in the gravity die casting process. Water passages in the mould or cooling fins made on the outside of the mould surface are blown by air otherwise water mist is created in the chilling effect. "
+    },
+    {
+        "id": 125,
+        "Question": "The mold halves are clamped by ________ in gravity die casting.",
+        "Options": [
+            "a) Lathes",
+            "b) Pneumatic",
+            "c) Toggles",
+            "d) Lathes, Pneumatic and Toggles"
+        ],
+        "Answer": "Answer: c\nExplanation: Metal cores are used when they can be easily extracted from the casting whereas a dry sand core or a shell core is preferred when the cavity is to core is such that a metal core cannot be possibly withdrawn from casting. Hence, metal and sand are employed."
+    },
+    {
+        "id": 126,
+        "Question": "For faster cooling, fins are provided __________ the permanent mould.",
+        "Options": [
+            "a) Inside",
+            "b) Outside",
+            "c) At the surface",
+            "d) Near the end"
+        ],
+        "Answer": "Answer: a\nExplanation: Chills are pieces of copper, brass or aluminum and are inserted into the mould’s inner surface. The chill is a component used to promote solidification in a specific portion of a metal casting mould."
+    },
+    {
+        "id": 127,
+        "Question": "In gravity die casting, __________ the thickness of the mold walls, greater the amount of heat removal.",
+        "Options": [
+            "a) Lesser",
+            "b) Equal",
+            "c) Greater",
+            "d) Negligible"
+        ],
+        "Answer": "Answer: d\nExplanation: In a gravity die casting, the two mould halves present are securely clamped before the pouring operation takes place. Simple mechanical clamps (latches, toggle clamps etc.) are adequate for small moulds where as larger permanent moulds need pneumatics or power clamping methods. "
+    },
+    {
+        "id": 128,
+        "Question": "The thickness of the permanent mould is _______",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Negligible",
+            "d) Moderate"
+        ],
+        "Answer": "Answer: b\nExplanation: The pouring cup, sprue, gates and the risers are built inside the mold halves itself. The fins and other projections are provided on the outside of the permanent mould as they ensure faster cooling of the casting."
+    },
+    {
+        "id": 129,
+        "Question": "Molten metal is poured into the mould due to the effect of gravity with _______ external pressure in gravity die casting.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Medium",
+            "d) No"
+        ],
+        "Answer": "Answer: c\nExplanation: The greater thickness of the mold walls can remove greater amounts of heat from the casting, they that is the mould walls are made thicker opposite thicker sections of the castings. This provides a desirable chilling effect."
+    },
+    {
+        "id": 130,
+        "Question": "The pressure is obtained by which of the following methods in pressure die castings?",
+        "Options": [
+            "a) Mechanical",
+            "b) Hydraulic",
+            "c) Pneumatic",
+            "d) Electromagnetic"
+        ],
+        "Answer": "Answer: b\nExplanation: In the pressure die casting process, the molten metal is forced into the permanent mold or dies cavity under pressure. The requirement for pressure is high. The pressure is generally obtained by compressed air or by hydraulic methods. "
+    },
+    {
+        "id": 131,
+        "Question": "Gooseneck injection type mechanism is ___________ chamber mechanism.",
+        "Options": [
+            "a) Hot",
+            "b) Cold",
+            "c) Temperature Independent",
+            "d) Room temperature"
+        ],
+        "Answer": "Answer: a\nExplanation: The Gooseneck or the air injection type process utilizes air at relatively high pressures. The pressure if the air is around 30 to 40 kg/cm².  As the molten metal is also present beneath the surface it is a hot chamber process. "
+    },
+    {
+        "id": 132,
+        "Question": "Air injection processes can be used for __________",
+        "Options": [
+            "a) Iron",
+            "b) Scandium",
+            "c) Zinc",
+            "d) Argon"
+        ],
+        "Answer": "Answer: a\nExplanation: The entire pressure die casting process when required to produce castings of certain types, requires the same pressure to be retained till the end of the solidification process. This pressure has to be maintained to obtained good quality castings. "
+    },
+    {
+        "id": 133,
+        "Question": "__________ are useful in cold chamber machines.",
+        "Options": [
+            "a) Riser",
+            "b) Gates",
+            "c) Ladles",
+            "d) Shell"
+        ],
+        "Answer": "Answer: b\nExplanation: The compressed air is used in gooseneck mechanism and this compressed air does not produce pressure on molten metal as effectively as the plunger does. Hence the plunger is more effective.  "
+    },
+    {
+        "id": 134,
+        "Question": "______________ pressure is recommended in the cold chamber process.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Medium",
+            "d) Room temperature"
+        ],
+        "Answer": "Answer: a\nExplanation: Depending on the size, hot chamber die-casting machine produces the components. The molten metal possess normal amount of superheat and, therefore, less pressure is needed to force the liquid metal into the die. This is easier because the melting unit is an integral part.  "
+    },
+    {
+        "id": 135,
+        "Question": "Pressure die casting is used for high volume production because ____________",
+        "Options": [
+            "a) High maintenance",
+            "b) Costly machinery",
+            "c) Complex dies",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The air injection type of hot chamber die casting machine can produce castings of low melting point metals such as zinc, tin and lead etc. "
+    },
+    {
+        "id": 136,
+        "Question": "In centrifugal castings, the molten metal is introduced into a ___________ mould.",
+        "Options": [
+            "a) Rotating",
+            "b) Static",
+            "c) Swinging",
+            "d) Heating"
+        ],
+        "Answer": "Answer: a\nExplanation: The essential feature of centrifugal casting is the introduction of liquid metal into a rotating mould. The force responsible for it is the centrifugal force which plays a major role in shaping and feeding of the casting."
+    },
+    {
+        "id": 137,
+        "Question": "True centrifugal castings are __________ in shape.",
+        "Options": [
+            "a) Straight",
+            "b) Square",
+            "c) Round",
+            "d) Rectangular"
+        ],
+        "Answer": "Answer: a\nExplanation: The true centrifugal castings are straight and have uniform inner diameter is produced by spinning the mold about its own axis. It is rotated either vertically or horizontally as needed to do it."
+    },
+    {
+        "id": 138,
+        "Question": "In the De Lavaud casting process, the coolant used is ___________",
+        "Options": [
+            "a) Water",
+            "b) Resin",
+            "c) Aerated water",
+            "d) Inert gases"
+        ],
+        "Answer": "Answer: b\nExplanation: A cylindrical mold is utilized in the true centrifugal casting and is made to rotate on its own axis at such a speed that the metal is poured is thrown to the outer surface of the mould cavity. The metal solidifies to form a hollow cylinder."
+    },
+    {
+        "id": 139,
+        "Question": "True centrifugal castings can be prepared in ___________ moulds.",
+        "Options": [
+            "a) Metal",
+            "b) Sand",
+            "c) Metal and sand",
+            "d) Sand and chemical"
+        ],
+        "Answer": "Answer: a\nExplanation: The De Lavaud process makes use of the metal moulds. The machine contains an accurately machined metal mould (die), entirely surrounded by the cooling water to keep it cool and to increase the production."
+    },
+    {
+        "id": 140,
+        "Question": "The  _____________ parts are cast in centrifuge castings.",
+        "Options": [
+            "a) Symmetrical",
+            "b) Asymmetrical",
+            "c) Identical",
+            "d) Non-Identical"
+        ],
+        "Answer": "Answer: a\nExplanation: The De Lavaud machine makes use of the metal moulds. This machine is mounted on wheels and it can be moved lengthwise. This is placed on a slightly inclined track to increase flexibility."
+    },
+    {
+        "id": 141,
+        "Question": "_________ molding is used to produce valve bodies in centrifuge casting.",
+        "Options": [
+            "a) Stack",
+            "b) Straight",
+            "c) Hand",
+            "d) Machine"
+        ],
+        "Answer": "Answer: c\nExplanation: Metal moulds prove to be economical when larger quantities of castings are required to be produced. The true centrifugal castings may be produced in metal or sand lined moulds, depending largely upon the quantity desired."
+    },
+    {
+        "id": 142,
+        "Question": "The use of CO2 was to __________ the sand mould.",
+        "Options": [
+            "a) Harden",
+            "b) Soften",
+            "c) Dry",
+            "d) Clean"
+        ],
+        "Answer": "Answer: a\nExplanation: The idea of hardening sand moulds by gassing it with carbon-di-oxide was conceived. However, the CO2 molding has been adopted for a wide range and scale for modern core making."
+    },
+    {
+        "id": 143,
+        "Question": "________________ is the binder used in the CO2 moulding.",
+        "Options": [
+            "a) Silica sand",
+            "b) Sodium Silicate",
+            "c) Sodium Carbonate",
+            "d) Alumina"
+        ],
+        "Answer": "Answer: b\nExplanation: The CO2 moulding is an extremely simple procedure. The highly flow able mixture of pure dry silica and sodium silicate binder is rammed or blown into the mould or cores box. Due to sodium silicates excellent binding properties with silica sand it is used as binders."
+    },
+    {
+        "id": 144,
+        "Question": "If gas is passed longer than required, the bond becomes ____________",
+        "Options": [
+            "a) Impaired",
+            "b) Stronger",
+            "c) Weaker",
+            "d) Does not affect much"
+        ],
+        "Answer": "Answer: b\nExplanation: Carbon-dioxide gas is used at a low pressure usually about 1.5 kg/cm2 is diffused through a mixture (of sand and sodium silicate) to initiate the hardening reaction which takes from a few seconds to a few minutes depending upon the size of the core or mold."
+    },
+    {
+        "id": 145,
+        "Question": "_____________ increases SiO2-Na2O ratio that increases the bond.",
+        "Options": [
+            "a) Sulphuric acid",
+            "b) Acetic acid",
+            "c) Carbonic acid",
+            "d) Hydrochloric acid"
+        ],
+        "Answer": "Answer: a\nExplanation: When the gas is passed at the required pressure, the compression strength of a given sand mixture reaches its maximum at some critical amount of gas passed. If gassing is continued beyond the critical point, the strength of the bond is impaired."
+    },
+    {
+        "id": 146,
+        "Question": "The additives in sodium silicate are ____________",
+        "Options": [
+            "a) Sugar",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Zircon"
+        ],
+        "Answer": "Answer: a\nExplanation: The clay is used alongside sodium silicate as a binder. The clay used is usually in small quantities. The clay and starch (often used) are added to improve the green strength of the mix prepared."
+    },
+    {
+        "id": 147,
+        "Question": "The squeeze casting can result in an increase of _________ properties of the castings.",
+        "Options": [
+            "a) Thermal",
+            "b) Mechanical",
+            "c) Thermodynamic",
+            "d) Chemical"
+        ],
+        "Answer": "Answer: b\nExplanation: As the material of the casting goes under various variations of temperature, they are able to attain a certain amount of increase in its mechanical properties such as high tensile strength, high bending strength etc."
+    },
+    {
+        "id": 148,
+        "Question": "Squeeze casting is used for manufacturing of components of _________",
+        "Options": [
+            "a) Aluminum alloys",
+            "b) Iron alloys",
+            "c) Chromium alloys",
+            "d) Carbon alloys"
+        ],
+        "Answer": "Answer: b\nExplanation: The squeeze casting process can be used to produce both ferrous and non-ferrous metal components with ferrous components having an edge over it. It is mainly used for making of the fiber-reinforced castings from fiber cake perform."
+    },
+    {
+        "id": 149,
+        "Question": "Pressure incorporated in the direct die casting is _____________",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Not used",
+            "d) Room temperature"
+        ],
+        "Answer": "Answer: a\nExplanation: In the squeeze casting process, usually aluminum alloys are used to form a casting. Intricate and detailed parts are prepared using this process. Hence it is not advisable to apply pressure in squeeze casting as it is applied in forging."
+    },
+    {
+        "id": 150,
+        "Question": "________ squeeze casting takes place in die casting equipment.",
+        "Options": [
+            "a) Direct",
+            "b) Indirect",
+            "c) Room temperature",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In direct die casting, the upper segment of the die is always closed to form a casting when the metal is present. A high pressure of 100MPa and more is applied to the entire cavity in order to get the part solidified. "
+    },
+    {
+        "id": 151,
+        "Question": "_____________ is the advantage of the squeeze casting process.",
+        "Options": [
+            "a) Weld-able",
+            "b) No Blow Holes",
+            "c) Heat treatable",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In direct squeeze casting, the liquid metal is poured into a lower die segment which is situated in the hydraulic press. This closely resembles the forging process in action."
+    },
+    {
+        "id": 152,
+        "Question": "_________ is used for insulation in Pit furnaces.",
+        "Options": [
+            "a) Polymer fiber",
+            "b) Ceramic fiber",
+            "c) Metal matrix reinforced fiber",
+            "d) Plastic fiber"
+        ],
+        "Answer": "Answer: a\nExplanation: The circulation fan is mounted centrally in the lid. The retort is formed as a cylinder with a flange on top. On this flange, there is a circular cooling tube. Thus, highly efficient atmosphere circulation system is present in the Pit furnace. "
+    },
+    {
+        "id": 153,
+        "Question": "Pit Furnace is used in ___________",
+        "Options": [
+            "a) Permanent mould",
+            "b) Shell mould",
+            "c) Skin dried mould",
+            "d) Air dried mould"
+        ],
+        "Answer": "Answer: b\nExplanation: The ceramic fiber is lined inside the furnace body. The insulation is provided to save the heat from going out. It acts as an energy saving shield and reduces operation costs. "
+    },
+    {
+        "id": 154,
+        "Question": "________ is used to fuel gas furnace.",
+        "Options": [
+            "a) Marsh gas",
+            "b) Carbon-dioxide",
+            "c) Ammonia gas",
+            "d) Natural gas"
+        ],
+        "Answer": "Answer: a\nExplanation: The coke bed which is formed in the furnace is ignited and allowed to burn. Once it reaches the state of maximum combustion, coke from the centre of coke bed is shifted towards sides to make space for crucible containing the metal charge. "
+    },
+    {
+        "id": 155,
+        "Question": "_____________ is used to accelerate the metal cooling in gas pit furnace.",
+        "Options": [
+            "a) Coolant",
+            "b) Fans",
+            "c) Blower",
+            "d) Cannot be determined"
+        ],
+        "Answer": "Answer: a\nExplanation: Pit furnace has a limited capacity. It is used to melt a certain low amount of metal to produce castings. Only small castings can be produced. Hence, it is often used with permanent moulds and die casting machines.  "
+    },
+    {
+        "id": 156,
+        "Question": "Induction _______ is the principle of Induction furnace",
+        "Options": [
+            "a) Current",
+            "b) Heating",
+            "c) Resistance",
+            "d) Melting"
+        ],
+        "Answer": "Answer: b\nExplanation: The Induction heating is the process by which the passage of an electric current through a conductor releases heat. Hence it is a principle used in Induction furnace."
+    },
+    {
+        "id": 157,
+        "Question": "The currents induced in the electromagnetic induction principle for induction furnace is called _____",
+        "Options": [
+            "a) Direct current",
+            "b) Indirect current",
+            "c) Eddy currents",
+            "d) Electric current"
+        ],
+        "Answer": "Answer: c\nExplanation: The energy transfer to the object to be heated occurs by means of electromagnetic induction. Any electrically conductive material placed in a variable magnetic field is the site of induced electric currents, called eddy currents, which will eventually lead to joule heating."
+    },
+    {
+        "id": 158,
+        "Question": "Induction heating in Induction furnace relies on ______________ frequency.",
+        "Options": [
+            "a) Radio",
+            "b) X-Rays",
+            "c) Infrared",
+            "d) Ultrasonic"
+        ],
+        "Answer": "Answer: a\nExplanation: The heat which is produced in the joule heating is directly proportional to the square of the current multiplied by the electrical resistance of the wire used. Hence, joule heating is termed as resistive heating or ohmic heating."
+    },
+    {
+        "id": 159,
+        "Question": "The crucible inside the furnace is cooled by __________",
+        "Options": [
+            "a) Coolant",
+            "b) Air",
+            "c) Water",
+            "d) Gas"
+        ],
+        "Answer": "Answer: a\nExplanation: Induction heating relies on radio frequency as it is a part of electromagnetic wave that portion of electromagnetic spectrum below infrared and microwave energy. Since heat is transferred to the product via electromagnetic wave, it never comes in direct contact with any flame, the indicator doesn’t get hot and there is no product contamination. "
+    },
+    {
+        "id": 160,
+        "Question": "Which of the following furnaces is the best to melt scrap?",
+        "Options": [
+            "a) Cupola",
+            "b) Electric arc",
+            "c) Induction",
+            "d) Blast"
+        ],
+        "Answer": "Answer: b\nExplanation: Induction furnace has a lack of refining capacity; the charge materials must be clean of oxidation products and of oxidation products and of known composition, some alloying elements are lost due to oxidation."
+    },
+    {
+        "id": 161,
+        "Question": "Coreless Induction Furnace operates on ___________",
+        "Options": [
+            "a) Transformer",
+            "b) Induction motor",
+            "c) Generator",
+            "d) Motor"
+        ],
+        "Answer": "Answer: c\nExplanation: The crucible in which the metal is placed is made of stronger materials that can resist the required heat, and the electric coil itself cooled by a water system so that it does not overheat or melt. The induction coil is cool to touch but the heat that builds is to be cooled."
+    },
+    {
+        "id": 162,
+        "Question": "Cupola is the best example for __________ furnace.",
+        "Options": [
+            "a) Top open",
+            "b) Bottom open",
+            "c) Left open",
+            "d) Right open"
+        ],
+        "Answer": "Answer: b\nExplanation: In the cupola, after the melting operation is done, the bottom doors swing out of the way and thus the contents of cupola drop down through the opening (formed). Hence, the cupola furnace is the best example for the bottom open furnace."
+    },
+    {
+        "id": 163,
+        "Question": "Air is supplied to cupola using ___________",
+        "Options": [
+            "a) Blowers",
+            "b) Coolers",
+            "c) Tuyeres",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The Tuyeres are the components in the cupola that extend through the steel shell and refractory wall to the combustion zone and supply air necessary for the combustion. Hence, the wind box that surrounds the cupola supplies the air evenly to all the tuyeres."
+    },
+    {
+        "id": 164,
+        "Question": "The ratio of iron to coke fed in cupola is ___________",
+        "Options": [
+            "a) 6:10",
+            "b) 1:10",
+            "c) 10:1",
+            "d) 12:16"
+        ],
+        "Answer": "Answer: b\nExplanation: The fuel that is used for cupola is generally a very high grade low-sulphur coke, anthracite coal or carbon briquettes. These fuels produce a large amount of smoke when used for combustion but produce the amount of heat required for working of the cupola."
+    },
+    {
+        "id": 165,
+        "Question": "_________ tuyeres increase the melting efficiency.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Auxiliary",
+            "d) Blast"
+        ],
+        "Answer": "Answer: d\nExplanation: The coke has excellent burning properties and can be used to melt iron easily. Coke is always supplied in low quantities so that it can produce enough heat to melt the iron and the pollution making factor for the coke is relatively less."
+    },
+    {
+        "id": 166,
+        "Question": "The cupola has following as waste ____________",
+        "Options": [
+            "a) Slag",
+            "b) Iron",
+            "c) Coke",
+            "d) Slag, Iron and Coke"
+        ],
+        "Answer": "Answer: b\nExplanation: The cupola can be made up of different sizes. The amount of metal given for melting is non-uniform. Usually, scrap is melted in a cupola. Scrap being of the non-uniform grade produces a metal of non-uniform quality."
+    },
+    {
+        "id": 167,
+        "Question": "The refractory material is sticked inside the steel vessel using _______________",
+        "Options": [
+            "a) Binders",
+            "b) Blowers",
+            "c) Additives",
+            "d) Manual work"
+        ],
+        "Answer": "Answer: c\nExplanation: The tuyeres are responsible for the supply of air for combustion in the cupola. The tuyeres are always fitted in one or more number of rows. Auxiliary tuyeres being more efficient are fitted in the cupola to supply more air and increase melting efficiency."
+    },
+    {
+        "id": 168,
+        "Question": "_____________ is a process of preparing a casting.",
+        "Options": [
+            "a) Founding",
+            "b) Forging",
+            "c) Melting",
+            "d) Pouring"
+        ],
+        "Answer": "Answer: a\nExplanation: Founding is a process of producing metal/alloy component parts of the desired shapes by pouring the molten metal/alloy into a prepared mould and then allowing it to solidify. The solidified piece is called as casting."
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is prepared using pattern is foundry?",
+        "Options": [
+            "a) Mould",
+            "b) Sand",
+            "c) Core",
+            "d) Mould, Sand and Core"
+        ],
+        "Answer": "Answer: d\nExplanation: The process of foundry always results in the formation of casting. It depends on the pattern of the casting on what type of mould and core is to be prepared. The suitability of the sand also depends on the type of pattern is used to produce the casting."
+    },
+    {
+        "id": 170,
+        "Question": "Which of the following metal castings are used to make casting in the foundry?",
+        "Options": [
+            "a) Brass",
+            "b) Aluminum",
+            "c) Iron",
+            "d) Brass, Aluminum and Iron"
+        ],
+        "Answer": "Answer: a\nExplanation: The fettling involves cleaning of the casting and making it of the dimension as needed for the customer. The fettling can also involve machining. Once fettling is over the casting is ready for dispatch. Hence, it is the last step of the foundry process."
+    },
+    {
+        "id": 171,
+        "Question": "_________ tuyeres increase the melting efficiency.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Auxiliary",
+            "d) Blast"
+        ],
+        "Answer": "Answer: d\nExplanation:  The commonly used materials used to make casting in foundries are aluminum and cast iron. However, special arrangements are to be made to make castings of Brass, steel and magnesium as they differ in their melting temperature. Variety of castings can be made in the foundry."
+    },
+    {
+        "id": 172,
+        "Question": "The foundry uses ___________ process to relieve stresses produced in castings.",
+        "Options": [
+            "a) Reforming",
+            "b) Heat treatment",
+            "c) Water treatment",
+            "d) Cooling"
+        ],
+        "Answer": "Answer: b\nExplanation: The virgin metal is nothing but the pure metal that is to be used. It is a non-economical way as there is a large amount of scrap available to form these castings. The principle of foundry also involves reusing of scrap and reducing the wastage as much as possible."
+    },
+    {
+        "id": 173,
+        "Question": "The product of the foundry process is ____________",
+        "Options": [
+            "a) Binders",
+            "b) Pattern",
+            "c) Casting",
+            "d) Metal"
+        ],
+        "Answer": "Answer: c\nExplanation: The tuyeres are responsible for the supply of air for combustion in the cupola. The tuyeres are always fitted in one or more number of rows. Auxiliary tuyeres being more efficient are fitted in the cupola to supply more air and increase melting efficiency."
+    },
+    {
+        "id": 174,
+        "Question": "Ore is _________ to make it suitable for foundry processes.",
+        "Options": [
+            "a) Smelted",
+            "b) Melted",
+            "c) Extracted",
+            "d) Refined"
+        ],
+        "Answer": "Answer: a\nExplanation: Smelting is form of extractive metallurgical process which is responsible for the extraction of various metals from the ores that are available in the earth’s crust. Hence, the ores are smelted to make them feasible to use in the foundry processes."
+    },
+    {
+        "id": 175,
+        "Question": "The metals that are used in foundries are obtained in which of the following sources?",
+        "Options": [
+            "a) Oxides",
+            "b) Sulphides",
+            "c) Carbonates",
+            "d) Aldehydes"
+        ],
+        "Answer": "Answer: d\nExplanation: The aldehyde is an organic compound which contains a functional group which has the structure of –CHO group. They are formed by oxidation of alcohol which is not available in the crust. As it is in liquid form it is chemically prepared and is not available in the crust. "
+    },
+    {
+        "id": 176,
+        "Question": "The source of energy that keeps the furnace the cleanest is __________",
+        "Options": [
+            "a) Electricity",
+            "b) Water",
+            "c) Air",
+            "d) Sunlight"
+        ],
+        "Answer": "Answer: a\nExplanation: Anthracite coal is the best type of coal among the other type of coals. The anthracite coal has the least amount of impurities and it releases less amount of pollution and more energy and hence it is used in foundries."
+    },
+    {
+        "id": 177,
+        "Question": "The flux used in the foundries to make castings of magnesium alloys are ________",
+        "Options": [
+            "a) Potassium Chloride",
+            "b) Barium Chloride",
+            "c) Magnesium Oxide",
+            "d) Potassium Chloride, Barium Chloride and Magnesium Oxide"
+        ],
+        "Answer": "Answer: a\nExplanation: In a foundry, electricity is the easiest and the most expensive source of energy available. When the furnaces are electrically powered, there is no amount of smoke found and the particulate matter does not settle down. Hence, it keeps the furnaces clean."
+    },
+    {
+        "id": 178,
+        "Question": "The melting point of the flux is _________",
+        "Options": [
+            "a) Low",
+            "b) High",
+            "c) Room Temperature",
+            "d) Critical"
+        ],
+        "Answer": "Answer: a\nExplanation: In copper-alloy foundry practice, charcoal is used to prevent the molten metal from being oxidized, and some commercially available fluxes may be employed to cleanse the metal that is to separate it from dross. Hence it is a prime material in the copper-alloy foundry."
+    },
+    {
+        "id": 179,
+        "Question": "_____________ protects molten metal from atmosphere in the foundry.",
+        "Options": [
+            "a) Pattern",
+            "b) Mould",
+            "c) Slag",
+            "d) Refractories"
+        ],
+        "Answer": "Answer: d\nExplanation: The fluxes are used for melting magnesium alloys prevent the burning of magnesium alloys. The fluxes listed above have excellent properties as fluxes in foundries. Nitrogen (gaseous flux) is used to bubble slowly through the molten magnesium for removing hydrogen."
+    },
+    {
+        "id": 180,
+        "Question": "Scope of automation in foundry process is _____________",
+        "Options": [
+            "a) Low",
+            "b) High",
+            "c) Minimum",
+            "d) Maximum"
+        ],
+        "Answer": "Answer: a\nExplanation: The foundry processes are extensively laborious while compared to other manufacturing processes. The productivity when compared to efforts is low. The processes can be mechanized but not automated."
+    },
+    {
+        "id": 181,
+        "Question": "Which of the following is an advantage of the Green sand molding process used in a foundry?",
+        "Options": [
+            "a) Appropriate for long production run",
+            "b) Very low cost process",
+            "c) Sand is reusable",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The green sand has an adequate amount of water which is lost during the process but it can be restored by adding the same and it is fit for reusing. This enables it to be usable for longer production at less cost. Hence, the green sand molding is employed in most foundries."
+    },
+    {
+        "id": 182,
+        "Question": "The _______ energy consumption is a drawback of the foundry.",
+        "Options": [
+            "a) High",
+            "b) Optimum",
+            "c) Intensive",
+            "d) Low"
+        ],
+        "Answer": "Answer: b\nExplanation: The dimensions of the casting depend on the method of preparation employed. Investment mould casting gives higher dimensional accuracy whereas the sand casting gives low dimensional accuracy."
+    },
+    {
+        "id": 183,
+        "Question": "______________ defects in castings cannot be identified easily.",
+        "Options": [
+            "a) Internal",
+            "b) External",
+            "c) Chemical",
+            "d) Metallic"
+        ],
+        "Answer": "Answer: a\nExplanation: In a foundry, the sources of energy used are large in number. The major drawback of the foundry is that the energy consumption in terms of material, refractories and metal is very high."
+    },
+    {
+        "id": 184,
+        "Question": "Castings are usually designed for ________ distribution of loads.",
+        "Options": [
+            "a) Equal",
+            "b) Unequal",
+            "c) Maximum",
+            "d) Minimum"
+        ],
+        "Answer": "Answer: a\nExplanation: Cast metal parts account for more than 90% of an automobile engine and for more than 50% of the total weight of the tractor. Thus, most of the parts are made of cast iron are manufactured in foundries."
+    },
+    {
+        "id": 185,
+        "Question": "The _______ directional properties are imparted to the castings made in foundries.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Spherical",
+            "d) Multiple"
+        ],
+        "Answer": "Answer: a\nExplanation: The casting is usually made in bulk in foundries and it is not visible to the naked eyes. The castings have to be sent for X-ray testing and such kind of test to find out the internal defects. Identifying internal defects is a tough task in foundries."
+    },
+    {
+        "id": 186,
+        "Question": "___________ forms a seat in mold on which the sand core rests during pouring.",
+        "Options": [
+            "a) Pattern",
+            "b) Sand",
+            "c) Core",
+            "d) Core Print"
+        ],
+        "Answer": "Answer: d\nExplanation: The core print is just like an added projection on the pattern and it must be of the adequate size and shape so that it can support the weight of the core during the casting operation."
+    },
+    {
+        "id": 187,
+        "Question": "Which of the following is a property of core material used in a foundry?",
+        "Options": [
+            "a) Appropriate for long production",
+            "b) Low Weight",
+            "c) Reusable",
+            "d) Core Print"
+        ],
+        "Answer": "Answer: b\nExplanation: The core materials are always composites skins which create a sandwich structure. The main property looked for its functionality is the high stiffness and low weight. "
+    },
+    {
+        "id": 188,
+        "Question": "The _______ is responsible for cavities in castings in the foundry.",
+        "Options": [
+            "a) Patterns",
+            "b) Sand",
+            "c) Cores",
+            "d) Riser"
+        ],
+        "Answer": "Answer: a\nExplanation: The design of the casting depends upon the area where it is supposed to be used. Hence, the sand type is a major function of the foundry. The core is dependent on the sand as it comes in contact with it."
+    },
+    {
+        "id": 189,
+        "Question": "The number of cores to be used to form castings is _____________",
+        "Options": [
+            "a) One",
+            "b) Ten",
+            "c) Depends on the sand",
+            "d) Depends on the design"
+        ],
+        "Answer": "Answer: c\nExplanation: In a foundry, a core is usually placed in the mould box as a separate entity or the integrated part of the pattern to form a castings that has intricate parts and when it requires to produce internal cavities and reentrant angles."
+    },
+    {
+        "id": 190,
+        "Question": "___________ cores cannot make long narrow features.",
+        "Options": [
+            "a) Green Sand",
+            "b) Dry-Sand",
+            "c) Metallic",
+            "d) Lost"
+        ],
+        "Answer": "Answer: b\nExplanation:  A core is a device which is normally made up of sand. The technology of metallic cores is emerging in manufacturing technology. The core when used once usually comes out in the burnt form and hence even though it is disposable, it cannot be reused."
+    },
+    {
+        "id": 191,
+        "Question": "Which of the following process is not used to remove the cores from the finished casting?",
+        "Options": [
+            "a) Blowing",
+            "b) Melting",
+            "c) Washing",
+            "d) Chemical Dipping"
+        ],
+        "Answer": "Answer: d\nExplanation: The number of cores used in the formation of the casting depends hugely on the design. The range of the cores used cannot be specified. The valves require two or three cores depending on the design where as the GM V-8 engines require 5 dry sand cores."
+    },
+    {
+        "id": 192,
+        "Question": "In order the get a smooth casting, the size of the sand particles should be _________",
+        "Options": [
+            "a) Coarse",
+            "b) Fine",
+            "c) Moderate",
+            "d) Large"
+        ],
+        "Answer": "Answer: b\nExplanation: The fine grains are the sand particles which has a lower grain size. This lower grain sized particles always form a smooth surface over which the curves and edges can be dimensionally mapped. The fine particles allow less distortion of the metal and the surface obtained by them on the casting is smooth."
+    },
+    {
+        "id": 193,
+        "Question": "Which of the following is not used for the formation of the molding sand?",
+        "Options": [
+            "a) Silica Sand",
+            "b) Binders",
+            "c) Additives",
+            "d) Coal"
+        ],
+        "Answer": "Answer: d\nExplanation: The coal is a material which is not used in the formation of the molding sand as the particle size of the coal is high and there are chances that it will react with the possible gases that are produced during the pouring of the metal and result in casting defects."
+    },
+    {
+        "id": 194,
+        "Question": "The _______ is responsible for the impact strength in the molding sand.",
+        "Options": [
+            "a) Aggregates",
+            "b) Refractoriness",
+            "c) Impurities",
+            "d) Permeability"
+        ],
+        "Answer": "Answer: a\nExplanation: The molding sand is made up of several particles. The properties such as porosity, texture are all considered while making it fit for the use of the foundry. Out of all the materials used, the size of the sand particles (silica sand) is the highest."
+    },
+    {
+        "id": 195,
+        "Question": "The _______________ property ensures the removal of excess sand in the mould box.",
+        "Options": [
+            "a) Adhesiveness",
+            "b) Cohesiveness",
+            "c) Green strength",
+            "d) Compressive strength"
+        ],
+        "Answer": "Answer: a\nExplanation: In a foundry, the molding sand forms an important part of the cope and drag. It should have high impact strength, stability and permeability and this is imparted by silica sand in the form of granular quarts which has enough refractoriness to cast all of these strengths to the molding sand."
+    },
+    {
+        "id": 196,
+        "Question": "Binding property of the sand increases because of the ____________ property.",
+        "Options": [
+            "a) Cohesiveness",
+            "b) Collapsibility",
+            "c) Flow ability",
+            "d) Permeability"
+        ],
+        "Answer": "Answer: b\nExplanation:  Molding sand is added with chemicals to enhance properties such as permeability, Compressive strength etc., however, the chemical reactions happening is not viable for the formation of the casting as it might cause explosion or severe fatal effects in the casting."
+    },
+    {
+        "id": 197,
+        "Question": "Which of the following is the most important property of the molding sand in cores?",
+        "Options": [
+            "a) Dry Strength",
+            "b) Green strength",
+            "c) Collapsibility",
+            "d) Cohesiveness"
+        ],
+        "Answer": "Answer: a\nExplanation: The adhesiveness is a property of molding sand to get the stick or adhere to foreign material such as sticking of molding sand with an inner wall of the molding box. Hence, as the sand sticks to the box and the excess sand is removed."
+    },
+    {
+        "id": 198,
+        "Question": "_____________ is used to remove moisture content in the molding sand.",
+        "Options": [
+            "a) Moisture teller",
+            "b) Green Strength",
+            "c) Cone Jolt",
+            "d) Clay test"
+        ],
+        "Answer": "Answer: a\nExplanation: In the moisture teller, the sand is dried by suspending the sample on a fire metallic screen and allowing hot air to flow through the sample. This method of drying completes the removal of moisture in a matter of minutes."
+    },
+    {
+        "id": 199,
+        "Question": "The molding sand is prepared by ______________method.",
+        "Options": [
+            "a) Sand Mueller",
+            "b) Manual work",
+            "c) Sand sieve",
+            "d) Rotator"
+        ],
+        "Answer": "Answer: a\nExplanation: The sand Mueller is a device that mixes the sand in appropriate amount. It is subjected to regular rotation with the help of the motor and current. The additional ingredients are added externally. The sand is then supplied by the conveyor belts."
+    },
+    {
+        "id": 200,
+        "Question": "The samples of the moisture test are prepared in _______ heater bulb.",
+        "Options": [
+            "a) Infrared",
+            "b) X-ray",
+            "c) Radio",
+            "d) Ultraviolet"
+        ],
+        "Answer": "Answer: a\nExplanation: The molding sand has moisture as a dominant property. It is defined as the amount of water present in the molding sand. As the low moisture content in the molding sand does not develop strength properties, the high moisture content decreases permeability. "
+    },
+    {
+        "id": 201,
+        "Question": "The Sand Sieve Analysis is used for _____________",
+        "Options": [
+            "a) Grain Fitness test",
+            "b) Grain Size test",
+            "c) Green strength test",
+            "d) Compressive strength test"
+        ],
+        "Answer": "Answer: a\nExplanation: In a foundry testing lab, the samples used for moisture test are 20 to 50 grams of the prepared sand place in the pan and heated by an infrared heater bulb for 2 to 3 minutes. The wavelength of the infrared rays is high enough to generate heat and evaporate the moisture."
+    },
+    {
+        "id": 202,
+        "Question": "_________ measures air pressure in air permeability test.",
+        "Options": [
+            "a) Barometer",
+            "b) Manometer",
+            "c) Bell jar",
+            "d) Tube"
+        ],
+        "Answer": "Answer: b\nExplanation:  In the sand sieve analysis, the sieves are placed one upon the other and shaked so that the finer grains are obtained. They are arranged in descending order from top to bottom and the top most sieves are the coarsest as it has the biggest mesh."
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following tests are done for molding sand strength?",
+        "Options": [
+            "a) Compression",
+            "b) Tension",
+            "c) Shear",
+            "d) Compression, Tension, Shear"
+        ],
+        "Answer": "Answer: a\nExplanation: The grain size, distribution, grain fitness are determined with the help of the fitness testing of moulding sands. The apparatus consists of a number of standard sieves mounted one above the other, on a power-driven shaker."
+    },
+    {
+        "id": 204,
+        "Question": "_____________ is used as a pattern material for the easy handling of the equipment.",
+        "Options": [
+            "a) Wood",
+            "b) Charcoal",
+            "c) Steel",
+            "d) Lead"
+        ],
+        "Answer": "Answer: a\nExplanation: In all the pattern materials, wood is a material which is widely used. The properties of the wood being easy availability and low weight make it sustainable for the longer run. Hence, it is used as a pattern material for easy handling of the equipment."
+    },
+    {
+        "id": 205,
+        "Question": "Which of the following is the most pattern materials are corrosion prone?",
+        "Options": [
+            "a) Grey Cast Iron",
+            "b) Steel",
+            "c) Brass",
+            "d) Lead"
+        ],
+        "Answer": "Answer: a\nExplanation: The Grey cast iron is a ferrous component hence it is corrosion prone. Even though the steel is an alloy of Iron, it is heterogeneous component and is less prone to corrosion than Grey cast Iron."
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following types of wood are used to make patterns?",
+        "Options": [
+            "a) Pine",
+            "b) Walnut",
+            "c) Teak",
+            "d) Deodhar"
+        ],
+        "Answer": "Answer: a\nExplanation: The wooden patterns can be shaped easily and are relatively cheap. But the main disadvantage of wood is its absorption of moisture as a result of which distortions and dimensional changes occur. A good construction may be able to reduce the war page to some extent. Hence, proper seasoning and upkeep of wood is a pre-requisite for large scale use of wood as a pattern material."
+    },
+    {
+        "id": 207,
+        "Question": "The ____________ is used for making additional patterns with minimal double shrinkages.",
+        "Options": [
+            "a) Aluminium",
+            "b) White Metal",
+            "c) Steel",
+            "d) Grey Cast Iron"
+        ],
+        "Answer": "Answer: b\nExplanation: All of the above mentioned types of wood are used to make pattern due to the wide availability and the property of the wood to sustain for a long duration and yields dimensional accuracy."
+    },
+    {
+        "id": 208,
+        "Question": "_________ patterns are useful for large castings in the foundry.",
+        "Options": [
+            "a) Steel",
+            "b) Lead alloys",
+            "c) Aluminium alloys",
+            "d) Wood"
+        ],
+        "Answer": "Answer: a\nExplanation: The plywood boards of veneer type as well as the particle boards are also used for making patterns. Because of their availability in various thickness, their higher strengths and no need for seasoning are the reasons for their usage. However, they can be used only in patterns which are the flat type (Pattern plates) and no three-dimensional contours."
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following plastic is used for making patterns?",
+        "Options": [
+            "a) Epoxy resins",
+            "b) Thermoplastics",
+            "c) Thermosetting plastics",
+            "d) Polyvinyl chloride"
+        ],
+        "Answer": "Answer: b\nExplanation: The white metal is light, can be easily worked and is corrosion resistant. Since white metal has very small shrinkage, the white metal pattern can be made use of for making additional patterns without worrying about the double shrinkage allowances."
+    },
+    {
+        "id": 210,
+        "Question": "_____________ is the most often used method for making of the complex shapes that are uneconomical to manufacture by other methods.",
+        "Options": [
+            "a) Foundry",
+            "b) Machine Shop",
+            "c) Assembly Line",
+            "d) CNC"
+        ],
+        "Answer": "Answer: a\nExplanation: In all the above mentioned ways, the basic function is the same that is the preparation of final products. But, the foundry is responsible for making up of castings which is often complex in shape and it cannot be made by manual methods. Usually, ferrous and non-ferrous alloys are employed for making castings."
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following is the furnace used for melting in foundries?",
+        "Options": [
+            "a) Cupola",
+            "b) Assembly Line",
+            "c) Pit Furnace",
+            "d) Electric Induction"
+        ],
+        "Answer": "Answer: a\nExplanation: Out of all the furnaces, Cupola is largely used by the melting department in the foundry. Due to the varying sizes of the cupola the amount of metal melted is usually high and the materials required to charge the cupola are also widely available. Hence, the cupola is used in melting."
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following is not included in scrap used for melting?",
+        "Options": [
+            "a) Risers",
+            "b) Billets",
+            "c) Defective castings",
+            "d) Gates"
+        ],
+        "Answer": "Answer: b\nExplanation: The most common metals processed are aluminium and cast iron. However, other metals, such as bronze, brass, steel, magnesium, and zinc, are also used to produce castings in foundries. In this process, parts of desired shapes and sizes can be formed."
+    },
+    {
+        "id": 213,
+        "Question": "The ____________ process is employed to remove gases.",
+        "Options": [
+            "a) melting",
+            "b) pouring",
+            "c) scrapping",
+            "d) refining"
+        ],
+        "Answer": "Answer: b\nExplanation: All of the above mentioned types of materials are scraps from the earlier used materials except for billets. A billet is a form of cylindrical shaped raw materials which is melted and solidified to get to that shape after purification. Billets are externally prepared for ease of transportation and are not a scrap."
+    },
+    {
+        "id": 214,
+        "Question": "The pouring is accomplished by ______________ force.",
+        "Options": [
+            "a) electromagnetic",
+            "b) magnetic",
+            "c) gravitation",
+            "d) friction"
+        ],
+        "Answer": "Answer: a\nExplanation: Shakeout frees the casting from the sand, which is attached to the metal runners and gates — the channels through which the molten metal traveled to reach the component itself. It is either done mechanically or manually."
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following plastic is not obtained from degating?",
+        "Options": [
+            "a) Gates",
+            "b) Risers",
+            "c) Runners",
+            "d) Cores"
+        ],
+        "Answer": "Answer: d\nExplanation: The Refining is done to remove deleterious gases and elements from the molten metal to avoid casting defects. The material is added during the melting process to bring the final chemistry within a specific range specified by industry and/or internal standards."
+    },
+    {
+        "id": 216,
+        "Question": "_____________ is the mixture offering a very high stability to the mould.",
+        "Options": [
+            "a) Bentonite",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Lumber"
+        ],
+        "Answer": "Answer: a\nExplanation: High quality bentonite bonded molding sands are able to offer the optimum solution for mold stability, providing not only the requisite mechanical properties but the necessary flexibility for the production of castings that comply with the ever stringent demands for quality and productivity."
+    },
+    {
+        "id": 217,
+        "Question": "Which of the following is the most basic binder used in the molding sand?",
+        "Options": [
+            "a) Clay",
+            "b) Zircon",
+            "c) Alumina",
+            "d) Manganese oxide"
+        ],
+        "Answer": "Answer: a\nExplanation: Even though the major portion of the molding sand in silica (96%), clay and water form the binder component of this sand. It is used to provide these sand grains adhesive property so that the grains stick to the pattern to form a casting of appropriate and required shape."
+    },
+    {
+        "id": 218,
+        "Question": "____________ sand is highly used for investment casting process.",
+        "Options": [
+            "a) Silica Sand",
+            "b) Zircon",
+            "c) Loam sand",
+            "d) Chromite sand"
+        ],
+        "Answer": "Answer: b\nExplanation: The oxides of alumina, sodium and magnesium have excellent binding properties. They are added to the molding sand to enhance its mold ability and dimensional properties. However, their constituency should be limited to 2% or less as its excess quantity can cause defects in the castings and effect the fusion point of silica sand."
+    },
+    {
+        "id": 219,
+        "Question": "The ____________ sand is the most versatile sand.",
+        "Options": [
+            "a) Loam sand",
+            "b) Chromite sand",
+            "c) Kaolinite",
+            "d) Olivine sand"
+        ],
+        "Answer": "Answer: b\nExplanation: The Zircon sand has high thermal conductivity, high chilling power and high density. It requires a very small amount of binder. It is used to manufacture precision steel castings requiring better surface finish which is the main objective of the investment casting process."
+    },
+    {
+        "id": 220,
+        "Question": "The ________ is used to activate the clay binders to perform its functions.",
+        "Options": [
+            "a) Water",
+            "b) Helium gas",
+            "c) Nitrogen gas",
+            "d) Alkali metals"
+        ],
+        "Answer": "Answer: a\nExplanation: Chromite sand is crushed from the chrome ore. As the fusion point of this sand is high as 1800 C, it requires a small amount of binder (3%). It is also used to manufacture heavy steel castings requiring a better surface finish."
+    },
+    {
+        "id": 221,
+        "Question": "Which of the following binder immediately increases the binding properties?",
+        "Options": [
+            "a) Cereal binder",
+            "b) Clay",
+            "c) Pitch",
+            "d) Silica"
+        ],
+        "Answer": "Answer: d\nExplanation: The olivine sand contains all the minerals such as Fosterite (Mg2SiO4) and Fayalite (Fe2SiO4) which is suitable for almost all the type of casting manufacturing processes. The same mixtures can be used for a range of steels but it is very expensive."
+    },
+    {
+        "id": 222,
+        "Question": "The rate of flow of air passing through a standard specimen under a standard pressure is termed as _____________",
+        "Options": [
+            "a) Green Strength",
+            "b) Dry Strength",
+            "c) Mould Hardness Number",
+            "d) Permeability number"
+        ],
+        "Answer": "Answer: a\nExplanation:  The equation given above is the standard equation for the measurement of the permeability number. After preparing the test sample of sand, 2000 cm3 of air is passed through the sample and the time taken by it to completely pass through the specimen is noted. Then its permeability is calculated using the above equation."
+    },
+    {
+        "id": 223,
+        "Question": "Permeability is greatly dependent upon ________________",
+        "Options": [
+            "a) Ramming of sand",
+            "b) Sand Particle size",
+            "c) Sand grade",
+            "d) Moisture content"
+        ],
+        "Answer": "Answer: d\nExplanation: The standard permeability number test is to measure time taken by a 2000 cm3 of air at a pressure typically of 980 Pa to pass through a standard sand specimen confined in a specimen tube. The standard specimen size is 50.8mm in diameter and length of 50.8 mm."
+    },
+    {
+        "id": 224,
+        "Question": "The strength of the sand ____________ on drying.",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Depends on the sand"
+        ],
+        "Answer": "Answer: a\nExplanation: The measurement of the strength of molding sands can be carried out on the universal sand strength can be measured in compression, shear and tension. The sands that could be tested are green sand dry sand or core sand. The compression and shear test involves the standard cylindrical specimen that was used for the permeability test."
+    },
+    {
+        "id": 225,
+        "Question": "The mould hardness measuring test is similar to _________",
+        "Options": [
+            "a) Brinells Hardness test",
+            "b) Vikers hardness test",
+            "c) Rockwell Hardness test",
+            "d) Sand Grain analysis"
+        ],
+        "Answer": "Answer: a\nExplanation: The permeability of sand is dependent to a great extent, on the degree of ramming, it is necessary that the specimen be prepared under standard conditions. To get reproducible ramming conditions, a laboratory sand rammer is used along with a specimen."
+    },
+    {
+        "id": 226,
+        "Question": "Which of the following binder immediately increases the binding properties?",
+        "Options": [
+            "a) Cereal binder",
+            "b) Clay",
+            "c) Pitch",
+            "d) Silica"
+        ],
+        "Answer": "Answer: b\nExplanation: The Green compression strength that was used is generally in the range of 30 to 160 kPa and the Green shear strength can vary from 10 to 50 kPa according to the standards of the sands."
+    },
+    {
+        "id": 227,
+        "Question": "In the molding sands, which of the following are the major properties?",
+        "Options": [
+            "a) Permeability",
+            "b) Sand Grains",
+            "c) Size of the grains",
+            "d) Permeability, sand grains and size of the grains"
+        ],
+        "Answer": "Answer: d\nExplanation:  The shape and size of the sand grain would greatly affect the various molding sand properties. The sand grain size and the sand grain could be coarse or fine and the grain shape should be round or angular. The sand permeability should depend on the type of casting to be manufactures. All these properties make a sand quality optimum. "
+    },
+    {
+        "id": 228,
+        "Question": "The rate at which the casting is removed from the green sand mould is __________",
+        "Options": [
+            "a) Immediately",
+            "b) Min 2-3 hours later",
+            "c) More than 6 hours",
+            "d) Around 2 days"
+        ],
+        "Answer": "Answer: a\nExplanation: In a green sand mould, metal is poured immediately and the casting taken out. These are most commonly used and are adapted for rapid production, where the molding flasks are released quickly. "
+    },
+    {
+        "id": 229,
+        "Question": "Hot tearing of the casting is least observed in  _______________",
+        "Options": [
+            "a) Green sand moulds",
+            "b) Dry sand moulds",
+            "c) Skin dried sand moulds",
+            "d) Size of the grain"
+        ],
+        "Answer": "Answer: b\nExplanation: The green sand mould is used for the rapid production of the castings. It can be used to produce a wide range of castings. As the mould is produced, the casting is prepared. Hence, it requires less floor space as no storage is involved. "
+    },
+    {
+        "id": 230,
+        "Question": "The permeability _________ with the grain size.",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Depends on the sand"
+        ],
+        "Answer": "Answer: a\nExplanation: The hot tearing of the casting refers to the one of the types of casting defect that weakens the strength of the casting defects. As the moisture is present in the green sand mould, the hot tearing is considerably reduced in the green sand mould. "
+    },
+    {
+        "id": 231,
+        "Question": "Uncontrolled permeability in the green sand mould leads to ___________",
+        "Options": [
+            "a) Blow Holes",
+            "b) Chills",
+            "c) Shrinkage",
+            "d) Tearing"
+        ],
+        "Answer": "Answer: a\nExplanation: The venting is done in the sand moulds so that the gases are let out after the metal is poured in it. If these gases are not let out, they tend to form casting defects on the surface of the castings. Hence all the sand moulds should have great venting capacity. "
+    },
+    {
+        "id": 232,
+        "Question": "The strength of the dry sand mould depends on ________",
+        "Options": [
+            "a) Sand Quality",
+            "b) Sand grain",
+            "c) Binders",
+            "d) Additives"
+        ],
+        "Answer": "Answer: b\nExplanation: The grain size increases with the coarse grains. The coarse grains would have more void space between the grains which increases with permeability. Similarly, the finer grains would have lower permeability. "
+    },
+    {
+        "id": 233,
+        "Question": "____________ pattern could fit entirely in the cope or in the drag.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern"
+        ],
+        "Answer": "Answer: a\nExplanation:  The single piece pattern is made up of a single piece as its name suggests. One of the faces is expected to be which is used as a parting plane. Hence, it can be said that it could fit entirely in the drag."
+    },
+    {
+        "id": 234,
+        "Question": "The ________ pattern could have the entire assembly of runner and gates integrated in it.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern"
+        ],
+        "Answer": "Answer: d\nExplanation: The gated pattern is an improvement in the single piece pattern where the gating and the runner system are integral with the pattern. This would eliminate the hand cutting of the runners and gates and helps in improving the productivity of the molder."
+    },
+    {
+        "id": 235,
+        "Question": "Dowel pins, Jigs and fixtures are all used to join which of the following patterns.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern"
+        ],
+        "Answer": "Answer: a\nExplanation: The two piece patterns are used for large production of castings. The patterns are used for the castings where it is not possible to form the casting in one piece and where the removing of the casting without contour is difficult."
+    },
+    {
+        "id": 236,
+        "Question": "Manual or Machine cutting of runners and gates is eliminated in ______________",
+        "Options": [
+            "a) Split Pattern",
+            "b) Single piece pattern",
+            "c) Gated Pattern",
+            "d) Match Plate Pattern"
+        ],
+        "Answer": "Answer: c\nExplanation: The two piece patterns are made using one single pattern cut in two halves. Once is placed in the cope and other in the drag. To facilitate the proper alignment of the of the halves in the cope and the drag, they are joined with the jigs, fixtures and dowel pins."
+    },
+    {
+        "id": 237,
+        "Question": "Structurally weak castings are made using _____________",
+        "Options": [
+            "a) Loose piece pattern",
+            "b) Sweep Pattern",
+            "c) Skeleton Pattern",
+            "d) Follow board pattern"
+        ],
+        "Answer": "Answer: a\nExplanation: The cope and drag pattern are similar to a split pattern. In addition to splitting the pattern, the cope and drag halves of the pattern along with the gating and risering systems are attached separately to the metal or wooden plates along with the alignment pins. Hence, they are called to cope and drag patterns."
+    },
+    {
+        "id": 238,
+        "Question": "________ is used to make the large castings of axi-symmetrical shapes.",
+        "Options": [
+            "a) Loose piece pattern",
+            "b) Skeleton pattern",
+            "c) Sweep pattern",
+            "d) Match plate pattern"
+        ],
+        "Answer": "Answer: c\nExplanation: Gated Pattern is a pattern where the gating and runner system is integral with a pattern. A Gated Pattern consists if the molding and control patterns, jigs, the drying plates and the stripping place all embedded in it. Once the pattern is removed it is removed automatically."
+    }
+]

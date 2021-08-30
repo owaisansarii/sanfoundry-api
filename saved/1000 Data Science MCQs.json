@@ -1,0 +1,4280 @@
+[
+    {
+        "id": 1,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Raw data is original source of data",
+            "b) Preprocessed data is original source of data",
+            "c) Raw data is the data obtained after processing steps",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Data Science is a multidisciplinary which involves extraction of knowledge from large volumes of data that are structured or unstructured."
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following is performed by Data Scientist?",
+        "Options": [
+            "a) Define the question",
+            "b) Create reproducible code",
+            "c) Challenge results",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Accounting programs are prototypical examples of data processing applications."
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following is the most important language for Data Science?",
+        "Options": [
+            "a) Java",
+            "b) Ruby",
+            "c) R",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: A data scientist is a job title for an employee or business intelligence (BI) consultant who excels at analyzing data, particularly large amounts of data."
+    },
+    {
+        "id": 4,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Merging concerns combining datasets on the same observations to produce a result with more variables",
+            "b) Data visualization is the organization of information according to preset specifications",
+            "c) Subsetting can be used to select and exclude variables and observations",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: R is free software for statistical computing and analysis."
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following approach should be used to ask Data Analysis question?",
+        "Options": [
+            "a) Find only one solution for particular problem",
+            "b) Find out the question which is to be answered",
+            "c) Find out answer from dataset without asking question",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Data formatting is the organization of information according to preset specifications."
+    },
+    {
+        "id": 6,
+        "Question": "Which of the following is one of the key data science skills?",
+        "Options": [
+            "a) Statistics",
+            "b) Machine Learning",
+            "c) Data Visualization",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Data analysis has multiple facets and approaches."
+    },
+    {
+        "id": 7,
+        "Question": "Which of the following is a key characteristic of a hacker?",
+        "Options": [
+            "a) Afraid to say they don’t know the answer",
+            "b) Willing to find answers on their own",
+            "c) Not Willing to find answers on their own",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Data visualization is the presentation of data in a pictorial or graphical format."
+    },
+    {
+        "id": 8,
+        "Question": "Which of the following is characteristic of Processed Data?",
+        "Options": [
+            "a) Data is not ready for analysis",
+            "b) All steps should be noted",
+            "c) Hard to use for data analysis",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Hacker is an expert at programming and solving problems with a computer."
+    },
+    {
+        "id": 9,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Least square is an estimation tool",
+            "b) Least square problems falls in to three categories",
+            "c) Compound least square is one of the category of least square",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Principles of Analytical graphs are sequentially shown in the stepwise manner."
+    },
+    {
+        "id": 10,
+        "Question": "How many principles of analytical graphs exist?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 6",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The Method of Least Squares is a procedure to determine the best fit line to data."
+    },
+    {
+        "id": 11,
+        "Question": "Which of the following is not a step in data analysis?",
+        "Options": [
+            "a) Obtain the data",
+            "b) Clean the data",
+            "c) EDA",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Six Principles of Analytical Graphs are useful for data analysis."
+    },
+    {
+        "id": 12,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Simple linear regression is equipped to handle more than one predictor",
+            "b) Compound linear regression is not equipped to handle more than one predictor",
+            "c) Linear regression consists of finding the best-fitting straight line through the points",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: EDA stands for Exploratory Data Analysis."
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following technique comes under practical machine learning?",
+        "Options": [
+            "a) Bagging",
+            "b) Boosting",
+            "c) Forecasting",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Simple linear regression is equipped to handle more than one predictor."
+    },
+    {
+        "id": 14,
+        "Question": "Which of the following technique is also referred to as Bagging?",
+        "Options": [
+            "a) Bootstrap aggregating",
+            "b) Bootstrap subsetting",
+            "c) Bootstrap predicting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Boosting is an approach to machine learning based on the idea of creating a highly accurate predictor."
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is characteristic of Raw Data?",
+        "Options": [
+            "a) Data is ready for analysis",
+            "b) Original version of data",
+            "c) Easy to use for data analysis",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Products mentioned in the figure are web application frameworks written in R."
+    },
+    {
+        "id": 16,
+        "Question": "Which of the following CLI command can also be used to rename files?",
+        "Options": [
+            "a) rm",
+            "b) mv",
+            "c) rm -r",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: mv stands for move."
+    },
+    {
+        "id": 17,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) CLI can help you to organize messages",
+            "b) CLI can help you to organize files and folders",
+            "c) Navigation of directory is possible using CLI",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: CLI stands for Command Line Interface."
+    },
+    {
+        "id": 18,
+        "Question": "Which of the following command allows you to change directory to one level above your parent directory?",
+        "Options": [
+            "a) cd",
+            "b) cd.",
+            "c) cd..",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: cd stands for change directory."
+    },
+    {
+        "id": 19,
+        "Question": "Which of the following is not a CLI command?",
+        "Options": [
+            "a) delete",
+            "b) rm",
+            "c) clear",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: rm can be used to remove files and directories."
+    },
+    {
+        "id": 20,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Command is the CLI command which does a specific task",
+            "b) There is one and only flag for every command in CLI",
+            "c) Flags are the options given to command for activating particular behaviour",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Depending on the command, there can be zero or more flags and arguments."
+    },
+    {
+        "id": 21,
+        "Question": "Which of the following systems record changes to a file over time?",
+        "Options": [
+            "a) Record Control",
+            "b) Version Control",
+            "c) Forecast Control",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Version control is also known as revision control."
+    },
+    {
+        "id": 22,
+        "Question": "Which of the following is a revision control system?",
+        "Options": [
+            "a) Git",
+            "b) NumPy",
+            "c) Slidify",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+    },
+    {
+        "id": 23,
+        "Question": "Which of the following command line environment is used for interacting with Git?",
+        "Options": [
+            "a) GitHub",
+            "b) Git Bash",
+            "c) Git Boot",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Git for Windows provides a BASH emulation used to run Git from the command line."
+    },
+    {
+        "id": 24,
+        "Question": "Which of the following web hosting service use Git control system?",
+        "Options": [
+            "a) GitHub",
+            "b) Open Hash",
+            "c) Git Bash",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git."
+    },
+    {
+        "id": 25,
+        "Question": "Which of the following adds all new files to local repository?",
+        "Options": [
+            "a) git add .",
+            "b) git add -u",
+            "c) git add -A",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You should do this before committing."
+    },
+    {
+        "id": 26,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) You don’t need GitHub to use Git",
+            "b) CLI can help you to organize files and folders",
+            "c) Navigation of directory is possible using CLI",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: CLI stands for Command Line Interface."
+    },
+    {
+        "id": 27,
+        "Question": "Which of the following command updates tracking for files that are modified?",
+        "Options": [
+            "a) git add .",
+            "b) git add -u",
+            "c) git add -A",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The git add command adds a change in the working directory to the staging area."
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following command is used to give a message description?",
+        "Options": [
+            "a) git command -m",
+            "b) git command -d",
+            "c) git command -message",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: This only updates your local repository."
+    },
+    {
+        "id": 29,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) You need GitHub to use Git",
+            "b) GitHub allows you to share repositories with others",
+            "c) GitHub allows you to access others repositories",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: GitHub can store a remote copy of your repository."
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following command allows you to update the repository?",
+        "Options": [
+            "a) push",
+            "b) pop",
+            "c) update",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The git branch command is your general-purpose branch administration tool."
+    },
+    {
+        "id": 31,
+        "Question": "Which of the following is the correct way of creating GitHub repository in to well labelled commits?",
+        "Options": [
+            "a) Fork another user’s repository",
+            "b) Pop another user’s repository",
+            "c) Zip another user’s repository",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A fork is a copy of a repository."
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following command is used to squash the commits?",
+        "Options": [
+            "a) rebase",
+            "b) squash",
+            "c) boot",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In Git, there are two main ways to integrate changes from one branch into another: the merge and the rebase."
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following statement would create branch named as ‘sanfoundry’?",
+        "Options": [
+            "a) git checkout -b sanfoundry",
+            "b) git checkout -c sanfoundry",
+            "c) git check -b sanfoundry",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A branch in Git is simply a lightweight movable pointer to one of these commits."
+    },
+    {
+        "id": 34,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Descriptive analysis is first kind of data analysis performed",
+            "b) Descriptions can be generalized without statistical modelling",
+            "c) Description and Interpretation are same in descriptive analysis",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Multivariate Data is the only characteristic related to Principle 3."
+    },
+    {
+        "id": 35,
+        "Question": "Which of the following allows you to find the relationship you didn’t about?",
+        "Options": [
+            "a) Inferential",
+            "b) Exploratory",
+            "c) Causal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Descriptive analysis describe a set of data."
+    },
+    {
+        "id": 36,
+        "Question": "Which of the following command help us to give message description?",
+        "Options": [
+            "a) git command -m",
+            "b) git command -d",
+            "c) git command -message",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: In statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods."
+    },
+    {
+        "id": 37,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Exploratory analyses are usually the final way",
+            "b) Exploratory models are useful for discovering new connection",
+            "c) Exploratory analysis alone should not be used for predicting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: This only updates your local repository."
+    },
+    {
+        "id": 38,
+        "Question": "Which of the following uses data on some object to predict values for other object?",
+        "Options": [
+            "a) Inferential",
+            "b) Exploratory",
+            "c) Predictive",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Exploratory analyses are usually not the final way."
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following is the common goal of statistical modelling?",
+        "Options": [
+            "a) Inference",
+            "b) Summarizing",
+            "c) Subsetting",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: A prediction is a forecast, but not only about the weather."
+    },
+    {
+        "id": 40,
+        "Question": "Which of the following model is usually a gold standard for data analysis?",
+        "Options": [
+            "a) Inferential",
+            "b) Descriptive",
+            "c) Causal",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Inference is the act or process of deriving logical conclusions from premises known or assumed to be true."
+    },
+    {
+        "id": 41,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Descriptive analysis can be more useful for defining future studies",
+            "b) Correlation does imply causation",
+            "c) Inference is commonly the goal of statistical model",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Exploratory analysis is used to find relationships about you didn’t know about."
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following uses relatively small amount of data to estimate about bigger population?",
+        "Options": [
+            "a) Inferential",
+            "b) Exploratory",
+            "c) Causal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Inference depends heavily on the sampling scheme."
+    },
+    {
+        "id": 43,
+        "Question": "Which of the following analysis helps out to find the effect of variable change?",
+        "Options": [
+            "a) Inferential",
+            "b) Exploratory",
+            "c) Causal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Inferential statistics is concerned with making predictions or inferences about a population from observations and analyses of a sample."
+    },
+    {
+        "id": 44,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Exploratory analyses are not usually the final way",
+            "b) Inferential models are useful for discovering new connection",
+            "c) Inference involves estimating uncertainty",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Causal Analysis provides the real reason why things happen and hence allows focused change activity."
+    },
+    {
+        "id": 45,
+        "Question": "Which of the following relationship are usually identified as average effects?",
+        "Options": [
+            "a) Descriptive",
+            "b) Causal",
+            "c) Predictive",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Statistical inference is the process of deducing properties of an underlying distribution by analysis of data."
+    },
+    {
+        "id": 46,
+        "Question": "Which of the following analysis is usually modeled by deterministic set of equations?",
+        "Options": [
+            "a) Predictive",
+            "b) Causal",
+            "c) Mechanistic",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: A correlation is a measure or degree of relationship between two variables."
+    },
+    {
+        "id": 47,
+        "Question": "Which of the following analysis are incredibly hard to infer?",
+        "Options": [
+            "a) Inferential",
+            "b) Exploratory",
+            "c) Causal",
+            "d) Mechanistic"
+        ],
+        "Answer": "Answer: a\nExplanation: Google trends helps to describe the set of data."
+    },
+    {
+        "id": 48,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Machine learning focuses on prediction, based on known properties learned from the training data",
+            "b) Data Cleaning focuses on prediction, based on known properties learned from the training data",
+            "c) Representing data in a form which both mere mortals can understand and get valuable insights is as much a science as much as it is art",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Big data is a broad term for data sets so large or complex that traditional data processing applications are inadequate."
+    },
+    {
+        "id": 49,
+        "Question": "Which of the following characteristic of big data is relatively more concerned to data science?",
+        "Options": [
+            "a) Velocity",
+            "b) Variety",
+            "c) Volume",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Visualization is becoming a very important aspect."
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following analytical capabilities are provided by information management company?",
+        "Options": [
+            "a) Stream Computing",
+            "b) Content Management",
+            "c) Information Integration",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Big data enables organizations to store, manage, and manipulate vast amounts of disparate data at the right speed and at the right time."
+    },
+    {
+        "id": 51,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) The big volume indeed represents Big Data",
+            "b) The data growth and social media explosion have changed how we look at the data",
+            "c) Big Data is just about lots of data",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: With stream computing, store less, analyze more and make better decisions faster."
+    },
+    {
+        "id": 52,
+        "Question": "Which of the following step is performed by data scientist after acquiring the data?",
+        "Options": [
+            "a) Data Cleansing",
+            "b) Data Integration",
+            "c) Data Replication",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Big Data is actually a concept providing an opportunity to find new insight into your existing data as well guidelines to capture and analysis your future data."
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following focuses on the discovery of (previously) unknown properties on the data?",
+        "Options": [
+            "a) Data mining",
+            "b) Big Data",
+            "c) Data wrangling",
+            "d) Machine Learning"
+        ],
+        "Answer": "Answer: a\nExplanation: Data cleansing, data cleaning or data scrubbing is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database."
+    },
+    {
+        "id": 54,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) If equations are known but the parameters are not, they may be inferred with data analysis",
+            "b) If equations are not known but the parameters are, they may be inferred with data analysis",
+            "c) If equations and parameter are not, they may be inferred with data analysis",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Confounding can be dealt with either at the study design stage, or at the analysis stage."
+    },
+    {
+        "id": 55,
+        "Question": "Which of the following is the top most important thing in data science?",
+        "Options": [
+            "a) answer",
+            "b) question",
+            "c) data",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Usually the random component of data is measurement error."
+    },
+    {
+        "id": 56,
+        "Question": "Which of the following approach should be used if you can’t fix the variable?",
+        "Options": [
+            "a) randomize it",
+            "b) non stratify it",
+            "c) generalize it",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The second most important is the data."
+    },
+    {
+        "id": 57,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Randomized studies are not used to identify causation",
+            "b) Complication approached exist for inferring causation",
+            "c) Causal relationships may not apply to every individual",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If you can’t fix the variable, stratify it."
+    },
+    {
+        "id": 58,
+        "Question": "Which of the following is a good way of performing experiments in data science?",
+        "Options": [
+            "a) Measure variability",
+            "b) Generalize to the problem",
+            "c) Have Replication",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Randomized studies are usually used to identify causation."
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following is commonly referred to as ‘data fishing’?",
+        "Options": [
+            "a) Data bagging",
+            "b) Data booting",
+            "c) Data merging",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Experiments on causal relationships investigate the effect of one or more variables on one or more outcome variables."
+    },
+    {
+        "id": 60,
+        "Question": "Which of the following data mining technique is used to uncover patterns in data?",
+        "Options": [
+            "a) Data bagging",
+            "b) Data booting",
+            "c) Data merging",
+            "d) Data Dredging"
+        ],
+        "Answer": "Answer: d\nExplanation: Data dredging is sometimes referred to as “data fishing”."
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following figure correctly shows approximate order of difficulty?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-analysis-experimental-design-q9a.png\" alt=\"data-science-questions-answers-analysis-experimental-design-q9a\" width=\"292\" height=\"300\" class=\"alignnone size-full wp-image-179363\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-analysis-experimental-design-q9b.png\" alt=\"data-science-questions-answers-analysis-experimental-design-q9b\" width=\"300\" height=\"300\" class=\"alignnone size-full wp-image-179364\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-analysis-experimental-design-q9b.png 300w, https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-analysis-experimental-design-q9b-150x150.png 150w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-analysis-experimental-design-q9c.png\" alt=\"data-science-questions-answers-analysis-experimental-design-q9c\" width=\"297\" height=\"300\" class=\"alignnone size-full wp-image-179365\" />",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Data dredging, also called as data snooping, refers to the practice of misusing data mining techniques to show misleading scientific ‘research’."
+    },
+    {
+        "id": 62,
+        "Question": "Which of the following operations are supported on Time Frames?",
+        "Options": [
+            "a) idxmax",
+            "b) ixmax",
+            "c) ixmin",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Operands can also appear in a reversed order."
+    },
+    {
+        "id": 63,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Timedeltas are differences in times, expressed in difference units",
+            "b) You can construct a Timedelta scalar through various argument",
+            "c) DateOffsets cannot be used in construction",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Timedeltas can be both positive and negative."
+    },
+    {
+        "id": 64,
+        "Question": "Numeric reduction operation for timedelta64[ns] will return _________ objects.",
+        "Options": [
+            "a) Timeseries",
+            "b) Timeplus",
+            "c) Timedelta",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: NaT are skipped during evaluation."
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following scalars can be converted to other ‘frequencies’ by as typing to a specific timedelta type?",
+        "Options": [
+            "a) Timedelta Series",
+            "b) TimedeltaIndex",
+            "c) Timedelta",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: These operations yield Series and propagate NaT -> nan."
+    },
+    {
+        "id": 66,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) min, max, idxmin, idxmax operations are supported on Series",
+            "b) You cannot pass a timedelta to get a particular value",
+            "c) Division by the numpy scalar is true division",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Dividing or multiplying a timedelta64[ns] Series by an integer or integer Series yields another timedelta64[ns] dtypes Series."
+    },
+    {
+        "id": 67,
+        "Question": "Which of the following is used to generate an index with time delta?",
+        "Options": [
+            "a) TimeIndex",
+            "b) TimedeltaIndex",
+            "c) LeadIndex",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Using TimedeltaIndex you can pass string-like, Timedelta, timedelta, or np.timedelta64 objects."
+    },
+    {
+        "id": 68,
+        "Question": "Using _________ on categorical data will produce similar output to a Series or DataFrame of type string.",
+        "Options": [
+            "a) .desc()",
+            "b) .describe()",
+            "c) .rank()",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You can also convert indices to yield another index."
+    },
+    {
+        "id": 69,
+        "Question": "Which of the following method can be used to rename categorical data?",
+        "Options": [
+            "a) Categorical.rename_categories()",
+            "b) Categorical.rename()",
+            "c) Categorical.mv_categories()",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Categorical data has a categories and a ordered property."
+    },
+    {
+        "id": 70,
+        "Question": "The plot method on Series and DataFrame is just a simple wrapper around ____________",
+        "Options": [
+            "a) gplt.plot()",
+            "b) plt.plot()",
+            "c) plt.plotgraph()",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If the index consists of dates, it calls gcf().autofmt_xdate() to try to format the x-axis nicely."
+    },
+    {
+        "id": 71,
+        "Question": "Point out the correct combination with regards to kind keyword for graph plotting.",
+        "Options": [
+            "a) ‘hist’ for histogram",
+            "b) ‘box’ for boxplot",
+            "c) ‘area’ for area plots",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The kind keyword argument of plot() accepts a handful of values for plots other than the default Line plot."
+    },
+    {
+        "id": 72,
+        "Question": "Which of the following value is provided by kind keyword for barplot?",
+        "Options": [
+            "a) bar",
+            "b) kde",
+            "c) hexbin",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: bar can also be used for barplot."
+    },
+    {
+        "id": 73,
+        "Question": "You can create a scatter plot matrix using the __________ method in pandas.tools.plotting.",
+        "Options": [
+            "a) sca_matrix",
+            "b) scatter_matrix",
+            "c) DataFrame.plot",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: You can create density plots using the Series/DataFrame.plot."
+    },
+    {
+        "id": 74,
+        "Question": "Point out the wrong combination with regards to kind keyword for graph plotting.",
+        "Options": [
+            "a) ‘scatter’ for scatter plots",
+            "b) ‘kde’ for hexagonal bin plots",
+            "c) ‘pie’ for pie plots",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: kde is used for density plots."
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following plots are used to check if a data set or time series is random?",
+        "Options": [
+            "a) Lag",
+            "b) Random",
+            "c) Lead",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Random data should not exhibit any structure in the lag plot."
+    },
+    {
+        "id": 76,
+        "Question": "Which of the following plots are often used for checking randomness in time series?",
+        "Options": [
+            "a) Autocausation",
+            "b) Autorank",
+            "c) Autocorrelation",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: There are several plotting functions in pandas.tools.plotting."
+    },
+    {
+        "id": 77,
+        "Question": "__________ plots are used to visually assess the uncertainty of a statistic.",
+        "Options": [
+            "a) Lag",
+            "b) RadViz",
+            "c) Bootstrap",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: If the time series is random, such autocorrelations should be near zero for any and all time-lag separations."
+    },
+    {
+        "id": 78,
+        "Question": "Which of the following is used to compute the percent change over a given number of periods?",
+        "Options": [
+            "a) pct_change",
+            "b) percent_change",
+            "c) per_change",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Series, DataFrame, and Panel all have a method pct_change."
+    },
+    {
+        "id": 79,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Pandas represents timestamps in microsecond resolution",
+            "b) Pandas is 100% thread safe",
+            "c) For Series and DataFrame objects, var normalizes by N-1 to produce unbiased estimates",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Pandas represents timestamps in nanosecond resolution."
+    },
+    {
+        "id": 80,
+        "Question": "Which of the following object has a method cov to compute covariance between series?",
+        "Options": [
+            "a) Series",
+            "b) DataFrame",
+            "c) Panel",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: DataFrame has a method cov to compute pairwise covariances among the series in the DataFrame, also excluding NA/null values."
+    },
+    {
+        "id": 81,
+        "Question": "Which of the following specifies the required minimum number of observations for each column pair in order to have a valid result?",
+        "Options": [
+            "a) min_periods",
+            "b) max_periods",
+            "c) minimum_periods",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: DataFrame.cov also supports an optional min_periods."
+    },
+    {
+        "id": 82,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) lxml is very fast",
+            "b) lxml requires Cython to install correctly",
+            "c) lxml does not make any guarantees about the results of it’s parse",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: There are some versioning issues surrounding the libraries that are used to parse HTML tables in the top-level pandas io function read_html."
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following is implemented on DataFrame to compute the correlation between like-labeled Series contained in different DataFrame objects?",
+        "Options": [
+            "a) corrwith",
+            "b) corwith",
+            "c) corwit",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A score close to 1 means their tastes are very similar."
+    },
+    {
+        "id": 84,
+        "Question": "Which of the following method produces a data ranking with ties being assigned the mean of the ranks for the group?",
+        "Options": [
+            "a) rank",
+            "b) dense_rank",
+            "c) partition_rank",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The binary operators take two Series or DataFrames."
+    },
+    {
+        "id": 85,
+        "Question": "Which of the following can potentially change the dtype of a series?",
+        "Options": [
+            "a) reindex_like",
+            "b) index_like",
+            "c) itime_like",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: rank is also a DataFrame method."
+    },
+    {
+        "id": 86,
+        "Question": "Which of the following thing can be data in Pandas?",
+        "Options": [
+            "a) a python dict",
+            "b) an ndarray",
+            "c) a scalar value",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The passed index is a list of axis labels."
+    },
+    {
+        "id": 87,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) If data is a list, if index is passed the values in data corresponding to the labels in the index will be pulled out",
+            "b) NaN is the standard missing data marker used in pandas",
+            "c) Series acts very similarly to a array",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If data is a dict, if index is passed the values in data corresponding to the labels in the index will be pulled out."
+    },
+    {
+        "id": 88,
+        "Question": "The result of an operation between unaligned Series will have the ________ of the indexes involved.",
+        "Options": [
+            "a) intersection",
+            "b) union",
+            "c) total",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If a label is not found in one Series or the other, the result will be marked as missing NaN."
+    },
+    {
+        "id": 89,
+        "Question": "Which of the following input can be accepted by DataFrame?",
+        "Options": [
+            "a) Structured ndarray",
+            "b) Series",
+            "c) DataFrame",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: DataFrame is a 2-dimensional labeled data structure with columns of potentially different types."
+    },
+    {
+        "id": 90,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) A DataFrame is like a fixed-size dict in that you can get and set values by index label",
+            "b) Series can be be passed into most NumPy methods expecting an ndarray",
+            "c) A key difference between Series and ndarray is that operations between Series automatically align the data based on label",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A Series is like a fixed-size dict in that you can get and set values by index label."
+    },
+    {
+        "id": 91,
+        "Question": "Which of the following takes a dict of dicts or a dict of array-like sequences and returns a DataFrame?",
+        "Options": [
+            "a) DataFrame.from_items",
+            "b) DataFrame.from_records",
+            "c) DataFrame.from_dict",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: DataFrame.from_dict operates like the DataFrame constructor except for the orient parameter which is ‘columns’ by default."
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following works analogously to the form of the dict constructor?",
+        "Options": [
+            "a) DataFrame.from_items",
+            "b) DataFrame.from_records",
+            "c) DataFrame.from_dict",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The axis labels are collectively referred to as the index."
+    },
+    {
+        "id": 93,
+        "Question": "Which of the following operation works with the same syntax as the analogous dict operations?",
+        "Options": [
+            "a) Getting columns",
+            "b) Setting columns",
+            "c) Deleting columns",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: DataFrame.from_records takes a list of tuples or an ndarray with structured dtype."
+    },
+    {
+        "id": 94,
+        "Question": "All pandas data structures are ___ mutable but not always _______mutable.",
+        "Options": [
+            "a) size, value",
+            "b) semantic, size",
+            "c) value, size",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The length of a Series cannot be changed."
+    },
+    {
+        "id": 95,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Pandas consist of set of labeled array data structures",
+            "b) Pandas consist of an integrated group by engine for aggregating and transforming data sets",
+            "c) Pandas consist of moving window statistics",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Some elements may be close to one another according to one distance and farther away according to another."
+    },
+    {
+        "id": 96,
+        "Question": "Which of the following statement will import pandas?",
+        "Options": [
+            "a) import pandas as pd",
+            "b) import panda as py",
+            "c) import pandaspy as pd",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You can read data from a CSV file using the read_csv function."
+    },
+    {
+        "id": 97,
+        "Question": "Which of the following object you get after reading CSV file?",
+        "Options": [
+            "a) DataFrame",
+            "b) Character Vector",
+            "c) Panel",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You get columns out of a DataFrame the same way you get elements out of a dictionary."
+    },
+    {
+        "id": 98,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Series is 1D labeled homogeneously-typed array",
+            "b) DataFrame is general 2D labeled, size-mutable tabular structure with potentially heterogeneously-typed columns",
+            "c) Panel is generally 2D labeled, also size-mutable array",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Panel is generally 3D labeled."
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following library is similar to Pandas?",
+        "Options": [
+            "a) NumPy",
+            "b) RPy",
+            "c) OutPy",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: NumPy is the fundamental package for scientific computing with Python."
+    },
+    {
+        "id": 100,
+        "Question": "Which of the following is prominent python “statistics and econometrics library”?",
+        "Options": [
+            "a) Bokeh",
+            "b) Seaborn",
+            "c) Statsmodels",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: DataFrame is a container for Series, and panel is a container for dataFrame objects."
+    },
+    {
+        "id": 101,
+        "Question": "Which of the following is a foundational exploratory visualization package for the R language in pandas ecosystem?",
+        "Options": [
+            "a) yhat",
+            "b) Seaborn",
+            "c) Vincent",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Bokeh is a Python interactive visualization library for large datasets that natively uses the latest web technologies."
+    },
+    {
+        "id": 102,
+        "Question": "Quandl API for Python wraps the ________ REST API to return Pandas DataFrames with time series indexes.",
+        "Options": [
+            "a) Quandl",
+            "b) PyDatastream",
+            "c) PyData",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: PyDatastream is a Python interface to the Thomson Dataworks Enterprise (DWE/Datastream) SOAP API to return indexed pandas dataFrames or panels with financial data."
+    },
+    {
+        "id": 103,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Statsmodels provides powerful statistics, econometrics, analysis and modeling functionality that is out of panda’s scope",
+            "b) Vintage leverages pandas objects as the underlying data container for computation",
+            "c) Bokeh is a Python interactive visualization library for small datasets",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Bokeh goal is to provide elegant, concise construction of novel graphics in the style of D3."
+    },
+    {
+        "id": 104,
+        "Question": "Which of the following library is used to retrieve and acquire statistical data and metadata disseminated in SDMX 2.1?",
+        "Options": [
+            "a) pandaSDMX",
+            "b) freedapi",
+            "c) geopandas",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Geopandas extends pandas data objects to include geographic information which supports geometric operations."
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following provides a standard API for doing computations with MongoDB?",
+        "Options": [
+            "a) Blaze",
+            "b) Geopandas",
+            "c) FRED",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If your work entails maps and geographical coordinates, and you love pandas, you should take a close look at Geopandas."
+    },
+    {
+        "id": 106,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) qgrid is an interactive grid for sorting and filtering DataFrames",
+            "b) Pandas DataFrames implement _repr_html_ methods which are utilized by IPython Notebook",
+            "c) Spyder is a cross-platform Qt-based open-source R IDE",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Spyder is a cross-platform Qt-based open-source Python IDE."
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following makes use of pandas and returns data in a series or dataFrame?",
+        "Options": [
+            "a) pandaSDMX",
+            "b) freedapi",
+            "c) OutPy",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: freedapi module requires a FRED API key that you can obtain for free on the FRED website."
+    },
+    {
+        "id": 108,
+        "Question": "Which of the following is used for machine learning in python?",
+        "Options": [
+            "a) scikit-learn",
+            "b) seaborn-learn",
+            "c) stats-learn",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Spyder show both “column wise min/max and global min/max coloring."
+    },
+    {
+        "id": 109,
+        "Question": "The ________ project builds on top of pandas and matplotlib to provide easy plotting of data.",
+        "Options": [
+            "a) yhat",
+            "b) Seaborn",
+            "c) Vincent",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: scikit-learn is built on NumPy, SciPy, and matplotlib."
+    },
+    {
+        "id": 110,
+        "Question": "Which of the following is the base layer for all of the sparse indexed data structures?",
+        "Options": [
+            "a) SArray",
+            "b) SparseArray",
+            "c) PyArray",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: SparseArray is a 1-dimensional ndarray-like object storing only values distinct from the fill_value."
+    },
+    {
+        "id": 111,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) All of the standard pandas data structures have a to_sparse method",
+            "b) Any sparse object can be converted back to the standard dense form by calling to_dense",
+            "c) The sparse objects exist for memory efficiency reasons",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The to_sparse method takes a kind argument and a fill_value."
+    },
+    {
+        "id": 112,
+        "Question": "Which of the following is not an indexed object?",
+        "Options": [
+            "a) SparseSeries",
+            "b) SparseDataFrame",
+            "c) SparsePanel",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: SparseArray can be converted back to a regular ndarray by calling to_dense."
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following list-like data structure is used for managing a dynamic collection of SparseArrays?",
+        "Options": [
+            "a) SparseList",
+            "b) GeoList",
+            "c) SparseSeries",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: To create one, simply call the SparseList constructor with a fill_value."
+    },
+    {
+        "id": 114,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) to_array. append can accept scalar values or any 2-dimensional sequence",
+            "b) Two kinds of SparseIndex are implemented",
+            "c) The integer format keeps an arrays of all of the locations where the data are not equal to the fill value",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: to_array. append can accept scalar values or any 1-dimensional sequence."
+    },
+    {
+        "id": 115,
+        "Question": "Which of the following method is used for transforming a SparseSeries indexed by a MultiIndex to a scipy.sparse.coo_matrix?",
+        "Options": [
+            "a) SparseSeries.to_coo()",
+            "b) Series.to_coo()",
+            "c) SparseSeries.to_cooser()",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Experimental api to transform between sparse pandas and scipy.sparse structures."
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following is used for testing for membership in the list of column names?",
+        "Options": [
+            "a) in",
+            "b) out",
+            "c) elseif",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The block format tracks only the locations and sizes of blocks of data."
+    },
+    {
+        "id": 117,
+        "Question": "Which of the following indexing capabilities is used as a concise means of selecting data from a pandas object?",
+        "Options": [
+            "a) In",
+            "b) ix",
+            "c) ipy",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: For DataFrames, likewise, in applies to the column axis."
+    },
+    {
+        "id": 118,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Data has only qualitative value",
+            "b) Data has only quantitative value",
+            "c) Data has both qualitative and quantitative value",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Characteristics mentioned in the diagram are traits of processed data."
+    },
+    {
+        "id": 119,
+        "Question": "Data that summarize all observations in a category are called __________ data.",
+        "Options": [
+            "a) frequency",
+            "b) summarized",
+            "c) raw",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Data belongs to the set of items."
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following is an example of raw data?",
+        "Options": [
+            "a) original swath files generated from a sonar system",
+            "b) initial time-series file of temperature values",
+            "c) a real-time GPS-encoded navigation file",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The summary could be the sum of the observations, the number of occurrences, their mean value, and so on."
+    },
+    {
+        "id": 121,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Primary data is original source of data",
+            "b) Secondary data is original source of data",
+            "c) Questions are obtained after data processing steps",
+            "d) None of the Mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Raw data refers to data that have not been changed since acquisition."
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following data is put into a formula to produce commonly accepted results?",
+        "Options": [
+            "a) Raw",
+            "b) Processed",
+            "c) Synchronized",
+            "d) All of the Mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Primary data is also referred to as raw data."
+    },
+    {
+        "id": 123,
+        "Question": "Which of the following is another name for raw data?",
+        "Options": [
+            "a) destination data",
+            "b) eggy data",
+            "c) secondary",
+            "d) machine learning"
+        ],
+        "Answer": "Answer: b\nExplanation: Raw data came from direct measurements."
+    },
+    {
+        "id": 124,
+        "Question": "Which type of data is generated by POS terminal in a busy supermarket each day?",
+        "Options": [
+            "a) Source",
+            "b) Processed",
+            "c) Synchronized",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: There are many other techniques applied to raw data."
+    },
+    {
+        "id": 125,
+        "Options": [
+            "10. Following figure represents correct sequence of steps in performing data analysis.",
+            "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2015/10/data-science-questions-answers-raw-processed-data-q10.png\" alt=\"data-science-questions-answers-raw-processed-data-q10\" width=\"300\" height=\"296\" class=\"alignnone size-full wp-image-179392\" />",
+            "a) True",
+            "b) False"
+        ],
+        "Answer": "Answer: b\nExplanation: Although raw data has the potential to become “information,” extraction, organization, and sometimes analysis and formatting for presentation are required for that to occur."
+    },
+    {
+        "id": 126,
+        "Question": "Which of the following is an example of tidy data?",
+        "Options": [
+            "a) complicated JSON from facebook API",
+            "b) complicated JSON from Twitter API",
+            "c) unformatted excel file",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Tidy data is obtained after processing script."
+    },
+    {
+        "id": 127,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Nearly 80% of data analysis is spent on wrangling data",
+            "b) Nearly 20% of data analysis is spent on data dredging",
+            "c) Nearly 80% of data analysis is spent on the cleaning and preparing data",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Data cleansing is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database."
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following is a trait of tidy data?",
+        "Options": [
+            "a) each variable in one column",
+            "b) each observation in different row",
+            "c) one table for each kind of variable",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The summary could be the sum of the observations, the number of occurrences, their mean value, and so on."
+    },
+    {
+        "id": 129,
+        "Question": "Which of the following package is used for tidy data?",
+        "Options": [
+            "a) tidyr",
+            "b) souryr",
+            "c) NumPy",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: tidyr is used for tidy data with spread and gather functions."
+    },
+    {
+        "id": 130,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Tidy datasets are all alike but every messy dataset is messy in its own way",
+            "b) Most statistical datasets are data frames made up of rows and columns",
+            "c) Tidy datasets provide a standardized way to link the structure of a dataset with its semantics",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The tidy data standard has been designed to simplify the development of data analysis tools that work well together."
+    },
+    {
+        "id": 131,
+        "Question": "Which of the following process involves structuring datasets to facilitate analysis?",
+        "Options": [
+            "a) Data tidying",
+            "b) Data mining",
+            "c) Data booting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The principles of tidy data provide a standard way to organize data values within a dataset."
+    },
+    {
+        "id": 132,
+        "Question": "Which of the following is the most common problem with messy data?",
+        "Options": [
+            "a) Column headers are values",
+            "b) Variables are stored in both rows and columns",
+            "c) A single observational unit is stored in multiple tables",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Data sets stored in spreadsheets, such as Microsoft’s Excel, are binary, not raw ASCII data files."
+    },
+    {
+        "id": 133,
+        "Question": "tidyr is a reframing of _______ designed to accompany the tidy data framework.",
+        "Options": [
+            "a) reshape5",
+            "b) dplyr",
+            "c) reshape2",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Real datasets can, and often do, violate the three precepts of tidy data in almost every way imaginable."
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following function is used for loading flat files?",
+        "Options": [
+            "a) read.data",
+            "b) read.sheet",
+            "c) read.table",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: This reads data in to the RAM."
+    },
+    {
+        "id": 135,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) XLConnect package has more options for manipulating access files",
+            "b) XLConnect vignette package can also be used for manipulating excel files",
+            "c) write.xlsx write out an excel file with different argument",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: write.xlsx write out an excel file with similar argument."
+    },
+    {
+        "id": 136,
+        "Question": "Which of the following is an important parameter of read.table function?",
+        "Options": [
+            "a) file",
+            "b) header",
+            "c) sep",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: More parameters are required for loading the data."
+    },
+    {
+        "id": 137,
+        "Question": "Which of the following will set the character that represents missing value?",
+        "Options": [
+            "a) na.quote",
+            "b) na.strings",
+            "c) nrows",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: na.strings takes a character vector."
+    },
+    {
+        "id": 138,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) data.table inherits from data.frame",
+            "b) data.table is written in Java",
+            "c) data.table is faster at subsetting and updating data",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: data.table is written in C."
+    },
+    {
+        "id": 139,
+        "Question": "Which of the following package is used for reading excel data?",
+        "Options": [
+            "a) xlsx",
+            "b) xlsc",
+            "c) read.sheet",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: read.xlsx and read.xlsx functions are part of xlsx package."
+    },
+    {
+        "id": 140,
+        "Question": "Which of the following can be used to view all the tables in memory?",
+        "Options": [
+            "a) tables",
+            "b) alltable",
+            "c) table",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The table function is a very basic, but essential, function to master while performing interactive data analyses."
+    },
+    {
+        "id": 141,
+        "Question": "Which of the following function programmatically extract parts of XML file?",
+        "Options": [
+            "a) XmlSApply",
+            "b) XmlApply",
+            "c) XmlSApplyData",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: xmlSApply are simple wrappers for tapply and lappy functions."
+    },
+    {
+        "id": 142,
+        "Question": "Which of the following package is used for reading JSON data?",
+        "Options": [
+            "a) jsonlite",
+            "b) json",
+            "c) jsondata",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The jsonlite package is a JSON generator optimized for the web."
+    },
+    {
+        "id": 143,
+        "Question": "Which of the following package is used to connect MySQL RDBMS with R?",
+        "Options": [
+            "a) RMySQL vignette",
+            "b) MySQL vignette",
+            "c) RSQL vignette",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: This package contains meta information and index."
+    },
+    {
+        "id": 144,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) HDF5 is a hierarchical format",
+            "b) HDF5 does not support range of different data types",
+            "c) HDF5 is used for storing small datasets",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: HDF5 is used for storing large datasets."
+    },
+    {
+        "id": 145,
+        "Question": "Which of the following is used to extract data from HTML code of websites?",
+        "Options": [
+            "a) Webscraping",
+            "b) Webdredging",
+            "c) Webcleaning",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Webscraping is a great way to get data."
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following function is used to read data off the webpages?",
+        "Options": [
+            "a) read.web",
+            "b) read.Lines",
+            "c) read.Line",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: read.Lines function will extract the web page data."
+    },
+    {
+        "id": 147,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) hdf5 can be used to reading/writing from disc in Python",
+            "b) rhdf5 is an interface for hdf5 format",
+            "c) maximum size of an HDF5 dataset is fixed when it is created",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: hdf5 can be used to reading/writing from disc in R."
+    },
+    {
+        "id": 148,
+        "Question": "Which of the following package is used for reading HTML and XML data?",
+        "Options": [
+            "a) httr",
+            "b) http",
+            "c) httx",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: httr contains tools for Working with URLs and HTTP."
+    },
+    {
+        "id": 149,
+        "Question": "Which of the following request can be issued from httr package?",
+        "Options": [
+            "a) GET",
+            "b) PUT",
+            "c) DELETE",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Most modern APIs use something like oauth."
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following package loads data from SPSS?",
+        "Options": [
+            "a) read.spss(SPSS)",
+            "b) read.oct(SPSS)",
+            "c) read.xpot(SPSS)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Authentication is necessary for issuing a request."
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following package is used for reading GIS data?",
+        "Options": [
+            "a) rdgal",
+            "b) rgeos",
+            "c) raster",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: SPSS is a comprehensive and flexible statistical analysis and data management solution."
+    },
+    {
+        "id": 152,
+        "Question": "Which of the following function gives information about top level data?",
+        "Options": [
+            "a) head",
+            "b) tail",
+            "c) summary",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The function head is very useful for working with lists, tables, data frames and even functions."
+    },
+    {
+        "id": 153,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) head function work on string",
+            "b) tail function work on string",
+            "c) head function work on string but tail function do not",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Both head and tail function do not work on strings."
+    },
+    {
+        "id": 154,
+        "Question": "Which of the following function is used for quantiles of quantitative values?",
+        "Options": [
+            "a) quantile",
+            "b) quantity",
+            "c) quantiles",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In probability and statistics, the quantile function specifies, for a given probability in the probability distribution of a random variable, the value at which the probability of the random variable will be less than or equal to that probability."
+    },
+    {
+        "id": 155,
+        "Question": "Which of the following function is used for determining missing values?",
+        "Options": [
+            "a) any",
+            "b) all",
+            "c) is",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In R, missing values are represented by the symbol NA."
+    },
+    {
+        "id": 156,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Common variables are used to create missingness vector",
+            "b) Common variables are used to cutting up quantitative variables",
+            "c) Common variables are not used to apply transforms",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Common variables are not used to apply transforms."
+    },
+    {
+        "id": 157,
+        "Question": "Which of the following transforms can be performed with data value?",
+        "Options": [
+            "a) log2",
+            "b) cos",
+            "c) log10",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Many common transforms can be applied to the data with R."
+    },
+    {
+        "id": 158,
+        "Question": "Which of the following function is used for casting data frames?",
+        "Options": [
+            "a) dcast",
+            "b) ucast",
+            "c) rcast",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Each variable forms a column in tidy data."
+    },
+    {
+        "id": 159,
+        "Question": "Which of the following join is by default used in plyr package?",
+        "Options": [
+            "a) left",
+            "b) right",
+            "c) full",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Use acast or dcast depending on whether you want vector/matrix/array output or data frame output."
+    },
+    {
+        "id": 160,
+        "Question": "Which of the following function is good for the automatic splitting of names?",
+        "Options": [
+            "a) split",
+            "b) strsplit",
+            "c) autsplit",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: strsplit split a character string or vector of character strings using a regular expression or a literal string."
+    },
+    {
+        "id": 161,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) gsub is used for fixing character vectors",
+            "b) sub is used for finding values like grep",
+            "c) grep is used for fixing character vectors",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: sub and gsub is used for fixing character vectors."
+    },
+    {
+        "id": 162,
+        "Question": "Which of the following function is used for fixing character vectors?",
+        "Options": [
+            "a) tolower",
+            "b) toUPPER",
+            "c) toLOWER",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It translates character to lowercase."
+    },
+    {
+        "id": 163,
+        "Question": "Which of the following metacharacter is used to refer to any character?",
+        "Options": [
+            "a) %",
+            "b) @",
+            "c) .",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: A dot in function name can mean any of the following: nothing at all; a separator between method and class in S3 method."
+    },
+    {
+        "id": 164,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Variables with character values should be made less descriptive",
+            "b) Variables with character values should usually be made into factor variable",
+            "c) Common variables are used to apply transforms",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Variables with character values should be made more descriptive."
+    },
+    {
+        "id": 165,
+        "Question": "Which of the following is used for specifying character class with metacharacter?",
+        "Options": [
+            "a) [] ",
+            "b) {}",
+            "c) /+",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You can list set of characters to accept a given point in the match."
+    },
+    {
+        "id": 166,
+        "Question": "Which of the following signs are used to indicate repetition?",
+        "Options": [
+            "a) #",
+            "b) *",
+            "c) –",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Regular expressions have rich set of metacharacters."
+    },
+    {
+        "id": 167,
+        "Question": "Which of the following function is used for searching text strings by means of regular expression?",
+        "Options": [
+            "a) grepd",
+            "b) grepl",
+            "c) gepexpr",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: * and + are metacharacters for repetition of data."
+    },
+    {
+        "id": 168,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) On Mac, the screen device is launched with quartz",
+            "b) On Windows, the screen device is launched with wind",
+            "c) On Unix, the screen device is launched with x12",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: unix keyword does not exist with regards to graphics device."
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is an example of graphics device?",
+        "Options": [
+            "a) PDF",
+            "b) SVG",
+            "c) JPEG",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: On Windows, the screen device is launched with window function."
+    },
+    {
+        "id": 170,
+        "Question": "Which of the following file format is graphic device only for windows?",
+        "Options": [
+            "a) pdf",
+            "b) svg",
+            "c) win.metafile",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: When the plot() function is invoked, R sends the data corresponding to the plot over, and the graphics device generates the plot."
+    },
+    {
+        "id": 171,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) For quick visualizations and exploratory analysis, usually you want to use the screen device",
+            "b) Functions like xyplot in lattice will not default to sending a plot to the screen device",
+            "c) Not all graphics devices are available on all platforms",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Exporting graphics to a Windows MetaFile can be achieved via the win.metafile."
+    },
+    {
+        "id": 172,
+        "Question": "Which of the following system most often don’t have postscript viewer?",
+        "Options": [
+            "a) Windows",
+            "b) Linux",
+            "c) Mac",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: window function cannot be used on Mac."
+    },
+    {
+        "id": 173,
+        "Question": "Which of the following is a bitmap file type?",
+        "Options": [
+            "a) tiff",
+            "b) svg",
+            "c) pdf",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: postscript is older format but it resizes well."
+    },
+    {
+        "id": 174,
+        "Question": "Which of the following function displays currently active graphics device?",
+        "Options": [
+            "a) dev.present",
+            "b) dev.cur",
+            "c) pre.cur",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: There are mainly basic types of file devices-vector and bitmap."
+    },
+    {
+        "id": 175,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Vector formats are good for line drawings and plots with solid colors using a modest number of points",
+            "b) Vector formats are good for plots with a large number of points, natural scenes or web based plots",
+            "c) The default graphics device is always the screen device",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: R makes it easy to combine multiple plots into one overall graph, using either the par( ) or layout( ) function."
+    },
+    {
+        "id": 176,
+        "Question": "Which of the following will copy the plot from one device to another?",
+        "Options": [
+            "a) dev.copy",
+            "b) dev.copypdf",
+            "c) dev.device",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Bitmap formats are good for plots with a large number of points, natural scenes or web based plots."
+    },
+    {
+        "id": 177,
+        "Question": "Which of the following is used to change active graphic device?",
+        "Options": [
+            "a) dev.set",
+            "b) dev.int",
+            "c) dev.win",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Copying a plot to another device can be useful because some plots require a lot of code and it can be a pain to type all that in again for a different device."
+    },
+    {
+        "id": 178,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) File devices are useful for creating plots that can be included in other documents or sent to other people",
+            "b) Plots must be created on a graphics device",
+            "c) For file devices, there are vector and bitmap formats",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: You can change the active graphics device with dev.set(<integer>) where <integer> is the number associated with the graphics device you want to switch to."
+    },
+    {
+        "id": 179,
+        "Question": "Which of the following is the second goal of PCA?",
+        "Options": [
+            "a) data compression",
+            "b) statistical analysis",
+            "c) data dredging",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: For file devices, there are vector and bitmap formats."
+    },
+    {
+        "id": 180,
+        "Question": "Which of the following is a vector file device?",
+        "Options": [
+            "a) png",
+            "b) svg",
+            "c) bmp",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The principal components are equal to the right singular values if you first scale the variables."
+    },
+    {
+        "id": 181,
+        "Question": "Which of the following is alternative technique toprincipal component analysis?",
+        "Options": [
+            "a) Factor analysis",
+            "b) Independent components analysis",
+            "c) Latent semantic analysis",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Copying a plot is not an exact operation, so the result may not be identical to the original."
+    },
+    {
+        "id": 182,
+        "Question": "Which of the following annotation function is used to add or modify text?",
+        "Options": [
+            "a) word",
+            "b) graph",
+            "c) lines",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: 5 number summary is one dimensional graph."
+    },
+    {
+        "id": 183,
+        "Question": "Which of the following package is implemented by lattice plotting system?",
+        "Options": [
+            "a) grDevices",
+            "b) grid",
+            "c) graphics",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: A bar plot represents an estimate of central tendency for a numeric variable with the height of each rectangle."
+    },
+    {
+        "id": 184,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Plot are created with multiple functions only",
+            "b) Plots are created with both single and multiple function calls",
+            "c) Annotation in plot is not especially intuitive",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: points and axis are other well known annotation function."
+    },
+    {
+        "id": 185,
+        "Question": "Which of the following parameter defines line type such as dashed and dotted?",
+        "Options": [
+            "a) lty",
+            "b) pch",
+            "c) lwd",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Use grid on to display the major grid lines."
+    },
+    {
+        "id": 186,
+        "Question": "Which of the following argument specifies margin size with regards to par function?",
+        "Options": [
+            "a) las",
+            "b) bg",
+            "c) mar",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Plots are created with single function also."
+    },
+    {
+        "id": 187,
+        "Question": "How many stages commonly occurs in creation of plot?",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 8",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: lwd is used for line width."
+    },
+    {
+        "id": 188,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) The choice of an appropriate metric will influence the shape of the clusters",
+            "b) Hierarchical clustering is also called HCA",
+            "c) In general, the merges and splits are determined in a greedy manner",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Hierarchical clustering groups data over a variety of scales by creating a cluster tree or dendrogram."
+    },
+    {
+        "id": 189,
+        "Question": "Which of the following is finally produced by Hierarchical Clustering?",
+        "Options": [
+            "a) final estimate of cluster centroids",
+            "b) tree showing how close things are to each other",
+            "c) assignment of each point to clusters",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Some elements may be close to one another according to one distance and farther away according to another."
+    },
+    {
+        "id": 190,
+        "Question": "Which of the following is required by K-means clustering?",
+        "Options": [
+            "a) defined distance metric",
+            "b) number of clusters",
+            "c) initial guess as to cluster centroids",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Hierarchical clustering is an agglomerative approach."
+    },
+    {
+        "id": 191,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) k-means clustering is a method of vector quantization",
+            "b) k-means clustering aims to partition n observations into k clusters",
+            "c) k-nearest neighbor is same as k-means",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: K-means clustering follows partitioning approach."
+    },
+    {
+        "id": 192,
+        "Question": "Which of the following combination is incorrect?",
+        "Options": [
+            "a) Continuous – euclidean distance",
+            "b) Continuous – correlation similarity",
+            "c) Binary – manhattan distance",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: k-nearest neighbor has nothing to do with k-means."
+    },
+    {
+        "id": 193,
+        "Question": "Which of the following function is used for k-means clustering?",
+        "Options": [
+            "a) k-means",
+            "b) k-mean",
+            "c) heatmap",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: You should choose a distance/similarity that makes sense for your problem."
+    },
+    {
+        "id": 194,
+        "Question": "Which of the following clustering requires merging approach?",
+        "Options": [
+            "a) Partitional",
+            "b) Hierarchical",
+            "c) Naive Bayes",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Hierarchical clustering is deterministic."
+    },
+    {
+        "id": 195,
+        "Question": "Which of the following gave rise to need of graphs in data analysis?",
+        "Options": [
+            "a) Data visualization",
+            "b) Communicating results",
+            "c) Decision making",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Making plots of the data reveals various interesting features."
+    },
+    {
+        "id": 196,
+        "Question": "Which of the following is characteristic of exploratory graph?",
+        "Options": [
+            "a) Made slowly",
+            "b) Axes are not cleaned up",
+            "c) Color is used for personal information",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: A two-dimensional graph is a set of points in two-dimensional space."
+    },
+    {
+        "id": 197,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) coplots are one dimensional data graph",
+            "b) Exploratory graphs are made quickly",
+            "c) Exploratory graphs are made relatively less in number",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: A picture can tell better story than data."
+    },
+    {
+        "id": 198,
+        "Question": "Which of the following graph can be used for simple summarization of data?",
+        "Options": [
+            "a) Scatterplot",
+            "b) Overlaying",
+            "c) Barplot",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: A large number of exploratory graphs are made."
+    },
+    {
+        "id": 199,
+        "Question": "Which of the following information is not given by five-number summary?",
+        "Options": [
+            "a) Mean",
+            "b) Median",
+            "c) Mode",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: coplot is used for two dimensional representation."
+    },
+    {
+        "id": 200,
+        "Question": "Which of the following is also referred to as overlayed 1D plot?",
+        "Options": [
+            "a) lattice",
+            "b) barplot",
+            "c) gplot",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: A bar chart or bar graph is a chart that presents Grouped data with rectangular bars with lengths proportional to the values that they represent."
+    },
+    {
+        "id": 201,
+        "Question": "Which of the following problem is solved by reproducibility?",
+        "Options": [
+            "a) Scalability",
+            "b) Data availability",
+            "c) Improved data analysis",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: More transparency is achieved with reproducibility."
+    },
+    {
+        "id": 202,
+        "Question": "Point out the correct statement with respect to replication.",
+        "Options": [
+            "a) Focuses on the validity of the data analysis",
+            "b) Focuses on the validity of the scientific claim",
+            "c) Arguably a minimum standard for any scientific study",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Data replication if the same data is stored on multiple storage device."
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following is effective way of checking validity of data analysis?",
+        "Options": [
+            "a) Re-run the analysis",
+            "b) Review the code",
+            "c) Check the sensitivity",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Reproducibility addresses the most “downstream” aspect of the research process."
+    },
+    {
+        "id": 204,
+        "Question": "Which of the following is similar to a pre-specified clinical trial protocol?",
+        "Options": [
+            "a) Caching-based Data Analysis",
+            "b) Evidence-based Data Analysis",
+            "c) Markdown-based Data Analysis",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Evidence-based Data Analysis a deterministic statistical machine."
+    },
+    {
+        "id": 205,
+        "Question": "Point out the wrong statement with respect to reproducibility.",
+        "Options": [
+            "a) Focuses on the validity of the data analysis",
+            "b) The ultimate standard for strengthening scientific evidence",
+            "c) Important when replication is impossible",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Replication is particularly important in studies that can impact broad policy or regulatory decisions."
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following can be used for data analysis model?",
+        "Options": [
+            "a) CRAN",
+            "b) CPAN",
+            "c) CTAN",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Different problems require different approaches and expertise."
+    },
+    {
+        "id": 207,
+        "Question": "Which of the following step is not required in data analysis?",
+        "Options": [
+            "a) Synthesize results",
+            "b) Create reproducible code",
+            "c) Interpret results",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Reproducibility has nothing to do with validity of data analysis."
+    },
+    {
+        "id": 208,
+        "Question": "Which of the following gives reviewers an important tool without dramatically increasing the burden?",
+        "Options": [
+            "a) Quality research",
+            "b) Replication research",
+            "c) Reproducible research",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The data set may depend on your goal."
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following is suitable for knitr?",
+        "Options": [
+            "a) Reports",
+            "b) Data preprocessing documents",
+            "c) Technical manuals",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr has short technical documents."
+    },
+    {
+        "id": 210,
+        "Question": "Point out the correct combination related to output statements.",
+        "Options": [
+            "a) results: “asis”",
+            "b) echo: true",
+            "c) echo=false",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Global option relating to echo have values TRUE and FALSE."
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following is required for not echoing the code?",
+        "Options": [
+            "a) echo=TRUE",
+            "b) print=TRUE",
+            "c) echo=FALSE",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Code has to be written to set the global options."
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following global options are available for figures in knitr?",
+        "Options": [
+            "a) fig.height",
+            "b) fig.size",
+            "c) fig.breadth",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: fig.height has numeric value."
+    },
+    {
+        "id": 213,
+        "Question": "Which of the following global option has value “hide”?",
+        "Options": [
+            "a) results",
+            "b) fig.width",
+            "c) echo",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Workflow R Markdown is a format for writing reproducible, dynamic reports with R."
+    },
+    {
+        "id": 214,
+        "Question": "Which of the following is the correct order of conversion?",
+        "Options": [
+            "a) .md->.Rmd->.html",
+            "b) .Rmd->.md->.html",
+            "c) .Rmd->.md->.xml",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr converts markdown document in to html by default."
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following statement is used for importing knitr library?",
+        "Options": [
+            "a) library(knitr)",
+            "b) import knitr",
+            "c) lib(knitr)",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: knitr is poor for complex time-consuming computations."
+    },
+    {
+        "id": 216,
+        "Question": "The document produced by knitr document has which of the following extension?",
+        "Options": [
+            "a) .md",
+            "b) .rmd",
+            "c) .html",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr is not good for documents that require precise formatting."
+    },
+    {
+        "id": 217,
+        "Question": "What is the role of processing code in the research pipeline?",
+        "Options": [
+            "a) Transforms the analytical results into figures and tables",
+            "b) Transforms the analytic data into measured data",
+            "c) Transforms the measured data into analytic data",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Data science workflow is a non-linear, iterative process."
+    },
+    {
+        "id": 218,
+        "Question": "Which of the following is a goal of literate statistical programming?",
+        "Options": [
+            "a) Combine explanatory text and data analysis code in a single document",
+            "b) Ensure that data analysis documents are always exported in JPEG format",
+            "c) Require those data analysis summaries are always written in R",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Literate Statistical Practice is a programming methodology."
+    },
+    {
+        "id": 219,
+        "Question": "What does it mean to weave a literate statistical program?",
+        "Options": [
+            "a) Convert a program from S to python",
+            "b) Convert the program into a human readable document",
+            "c) Convert a program to decompress it",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Literate Statistical Programming can be done with knitr."
+    },
+    {
+        "id": 220,
+        "Question": "Which of the following is required to implement a literate programming system?",
+        "Options": [
+            "a) A programming language like Perl",
+            "b) A programming language like Java",
+            "c) A programming language like R",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: R is a language and environment for statistical computing and graphics."
+    },
+    {
+        "id": 221,
+        "Question": "What is one way in which the knitr system differs from Sweave?",
+        "Options": [
+            "a) knitr allows for the use of markdown instead of LaTeX",
+            "b) knitr is written in python instead of R",
+            "c) knitr lacks features like caching of code chunks",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr is an engine for dynamic report generation with R."
+    },
+    {
+        "id": 222,
+        "Question": "Which of the following is useful way to put text, code, data, output all in one document?",
+        "Options": [
+            "a) Literate statistical programming",
+            "b) Object oriented programming",
+            "c) Descriptive programming",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Object-oriented programming is a programming language model organized around objects rather than “actions” and data rather than logic."
+    },
+    {
+        "id": 223,
+        "Question": "Which of the following tool can be used for integrating text and code in one document?",
+        "Options": [
+            "a) knitr",
+            "b) ggplot2",
+            "c) NumPy",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: All chunks have to be re-computed every time you re-knit the file."
+    },
+    {
+        "id": 224,
+        "Question": "Which of the following should be set on chunk by chunk basis to store results of computation?",
+        "Options": [
+            "a) cache=TRUE",
+            "b) cache=FALSE",
+            "c) caching=TRUE",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr is a way to write LaTeX, HTML, and Markdown with R code interlaced."
+    },
+    {
+        "id": 225,
+        "Question": "Original idea comes of Literate Statistical Practice from _______________",
+        "Options": [
+            "a) Don Knuth",
+            "b) Don Cutting",
+            "c) Douglas Cutting",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Literate programs are tangled to produce machine readable documents."
+    },
+    {
+        "id": 226,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) An article is stream of code and text",
+            "b) Analysis code is divided in to code chunks only",
+            "c) Literate programs are tangled to produce human readable documents",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Analysis code is divided in to code chunks and text."
+    },
+    {
+        "id": 227,
+        "Question": "Which of the following is required for literate programming?",
+        "Options": [
+            "a) documentation language",
+            "b) mapper language",
+            "c) reducer language",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Programming language is also required for literate programming."
+    },
+    {
+        "id": 228,
+        "Question": "Which of the following is required to implement a literate programming system?",
+        "Options": [
+            "a) A programming language like Perl",
+            "b) A programming language like Java",
+            "c) A programming language like R",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: R is a language and environment for statistical computing and graphics."
+    },
+    {
+        "id": 229,
+        "Question": "Which of the following way is required to make work reproducible?",
+        "Options": [
+            "a) keep track of things",
+            "b) Save output",
+            "c) Save data in proprietary formats",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Save data in NON proprietary formats to make work reproducible."
+    },
+    {
+        "id": 230,
+        "Question": "Which of the following disadvantage does literate programming have?",
+        "Options": [
+            "a) Slow processing of documents",
+            "b) Code is not automatic",
+            "c) No logical order",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Code and text is in one place."
+    },
+    {
+        "id": 231,
+        "Question": "Which of the following tool documentation language is supported by knitr?",
+        "Options": [
+            "a) RMarkdown",
+            "b) LaTeX",
+            "c) HTML",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: knitr supports various documentation languages."
+    },
+    {
+        "id": 232,
+        "Question": "Which of the following package by Yihui is built in to RStudio environment?",
+        "Options": [
+            "a) rpy2",
+            "b) knitr",
+            "c) ggplot2",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: knitr is available on CRAN."
+    },
+    {
+        "id": 233,
+        "Question": "Which of the following is the probability calculus of beliefs, given that beliefs follow certain rules?",
+        "Options": [
+            "a) Bayesian probability",
+            "b) Frequency probability",
+            "c) Frequency inference",
+            "d) Bayesian inference"
+        ],
+        "Answer": "Answer: a\nExplanation: Data scientists tend to fall within shades of gray of these and various other schools of inference."
+    },
+    {
+        "id": 234,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Bayesian inference is the use of Bayesian probability representation of beliefs to perform inference",
+            "b) NULL is the standard missing data marker used in S",
+            "c) Frequency inference is the use of Bayesian probability representation of beliefs to perform inference",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Frequency probability is the long run proportion of times an event occurs in independent, identically distributed repetitions."
+    },
+    {
+        "id": 235,
+        "Question": "Which of the following can be considered as random variable?",
+        "Options": [
+            "a) The outcome from the roll of a die",
+            "b) The outcome of flip of a coin",
+            "c) The outcome of exam",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The probability distribution of a discrete random variable is a list of probabilities associated with each of its possible values."
+    },
+    {
+        "id": 236,
+        "Question": "Which of the following random variable that take on only a countable number of possibilities?",
+        "Options": [
+            "a) Discrete",
+            "b) Non Discrete",
+            "c) Continuous",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Continuous random variable can take any value on some subset of the real line."
+    },
+    {
+        "id": 237,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) A random variable is a numerical outcome of an experiment",
+            "b) There are three types of random variable",
+            "c) Continuous random variable can take any value on the real line",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: There are two types of random variable-continuous and discrete."
+    },
+    {
+        "id": 238,
+        "Question": "Which of the following is also referred to as random variable?",
+        "Options": [
+            "a) stochast",
+            "b) aleatory",
+            "c) eliette",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Random variable is also known as stochastic variable."
+    },
+    {
+        "id": 239,
+        "Question": "Which of the following condition should be satisfied by function for pmf?",
+        "Options": [
+            "a) The sum of all of the possible values is 1",
+            "b) The sum of all of the possible values is 0",
+            "c) The sum of all of the possible values is infinite",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Frequency inference uses frequency interpretations of probabilities to control error rates."
+    },
+    {
+        "id": 240,
+        "Question": "Which of the following function is associated with a continuous random variable?",
+        "Options": [
+            "a) pdf",
+            "b) pmv",
+            "c) pmf",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: A probability mass function evaluated at a value corresponds to the probability that a random variable takes that value."
+    },
+    {
+        "id": 241,
+        "Question": "The expected value or _______ of a random variable is the center of its distribution.",
+        "Options": [
+            "a) mode",
+            "b) median",
+            "c) mean",
+            "d) bayesian inference"
+        ],
+        "Answer": "Answer: c\nExplanation: A probability model connects the data to the population using assumptions."
+    },
+    {
+        "id": 242,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Some cumulative distribution function F is non-decreasing and right-continuous",
+            "b) Every cumulative distribution function F is decreasing and right-continuous",
+            "c) Every cumulative distribution function F is increasing and left-continuous",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Every cumulative distribution function F is non-decreasing and right-continuous."
+    },
+    {
+        "id": 243,
+        "Question": "Which of the following of a random variable is a measure of spread?",
+        "Options": [
+            "a) variance",
+            "b) standard deviation",
+            "c) empirical mean",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Densities with a higher variance are more spread out than densities with a lower variance."
+    },
+    {
+        "id": 244,
+        "Question": "The square root of the variance is called the ________ deviation.",
+        "Options": [
+            "a) empirical",
+            "b) mean",
+            "c) continuous",
+            "d) standard"
+        ],
+        "Answer": "Answer: d\nExplanation: Standard Deviation (SD) is the measure of spread of the numbers in a set of data from its mean value."
+    },
+    {
+        "id": 245,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) A percentile is simply a quantile with expressed as a percent",
+            "b) There are two types of random variable",
+            "c) R cannot approximate quantiles for you for common distributions",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: R can approximate quantiles for you for common distributions."
+    },
+    {
+        "id": 246,
+        "Question": "Which of the following inequality is useful for interpreting variances?",
+        "Options": [
+            "a) Chebyshev",
+            "b) Stautaory",
+            "c) Testory",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Chebyshev’s inequality is also spelled as Tchebysheff’s inequality."
+    },
+    {
+        "id": 247,
+        "Question": "Chebyshev’s inequality states that the probability of a “Six Sigma” event is less than ___________",
+        "Options": [
+            "a) 10%",
+            "b) 20%",
+            "c) 30%",
+            "d) 3%"
+        ],
+        "Answer": "Answer: b\nExplanation: For continuous random variables, the PDF is the derivative of the CDF."
+    },
+    {
+        "id": 248,
+        "Question": "Which of the following random variables are the default model for random samples?",
+        "Options": [
+            "a) iid",
+            "b) id",
+            "c) pmd",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: If a bell curve is assumed, the probability of a “six sigma” event is on the order of one ten millionth of a percent."
+    },
+    {
+        "id": 249,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) The exponent of a normally distributed random variables follows what is called the log-normal distribution",
+            "b) Sums of normally distributed random variables are again normally distributed even if the variables are dependent",
+            "c) The square of a standard normal random variable follows what is called chi-squared distribution",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Causal is not directly related to goal of statistical modelling."
+    },
+    {
+        "id": 250,
+        "Question": "Which of the following is incorrect with respect to use of Poisson distribution?",
+        "Options": [
+            "a) Modeling event/time data",
+            "b) Modeling bounded count data",
+            "c) Modeling contingency tables",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Many random variables, properly normalized, limit to a normal distribution."
+    },
+    {
+        "id": 251,
+        "Question": "__________ random variables are used to model rates.",
+        "Options": [
+            "a) Empirical",
+            "b) Binomial",
+            "c) Poisson",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Poisson distribution is used for modeling unbounded count data."
+    },
+    {
+        "id": 252,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) The normal distribution is asymmetric and peaked about its mode",
+            "b) A constant times a normally distributed random variable is also normally distributed",
+            "c) Sample means of normally distributed random variables are again normally distributed",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Poisson distribution is used to model counts."
+    },
+    {
+        "id": 253,
+        "Question": "Which of the following form the basis for frequency interpretation of probabilities?",
+        "Options": [
+            "a) Asymptotics",
+            "b) Symptotics",
+            "c) Asymmetry",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The normal distribution is symmetric and peaked about its mean."
+    },
+    {
+        "id": 254,
+        "Question": "The _________ basically states that the sample mean is consistent.",
+        "Options": [
+            "a) LAN",
+            "b) LLN",
+            "c) LWN",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Asymptotics is the term for the behavior of statistics as the sample size."
+    },
+    {
+        "id": 255,
+        "Question": "Which of the following theorem states that the distribution of averages of iid variables, properly normalized, becomes that of a standard normal as the sample size increases?",
+        "Options": [
+            "a) Central Limit Theorem",
+            "b) Central Mean Theorem",
+            "c) Centroid Limit Theorem",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The Bernoulli distribution arises as the result of a binary outcome."
+    },
+    {
+        "id": 256,
+        "Question": "The _________ of the Chi-squared distribution is twice the degrees of freedom.",
+        "Options": [
+            "a) variance",
+            "b) standard deviation",
+            "c) mode",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The mean of the Chi-squared is its degrees of freedom."
+    },
+    {
+        "id": 257,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Asymptotics are incredibly useful for simple statistical inference and approximations",
+            "b) Asymptotics often lead to nice understanding of procedures",
+            "c) An estimator is consistent if it converges to what you want to estimate",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Consistency is neither necessary nor sufficient for one estimator to be better than another."
+    },
+    {
+        "id": 258,
+        "Question": "Gosset’s distribution is invented by which of the following scientist?",
+        "Options": [
+            "a) William Gosset",
+            "b) William Gosling",
+            "c) Gosling Gosset",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Gosset’s distribution is indexed by a degrees of freedom."
+    },
+    {
+        "id": 259,
+        "Question": "The _________ of a collection of data is the joint density evaluated as a function of the parameters with the data fixed.",
+        "Options": [
+            "a) probability",
+            "b) likelihood",
+            "c) poisson distribution",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Likelihood analysis of data uses the likelihood to perform inference regarding the unknown parameter."
+    },
+    {
+        "id": 260,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Asymptotics generally give assurances about finite sample performance",
+            "b) The sample variance and the sample standard deviation are consistent as well",
+            "c) The sample mean and the sample variance are unbiased as well",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The kinds of asymptotics that do are orders of magnitude more difficult to work with."
+    },
+    {
+        "id": 261,
+        "Question": "Which of the following is a property of likelihood?",
+        "Options": [
+            "a) Ratios of likelihood values measure the relative evidence of one value of the unknown parameter to another",
+            "b) Given a statistical model and observed data, all of the relevant information contained in the data regarding the unknown parameter is contained in the likelihood",
+            "c) The Resultant likelihood is multiplication of individual likelihood",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Likelihood is the hypothetical probability that an event that has already occurred would yield a specific outcome."
+    },
+    {
+        "id": 262,
+        "Question": "The beta distribution is the default prior for parameters between ____________",
+        "Options": [
+            "a) 0 and 10",
+            "b) 1 and 2",
+            "c) 0 and 1",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The CLT applies in an endless variety of settings."
+    },
+    {
+        "id": 263,
+        "Question": "Which of the following mean is a mixture of the MLE and the prior mean?",
+        "Options": [
+            "a) interior",
+            "b) exterior",
+            "c) posterior",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Bayesian statistics posits a prior on the parameter of interest."
+    },
+    {
+        "id": 264,
+        "Question": "Which of the following testing is concerned with making decisions using data?",
+        "Options": [
+            "a) Probability",
+            "b) Hypothesis",
+            "c) Causal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The null hypothesis is assumed true and statistical evidence is required to reject it in favor of a research or alternative hypothesis."
+    },
+    {
+        "id": 265,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Power of a one sided test is lower than the power of the associated two sided test",
+            "b) Power of a two sided test is greater than the power of the associated one sided test",
+            "c) Hypothesis testing is less commonly used",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Power of a one sided test is greater than the power of the associated two sided test."
+    },
+    {
+        "id": 266,
+        "Question": "Which of the following value is the most common measure of “statistical significance”?",
+        "Options": [
+            "a) P",
+            "b) A",
+            "c) L",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The P-value is the probability under the null hypothesis of obtaining evidence as extreme or more extreme than would be observed by chance alone."
+    },
+    {
+        "id": 267,
+        "Question": "What is the purpose of multiple testing in statistical inference?",
+        "Options": [
+            "a) Minimize errors",
+            "b) Minimize false positives",
+            "c) Minimize false negatives",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: A false positive is an error in some evaluation process in which a condition tested for is mistakenly found to have been detected."
+    },
+    {
+        "id": 268,
+        "Question": "Point out the wrong statement with respect to FDR.",
+        "Options": [
+            "a) FDR is difficult to calculate",
+            "b) FDR is relatively less conservative",
+            "c) FDR allows for more false positives",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: FDR stands for false discovery rate."
+    },
+    {
+        "id": 269,
+        "Question": "Which of the following is the oldest multiple testing correction?",
+        "Options": [
+            "a) Bonferroni correction",
+            "b) Bernoulli correction",
+            "c) Likelihood correction",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Bonferroni correction is easy to calculate."
+    },
+    {
+        "id": 270,
+        "Question": "Which of the following tool is used for constructing confidence intervals and calculating standard errors for difficult statistics?",
+        "Options": [
+            "a) baggyer",
+            "b) bootstrap",
+            "c) jacknife",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If the sample sizes are the same the pooled variance estimate is the average of the group variances."
+    },
+    {
+        "id": 271,
+        "Question": "Which of the following tool is used for estimating standard errors and the bias of estimators?",
+        "Options": [
+            "a) knitr",
+            "b) jackknife",
+            "c) ggplot2",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The bootstrap procedure follows from the so called bootstrap principle."
+    },
+    {
+        "id": 272,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) The mean is a measure of central tendency of the data",
+            "b) Empirical mean is related to “centering” the random variables",
+            "c) The empirical standard deviation is a measure of spread",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: levelplot is used plotting “image”."
+    },
+    {
+        "id": 273,
+        "Question": "Which of the following implies no relationship with respect to correlation?",
+        "Options": [
+            "a) Cor(X, Y) = 1",
+            "b) Cor(X, Y) = 0",
+            "c) Cor(X, Y) = 2",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The process of centering and scaling the data is called “normalizing” the data."
+    },
+    {
+        "id": 274,
+        "Question": "Normalized data are centered at ___ and have units equal to standard deviations of the original data.",
+        "Options": [
+            "a) 0",
+            "b) 5",
+            "c) 1",
+            "d) 10"
+        ],
+        "Answer": "Answer: b\nExplanation: Correlation is a statistical technique that can show whether and how strongly pairs of variables are related."
+    },
+    {
+        "id": 275,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Regression through the origin yields an equivalent slope if you center the data first",
+            "b) Normalizing variables results in the slope being the correlation",
+            "c) Least squares is not an estimation tool",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In statistics and applications of statistics, normalization can have a range of meanings."
+    },
+    {
+        "id": 276,
+        "Question": "Which of the following is correct with respect to residuals?",
+        "Options": [
+            "a) Positive residuals are above the line, negative residuals are below",
+            "b) Positive residuals are below the line, negative residuals are above",
+            "c) Positive residuals and negative residuals are below the line",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Least squares is an estimation tool."
+    },
+    {
+        "id": 277,
+        "Question": "Which of the following refers to the circumstance in which the variability of a variable is unequal across the range of values of a second variable that predicts it?",
+        "Options": [
+            "a) Heterogeneity",
+            "b) Heteroskedasticity",
+            "c) Heteroelasticty",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Residuals can be thought of as the outcome with the linear association of the predictor removed."
+    },
+    {
+        "id": 278,
+        "Question": "Which of the following is the correct formula for total variation?",
+        "Options": [
+            "a) Total Variation = Residual Variation – Regression Variation",
+            "b) Total Variation = Residual Variation + Regression Variation",
+            "c) Total Variation = Residual Variation * Regression Variation",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The complementary part of the total variation is called unexplained or residual."
+    },
+    {
+        "id": 279,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) A standard error is needed to create a prediction interval",
+            "b) The prediction interval must incorporate the variability in the data around the line",
+            "c) Investors use the residual variance to measure the accuracy of their predictions on the value of an asset",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In statistics, explained variation measures the proportion to which a mathematical model accounts for the variation of a given data set."
+    },
+    {
+        "id": 280,
+        "Question": "Which of the following things can be accomplished with linear model?",
+        "Options": [
+            "a) Flexibly fit complicated functions",
+            "b) Uncover complex multivariate relationships",
+            "c) Build accurate prediction models",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Linear models are the single most important applied statistical and machine learning technique."
+    },
+    {
+        "id": 281,
+        "Question": "Which of the following statement is incorrect with respect to outliers?",
+        "Options": [
+            "a) Outliers can have varying degrees of influence",
+            "b) Outliers can be the result of spurious or real processes",
+            "c) Outliers cannot conform to the regression relationship",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Outliers can conform to the regression relationship."
+    },
+    {
+        "id": 282,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) The fraction of variance unexplained is an established concept in the context of linear regression",
+            "b) “Explained variance” is routinely used in principal component analysis",
+            "c) The general linear model extends simple linear regression (SLR) by adding terms linearly into the model",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Linearity refers to a mathematical relationship or function that can be graphically represented as a straight line."
+    },
+    {
+        "id": 283,
+        "Question": "Which of the following can be useful for diagnosing data entry errors?",
+        "Options": [
+            "a) hat values",
+            "b) dffit",
+            "c) resid",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: resid returns the ordinary residuals."
+    },
+    {
+        "id": 284,
+        "Question": "Residual ______ plots investigate normality of the errors.",
+        "Options": [
+            "a) RR",
+            "b) PP",
+            "c) QQ",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Multivariate Data Analysis refers to any statistical technique used to analyze data that arises from more than one variable."
+    },
+    {
+        "id": 285,
+        "Question": "Which of the following show residuals divided by their standard deviations?",
+        "Options": [
+            "a) rstudent",
+            "b) cooks.distance",
+            "c) rstandard",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Patterns in your residual plots generally indicate some poor aspect of model fit."
+    },
+    {
+        "id": 286,
+        "Question": "How many components are present in generalized linear models?",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 6",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Generalized linear models involve three components."
+    },
+    {
+        "id": 287,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Additive response models don’t make much sense if the response is discrete, or strictly positive",
+            "b) Transformations are often easy to interpret in linear model",
+            "c) Regression models are used to predict one variable from one or more other variables",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Transformations are often hard to interpret in linear model."
+    },
+    {
+        "id": 288,
+        "Question": "Which of the following component is involved in generalized linear models?",
+        "Options": [
+            "a) An exponential family model for the response",
+            "b) A systematic component via a linear predictor",
+            "c) A link function that connects the means of the response to the linear predictor",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: GLM is a flexible generalization of ordinary linear regression that allows for response variables that have error distribution models other than a normal distribution."
+    },
+    {
+        "id": 289,
+        "Question": "Collection of exchangeable binary outcomes for the same covariate data are called _______ outcomes.",
+        "Options": [
+            "a) random",
+            "b) direct",
+            "c) binomial",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The multivariate regression model for binary outcomes gives odds ratios, not risk ratios."
+    },
+    {
+        "id": 290,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Asymptotics are used for inference usually",
+            "b) Adding squared terms makes it continuously differentiable at the knot points",
+            "c) Adding squared terms makes it twice continuously differentiable at the knot points",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Adding cubic terms makes it twice continuously differentiable at the knot points."
+    },
+    {
+        "id": 291,
+        "Question": "Which of the following is example use of Poisson distribution?",
+        "Options": [
+            "a) Analyzing contingency table data",
+            "b) Modeling web traffic hits",
+            "c) Incidence rates",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The Poisson distribution is a useful model for counts and rates."
+    },
+    {
+        "id": 292,
+        "Question": "How many outcomes are possible with bernoulli trial?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The space of models explodes quickly as you add interactions and polynomial terms."
+    },
+    {
+        "id": 293,
+        "Question": "Which of the following analysis is a statistical process for estimating the relationships among variables?",
+        "Options": [
+            "a) Causal",
+            "b) Regression",
+            "c) Multivariate",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Bernoulli trial is a random experiment with exactly two possible outcomes."
+    },
+    {
+        "id": 294,
+        "Question": "Which of the following can be used to generate balanced cross–validation groupings from a set of data?",
+        "Options": [
+            "a) createFolds",
+            "b) createSample",
+            "c) createResample",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: createResample can be used to make simple bootstrap samples."
+    },
+    {
+        "id": 295,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Simple random sampling of time series is probably the best way to resample times series data.",
+            "b) Three parameters are used for time series splitting",
+            "c) Horizon parameter is the number of consecutive values in test set sample",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Simple random sampling of time series is probably not the best way to resample times series data."
+    },
+    {
+        "id": 296,
+        "Question": "Which of the following function can be used to maximize the minimum dissimilarities?",
+        "Options": [
+            "a) sumDiss",
+            "b) minDiss",
+            "c) avgDiss",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: sumDiss can be used to maximize the total dissimilarities."
+    },
+    {
+        "id": 297,
+        "Question": "Which of the following function can create the indices for time series type of splitting?",
+        "Options": [
+            "a) newTimeSlices",
+            "b) createTimeSlices",
+            "c) binTimeSlices",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Rolling forecasting origin techniques are associated with time series type of splitting."
+    },
+    {
+        "id": 298,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Asymptotics are used for inference usually",
+            "b) Caret includes several functions to pre-process the predictor data",
+            "c) The function dummyVars can be used to generate a complete set of dummy variables from one or more factors",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The function dummyVars takes a formula and a data set and outputs an object that can be used to create the dummy variables using the predict method."
+    },
+    {
+        "id": 299,
+        "Question": "Which of the following can be used to create sub–samples using a maximum dissimilarity approach?",
+        "Options": [
+            "a) minDissim",
+            "b) maxDissim",
+            "c) inmaxDissim",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Splitting is based on the predictors."
+    },
+    {
+        "id": 300,
+        "Question": "Which of the following function can be used to create balanced splits of the data?",
+        "Options": [
+            "a) newDataPartition",
+            "b) createDataPartition",
+            "c) renameDataPartition",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: caret uses the proxy package."
+    },
+    {
+        "id": 301,
+        "Question": "Which of the following package tools are present in caret?",
+        "Options": [
+            "a) pre-processing",
+            "b) feature selection",
+            "c) model tuning",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: If the y argument to this function is a factor, the random sampling occurs within each class and should preserve the overall class distribution of the data."
+    },
+    {
+        "id": 302,
+        "Question": "Which of the following function is a wrapper for different lattice plots to visualize the data?",
+        "Options": [
+            "a) levelplot",
+            "b) featurePlot",
+            "c) plotsample",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: featurePlot is used for data visualization in caret."
+    },
+    {
+        "id": 303,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) In every situation, the data generating mechanism can create predictors that only have a single unique value",
+            "b) Predictors might have only a handful of unique values that occur with very low frequencies",
+            "c) The function findLinearCombos uses the QR decomposition of a matrix to enumerate sets of linear combinations",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: In some situations, the data generating mechanism can create predictors that only have a single unique value."
+    },
+    {
+        "id": 304,
+        "Question": "Which of the following function can be used to identify near zero-variance variables?",
+        "Options": [
+            "a) zeroVar",
+            "b) nearVar",
+            "c) nearZeroVar",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The saveMetrics argument can be used to show the details and usually defaults to FALSE."
+    },
+    {
+        "id": 305,
+        "Question": "Which of the following function can be used to flag predictors for removal?",
+        "Options": [
+            "a) searchCorrelation",
+            "b) findCausation",
+            "c) findCorrelation",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Some models thrive on correlated predictors."
+    },
+    {
+        "id": 306,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) findLinearColumns will also return a vector of column positions can be removed to eliminate the linear dependencies",
+            "b) findLinearCombos will return a list that enumerates dependencies",
+            "c) the function findLinearRows can be used to generate a complete set of row variables from one factor",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For each linear combination, it will incrementally remove columns from the matrix and test to see if the dependencies have been resolved."
+    },
+    {
+        "id": 307,
+        "Question": "Which of the following can be used to impute data sets based only on information in the training set?",
+        "Options": [
+            "a) postProcess",
+            "b) preProcess",
+            "c) process",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: This can be done with K-nearest neighbors."
+    },
+    {
+        "id": 308,
+        "Question": "Which of the following can also be used to find new variables that are linear combinations of the original set with independent components?",
+        "Options": [
+            "a) ICA",
+            "b) SCA",
+            "c) PCA",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: predict.preProcess is used to apply them to specific data sets."
+    },
+    {
+        "id": 309,
+        "Question": "Which of the following function is used to generate the class distances?",
+        "Options": [
+            "a) preprocess.classDist",
+            "b) predict.classDist",
+            "c) predict.classDistance",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: ICA stands for independent component analysis."
+    },
+    {
+        "id": 310,
+        "Question": "varImp is a wrapper around the evimp function in the _______ package.",
+        "Options": [
+            "a) numpy",
+            "b) earth",
+            "c) plot",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The earth package is an implementation of Jerome Friedman’s Multivariate Adaptive Regression Splines."
+    },
+    {
+        "id": 311,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) The trapezoidal rule is used to compute the area under the ROC curve",
+            "b) For regression, the relationship between each predictor and the outcome is evaluated",
+            "c) An argument, para, is used to pick the model fitting technique",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: An argument, nonpara, is used to pick the model fitting technique."
+    },
+    {
+        "id": 312,
+        "Question": "Which of the following curve analysis is conducted on each predictor for classification?",
+        "Options": [
+            "a) NOC",
+            "b) ROC",
+            "c) COC",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For two class problems, a series of cutoffs is applied to the predictor data to predict the class."
+    },
+    {
+        "id": 313,
+        "Question": "Which of the following function tracks the changes in model statistics?",
+        "Options": [
+            "a) varImp",
+            "b) varImpTrack",
+            "c) findTrack",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: GCV change value can also be tracked."
+    },
+    {
+        "id": 314,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) The difference between the class centroids and the overall centroid is used to measure the variable influence",
+            "b) The Bagged Trees output contains variable usage statistics",
+            "c) Boosted Trees uses different approach as a single tree",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The larger the difference between the class centroid and the overall center of the data, the larger the separation between the classes."
+    },
+    {
+        "id": 315,
+        "Question": "Which of the following model model include a backwards elimination feature selection routine?",
+        "Options": [
+            "a) MCV",
+            "b) MARS",
+            "c) MCRS",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: MARS stands for Multivariate Adaptive Regression Splines."
+    },
+    {
+        "id": 316,
+        "Question": "Which of the following model sums the importance over each boosting iteration?",
+        "Options": [
+            "a) Boosted trees",
+            "b) Bagged trees",
+            "c) Partial least squares",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Model-based approach is able to incorporate the correlation structure between the predictors into the importance calculation."
+    },
+    {
+        "id": 317,
+        "Question": "Which of the following argument is used to set importance values?",
+        "Options": [
+            "a) scale",
+            "b) set",
+            "c) value",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: gbm package can be used here."
+    },
+    {
+        "id": 318,
+        "Question": "Which of the following is the valid component of the predictor?",
+        "Options": [
+            "a) data",
+            "b) question",
+            "c) algorithm",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: A prediction is a statement about the future."
+    },
+    {
+        "id": 319,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) In Sample Error is also called generalization error",
+            "b) Out of Sample Error is the error rate you get on the new dataset",
+            "c) In Sample Error is also called resubstitution error",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Out of Sample Error is also called generalization error."
+    },
+    {
+        "id": 320,
+        "Question": "Which of the following is correct order of working?",
+        "Options": [
+            "a) questions->input data ->algorithms",
+            "b) questions->evaluation ->algorithms",
+            "c) evaluation->input data ->algorithms",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Evaluation is done in the last."
+    },
+    {
+        "id": 321,
+        "Question": "Which of the following shows correct relative order of importance?",
+        "Options": [
+            "a) question->features->data->algorithms",
+            "b) question->data->features->algorithms",
+            "c) algorithms->data->features->question",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Garbage in should be equal to garbage out."
+    },
+    {
+        "id": 322,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) In Sample Error is the error rate you get on the same dataset used to model a predictor",
+            "b) Data have two parts-signal and noise",
+            "c) The goal of predictor is to find signal",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Perfect in sample prediction can be built."
+    },
+    {
+        "id": 323,
+        "Question": "Which of the following is characteristic of best machine learning method?",
+        "Options": [
+            "a) Fast",
+            "b) Accuracy",
+            "c) Scalable",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: There is always a trade-off in prediction accuracy."
+    },
+    {
+        "id": 324,
+        "Question": "Which of the following trade-off occurs during prediction?",
+        "Options": [
+            "a) Speed vs Accuracy",
+            "b) Simplicity vs Accuracy",
+            "c) Scalability vs Accuracy",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: True positive means correctly identified."
+    },
+    {
+        "id": 325,
+        "Question": "Which of the following expression is true?",
+        "Options": [
+            "a) In sample error < out sample error",
+            "b) In sample error > out sample error",
+            "c) In sample error = out sample error",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Interpretability also matters during prediction."
+    },
+    {
+        "id": 326,
+        "Question": "Which of the following is correct use of cross validation?",
+        "Options": [
+            "a) Selecting variables to include in a model",
+            "b) Comparing predictors",
+            "c) Selecting parameters in prediction function",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Cross-validation is also used to pick type of prediction function to be used."
+    },
+    {
+        "id": 327,
+        "Question": "Point out the wrong combination.",
+        "Options": [
+            "a) True negative=correctly rejected",
+            "b) False negative=correctly rejected",
+            "c) False positive=correctly identified",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: False positive means incorrectly identified."
+    },
+    {
+        "id": 328,
+        "Question": "Which of the following is a common error measure?",
+        "Options": [
+            "a) Sensitivity",
+            "b) Median absolute deviation",
+            "c) Specificity",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Sensitivity and specificity are statistical measures of the performance of a binary classification test, also known in statistics as classification function."
+    },
+    {
+        "id": 329,
+        "Question": "Which of the following is not a machine learning algorithm?",
+        "Options": [
+            "a) SVG",
+            "b) SVM",
+            "c) Random forest",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: SVM stands for scalable vector machine."
+    },
+    {
+        "id": 330,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) ROC curve stands for receiver operating characteristic",
+            "b) Foretime series, data must be in chunks",
+            "c) Random sampling must be done with replacement",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Random sampling with replacement is the bootstrap."
+    },
+    {
+        "id": 331,
+        "Question": "Which of the following is a categorical outcome?",
+        "Options": [
+            "a) RMSE",
+            "b) RSquared",
+            "c) Accuracy",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: RMSE stands for Root Mean Squared Error."
+    },
+    {
+        "id": 332,
+        "Question": "Which of the following method is used for trainControl resampling?",
+        "Options": [
+            "a) repeatedcv",
+            "b) svm",
+            "c) bag32",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: For k cross-validation, larger k value implies less bias."
+    },
+    {
+        "id": 333,
+        "Question": "Which of the following can be used to create the most common graph types?",
+        "Options": [
+            "a) qplot",
+            "b) quickplot",
+            "c) plot",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: repeatedcv stands for repeated cross-validation."
+    },
+    {
+        "id": 334,
+        "Question": "Predicting with trees evaluate _____________ within each group of data.",
+        "Options": [
+            "a) equality",
+            "b) homogeneity",
+            "c) heterogeneity",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Predicting with trees is easy to interpret."
+    },
+    {
+        "id": 335,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Training and testing data must be processed in different way",
+            "b) Test transformation would mostly be imperfect",
+            "c) The first goal is statistical and second is data compression in PCA",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Training and testing data must be processed in same way."
+    },
+    {
+        "id": 336,
+        "Question": "Which of the following method options is provided by train function for bagging?",
+        "Options": [
+            "a) bagEarth",
+            "b) treebag",
+            "c) bagFDA",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Bagging can be done using bag function as well."
+    },
+    {
+        "id": 337,
+        "Question": "Which of the following is correct with respect to random forest?",
+        "Options": [
+            "a) Random forest are difficult to interpret but often very accurate",
+            "b) Random forest are easy to interpret but often very accurate",
+            "c) Random forest are difficult to interpret but very less accurate",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Random forest is top performing algorithm in prediction."
+    },
+    {
+        "id": 338,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Prediction with regression is easy to implement",
+            "b) Prediction with regression is easy to interpret",
+            "c) Prediction with regression performs well when linear model is correct",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: Prediction with regression gives poor performance in non linear settings."
+    },
+    {
+        "id": 339,
+        "Question": "Which of the following library is used for boosting generalized additive models?",
+        "Options": [
+            "a) gamBoost",
+            "b) gbm",
+            "c) ada",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Boosting can be used with any subset of classifier."
+    },
+    {
+        "id": 340,
+        "Question": "Which of the following is statistical boosting based on additive logistic regression?",
+        "Options": [
+            "a) gamBoost",
+            "b) gbm",
+            "c) ada",
+            "d) mboost"
+        ],
+        "Answer": "Answer: b\nExplanation: The principal components are equal to left singular values if you first scale the variables."
+    },
+    {
+        "id": 341,
+        "Question": "Which of the following is one of the largest boost subclass in boosting?",
+        "Options": [
+            "a) variance boosting",
+            "b) gradient boosting",
+            "c) mean boosting",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: mboost is used for model based boosting."
+    },
+    {
+        "id": 342,
+        "Question": "Which of the following is correct about regularized regression?",
+        "Options": [
+            "a) Can help with bias trade-off",
+            "b) Cannot help with model selection",
+            "c) Cannot help with variance trade-off",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Regularized regression does not perform as well as random forest."
+    },
+    {
+        "id": 343,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Model based approach may be computationally convenient",
+            "b) Model based approach use Bayes theorem",
+            "c) Model based approach are reasonably inaccurate on real problems",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Model based approach are reasonably accurate on real problems."
+    },
+    {
+        "id": 344,
+        "Question": "Which of the following methods are present in caret for regularized regression?",
+        "Options": [
+            "a) ridge",
+            "b) lasso",
+            "c) relaxo",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: In caret one can tune over the no of predictors to retain instead of defined values for penalty."
+    },
+    {
+        "id": 345,
+        "Question": "Which of the following method can be used to combine different classifiers?",
+        "Options": [
+            "a) Model stacking",
+            "b) Model combining",
+            "c) Model structuring",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Model ensembling is also used for combining different classifiers."
+    },
+    {
+        "id": 346,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Combining classifiers improves interpretability",
+            "b) Combining classifiers reduces accuracy",
+            "c) Combining classifiers improves accuracy",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: You can combine classifier by averaging."
+    },
+    {
+        "id": 347,
+        "Question": "Which of the following function provides unsupervised prediction?",
+        "Options": [
+            "a) cl_forecast",
+            "b) cl_nowcast",
+            "c) cl_precast",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: cl_predict function is clue package provides unsupervised prediction."
+    },
+    {
+        "id": 348,
+        "Question": "Which of the following is used to assist the quantitative trader in the development?",
+        "Options": [
+            "a) quantmod",
+            "b) quantile",
+            "c) quantity",
+            "d) mboost"
+        ],
+        "Answer": "Answer: b\nExplanation: Model based prediction considers relatively easy version for covariance matrix."
+    },
+    {
+        "id": 349,
+        "Question": "Which of the following function can be used for forecasting?",
+        "Options": [
+            "a) predict",
+            "b) forecast",
+            "c) ets",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Quandl package is similar to quantmod."
+    },
+    {
+        "id": 350,
+        "Question": "Which of the following project is used for calling R products from web?",
+        "Options": [
+            "a) OpenCPU",
+            "b) OpenDisk",
+            "c) OpenMem",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: OpenCPU is complementary to OpenCPU."
+    },
+    {
+        "id": 351,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Shiny is platform for creating interactive programs embedded in to web page",
+            "b) Shiny is invented by R folks",
+            "c) Time required to create data products using shiny is more",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Time to create data products is less using shiny."
+    },
+    {
+        "id": 352,
+        "Question": "Which of the following statement will install shiny?",
+        "Options": [
+            "a) install.packages(“shiny”)",
+            "b) install.library(“shiny”)",
+            "c) install.lib(“shiny”)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Shiny applications are automatically “live” in the same way that spreadsheets are live."
+    },
+    {
+        "id": 353,
+        "Question": "Which of the following can be done by shiny?",
+        "Options": [
+            "a) Tabbed main panels",
+            "b) Editable data tables",
+            "c) Dynamic UI",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: shiny allows users to upload files."
+    },
+    {
+        "id": 354,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) shiny project is a directory containing at least three parts",
+            "b) shiny project is a file containing at least three parts",
+            "c) shiny project consist is a directory containing only one part",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: shiny project consist is a directory containing at least two parts."
+    },
+    {
+        "id": 355,
+        "Question": "Which of the following function can interrupt execution and can be called continuously?",
+        "Options": [
+            "a) browser()",
+            "b) browse()",
+            "c) search()",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Debugging shiny apps can be difficult."
+    },
+    {
+        "id": 356,
+        "Question": "Which of the following function is for single checkbox widget?",
+        "Options": [
+            "a) checkboxInput",
+            "b) dateInput",
+            "c) singleboxInput",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The chart is rendered within the browser using Flash."
+    },
+    {
+        "id": 357,
+        "Question": "How many components are involved in shiny?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 5",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Shiny comes with a family of pre-built widgets, each created with a transparently named R function."
+    },
+    {
+        "id": 358,
+        "Question": "Which of the following framework is compatible with slidify?",
+        "Options": [
+            "a) io2015",
+            "b) io2012",
+            "c) d3",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS."
+    },
+    {
+        "id": 359,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Slidify is created by Ramnath Vaidyanathan",
+            "b) Slidify is non customizable",
+            "c) Slidify presentation are just HTML files",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: Slidify is customizable and extendable."
+    },
+    {
+        "id": 360,
+        "Question": "Which of the following statement will load slidify?",
+        "Options": [
+            "a) library(slidify)",
+            "b) install.library(slidify)",
+            "c) install.load(slidify)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Devtools should be installed in advance."
+    },
+    {
+        "id": 361,
+        "Question": "Which of the following will be used to compose the content of the presentation?",
+        "Options": [
+            "a) ui.RMD",
+            "b) index.RMD",
+            "c) server.RMD",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: index.RMD is an R markdown document."
+    },
+    {
+        "id": 362,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) Slidify allows embedded code chunks",
+            "b) Slidify presentation cannot be shared easily",
+            "c) Slidify is difficult to use",
+            "d) None of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Slidify allows mathematical formulas as well."
+    },
+    {
+        "id": 363,
+        "Question": "Which of the following statement generates a html slide deck from index.Rmd?",
+        "Options": [
+            "a) slidify(“index.Rmd”)",
+            "b) lib.slidify(“index.Rmd”)",
+            "c) slidifylib(“index.Rmd”)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: It is a static file, which means that you can open it in your browser locally and it should display fine."
+    },
+    {
+        "id": 364,
+        "Question": "Which of the following statement will install slidify from github?",
+        "Options": [
+            "a) install_github(‘slidify’, ‘ramnathv’)",
+            "b) install_github(‘slidify’, ‘r’)",
+            "c) install(‘slidify’, ‘ramnathv’)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The first part of index.Rmd is YAML code."
+    },
+    {
+        "id": 365,
+        "Question": "Which of the following element can be added to slidify?",
+        "Options": [
+            "a) Quiz",
+            "b) RCharts",
+            "c) Shiny apps",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Slidify is not on CRAN."
+    },
+    {
+        "id": 366,
+        "Question": "Which of the following is R interface to google charts?",
+        "Options": [
+            "a) googleVis",
+            "b) googleChart",
+            "c) googleDataVis",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: googleVis allow users to create interactive charts based on data frames."
+    },
+    {
+        "id": 367,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) The plot command does open a graphics device in the modern way",
+            "b) Motion Chart is only displayed when hosted on a web server",
+            "c) gvisMotionChart is used to create motion chart",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The plot command does not open a graphics device in the traditional way."
+    },
+    {
+        "id": 368,
+        "Question": "Which of the following create a Google Gadget based on a Google Visualization Object?",
+        "Options": [
+            "a) createGadget",
+            "b) createGoogleGadget",
+            "c) newGoogleGadget",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: createGoogleGadget returns a Google Gadget XML string."
+    },
+    {
+        "id": 369,
+        "Question": "Which of the following  reads a data.frame and creates text output referring to the Google Visualization API?",
+        "Options": [
+            "a) gvisAnnotatedLine",
+            "b) gvisTimeLine",
+            "c) gvisAnnotatedTimeLine",
+            "d) none of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: An annotated time line is an interactive time series line chart with optional annotations."
+    },
+    {
+        "id": 370,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) gvisAnnotationChart returns list of class “gvis” and “list”",
+            "b) The gvisAreaChart function reads a data.frame and creates text output referring to the Google Visualization API",
+            "c) gvisAreaChart returns list of class “gvis” and “list”",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: This can be included into a web page, or as a stand-alone page."
+    },
+    {
+        "id": 371,
+        "Question": "Which of the following is used for creating interacting tables?",
+        "Options": [
+            "a) gvisGeoChart",
+            "b) gvisTable",
+            "c) gvisLineChart",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: gvisLineChart is used for creating line charts."
+    },
+    {
+        "id": 372,
+        "Question": "The actual chart of gvisBarChart is rendered by the web browser using _________ or VML.",
+        "Options": [
+            "a) JPEG",
+            "b) SVG",
+            "c) PDF",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The chart is rendered within the browser using flash."
+    },
+    {
+        "id": 373,
+        "Question": "Which of the following is used for creating tree maps?",
+        "Options": [
+            "a) gvisGeoChart",
+            "b) gvisTable",
+            "c) gvisTreeMap",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: gvisBarChart reads data frame."
+    },
+    {
+        "id": 374,
+        "Question": "Which of the following is contained in NumPy library?",
+        "Options": [
+            "a) n-dimensional array object",
+            "b) tools for integrating C/C++ and Fortran code",
+            "c) fourier transform",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: NumPy is the fundamental package for scientific computing with Python."
+    },
+    {
+        "id": 375,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) ipython is an enhanced interactive Python shell",
+            "b) matplotlib will enable you to plot graphics",
+            "c) rPy provides a lot of scientific routines that work on top of NumPy",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: SciPy provides a lot of scientific routines that work on top of NumPy."
+    },
+    {
+        "id": 376,
+        "Question": "The ________ function returns its argument with a modified shape, whereas the ________ method modifies the array itself.",
+        "Options": [
+            "a) reshape, resize",
+            "b) resize, reshape",
+            "c) reshape2, resize",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: If a dimension is given as -1 in a reshaping operation, the other dimensions are automatically calculated."
+    },
+    {
+        "id": 377,
+        "Question": "To create sequences of numbers, NumPy provides a function __________ analogous to range that returns arrays instead of lists.",
+        "Options": [
+            "a) arange",
+            "b) aspace",
+            "c) aline",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: When arange is used with floating point arguments, it is generally not possible to predict the number of elements obtained."
+    },
+    {
+        "id": 378,
+        "Question": "Point out the correct statement.",
+        "Options": [
+            "a) NumPy main object is the homogeneous multidimensional array",
+            "b) In Numpy, dimensions are called axes",
+            "c) Numpy array class is called ndarray",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: d\nExplanation: The number of axes is called rank."
+    },
+    {
+        "id": 379,
+        "Question": "Which of the following function stacks 1D arrays as columns into a 2D array?",
+        "Options": [
+            "a) row_stack",
+            "b) column_stack",
+            "c) com_stack",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: column_stack is equivalent to vstack only for 1D arrays."
+    },
+    {
+        "id": 380,
+        "Question": "Which of the following method creates a new array object that looks at the same data?",
+        "Options": [
+            "a) view",
+            "b) copy",
+            "c) paste",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: numpy.array is not the same as the Standard Python Library class array.array."
+    },
+    {
+        "id": 381,
+        "Question": "Which of the following function can be used to combine different vectors so as to obtain the result for each n-uplet?",
+        "Options": [
+            "a) iid_",
+            "b) ix_",
+            "c) ixd_",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: The copy method makes a complete copy of the array and its data."
+    },
+    {
+        "id": 382,
+        "Question": "Which of the following sets the size of the buffer used in ufuncs?",
+        "Options": [
+            "a) bufsize(size)",
+            "b) setsize(size)",
+            "c) setbufsize(size)",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: Adjusting the size of the buffer may therefore alter the speed at which ufunc calculations of various sorts are completed."
+    },
+    {
+        "id": 383,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) A universal function is a function that operates on ndarrays in an element-by-element fashion",
+            "b) In Numpy, universal functions are instances of the numpy.ufunction class",
+            "c) Many of the built-in functions are implemented in compiled C code",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: ufunc instances can also be produced using the frompyfunc factory function."
+    },
+    {
+        "id": 384,
+        "Question": "Which of the following attribute should be used while checking for type combination input and output?",
+        "Options": [
+            "a) .types",
+            "b) .type",
+            "c) .class",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: a\nExplanation: Universal functions in NumPy are flexible enough to have mixed type signatures."
+    },
+    {
+        "id": 385,
+        "Question": "Which of the following returns an array of ones with the same shape and type as a given array?",
+        "Options": [
+            "a) all_like",
+            "b) ones_like",
+            "c) one_alike",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: The optional output arguments of the function can be used to help you save memory for large calculations."
+    },
+    {
+        "id": 386,
+        "Question": "Point out the wrong statement.",
+        "Options": [
+            "a) Each universal function takes array inputs and produces array outputs",
+            "b) Broadcasting is used throughout NumPy to decide how to handle disparately shaped arrays",
+            "c) The output of the ufunc is necessarily an ndarray, if all input arguments are ndarrays",
+            "d) All of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: The output of the ufunc is not necessarily an ndarray, if all input arguments are not ndarrays."
+    },
+    {
+        "id": 387,
+        "Question": "Which of the following set the floating-point error callback function or log object?",
+        "Options": [
+            "a) setter",
+            "b) settercall",
+            "c) setterstack",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: b\nExplanation: seterr sets how floating-point errors are handled."
+    },
+    {
+        "id": 388,
+        "Question": "___________ decompose the elements of x into mantissa and twos exponent.",
+        "Options": [
+            "a) trunc",
+            "b) fmod",
+            "c) frexp",
+            "d) ldexp"
+        ],
+        "Answer": "Answer: b\nExplanation: All ufuncs can take output arguments. If necessary, output will be cast to the data-type of the provided output array."
+    },
+    {
+        "id": 389,
+        "Question": "Which of the following function take only single value as input?",
+        "Options": [
+            "a) iscomplex",
+            "b) minimum",
+            "c) fmin",
+            "d) all of the mentioned"
+        ],
+        "Answer": "Answer: c\nExplanation: fmod function return the element-wise remainder of division."
+    }
+]

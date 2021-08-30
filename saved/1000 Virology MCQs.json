@@ -1,0 +1,3181 @@
+[
+    {
+        "id": 1,
+        "Question": "Who discovered viruses?",
+        "Options": [
+            "a) Beijerinck",
+            "b) Iwanowski",
+            "c) Twort",
+            "d) Ellerman"
+        ],
+        "Answer": "Answer: b\nExplanation: Dmitri Iwanowski, in the year 1892, discovered the viruses. He found the causal agent of mosaic disease of the tobacco plant which caused the discoloration of the leaf. He was one of the founders of virology.\n"
+    },
+    {
+        "id": 2,
+        "Question": "Who reported the cell-free transmission of chicken leukemia?",
+        "Options": [
+            "a) Ellerman and Bang",
+            "b) Loeffler and Frosch",
+            "c) Iwanowski and Beijerinck",
+            "d) Twort and Bang"
+        ],
+        "Answer": "Answer: a\nExplanation: Ellerman and Bang, in the year 1908, reported the cell-free transmission of chicken leukemia whereas Rous in 1911 discovered that the solid tumors of chicken could be transmitted by cell-free filtrates. These were the first indications or observations that the viruses can be carcinogenic.\n"
+    },
+    {
+        "id": 3,
+        "Question": "The bacteriophages were discovered by ____________",
+        "Options": [
+            "a) Beijerinck",
+            "b) Iwanowski",
+            "c) Twort",
+            "d) Ellerman"
+        ],
+        "Answer": "Answer: c\nExplanation: The bacteriophages or bacterial viruses were discovered by Frederick William Twort in 1915. The bacteriophages are the viruses that infect, multiply, and then finally kill the bacteria.\n"
+    },
+    {
+        "id": 4,
+        "Question": "The one-step growth curve was used to study ____________",
+        "Options": [
+            "a) the development of viral assays",
+            "b) the discovery of viruses",
+            "c) the multiplication of viruses",
+            "d) the origin of viruses"
+        ],
+        "Answer": "Answer: c\nExplanation: The one-step growth curve was used to study the multiplication cycle of viruses in a host organism or bacteria. The experiment was performed by Ellis and Delbruck in 1939 where a bacteriophage lambda was mixed in a suspension of Escherichia coli and the multiplication of virus was studied.\n"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following is not the phase of the one-step growth curve?",
+        "Options": [
+            "a) Eclipse phase",
+            "b) Maturation phase",
+            "c) Latent phase",
+            "d) Luteal phase"
+        ],
+        "Answer": "Answer: d\nExplanation: There are three phases of one-step growth curve: eclipse phase, maturation phase, and latent phase. Whereas, the luteal phase is the phase of the menstrual cycle.\n"
+    },
+    {
+        "id": 6,
+        "Question": "Which of the following phase measures the period before the infectious virus is released into the medium?",
+        "Options": [
+            "a) Eclipse phase",
+            "b) Luteal phase",
+            "c) Latent phase",
+            "d) Maturation phase"
+        ],
+        "Answer": "Answer: c\nExplanation: The latent phase measures the period before the infectious virus is released from the cells into the medium. During the eclipse phase, the infectivity of the cell-associated infecting virus is lost as it uncoats and during the maturation phase, infectious virus is assembled inside the cells.\n"
+    },
+    {
+        "id": 7,
+        "Question": "Who isolated TMV in paracrystalline form?",
+        "Options": [
+            "a) Stanley",
+            "b) Bawden",
+            "c) Pirie",
+            "d) Schlessinger"
+        ],
+        "Answer": "Answer: a\nExplanation: Stanley, in the year 1935, isolated the tobacco mosaic virus or TMV in paracrystalline form. Schlessinger purified the virus by using differential centrifugation, Bawden and Pirie purified TMV and showed it to be containing ribonucleic acid (RNA).\n"
+    },
+    {
+        "id": 8,
+        "Question": "The genetic material of bacteriophage T2 is __________",
+        "Options": [
+            "a) RNA",
+            "b) DNA",
+            "c) Carbohydrate",
+            "d) Protein"
+        ],
+        "Answer": "Answer: b\nExplanation: The genetic material of bacteriophage T2 is DNA and the evidence of DNA as genetic material was given by Hershey-Chase experiment.\n"
+    },
+    {
+        "id": 9,
+        "Question": "Which of the following phase determines the specificity of the virus?",
+        "Options": [
+            "a) Penetration",
+            "b) Attachment",
+            "c) Release",
+            "d) Uncoating"
+        ],
+        "Answer": "Answer: b\nExplanation: Viruses have the protein coat whereas viroids are the agents that have no protein coat. They are smaller than viruses and are composed of a short strand of circular, single-stranded RNA.\n"
+    },
+    {
+        "id": 10,
+        "Question": "Which of the following is not a category of the method of virus detection?",
+        "Options": [
+            "a) Multiplication",
+            "b) Hematology",
+            "c) Serology",
+            "d) Nucleic acid detection"
+        ],
+        "Answer": "Answer: b\nExplanation: Viruses are smaller microorganisms that require electron microscopy to be detection and this requires the concentration in excess. Thus, viruses are usually detected by indirect methods which fall into three categories: multiplication, serology and the detection of viral nucleic acid.\n"
+    },
+    {
+        "id": 11,
+        "Question": "Which of the following is the first cell line derived from a human?",
+        "Options": [
+            "a) HEK 293",
+            "b) HeLa",
+            "c) Sf9",
+            "d) Chinese hamster ovary cells"
+        ],
+        "Answer": "Answer: b\nExplanation: HeLa is the first cell line derived from the patient cells who died due to cervical cancer. The name of the cell line was given after the patient name, Henrietta Lacks. HeLa is one of the oldest and most commonly used cell lines and is an immortal cell line used in scientific research.\n"
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following effect causes changes in the host organism?",
+        "Options": [
+            "a) Cytopathic effect",
+            "b) Kappa effect",
+            "c) Peltzman effect",
+            "d) Hypersonic effect"
+        ],
+        "Answer": "Answer: a\nExplanation: The cytopathic effect is the effect that causes the changes in the host organism or infected cells due to the presence of the virus. It is the most usual way of detecting the presence of the virus in an infected cell by the pathology it causes. It is also known as CPE. CPE provides a quick and easy check on the progress of the viral infection.\n"
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following is important for mitosis to occur?",
+        "Options": [
+            "a) Plasma",
+            "b) Alcohol",
+            "c) Serum",
+            "d) Water"
+        ],
+        "Answer": "Answer: c\nExplanation: Serum is an important substance without which mitosis does not occur. It is a complex mixture of proteins and other compounds. However, synthetic substitutes are available but are employed for special purposes only.\n"
+    },
+    {
+        "id": 14,
+        "Question": "The hybridoma technology is used for the production of ___________",
+        "Options": [
+            "a) MAbs",
+            "b) Growth medium",
+            "c) Antigens",
+            "d) Insulin"
+        ],
+        "Answer": "Answer: a\nExplanation: The hybridoma technology is used for the production of monoclonal antibodies (MAbs) from hybridoma cells. They are called monoclonal as they are derived from a single cell line and are designed to bind to a particular antigen.\n"
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is not the step of viral genome amplification?",
+        "Options": [
+            "a) Denaturation",
+            "b) Annealing",
+            "c) Expansion",
+            "d) Renaturation"
+        ],
+        "Answer": "Answer: c\nExplanation: Expansion is not the step of amplification of the viral genome. The viral genome can be amplified using the polymerase chain reaction (PCR) which has three steps: denaturation, annealing, and extension.\n"
+    },
+    {
+        "id": 16,
+        "Question": "PCR was devised by ____________",
+        "Options": [
+            "a) Kary Mullis",
+            "b) Fredrick Sanger",
+            "c) Paul Berg",
+            "d) James Watson"
+        ],
+        "Answer": "Answer: a\nExplanation: Polymerase Chain Reaction (PCR) was devised by Kary Mullis in the year 1985 to amplify the genome of various organisms. There are many types of PCR developed which can be used for conversion of DNA to RNA and vice versa.\n"
+    },
+    {
+        "id": 17,
+        "Question": "Taq polymerase is isolated from ____________",
+        "Options": [
+            "a) Escherichia coli",
+            "b) Thermus aquaticus",
+            "c) Pyrococcus furiosus",
+            "d) Streptococcus pneumoniae"
+        ],
+        "Answer": "Answer: b\nExplanation: Taq polymerase is isolated from the bacterium Thermus aquaticus. It is a bacterium which lives in the natural hot springs. Taq is inactivated at a higher temperature and can survive the denaturation temperature of 94°C.\n"
+    },
+    {
+        "id": 18,
+        "Question": "Which of the following PCR is used for the conversion of RNA to DNA?",
+        "Options": [
+            "a) Q-PCR",
+            "b) RT-PCR",
+            "c) Nested PCR",
+            "d) Multiplex PCR"
+        ],
+        "Answer": "Answer: a\nExplanation: ELISA is an Enzyme-Linked ImmunoSorbent Assay, which is used for the detection of several viral diseases such as HIV AIDS, Hepatitis C Virus (HCV), etc.\n"
+    },
+    {
+        "id": 19,
+        "Question": "Viruses, outside their host cells, survive as ____________",
+        "Options": [
+            "a) bacteria",
+            "b) virions",
+            "c) algae",
+            "d) protozoa"
+        ],
+        "Answer": "Answer: b\nExplanation: The viruses outside their host cells survive as virus particles, which is also known as virions. The virion contains the viral genome and is a gene delivery system.\n"
+    },
+    {
+        "id": 20,
+        "Question": "The viral genome is packaged into a structure made of ______________",
+        "Options": [
+            "a) protein",
+            "b) carbohydrate",
+            "c) fats",
+            "d) lipids"
+        ],
+        "Answer": "Answer: a\nExplanation: The viral genome is packaged into a structure made up of protein. This outer protein structure is known as a capsid. Its main function is to protect the viral nucleic acid from digestion by enzymes.\n"
+    },
+    {
+        "id": 21,
+        "Question": "Which of the following is not the category of virus genome?",
+        "Options": [
+            "a) dsDNA",
+            "b) ssRNA",
+            "c) tsDNA",
+            "d) dsRNA"
+        ],
+        "Answer": "Answer: c\nExplanation: All the nucleic acids exist as double-stranded (ds) or single-stranded (ss). Thus, it gives four categories of virus genome: dsDNA, ssDNA, dsRNA, ssRNA.\n"
+    },
+    {
+        "id": 22,
+        "Question": "Most of the plant viruses have ____________",
+        "Options": [
+            "a) ssRNA",
+            "b) ssDNA",
+            "c) dsDNA",
+            "d) dsRNA"
+        ],
+        "Answer": "Answer: a\nExplanation: The majority of the plant viruses have single-stranded RNA as their genome, while most of the fungal viruses have double-stranded RNA and most prokaryotic viruses have double-stranded DNA genomes.\n"
+    },
+    {
+        "id": 23,
+        "Question": "Which of the following organism contains the largest genome size?",
+        "Options": [
+            "a) HBV",
+            "b) Phage lambda",
+            "c) Mimivirus",
+            "d) Mycoplasma genetalium"
+        ],
+        "Answer": "Answer: c\nExplanation: Mimivirus possesses the largest genomic size of about 1200 kilobase pairs of DNA. The phage lambda possesses 48.5 kbp, HBV possesses 3.2 kbp and Mycoplasma genetalium possesses 580 kbp DNA.\n"
+    },
+    {
+        "id": 24,
+        "Question": "Which of the following virus possess a single-stranded, linear genome?",
+        "Options": [
+            "a) TMV",
+            "b) Poxvirus",
+            "c) Baculovirus",
+            "d) Reovirus"
+        ],
+        "Answer": "Answer: a\nExplanation: The tobacco mosaic virus (TMV) possesses a single-stranded, linear RNA genome. Whereas poxvirus possesses double-stranded, linear genome, baculovirus possesses double-stranded, circular genome and reovirus has a double-stranded, linear genome.\n"
+    },
+    {
+        "id": 25,
+        "Question": "Which of the following is the most common capsid shape of the virus?",
+        "Options": [
+            "a) Cube",
+            "b) Rod",
+            "c) Cone",
+            "d) Icosahedron"
+        ],
+        "Answer": "Answer: d\nExplanation: The most common capsid shape of the virus is icosahedron and helical symmetries. Some of the examples of symmetrical structures are rod, helix, cone, and icosahedron. An icosahedron is an object or symmetry with 20 faces, 12 vertices, and 30 edges.\n"
+    },
+    {
+        "id": 26,
+        "Question": "The number of subunits in a virus particle is given by _________",
+        "Options": [
+            "a) T = Pf",
+            "b) P = Tf",
+            "c) T = Pf2",
+            "d) T = Pf3"
+        ],
+        "Answer": "Answer: c\nExplanation: The number of subunits in a virus particle is given by T = Pf2, where T is the triangulation number. P is given by the expression h2 + hk + k2. In this expression, h and k are any pair of integers without common factors, i.e. h and k cannot be multiplied or divided by any number to give the same values, f = 1, 2, 3, 4, etc.\n"
+    },
+    {
+        "id": 27,
+        "Question": "Which of the following virus have virions with internal lipid membranes?",
+        "Options": [
+            "a) Rabies virus",
+            "b) Influenza virus",
+            "c) Ebola virus",
+            "d) Iridovirus"
+        ],
+        "Answer": "Answer: d\nExplanation: Iridoviruses are viruses that have a lipid membrane within the virion rather than at the surface. Other examples include tectiviruses and chlorella virus. Rabies, Influenza, and Ebola viruses have lipid membranes at the surface of the virion.\n"
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following has responsibility for the assignment of new viruses to specific groupings?",
+        "Options": [
+            "a) ICC",
+            "b) ICTV",
+            "c) ITC",
+            "d) RCM"
+        ],
+        "Answer": "Answer: b\nExplanation: The International Committee on Taxonomy of Viruses has responsibility for the assignment of new viruses to specific groupings. It authorizes the nomenclature and taxonomic classification of viruses.\n"
+    },
+    {
+        "id": 29,
+        "Question": "Which of the following virus causes shingles when it is reactivated?",
+        "Options": [
+            "a) Varicella zoster",
+            "b) Adenovirus",
+            "c) HPV",
+            "d) Aichi virus"
+        ],
+        "Answer": "Answer: a\nExplanation: Varicella zoster virus is a virus that causes shingles when it is reactivated. In the first infection, it causes chickenpox and when it gets reactivated, it causes shingles. Shingles cause a painful rash and can occur anywhere on the body.\n"
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following viruses are icosahedrons?",
+        "Options": [
+            "a) Filamentous virus",
+            "b) Complex virus",
+            "c) Simple virus",
+            "d) Isometric virus"
+        ],
+        "Answer": "Answer: d\nExplanation: Isometric viruses are the viruses that are approximately spherical but are icosahedrons or icosadeltahedrons. Filamentous viruses have simple and helical morphology whereas complex viruses are made up of a combination of isometric and filamentous components.\n"
+    },
+    {
+        "id": 31,
+        "Question": "The Baltimore classification was based on the importance of ____________",
+        "Options": [
+            "a) DNA",
+            "b) mRNA",
+            "c) rRNA",
+            "d) tRNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The original Baltimore classification scheme was based on the importance of messenger RNA or mRNA in the replication cycle of viruses. The viruses do not contain elements or molecules which are necessary to translate mRNA and rely on host cells to provide these elements.\n"
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following class contains all viruses that have dsDNA genomes?",
+        "Options": [
+            "a) Class I",
+            "b) Class II",
+            "c) Class III",
+            "d) Class IV"
+        ],
+        "Answer": "Answer: a\nExplanation: Class I of the Baltimore classification scheme contains all the viruses that have double-stranded DNA (dsDNA) genomes. The designation of positive and negative sense is not meaningful in this case, since mRNAs may come from either strand.\n"
+    },
+    {
+        "id": 33,
+        "Question": "Class III of Baltimore classification contains viruses with __________",
+        "Options": [
+            "a) dsDNA",
+            "b) dsRNA",
+            "c) ssRNA",
+            "d) ssDNA"
+        ],
+        "Answer": "Answer: b\nExplanation: Class III of the Baltimore classification scheme contains all the viruses that have double-stranded RNA (dsRNA) genomes. Here, mRNA is only synthesized from one template strand of each segment.\n"
+    },
+    {
+        "id": 34,
+        "Question": "Which of the following class consists of ambisense viruses?",
+        "Options": [
+            "a) Class 5",
+            "b) Class 7",
+            "c) Class 2",
+            "d) Class 4"
+        ],
+        "Answer": "Answer: a\nExplanation: Some of the class 5 viruses use the newly synthesized antigenome RNA strand as a template for the production of an mRNA and are referred to as ambisense viruses. Class 5 contains viruses that have ssRNA genomes that are complementary to mRNA.\n"
+    },
+    {
+        "id": 35,
+        "Question": "In which year was ICTV established?",
+        "Options": [
+            "a) 1960",
+            "b) 1965",
+            "c) 1963",
+            "d) 1966"
+        ],
+        "Answer": "Answer: d\nExplanation: The International Committee on Taxonomy of Viruses (ICTV) was established in 1966 as the International Committee on Nomenclature of Viruses, but the name was later renamed to ICTV. It is governed by Statutes approved by the Virology division.\n"
+    },
+    {
+        "id": 36,
+        "Question": "Measles virus belong to the family ______________",
+        "Options": [
+            "a) Paramoxyviridae",
+            "b) Filoviridae",
+            "c) Bunyaviridae",
+            "d) Flaviviridae"
+        ],
+        "Answer": "Answer: a\nExplanation: Measles virus belongs to the family Paramoxyviridae in order of Mononegavirales and currently 49 species are placed under this family, divided among seven genera.\n"
+    },
+    {
+        "id": 37,
+        "Question": "Which of the following forms the terminal moiety of a carbohydrate group of a glycoprotein?",
+        "Options": [
+            "a) N-acetyl cysteine",
+            "b) N-acetyl neuraminic acid",
+            "c) N-acetyl glucosamine",
+            "d) N-acetyl glutamate"
+        ],
+        "Answer": "Answer: b\nExplanation: N-acetyl neuraminic acid forms the terminal moiety of a carbohydrate group of glycoprotein or glycolipid. It is used as a receptor by members of several different families of viruses.\n"
+    },
+    {
+        "id": 38,
+        "Question": "Which of the following molecule is used as a receptor by Rhinoviruses?",
+        "Options": [
+            "a) CD4",
+            "b) CD25",
+            "c) ICAM-1",
+            "d) CCR5"
+        ],
+        "Answer": "Answer: c\nExplanation: ICAM-1 is the cell surface molecule that is used as a receptor by most of the rhinoviruses but not all. ICAM-1 is the Intracellular Adhesion Molecule – 1, which is also known as CD54 (Cluster of Differentiation 54).\n"
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following virus does not use the CXCR4 molecule as a receptor?",
+        "Options": [
+            "a) HIV-1",
+            "b) HIV-2",
+            "c) Poliovirus",
+            "d) SIV"
+        ],
+        "Answer": "Answer: c\nExplanation: Poliovirus does not use the CXCR4 molecule as a receptor. It uses a CD155 surface molecule as the receptor. HIV-1, HIV-2, SIV use CXCR4, CCR3, CD4 as the surface receptor molecule.\n"
+    },
+    {
+        "id": 40,
+        "Question": "Which of the following is a type of coreceptor molecule?",
+        "Options": [
+            "a) Heparan sulfate",
+            "b) Acetylcholine",
+            "c) Phosphatidylserine",
+            "d) CR2"
+        ],
+        "Answer": "Answer: a\nExplanation: Heparan sulfate is a type of coreceptor molecule which is used by animal viruses such as dengue virus, herpes simplex virus, adeno-associated virus, etc. Acetylcholine, CR2, phosphatidylserine are the types of primary receptor molecules.\n"
+    },
+    {
+        "id": 41,
+        "Question": "The fusion of ___________ and ____________ occurs during the entry of viral genome into the cell.",
+        "Options": [
+            "a) lipid bilayer and plasma membrane",
+            "b) lipid bilayer and cell wall",
+            "c) carbohydrate layer and cytoplasm",
+            "d) virus and host cell"
+        ],
+        "Answer": "Answer: a\nExplanation: The fusion of lipid bilayer of enveloped virus and the plasma membrane of the cell occurs during the entry of the viral genome into the cell. It occurs at neutral pH or a low pH.\n"
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following organelle prevents the entry of viruses in plant cells?",
+        "Options": [
+            "a) Mitochondria",
+            "b) Plasma membrane",
+            "c) Golgi bodies",
+            "d) Cell wall"
+        ],
+        "Answer": "Answer: d\nExplanation: The cell wall that surrounds the plasma membrane of the plant cells prevents the viruses from attaching and entering the cytoplasm of the plant cell. Thus, plants are infected with viruses with the help of vectors that carry the viral genome into the host plant cells.\n"
+    },
+    {
+        "id": 43,
+        "Question": "The presence of O-specific side chains makes a cell sensitive to _____________",
+        "Options": [
+            "a) 6SR",
+            "b) P22",
+            "c) Br2",
+            "d) Br60"
+        ],
+        "Answer": "Answer: b\nExplanation: The presence of O-specific side chains makes the cell sensitive to phages such as P22, Felix O, etc. and resistant to phages such as 6SR, Br2, Br60, etc. The absence of O-specific side chains makes the cell resistant to phages such as P22, Felix O, etc. and sensitive to phages such as 6SR, Br2, Br60, etc.\n"
+    },
+    {
+        "id": 44,
+        "Question": "Which of the following compound inhibits the entry of the HIV-1 virus?",
+        "Options": [
+            "a) Zanamivir",
+            "b) Oseltamivir",
+            "c) Pleconaril",
+            "d) Enfuvirtide"
+        ],
+        "Answer": "Answer: d\nExplanation: Enfuvirtide is an antiviral compound that prevents or inhibits the attachment and entry of the HIV-1 virus into the host cells. It is an antiretroviral drug and is also known as T-20.\n"
+    },
+    {
+        "id": 45,
+        "Question": "Which of the following protein helps in the removal of primers in SV40 replication?",
+        "Options": [
+            "a) T antigen",
+            "b) DNA ligase",
+            "c) RNase H",
+            "d) RNase A"
+        ],
+        "Answer": "Answer: b\nExplanation: The attachment and entry of picornaviruses are inhibited by pleconaril, which is an antiviral compound that prevents the uncoating of the viral RNA genome.\n"
+    },
+    {
+        "id": 46,
+        "Question": "Replicases are used in _______________",
+        "Options": [
+            "a) translation",
+            "b) replication",
+            "c) transcription",
+            "d) post-translation"
+        ],
+        "Answer": "Answer: b\nExplanation: Replicases are the enzymes used in the replication of the genome. Replicases are usually the Polymerases used in the replication of the RNA genome. They are referred to as replicase to differentiate polymerases involved in transcription.\n"
+    },
+    {
+        "id": 47,
+        "Question": "The error rate during RNA replication is approximately _____________",
+        "Options": [
+            "a) 10-5 to 10-7",
+            "b) 10-7 to 10-9",
+            "c) 10-3 to 10-5",
+            "d) 10-1 to 10-3"
+        ],
+        "Answer": "Answer: c\nExplanation: The error rate during RNA virus replication is estimated to be approximately 10-3 to 10-5 per base per genome replication event. This places a limit on the maximum size of an RNA-based genome since as the size of the genome increases the probability of it containing a mutation will also increase.\n"
+    },
+    {
+        "id": 48,
+        "Question": "Which of the following component in genetic control encodes a repressor protein of 236 amino acids?",
+        "Options": [
+            "a) cI",
+            "b) cII",
+            "c) cIII",
+            "d) N"
+        ],
+        "Answer": "Answer: a\nExplanation: The component involved in encoding a repressor protein of 236 amino acids is cI. It is transcribed from its promoter and encodes repressor protein which binds to OR and prevents the transcription of cro protein.\n"
+    },
+    {
+        "id": 49,
+        "Question": "An antiterminator protein is encoded by ____________",
+        "Options": [
+            "a) cro",
+            "b) N",
+            "c) cII",
+            "d) R"
+        ],
+        "Answer": "Answer: b\nExplanation: N is a component in genetic control that encodes an antiterminator protein and it acts as an alternative rho (ρ) factor for host-cell RNA polymerase, modifying its activity and permitting extensive transcription from PL and PR.\n"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following RNA Polymerase is insensitive to α-amanitin?",
+        "Options": [
+            "a) Pol II",
+            "b) Pol IV",
+            "c) Pol III",
+            "d) Pol I"
+        ],
+        "Answer": "Answer: d\nExplanation: RNA polymerase I is unaffected or insensitive to α-amanitin. It transcribes ribosomal RNAs. Whereas Pol II is highly sensitive and Pol III is moderately sensitive to α-amanitin.\n"
+    },
+    {
+        "id": 51,
+        "Question": "Which of the following is programmed cell death?",
+        "Options": [
+            "a) Necrosis",
+            "b) Toxicity",
+            "c) Apoptosis",
+            "d) Infection"
+        ],
+        "Answer": "Answer: c\nExplanation: Apoptosis is also known as programmed cell death. It is a critical mechanism in tissue remodeling during development and in cell killing by the immune system. It is a tightly regulated process.\n"
+    },
+    {
+        "id": 52,
+        "Question": "The gene for Interferon-β is located on _______________",
+        "Options": [
+            "a) chromosome 9",
+            "b) chromosome 4",
+            "c) chromosome 12",
+            "d) chromosome 10"
+        ],
+        "Answer": "Answer: a\nExplanation: The single gene for Interferon-β is located on human chromosome 9. The mature protein contains 145 amino acids and is glycosylated with approximately 30% homology to other interferons. It is predominantly synthesized by fibroblasts.\n"
+    },
+    {
+        "id": 53,
+        "Question": "The active form of the reverse transcriptase enzyme is a ________________",
+        "Options": [
+            "a) tetramer",
+            "b) trimer",
+            "c) dimer",
+            "d) monomer"
+        ],
+        "Answer": "Answer: c\nExplanation: The active form of the reverse transcriptase (RT) enzyme is a dimer. It is formed of two related polypeptides i.e. a heterodimer. RT from avian retrovirus is composed of alpha and beta subunits.\n"
+    },
+    {
+        "id": 54,
+        "Question": "Which of the following surface molecule is used by the Coxsackie B virus as a receptor?",
+        "Options": [
+            "a) IgA",
+            "b) MHC I",
+            "c) CAR",
+            "d) DC-SIGN"
+        ],
+        "Answer": "Answer: c\nExplanation: Coxsackie adenovirus receptor (CAR) is a surface molecule that is used by the Coxsackie B virus as a receptor. It is a unique protein of unknown function and it is also used by Adenovirus.\n"
+    },
+    {
+        "id": 55,
+        "Question": "Which of the following protein recognizes MHC class I proteins?",
+        "Options": [
+            "a) CD4",
+            "b) CD8",
+            "c) CD26",
+            "d) CD10"
+        ],
+        "Answer": "Answer: b\nExplanation: CD8 (Cluster of Differentiation) is an integral transmembrane glycoprotein present on the surface of T cells that recognizes MHC (Major Histocompatibility Complex) class I proteins.\n"
+    },
+    {
+        "id": 56,
+        "Question": "Which of the following is a primary lymphoid organ?",
+        "Options": [
+            "a) Lymph",
+            "b) Spleen",
+            "c) MALT",
+            "d) Bone marrow"
+        ],
+        "Answer": "Answer: d\nExplanation: Bone marrow is a primary lymphoid organ. It is an organ where lymphocytes (B & T) arise there. 90% of plasma antibodies come from B cells in the bone marrow.\n"
+    },
+    {
+        "id": 57,
+        "Question": "T cells mature in ______________",
+        "Options": [
+            "a) bone marrow",
+            "b) thymus",
+            "c) spleen",
+            "d) lymph"
+        ],
+        "Answer": "Answer: b\nExplanation: The maturation of T lymphocytes or T cells occurs in the thymus. The development or formation of T cells occurs in the bone marrow and then T cells travel through the bloodstream to the thymus and mature there. B cells mature in the bone marrow.\n"
+    },
+    {
+        "id": 58,
+        "Question": "Hematopoiesis occurs in ______________",
+        "Options": [
+            "a) Thymus",
+            "b) Spleen",
+            "c) Bone marrow",
+            "d) MALT"
+        ],
+        "Answer": "Answer: c\nExplanation: Hematopoiesis occurs in the bone marrow. Hematopoiesis is the process of formation of all the types of blood cells from hematopoietic stem cells (HSCs) present in the bone marrow.\n"
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following controls the release of hematopoietic cells from bone marrow?",
+        "Options": [
+            "a) Osteoblasts",
+            "b) Endothelial cells",
+            "c) Sympathetic neurons",
+            "d) Reticular cells"
+        ],
+        "Answer": "Answer: c\nExplanation: Sympathetic neurons controls the release of hematopoietic cells from the bone marrow. The adult bone marrow contains several cell types that coordinate HSC development including, osteoblasts, endothelial cells, reticular cells, and sympathetic neurons.\n"
+    },
+    {
+        "id": 60,
+        "Question": "Which of the following is not part of the mononuclear phagocyte system?",
+        "Options": [
+            "a) Mesangial cells",
+            "b) Endothelial cells",
+            "c) Kupffer cells",
+            "d) Macrophage"
+        ],
+        "Answer": "Answer: b\nExplanation: Endothelial cells are not part of the mononuclear phagocyte system. The macrophages which line the medullary sinuses are part of the mononuclear phagocyte system. Mesangial cells of the kidney, Kupffer cells of the liver, etc. perform phagocytosis and kill the bacteria.\n"
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following cells form NET and perform phagocytosis?",
+        "Options": [
+            "a) Lymphocytes",
+            "b) Neutrophils",
+            "c) Basophils",
+            "d) Eosinophils"
+        ],
+        "Answer": "Answer: b\nExplanation: Neutrophils are the granulocytes present in leukocytes that form NET (Neutrophil Extracellular Trap) and trap the microbes and kill them. Neutrophils are the first cells to arrive at the site of inflammation and form NET and perform phagocytosis.\n"
+    },
+    {
+        "id": 62,
+        "Question": "Which of the following is not an APC cell?",
+        "Options": [
+            "a) Monocytes",
+            "b) Keratinocytes",
+            "c) Macrophages",
+            "d) Dendritic cells"
+        ],
+        "Answer": "Answer: b\nExplanation: Keratinocytes are not the antigen-presenting cells (APCs). APCs are the cells that present antigens to B cells and T cells. Dendritic cells (DCs), monocytes, macrophages, B cells, etc. are antigen-presenting cells (APCs).\n"
+    },
+    {
+        "id": 63,
+        "Question": "Which of the following is an abundant class of antibody in the serum?",
+        "Options": [
+            "a) IgE",
+            "b) IgD",
+            "c) IgA",
+            "d) IgG"
+        ],
+        "Answer": "Answer: d\nExplanation: IgG is the most abundant antibody present in serum i.e. 80%. IgG plays an important role in the neutralization of toxins, providing immunity to newborns, etc.\n"
+    },
+    {
+        "id": 64,
+        "Question": "Which of the following is not the type of viral infection?",
+        "Options": [
+            "a) Null",
+            "b) Meningitis",
+            "c) Latent",
+            "d) Persistent"
+        ],
+        "Answer": "Answer: b\nExplanation: Meningitis is a type of bacterial infection. The interactions between viral and cells can be classified into acutely cytopathogenic, persistent, null, latent, abortive, transforming infections.\n"
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following infection is also called as lytic infection?",
+        "Options": [
+            "a) Null",
+            "b) Cytopathogenic",
+            "c) Latent",
+            "d) Abortive"
+        ],
+        "Answer": "Answer: b\nExplanation: Cytopathogenic infections are also called lytic infections as the cell dies due to lysis. But lytic is not the accurate term, as in some infection cells die without being lysed, that is, by apoptosis or programmed cell death.\n"
+    },
+    {
+        "id": 66,
+        "Question": "Which of the following virus promotes cell death by apoptosis?",
+        "Options": [
+            "a) Vaccinia virus",
+            "b) Myxoma virus",
+            "c) HSV",
+            "d) Rubella virus"
+        ],
+        "Answer": "Answer: d\nExplanation: Rubella virus, which belongs to the family Togaviridae, expresses proteins that promote the cell death by apoptosis. Vaccinia virus, myxoma virus, herpes simplex virus, etc. are the viruses that inhibit the cell death by apoptosis.\n"
+    },
+    {
+        "id": 67,
+        "Question": "Which of the following infection results in the continuous production of viruses?",
+        "Options": [
+            "a) Persistent",
+            "b) Abortive",
+            "c) Null",
+            "d) Transforming"
+        ],
+        "Answer": "Answer: a\nExplanation: Persistent infections are the infections that cause or result in the continuous production of infectious viruses. This is achieved either by the survival of the infected cells or by a situation in which a minority of cells are initially infected and the spread of the virus is limited.\n"
+    },
+    {
+        "id": 68,
+        "Question": "UL37x1 is a protein encoded by ________________",
+        "Options": [
+            "a) Cytomegalovirus",
+            "b) HSV",
+            "c) SV40",
+            "d) HIV"
+        ],
+        "Answer": "Answer: a\nExplanation: UL37x1 is a protein encoded by human cytomegalovirus which is a herpes virus. The protein inhibits the apoptosis of infected cells, which permits the virus to establish a long-lasting infection.\n"
+    },
+    {
+        "id": 69,
+        "Question": "In which of the following infection no infectious progeny is produced?",
+        "Options": [
+            "a) Latent",
+            "b) Abortive",
+            "c) Persistent",
+            "d) Null"
+        ],
+        "Answer": "Answer: a\nExplanation: The term latent is defined as existing but not exhibited. In terms of the virus-infected cell, it means that the viral genome is present but no infectious progeny is produced. Adeno-associated virus, herpesvirus exhibits latency.\n"
+    },
+    {
+        "id": 70,
+        "Question": "Which of the following infection causes a change in the properties of the cell?",
+        "Options": [
+            "a) Latent",
+            "b) Abortive",
+            "c) Transforming",
+            "d) Null"
+        ],
+        "Answer": "Answer: c\nExplanation: The infection of a cell with a variety of DNA viruses results in the change in a wide variety of properties of the cell and the cells may undergo rapid multiplication. This results in the transformation of cells and hence transforming infection.\n"
+    },
+    {
+        "id": 71,
+        "Question": "Which infection causes a reduction in the total yield of virus particles?",
+        "Options": [
+            "a) Null",
+            "b) Transforming",
+            "c) Abortive",
+            "d) Cytopathogenic"
+        ],
+        "Answer": "Answer: c\nExplanation: Abortive infection causes a reduction in the total yield of virus particles (sometimes to zero). The quality of the progeny, if produced, maybe deficient as the cells do not replicate that virus with equal efficiency.\n"
+    },
+    {
+        "id": 72,
+        "Question": "In which of the following infection the cells do not have the appropriate receptor for the virus?",
+        "Options": [
+            "a) Null",
+            "b) Transforming",
+            "c) Abortive",
+            "d) Cytopathogenic"
+        ],
+        "Answer": "Answer: a\nExplanation: Null infection represents the cells which do not have appropriate receptors for a particular virus, and thus cannot interact with virus particle. The viral genome is artificially introduced into such cells in the laboratory to produce progenies.\n"
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following is not the part of Koch’s postulate?",
+        "Options": [
+            "a) The microorganism is always found in diseased animals",
+            "b) The microorganism secretes toxin in culture",
+            "c) The microorganism is never found in healthy animals",
+            "d) The microorganism causes disease in healthy animals"
+        ],
+        "Answer": "Answer: b\nExplanation: Koch’s postulate includes that the suspected agent must be present in a particular tissue in every case of the disease, the agent must be isolated and grown in pure culture, and pure preparations of agent must cause the same disease when they are introduced into healthy subjects.\n"
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is not the criteria for the classification of virus-host interactions?",
+        "Options": [
+            "a) Production of infectious progeny",
+            "b) Size of the virus",
+            "c) Signs and symptoms",
+            "d) Duration of infection"
+        ],
+        "Answer": "Answer: b\nExplanation: The categories of virus-host interaction are distinguished on four criteria: the production of infectious progeny, whether or not the virus kills its host cell, if there are observable signs and symptoms, and the duration of infection.\n"
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following infection is specific to only cell and not the whole organism?",
+        "Options": [
+            "a) Null",
+            "b) Subclinical",
+            "c) Chronic",
+            "d) Tumorigenic"
+        ],
+        "Answer": "Answer: a\nExplanation: Null infection is an infection that occurs at the cell level. Acute, subclinical, persistent, chronic, latent, and tumorigenic are the types of infection that occur at the whole organism level.\n"
+    },
+    {
+        "id": 76,
+        "Question": "In which of the following infection the infecting dose of virus is small?",
+        "Options": [
+            "a) Acute",
+            "b) Persistent",
+            "c) Null",
+            "d) Subclinical"
+        ],
+        "Answer": "Answer: a\nExplanation: The infection in which the infecting dose of virus is small and the virus goes through many rounds of replication is called acute infection and this infection spreads from first infected cells to new susceptible cells. It is analog to acutely cytopathogenic infections.\n"
+    },
+    {
+        "id": 77,
+        "Question": "Influenza virus infects _______________",
+        "Options": [
+            "a) liver",
+            "b) respiratory system",
+            "c) kidney",
+            "d) heart"
+        ],
+        "Answer": "Answer: b\nExplanation: Influenza virus infects the respiratory system and causes fever, aching, catarrh, etc. Whereas the hepatitis virus infects the liver. This specificity is achieved largely through the presence of cell receptors on only certain cells in the body.\n"
+    },
+    {
+        "id": 78,
+        "Question": "Which of the following is also known as a silent infection?",
+        "Options": [
+            "a) Acute",
+            "b) Persistent",
+            "c) Tumorigenic",
+            "d) Subclinical"
+        ],
+        "Answer": "Answer: d\nExplanation: Subclinical infections are also known as silent infections or inapparent infections. They are the most common infections and no signs and symptoms occur of the disease. These are the same as acute infections.\n"
+    },
+    {
+        "id": 79,
+        "Question": "Human Papillomavirus causes the cancer of ___________",
+        "Options": [
+            "a) liver",
+            "b) lymphoid tissue",
+            "c) cervix",
+            "d) mouth"
+        ],
+        "Answer": "Answer: c\nExplanation: Human papillomavirus (HPV) is a group of viruses that causes cervical cancer. HPV infection also passes through the skin to skin contact. It is most common in the United States.\n"
+    },
+    {
+        "id": 80,
+        "Question": "Which of the following virus causes the cancer of lymphoid tissue of the jaw?",
+        "Options": [
+            "a) HBV",
+            "b) HPV",
+            "c) EBV",
+            "d) HIV"
+        ],
+        "Answer": "Answer: a\nExplanation: Apoptosis contrasts with cell lysis or necrosis where the cells disintegrate and its contents are released. The cells which undergo necrosis are inflammatory as the necrotic products are inflammatory in the whole animal.\n"
+    },
+    {
+        "id": 81,
+        "Question": "Which of the following antibody is present in breast milk?",
+        "Options": [
+            "a) IgG",
+            "b) IgA",
+            "c) IgE",
+            "d) IgM"
+        ],
+        "Answer": "Answer: a\nExplanation: T cells are the main defense against primary infections. T cells in particular CD8+ cytotoxic T cells and antibodies are the main defense against primary infections.\n"
+    },
+    {
+        "id": 82,
+        "Question": "Which of the following viruses are best known for latent infections?",
+        "Options": [
+            "a) Rhinovirus",
+            "b) Herpesvirus",
+            "c) Poliovirus",
+            "d) HIV"
+        ],
+        "Answer": "Answer: b\nExplanation: Herpes virus is a group of viruses that are best known for latent infections. They infect a wide range of hosts including humans. Once the infection is established the virus remains associated with the host for the remainder of its life.\n"
+    },
+    {
+        "id": 83,
+        "Question": "The bacteria carrying the phage DNA are called ________________",
+        "Options": [
+            "a) prophage",
+            "b) temperate phage",
+            "c) lysogens",
+            "d) bacteriophage"
+        ],
+        "Answer": "Answer: c\nExplanation: The bacteria which carry the phage DNA are called lysogens or lysogenic bacteria. It is a bacterial cell that can produce and transfer the ability to produce a phage.\n"
+    },
+    {
+        "id": 84,
+        "Question": "The single-stranded regions in lambda phage are called _______________ sequences.",
+        "Options": [
+            "a) cro",
+            "b) cos",
+            "c) lox",
+            "d) cre"
+        ],
+        "Answer": "Answer: b\nExplanation: The single-stranded regions in lambda phage are called cos sequences. On infection, these sequences of 12 base pairs come together to form a circular DNA molecule which is covalently closed by the host DNA ligase enzyme.\n"
+    },
+    {
+        "id": 85,
+        "Question": "Which of the following is a recombination site in the phage DNA?",
+        "Options": [
+            "a) att P",
+            "b) int",
+            "c) gal",
+            "d) lox"
+        ],
+        "Answer": "Answer: a\nExplanation: The recombination site in the phage DNA is the att P site. The position of the recombination site in the phage DNA lies downstream of the int gene and the region is referred to as att P site.\n"
+    },
+    {
+        "id": 86,
+        "Question": "The critical component in the SOS response is ______________",
+        "Options": [
+            "a) Lex A",
+            "b) Rec A",
+            "c) Rec B",
+            "d) Lex B"
+        ],
+        "Answer": "Answer: b\nExplanation: The critical component in the SOS response is the Rec A protein. The main function of the Rec A protein is to mediate the recombination between DNA molecules. In the condition of stress, the Rec A protein alters its activity to become a specific protease.\n"
+    },
+    {
+        "id": 87,
+        "Question": "LATs are _____________",
+        "Options": [
+            "a) introns",
+            "b) proteins",
+            "c) exons",
+            "d) fatty acids"
+        ],
+        "Answer": "Answer: a\nExplanation: LATs are latency-associated transcripts which are stable introns, produced by splicing of longer RNAs, and they do not encode proteins. The cells expressing LATs suppress the production of immediate early mRNAs.\n"
+    },
+    {
+        "id": 88,
+        "Question": "The delayed infection of EBV causes _____________",
+        "Options": [
+            "a) glandular fever",
+            "b) swelling",
+            "c) pain",
+            "d) lesions"
+        ],
+        "Answer": "Answer: a\nExplanation: Epstein-Baar Virus (EBV) causes sub-clinical infection in infants and if the infection is delayed until adulthood, infectious mononucleosis or glandular fever results. It lasts for 2 to 3 weeks.\n"
+    },
+    {
+        "id": 89,
+        "Question": "The primary acute infection caused by HSV-1 is _____________",
+        "Options": [
+            "a) chicken-pox",
+            "b) genital lesions",
+            "c) stomatitis",
+            "d) glandular fever"
+        ],
+        "Answer": "Answer: c\nExplanation: The primary acute infection caused by HSV-1 is stomatitis. It also causes infection of the mouth and tongue. Upon reactivation, it causes a cold sore. The site of latency for HSV-1 is the dorsal root ganglion of the trigeminal (cranial) nerve.\n"
+    },
+    {
+        "id": 90,
+        "Question": "The site of latency for CMV is ____________",
+        "Options": [
+            "a) B cells",
+            "b) Salivary glands",
+            "c) Ganglion",
+            "d) Epithelium"
+        ],
+        "Answer": "Answer: b\nExplanation: The site of latency for Cytomegalovirus (CMV) is salivary glands and probably other sites. Cytomegalo refers to the characteristic swollen cell cytopathology caused by CMV to the cells of the kidney, lungs, and liver.\n"
+    },
+    {
+        "id": 91,
+        "Question": "Which of the following is not a horizontal transmission route?",
+        "Options": [
+            "a) Respiratory",
+            "b) Placental",
+            "c) Fecal",
+            "d) Sexual"
+        ],
+        "Answer": "Answer: b\nExplanation: The placental route is the vertical transmission route where transmission occurs from mother to fetus. Whereas respiratory, fecal, sexual, etc. are the horizontal transmission route.\n"
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following virus is transmitted through the respiratory route?",
+        "Options": [
+            "a) HIV",
+            "b) HBV",
+            "c) HPV",
+            "d) Rhinovirus"
+        ],
+        "Answer": "Answer: d\nExplanation: Rhinovirus is the virus that is transmitted through the respiratory route. Whereas Human Immunodeficiency Virus (HIV), Hepatitis B Virus (HBV), and Papillomavirus (HPV) are transmitted through sexual routes.\n"
+    },
+    {
+        "id": 93,
+        "Question": "Which of the following virus is transmitted via urine?",
+        "Options": [
+            "a) Influenza virus",
+            "b) Poliovirus",
+            "c) Lassa fever virus",
+            "d) Arbovirus"
+        ],
+        "Answer": "Answer: c\nExplanation: Lassa fever virus (an African arenavirus) is transmitted via urine. This virus infects wild mice. Sin Nombre, a North American bunyavirus, is also transmitted via urine. Both viruses cause rare human fatalities.\n"
+    },
+    {
+        "id": 94,
+        "Question": "Which of the following phylum acts as a vector for virus transmission?",
+        "Options": [
+            "a) Arthropods",
+            "b) Mollusca",
+            "c) Porifera",
+            "d) Cnidaria"
+        ],
+        "Answer": "Answer: a\nExplanation: Arthropods found in tropical parts, act as a vector for virus transmission. The arthropod feeds on the human body by piercing the skin with their mouthparts. During their next meal, they inject saliva as an anticoagulant, and in doing so introduces the virus that was picked up from the previous meal.\n"
+    },
+    {
+        "id": 95,
+        "Question": "The viruses spread by arthropods are known as ____________",
+        "Options": [
+            "a) Rhinovirus",
+            "b) Arbovirus",
+            "c) Influenza virus",
+            "d) HIV"
+        ],
+        "Answer": "Answer: b\nExplanation: The viruses spread by arthropods (arthropod-borne virus) are known as arbovirus and the disease spread by arbovirus is known as arboviral disease. The infection usually occurs during warm weather months when mosquitoes and ticks are active.\n"
+    },
+    {
+        "id": 96,
+        "Question": "Which of the following is an example of a vertically transmitted virus?",
+        "Options": [
+            "a) Arbovirus",
+            "b) Rhinovirus",
+            "c) Poliovirus",
+            "d) Rubella virus"
+        ],
+        "Answer": "Answer: d\nExplanation: The rubella virus is a classic example of a vertically transmitted virus. It spreads by the respiratory route. The risks of malformations arising from rubella virus infection are high in the early stages of pregnancy and it becomes almost no risk by the fifth month or later stages.\n"
+    },
+    {
+        "id": 97,
+        "Question": "Which of the following virus undergoes zoonotic transmission?",
+        "Options": [
+            "a) Rhinovirus",
+            "b) HIV",
+            "c) HBV",
+            "d) Rhabdovirus"
+        ],
+        "Answer": "Answer: d\nExplanation: Rhabdovirus transmits through the zoonotic transmission. It causes rabies which is a well-known zoonosis. It is transmitted directly by the bite of an infected vertebra and it infects many different species.\n"
+    },
+    {
+        "id": 98,
+        "Question": "Which of the following virus belongs to the poxvirus family?",
+        "Options": [
+            "a) HIV",
+            "b) Myxoma",
+            "c) Measles",
+            "d) Influenza"
+        ],
+        "Answer": "Answer: b\nExplanation: Myxoma virus belongs to the poxvirus family. The natural host of myxoma virus is the South American rabbit in which it causes minor skin outgrowths. It also infects the European rabbit causing myxomatis and is spread by arthropod vectors.\n"
+    },
+    {
+        "id": 99,
+        "Question": "Influenza A virus was discovered in ______________",
+        "Options": [
+            "a) 1933",
+            "b) 1937",
+            "c) 1999",
+            "d) 1958"
+        ],
+        "Answer": "Answer: a\nExplanation: Influenza A virus was discovered in 1933 and since then they have been isolated every year from humans around the world. It causes worldwide epidemics, that is, pandemics and each new isolate are tested serologically with antibody to all other influenza strains.\n"
+    },
+    {
+        "id": 100,
+        "Question": "Which of the following virus targets eyes?",
+        "Options": [
+            "a) EBV",
+            "b) Mastadenovirus",
+            "c) Rubulavirus",
+            "d) Retrovirus"
+        ],
+        "Answer": "Answer: b\nExplanation: Mastadenovirus are the viruses belonging to adenoviridae family, infects or has the major target organ as eyes. They may also affect the lining of the eyes, lungs, intestines, nervous system, etc.\n"
+    },
+    {
+        "id": 101,
+        "Question": "Which of the following virus infects the gastrointestinal tract?",
+        "Options": [
+            "a) Parvovirus",
+            "b) Mumps virus",
+            "c) Norwalk virus",
+            "d) Rubella virus"
+        ],
+        "Answer": "Answer: c\nExplanation: Norwalk virus is the virus that infects the gastrointestinal tract. It causes viral gastroenteritis. It is also known as food poisoning, food infection, stomach flu, and winter vomiting diseases.\n"
+    },
+    {
+        "id": 102,
+        "Question": "Coxsackie B virus has major target organ as ______________",
+        "Options": [
+            "a) heart",
+            "b) liver",
+            "c) lungs",
+            "d) intestine"
+        ],
+        "Answer": "Answer: a\nExplanation: The Coxsackie B virus has a major target organ like the heart. They belong to the picornavirus family and genus enterovirus. It causes a very serious infection of the heart and may result in heart failure or heart attack.\n"
+    },
+    {
+        "id": 103,
+        "Question": "Which of the following virus causes blunting of the villi?",
+        "Options": [
+            "a) Influenza virus",
+            "b) Mumps virus",
+            "c) Rotavirus",
+            "d) Parvovirus"
+        ],
+        "Answer": "Answer: c\nExplanation: Rotavirus passes through the stomach following ingestion and infects the cells at the tip of the villi of the epithelium lining the upper part of the small intestine. This leads to the loss of these cells and the so-called blunting of the villi.\n"
+    },
+    {
+        "id": 104,
+        "Question": "Which of the following virus promotes sneezing?",
+        "Options": [
+            "a) Rotavirus",
+            "b) Rhinovirus",
+            "c) Retrovirus",
+            "d) Norovirus"
+        ],
+        "Answer": "Answer: b\nExplanation: Rhinovirus is a virus that promotes sneezing. Rhinovirus infects the nasal epithelium and causes the enhanced secretion of fluid, also narrowing the passages, and these promotes sneezing. Sneezing is the reflex response to irritation and build-up of fluid in nasal passages.\n"
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following virus infects the lower respiratory tract?",
+        "Options": [
+            "a) Parvovirus",
+            "b) Mumps virus",
+            "c) Norwalk virus",
+            "d) RS virus"
+        ],
+        "Answer": "Answer: c\nExplanation: RSV virus infects the lower in the respiratory tract. The respiratory epithelium contains a respiratory escalator which is constantly moving the layer of mucus that coats and protects the cells upward towards the nose. If these cells are damaged then the mucus gets accumulated and has to be removed by coughing.\n"
+    },
+    {
+        "id": 106,
+        "Question": "Which of the following factor does not affect the incidence of viral disease?",
+        "Options": [
+            "a) Location",
+            "b) Environment",
+            "c) Genetics",
+            "d) Temperature"
+        ],
+        "Answer": "Answer: d\nExplanation: The factors affecting the relative incidence of viral disease are: The effect of location on viral disease incidence, the effect of environment on viral disease incidence, and individual factors such as genetics. Temperature does not affect the incidence of viral disease.\n"
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following virus affects the testes?",
+        "Options": [
+            "a) Mumps virus",
+            "b) Rhinovirus",
+            "c) Measles virus",
+            "d) Adenovirus"
+        ],
+        "Answer": "Answer: a\nExplanation: Mumps virus belonging to paramyxoviridae family, affects the testes. It causes swelling and pain in the testes and affects only one testicle. However, the pain can be relieved by using painkillers such as ibuprofen.\n"
+    },
+    {
+        "id": 108,
+        "Question": "Which of the following virus affects the liver?",
+        "Options": [
+            "a) HAV",
+            "b) HIV",
+            "c) HSV",
+            "d) EBV"
+        ],
+        "Answer": "Answer: a\nExplanation: Hepatitis A Virus (HAV) is a virus that affects the liver of the organism. It is a picornavirus that is transmitted by the fecal-oral route and causes acute infections of the liver.\n"
+    },
+    {
+        "id": 109,
+        "Question": "HIV-1 was first known as ___________",
+        "Options": [
+            "a) HHV",
+            "b) LAV",
+            "c) HSV",
+            "d) EBV"
+        ],
+        "Answer": "Answer: b\nExplanation: HIV-1 was first known as lymphocyte-associated virus (LAV) or human T cell lymphocyte virus type 3 (HTLV-3). In 1985 a virus new to science, HIV-1 was isolated. AIDS was recognized before the virus that was responsible for them.\n"
+    },
+    {
+        "id": 110,
+        "Question": "Which of the following therapy is used to halt HIV replication?",
+        "Options": [
+            "a) Gene therapy",
+            "b) Chemotherapy",
+            "c) HAART therapy",
+            "d) Physiotherapy"
+        ],
+        "Answer": "Answer: c\nExplanation: HAART is a highly active anti-retrovirus therapy that is used to halt the HIV replication and progression to AIDS. In this therapy, a combination of two nucleoside analogs and a protease inhibitor is remarkably successful in halting virus replication.\n"
+    },
+    {
+        "id": 111,
+        "Question": "HAART was discovered in __________",
+        "Options": [
+            "a) 1998",
+            "b) 1999",
+            "c) 1994",
+            "d) 1995"
+        ],
+        "Answer": "Answer: c\nExplanation: HAART has been used since 1994. It is a successful therapy for halting the virus replication but it is an expensive therapy and this has restricted it largely to developed countries and overall less than 12% of people receive HAART.\n"
+    },
+    {
+        "id": 112,
+        "Question": "HIV-1 is a member of __________ family.",
+        "Options": [
+            "a) retroviridae",
+            "b) arenaviridae",
+            "c) filoviridae",
+            "d) flaviviridae"
+        ],
+        "Answer": "Answer: a\nExplanation: HIV-1 is a typical member of the lentivirus genus of the retroviridae family. HIV-1 causes over 99% of HIV infections, is globally dispersed and is usually fatal. They infect several different vertebrate species.\n"
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following member of the lentivirus family causes pneumonia?",
+        "Options": [
+            "a) HIV-1",
+            "b) HIV-2",
+            "c) Visna-Maedi",
+            "d) Bovine immunodeficiency"
+        ],
+        "Answer": "Answer: c\nExplanation: Visna-Maedi is a typical member of the lentivirus subfamily that causes pneumonia or other chronic diseases. It is also caused by Streptococcus pneumonia, which is a bacterium.\n"
+    },
+    {
+        "id": 114,
+        "Question": "Which of the following member of the lentivirus family causes anemia?",
+        "Options": [
+            "a) HIV-2",
+            "b) Visna-Maedi",
+            "c) Bovine immunodeficiency",
+            "d) Anemia"
+        ],
+        "Answer": "Answer: d\nExplanation: Equine is a member of the lentivirus family that causes anemia. It also causes weight loss, recurrent fever, and little immunosuppression. The host of the virus is the horse and the main target cell is macrophage.\n"
+    },
+    {
+        "id": 115,
+        "Question": "Tat _________",
+        "Options": [
+            "a) upregulates translation",
+            "b) downregulates translation",
+            "c) upregulates transcription",
+            "d) downregulates transcription"
+        ],
+        "Answer": "Answer: c\nExplanation: Tat is an RNA-binding protein and it binds to the TAR element, which is a sequence in the nascent RNA that is encoded just downstream from the transcription start site and upregulates the transcription by increasing the processivity of RNA polymerase II.\n"
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following is a pleiotropic regulator?",
+        "Options": [
+            "a) Vif",
+            "b) Vpr",
+            "c) Nef",
+            "d) Vpu"
+        ],
+        "Answer": "Answer: c\nExplanation: Nef is a complex pleiotropic (multifunctional) regulator. It down-modulates cell surface expression of CD4 and MHC class I proteins and increases virus infectivity. It also enhances the spread of infection.\n"
+    },
+    {
+        "id": 117,
+        "Question": "HIV is not transmitted through ____________",
+        "Options": [
+            "a) saliva",
+            "b) breast milk",
+            "c) vaginal fluids",
+            "d) blood"
+        ],
+        "Answer": "Answer: a\nExplanation: HIV is not transmitted through saliva. However, there are chances of HIV transmission by open-mouth kissing, using needles contaminated with HIV and vertical transmission such as feeding breast milk.\n"
+    },
+    {
+        "id": 118,
+        "Question": "Which of the following factor does not contribute to virus-associated oncogenesis?",
+        "Options": [
+            "a) Age",
+            "b) Height",
+            "c) Diet",
+            "d) Environment"
+        ],
+        "Answer": "Answer: b\nExplanation: Various factors such as host genotype, age at infection, diet, environmental carcinogens (other than viruses), and other invading organisms, may all contribute to the process od virus-associated oncogenesis.\n"
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following enzyme maintains the ends of the chromosome?",
+        "Options": [
+            "a) Ligase",
+            "b) Polymerase",
+            "c) Telomerase",
+            "d) Protease"
+        ],
+        "Answer": "Answer: c\nExplanation: Telomerase is an enzyme that maintains the ends of the chromosome. Telomerase maintains the size of the chromosome otherwise it would result in the reduction in length of the chromosome that leads to senescence.\n"
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following may occur due to transformation?",
+        "Options": [
+            "a) Mutation",
+            "b) Weight loss",
+            "c) Anemia",
+            "d) Weight gain"
+        ],
+        "Answer": "Answer: a\nExplanation: Mutations may occur due to transformation which leads to change in DNA base pairs. There is now evidence that the mechanisms underlying immortalization, transformation, and tumorigenesis involve the alteration to a cell’s DNA, which is a mutation.\n"
+    },
+    {
+        "id": 121,
+        "Question": "Oncogenes are ______________",
+        "Options": [
+            "a) anemia genes",
+            "b) cancer genes",
+            "c) thalassemia genes",
+            "d) color blindness genes"
+        ],
+        "Answer": "Answer: b\nExplanation: Oncogenes are genes that cause cancer. They promote tumor formation if they sustain mutations that alter protein products or increase their level of expression. They are also involved in controlling cell signaling and regulation of the cell division cycle.\n"
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following causes Kaposi’s sarcoma?",
+        "Options": [
+            "a) EBV",
+            "b) HCV",
+            "c) HHV-8",
+            "d) HPV"
+        ],
+        "Answer": "Answer: c\nExplanation: HHV-8, a herpes virus, causes Kaposi’s sarcoma in humans. It affects people with immunodeficiencies such as HIV or AIDS. Lesions may appear on the skin, lymph nodes, mucous membranes, etc.\n"
+    },
+    {
+        "id": 123,
+        "Question": "Which of the following causes warts?",
+        "Options": [
+            "a) Human papilloma type 16",
+            "b) Bovine papilloma type 4",
+            "c) SV40",
+            "d) Polyomavirus"
+        ],
+        "Answer": "Answer: b\nExplanation: Bovine papilloma type 4 causes warts and fibroepithelioma in cattle, hamsters, and rabbits. It is a type of papillomavirus and may affect the newborn. It is one of the most extensively studied papillomavirus.\n"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following protein is synthesized by human papilloma for cell transformation?",
+        "Options": [
+            "a) E6",
+            "b) E5",
+            "c) E1A",
+            "d) E1B"
+        ],
+        "Answer": "Answer: a\nExplanation: Human papillomavirus (HPV) synthesizes E6 and E7 proteins implicated in cell transformation. The same proteins are also required for tumorigenesis. They are essential for normal virus replication in their natural target cells.\n"
+    },
+    {
+        "id": 125,
+        "Question": "Which of the following protein can fully transform the baby rat kidney (BRK) cells alone?",
+        "Options": [
+            "a) E1A of human adenovirus",
+            "b) E1B of human adenovirus",
+            "c) Large T antigen of SV40",
+            "d) Middle T antigen of polyoma"
+        ],
+        "Answer": "Answer: c\nExplanation: Large T antigen of SV40 alone can transform baby rat kidney (BRK) cells. Whereas E1A and E1B of human adenovirus both are required for transformation. Similarly, polyomavirus large T and middle T antigen are the need for full transformation by this virus.\n"
+    },
+    {
+        "id": 126,
+        "Question": "ATL is a tumor of ___________",
+        "Options": [
+            "a) CD8",
+            "b) CD4",
+            "c) CD10",
+            "d) CD16"
+        ],
+        "Answer": "Answer: b\nExplanation: Adult T cell leukemia (ATL) is a tumor of CD4+ T lymphocytes. ATL cells always contain integrated HTLV-1 DNA in a minority of those infected. The distribution of ATL cases across the globe is nonuniform with hot-spots in Japan and the Caribbean Islands.\n"
+    },
+    {
+        "id": 127,
+        "Question": "Which of the following is not a property of an ideal vaccine?",
+        "Options": [
+            "a) It should be genetically stable",
+            "b) It should have private support",
+            "c) It should be affordable",
+            "d) It should not have any side effects"
+        ],
+        "Answer": "Answer: b\nExplanation: The properties of an ideal vaccine are: it should be genetically stable, it should be affordable, it should not cause any side effects, it should have public support and must be effective.\n"
+    },
+    {
+        "id": 128,
+        "Question": "The process of producing a virus which causes a reduced amount of disease for use as a live vaccine is called ________________",
+        "Options": [
+            "a) attenuation",
+            "b) avirulent",
+            "c) virulent",
+            "d) adjuvant"
+        ],
+        "Answer": "Answer: a\nExplanation: The process of producing a virus which causes a reduced amount of disease for use as a live vaccine is called attenuation. The disease-causing virus is referred to as virulent and the attenuated strain is referred to as avirulent.\n"
+    },
+    {
+        "id": 129,
+        "Question": "Which of the following vaccine contains a mutant strain of a virus that has been derived from a wild-type virulent strain?",
+        "Options": [
+            "a) Inactivated virus vaccines",
+            "b) Live recombinant virus vaccines",
+            "c) Virion subunit vaccines",
+            "d) Live attenuated virus vaccines"
+        ],
+        "Answer": "Answer: d\nExplanation: A live attenuated virus vaccine contains a mutant strain of a virus that has been derived from a wild-type virulent strain. The main advantage of this type of vaccine is that there are increasing amounts of virus antigen in the body as the virus replicates.\n"
+    },
+    {
+        "id": 130,
+        "Question": "Which of the following viruses are made by the mass production of virulent viruses?",
+        "Options": [
+            "a) Inactivated virus vaccines",
+            "b) Live recombinant virus vaccines",
+            "c) Virion subunit vaccines",
+            "d) Live attenuated virus vaccines"
+        ],
+        "Answer": "Answer: a\nExplanation: Inactivated virus vaccines are made by the mass production of virulent viruses and then inactivating the infectivity. The inactivation is done usually by treatment with a chemical such as formaldehyde. It is also known as the killed virus vaccine.\n"
+    },
+    {
+        "id": 131,
+        "Question": "Who developed the treatment for poliovirus?",
+        "Options": [
+            "a) Jonas Salk",
+            "b) Albert Sabin",
+            "c) Alexander Fleming",
+            "d) Edward Jenner"
+        ],
+        "Answer": "Answer: a\nExplanation: Jonas Salk developed the treatment for poliovirus and it came into use in 1955. This treatment involves suspending virions in formalin (formaldehyde solution) at 37°C for about 10 days.\n"
+    },
+    {
+        "id": 132,
+        "Question": "Which of the following is used to treat rubella?",
+        "Options": [
+            "a) ZMR",
+            "b) MMR",
+            "c) RMR",
+            "d) RAR"
+        ],
+        "Answer": "Answer: b\nExplanation: MMR vaccine is used to treat the rubella virus. It is also used in the treatment of mumps and measles. The attenuated strain of these three are combined in the MMR vaccine and were all developed by Maurice Hilleman.\n"
+    },
+    {
+        "id": 133,
+        "Question": "Which of the following antiviral drug is used to treat the infection from herpes simplex virus?",
+        "Options": [
+            "a) Aciclovir",
+            "b) Azidothymidine",
+            "c) Dideoxycytidine",
+            "d) Dideoxyinosine"
+        ],
+        "Answer": "Answer: a\nExplanation: Aciclovir is an antiviral drug that is used in the treatment of infection from herpes simplex virus (HSV). It is also used to treat Varicella-zoster virus. It helps in the treatment of cold sores, shingles, chickenpox, etc.\n"
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following is used to treat the infection from cytomegalovirus?",
+        "Options": [
+            "a) Dideoxycytidine",
+            "b) Azidothymidine",
+            "c) Ganciclovir",
+            "d) Dideoxyinosine"
+        ],
+        "Answer": "Answer: a\nExplanation: Ganciclovir is an antiviral drug that is used in the treatment of the infection caused by cytomegalovirus. Whereas azidothymidine, dideoxycytidine, and dideoxyinosine are used in the treatment of HIV-1 infections.\n"
+    },
+    {
+        "id": 135,
+        "Question": "Which of the following is used in the treatment of infection from RNA viruses?",
+        "Options": [
+            "a) Zidovudine",
+            "b) Ribavirin",
+            "c) Ritonavir",
+            "d) Enfuvirtide"
+        ],
+        "Answer": "Answer: b\nExplanation: Ribavirin is an antiviral drug used for the treatment of infection from several RNA viruses like hepatitis C virus. It has also been recommended for the treatment of young children infected with the respiratory syncytial virus.\n"
+    },
+    {
+        "id": 136,
+        "Question": "The prion diseases are known as _____________",
+        "Options": [
+            "a) AIDS",
+            "b) TSEs",
+            "c) Hepatitis",
+            "d) Cancer"
+        ],
+        "Answer": "Answer: b\nExplanation: The prion diseases are collectively known as transmissible spongiform encephalopathies or TSEs. Transmissible refers to the fact that the causative agent is infectious, spongiform refers to the development of holes in the brain and encephalopathy means disease of the brain.\n"
+    },
+    {
+        "id": 137,
+        "Question": "The prions contain ______________",
+        "Options": [
+            "a) nucleic acid",
+            "b) proteins",
+            "c) carbohydrate",
+            "d) fats"
+        ],
+        "Answer": "Answer: b\nExplanation: The prion appears to be misfolded forms of normal cellular proteins. This ‘protein-only’ hypothesis was proposed by Stanley Prusiner, who also suggested the term prion, derived from infectious protein.\n"
+    },
+    {
+        "id": 138,
+        "Question": "The prion protein in human is encoded by __________ gene.",
+        "Options": [
+            "a) Prnp",
+            "b) Rnp",
+            "c) Pnp",
+            "d) Ppp"
+        ],
+        "Answer": "Answer: a\nExplanation: In humans, the protein is encoded by Prnp gene. The role of the protein is not known but it cycles between endosomes and cell surface, where it is held in the plasma membrane by a glycosyl-phosphatidyl-inositol anchor at its C terminus. It is found especially in cells of the CNS.\n"
+    },
+    {
+        "id": 139,
+        "Question": "The normal protein form of prion is designated as _____________",
+        "Options": [
+            "a) PrPc",
+            "b) Prnp",
+            "c) PrPSc",
+            "d) PrPres"
+        ],
+        "Answer": "Answer: a\nExplanation: The normal protein form of prion is designated as PrPc where PrP stands for prion protein and c stands for the cell. The normal form is easily digested by proteinase K and much of the conformation is α-helix.\n"
+    },
+    {
+        "id": 140,
+        "Question": "Which of the following is the prion disease of sheep and goats?",
+        "Options": [
+            "a) Scrapie",
+            "b) Cancer",
+            "c) Encephalopathy",
+            "d) Tumor"
+        ],
+        "Answer": "Answer: a\nExplanation: Scrapie is the prion disease of sheep and goats. This disease has been known in Britain and other parts of Europe for hundreds of years. Scrapie can be transmitted from sheep to sheep by injection of brain tissue.\n"
+    },
+    {
+        "id": 141,
+        "Question": "Bovine Spongiform Encephalopathies was first reported in _____________",
+        "Options": [
+            "a) 1999",
+            "b) 1980",
+            "c) 1986",
+            "d) 1988"
+        ],
+        "Answer": "Answer: c\nExplanation: Bovine Spongiform Encephalopathies (BSE) was first reported in 1986 in the United Kingdom. The disease spread by feeding meat and bone meal to cattle as a protein supplement.\n"
+    },
+    {
+        "id": 142,
+        "Question": "Which of the following is a spontaneous human prion disease?",
+        "Options": [
+            "a) Sporadic CJD",
+            "b) Kuru",
+            "c) Insomnia",
+            "d) Familial CJD"
+        ],
+        "Answer": "Answer: a\nExplanation: Sporadic Creutzfeldt-Jakob disease (CJD) is the spontaneous human prion disease and is the most common occurring throughout the world. It may lead to dementia and death.\n"
+    },
+    {
+        "id": 143,
+        "Question": "Which of the following is an acquired prion disease in humans?",
+        "Options": [
+            "a) Familial CJD",
+            "b) Insomnia",
+            "c) vCJD",
+            "d) Scrapie"
+        ],
+        "Answer": "Answer: c\nExplanation: vCJD (Creutzfeldt-Jakob disease) is an acquired prion disease in humans. It had resulted from humans ingesting BSE prion. Many pieces of evidence came from the laboratory studies that BSE is the causative agent of vCJD.\n"
+    },
+    {
+        "id": 144,
+        "Question": "GSS is the disease of _____________",
+        "Options": [
+            "a) rats",
+            "b) humans",
+            "c) cattle",
+            "d) mink"
+        ],
+        "Answer": "Answer: a\nExplanation: Feline spongiform encephalopathy (FSE) is the prion disease of domestic cats. It affects the brain of felines. The disease is invariably fatal and is caused by the same agent that causes BSE in cattle.\n"
+    },
+    {
+        "id": 145,
+        "Question": "The order of enterobacteria phage T4 is _____________",
+        "Options": [
+            "a) Mononegavirales",
+            "b) Caudovirales",
+            "c) Nidovirales",
+            "d) Tymovirales"
+        ],
+        "Answer": "Answer: b\nExplanation: The order of enterobacteria phage T4 is Caudovirales. They are the group I viruses placed in the Baltimore scheme classification. The viruses have double-stranded DNA genomes and are also called as tailed bacteriophages.\n"
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following virus belongs to Nidovirales order?",
+        "Options": [
+            "a) SARS",
+            "b) HIV",
+            "c) Measles virus",
+            "d) HPV"
+        ],
+        "Answer": "Answer: a\nExplanation: Severe Acute Respiratory Syndrome (SARS) virus belongs to the Nidovirales order. SARS virus infection may result in acute respiratory distress or severe breathing difficulty or sometimes death.\n"
+    },
+    {
+        "id": 147,
+        "Question": "The suffix used for subfamily is ____________",
+        "Options": [
+            "a) virales",
+            "b) viridae",
+            "c) virinae",
+            "d) virus"
+        ],
+        "Answer": "Answer: c\nExplanation: The suffix used for taxonomic group ‘subfamily’ is virinae. For example, comovirus, nepovirus, etc. are placed under the Comovirinae subfamily. Virales is used for the order, viridae is used for family, and the virus is used for the genus.\n"
+    },
+    {
+        "id": 148,
+        "Question": "Human BK virus belongs to the family ____________",
+        "Options": [
+            "a) parvoviridae",
+            "b) reoviridae",
+            "c) papovaviridae",
+            "d) adenoviridae"
+        ],
+        "Answer": "Answer: c\nExplanation: The human BK virus belongs to the family papovaviridae. Papovaviridae is split into Papillomaviridae and Polyomaviridae and is no longer used in the recent taxonomy. Specifically, the BK virus belongs to the family Polyomaviridae.\n"
+    },
+    {
+        "id": 149,
+        "Question": "Sicilian virus belongs to the family _____________",
+        "Options": [
+            "a) Bunyaviridae",
+            "b) Rhabdoviridae",
+            "c) Filoviridae",
+            "d) Togaviridae"
+        ],
+        "Answer": "Answer: a\nExplanation: Sicilian virus belongs to the family Bunyaviridae. Rift Valley fever virus, Uukuniemi virus, Sandfly fever virus are other viruses belonging to the Bunyaviridae family. It causes Sandfly fever.\n"
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following virus contains ssRNA genome and enveloped virions without DNA step in the replication cycle?",
+        "Options": [
+            "a) Sindbis virus",
+            "b) HTLV-1",
+            "c) Human foamy virus",
+            "d) HIV"
+        ],
+        "Answer": "Answer: a\nExplanation: Sindbis virus contains ssRNA genome and enveloped virions without DNA step in the replication cycle. It belongs to the Togaviridae family and it causes sindbis fever in humans. HTLV-1, Human foamy virus, and HIV contain ssRNA genome and enveloped virions with DNA in the replication cycle.\n"
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following virus contains the dsRNA genome?",
+        "Options": [
+            "a) Colorado tick fever virus",
+            "b) Human coronavirus",
+            "c) Vesicular stomatitis virus",
+            "d) Ebola virus"
+        ],
+        "Answer": "Answer: a\nExplanation: Colorado tick fever virus possesses a double-stranded RNA genome. It is transmitted from the bite of an infected Rocky Mountain wood tick. Ebola virus, vesicular stomatitis virus, and human coronavirus possesses a single-stranded RNA genome.\n"
+    },
+    {
+        "id": 152,
+        "Question": "Which of the following virus contains dsDNA with enveloped virions?",
+        "Options": [
+            "a) Adenovirus",
+            "b) Human JC virus",
+            "c) Human BK virus",
+            "d) Yabapox virus"
+        ],
+        "Answer": "Answer: d\nExplanation: Yabapox virus is a virus that contains a double-stranded DNA genome with enveloped virions. It is a tumor virus that caused the formation of tumors on the bodies of the monkeys. Human JC virus, BK virus, and adenovirus contains double-stranded DNA with non-enveloped virions.\n"
+    },
+    {
+        "id": 153,
+        "Question": "Kemerovo virus belongs to the genus ____________",
+        "Options": [
+            "a) Orbivirus",
+            "b) Coltivirus",
+            "c) Reovirus",
+            "d) Alphavirus"
+        ],
+        "Answer": "Answer: a\nExplanation: Kemerovo virus belongs to the genus Orbivirus which is a member of the Reoviridae family in subfamily Sedoreovirinae. It can infect and replicate within the wide range of arthropod and vertebrate hosts.\n"
+    },
+    {
+        "id": 154,
+        "Question": "Which of the following is the first step for the detection of viral infections?",
+        "Options": [
+            "a) Storage",
+            "b) Collection",
+            "c) Transportation",
+            "d) Testing"
+        ],
+        "Answer": "Answer: b\nExplanation: The first step for the detection of viral infection is the collection of samples or specimens which are thought to be virally infected. These samples include blood, urine, CSF, semen, etc.\n"
+    },
+    {
+        "id": 155,
+        "Question": "The blood is stored between the temperature range of ____________ °C.",
+        "Options": [
+            "a) 6 – 10",
+            "b) 1 – 2",
+            "c) 2 – 6",
+            "d) 10 – 12"
+        ],
+        "Answer": "Answer: c\nExplanation: The blood is stored between the temperature range of 2 – 6 °C. The addition of anticoagulants such as heparin, sodium fluoride, etc. is important along with preservatives such as sodium azide.\n"
+    },
+    {
+        "id": 156,
+        "Question": "Which of the following microscope was used to first identify human rotavirus?",
+        "Options": [
+            "a) Light microscope",
+            "b) Phase-contrast microscope",
+            "c) Dissection microscope",
+            "d) Electron microscope"
+        ],
+        "Answer": "Answer: d\nExplanation: Electron microscope first identified the human rotaviruses. Caliciviruses, astroviruses, hepatitis A, and other viruses such as adenoviruses and coronaviruses were first identified using an electron microscope.\n"
+    },
+    {
+        "id": 157,
+        "Question": "Which of the following is added to improve the visualization of virions in immunoelectron microscopy?",
+        "Options": [
+            "a) Silver",
+            "b) Platinum",
+            "c) Gold",
+            "d) Bronze"
+        ],
+        "Answer": "Answer: c\nExplanation: The antibody is labeled with gold to improve the visualization of virions in immunoelectron microscopy. A specific antibody is added to the specimen before depositing the virus-antibody complexes by centrifugation and negative staining. The virions are observed to be aggregated.\n"
+    },
+    {
+        "id": 158,
+        "Question": "Which of the following method is used for the detection of antigen?",
+        "Options": [
+            "a) EIA",
+            "b) PCR",
+            "c) Dot-blot hybridization",
+            "d) Boiling lysis"
+        ],
+        "Answer": "Answer: a\nExplanation: Enzyme Immunoassay (EIA) is the method used for the detection of antigen. It is also called as Enzyme-Linked Immuno-Sorbent Assay (ELISA). It can be designed in different formats to detect antigen or antibody.\n"
+    },
+    {
+        "id": 159,
+        "Question": "In which of the following method the antibody is labeled with a fluorophore?",
+        "Options": [
+            "a) TR-FIA",
+            "b) PCR",
+            "c) Dot-blot hybridization",
+            "d) Alkaline lysis"
+        ],
+        "Answer": "Answer: a\nExplanation: Time-resolved fluorescence immunoassay (TR-FIA) is the method in which the indicator antibody is labeled with a fluorophore. It is a non-isotopic immunoassay and is a sensitive method for viral detection but it requires costly equipment.\n"
+    },
+    {
+        "id": 160,
+        "Question": "Which of the following method is used for the detection of viral DNA?",
+        "Options": [
+            "a) Western blotting",
+            "b) Northern blotting",
+            "c) Eastern blotting",
+            "d) Southern blotting"
+        ],
+        "Answer": "Answer: d\nExplanation: Southern blotting is used for the detection of viral DNA whereas northern blotting is used for RNA detection and western blotting is used for protein detection.\n"
+    },
+    {
+        "id": 161,
+        "Question": "In which of the following method there are chances of DNA contamination?",
+        "Options": [
+            "a) PCR",
+            "b) ELISA",
+            "c) EM",
+            "d) IgM serology"
+        ],
+        "Answer": "Answer: a\nExplanation: In polymerase chain reaction (PCR), there are higher risks of contamination of DNA and PCR may also result in unspecific amplification and this might lead to wrong results. However, PCR is a very rapid and sensitive technique.\n"
+    },
+    {
+        "id": 162,
+        "Question": "In which of the following method the antibody is labeled with HRP?",
+        "Options": [
+            "a) PCR",
+            "b) Immunoperoxidase",
+            "c) In situ hybridization",
+            "d) Direct EIA"
+        ],
+        "Answer": "Answer: b\nExplanation: Immunoperoxidase staining is the method in which the antibody is labeled with horseradish peroxidase enzyme (HRP enzyme). The main advantage of this method is that only an ordinary light microscope is needed.\n"
+    },
+    {
+        "id": 163,
+        "Question": "Which of the following antiviral drug is used to treat influenza A?",
+        "Options": [
+            "a) Dextran sulfate",
+            "b) Amantadine",
+            "c) Ganciclovir",
+            "d) Cidofovir"
+        ],
+        "Answer": "Answer: b\nExplanation: Amantadine is an antiviral drug that is used to treat the infection from influenza virus. It is used to treat and prevent the respiratory infections and symptoms of Parkinson’s disease.\n"
+    },
+    {
+        "id": 164,
+        "Question": "Which of the following is used to treat eye infection?",
+        "Options": [
+            "a) Rimantadine",
+            "b) Ganciclovir",
+            "c) TFT",
+            "d) ACV"
+        ],
+        "Answer": "Answer: c\nExplanation: Trifluoro thymidine (TFT) is used to treat the infection of the eye with the herpes simplex virus (HSV). It is also called as trifluridine and its eye drops are used to keratitis and keratoconjunctivitis. It may irritate eyelids.\n"
+    },
+    {
+        "id": 165,
+        "Question": "Which of the following is not used in the HIV-1 treatment?",
+        "Options": [
+            "a) Delavirdine",
+            "b) Zidovudine",
+            "c) Rimantadine",
+            "d) Stavudine"
+        ],
+        "Answer": "Answer: c\nExplanation: Rimantadine is not used in the treatment of infection of HIV-1. It is used to treat the infection of influenza A virus. Delavirdine, zidovudine, stavudine, etc. are the antiviral drugs used for the treatment of HIV-1 infection.\n"
+    },
+    {
+        "id": 166,
+        "Question": "Which of the following is used to treat CMV infections?",
+        "Options": [
+            "a) Foscarnet",
+            "b) Saquinavir",
+            "c) Ritonavir",
+            "d) Nelfinavir"
+        ],
+        "Answer": "Answer: a\nExplanation: Foscarnet is an antiviral drug that is used for the treatment of cytomegalovirus infections. It is also used to control eye infections in person with AIDS. Saquinavir, ritonavir, nelfinavir, etc. are used in HIV treatment.\n"
+    },
+    {
+        "id": 167,
+        "Question": "Which of the following is used to treat poxvirus?",
+        "Options": [
+            "a) Zalcitabine",
+            "b) Cidofovir",
+            "c) Penciclovir",
+            "d) Zanamivir"
+        ],
+        "Answer": "Answer: b\nExplanation: Cidofovir is an antiviral substance used to treat the infection from poxvirus. It is also used to treat the infection of the retina of an eye. The esters of cidofovir reduce the renal toxicity that is used for poxvirus treatment.\n"
+    },
+    {
+        "id": 168,
+        "Question": "Which of the following is used to treat genital herpes infections?",
+        "Options": [
+            "a) Penciclovir",
+            "b) Pleconaril",
+            "c) Oseltamivir",
+            "d) Efavirenz"
+        ],
+        "Answer": "Answer: a\nExplanation: Penciclovir is a licensed antiviral drug that is used to treat the genital infections of the herpes virus. It targets the DNA polymerase of the virus and does not allow it to replicate the virus.\n"
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is easily blocked by antivirals?",
+        "Options": [
+            "a) Virus penetration",
+            "b) Nucleic acid replication",
+            "c) Virus absorption",
+            "d) Removal of the virus from the cell"
+        ],
+        "Answer": "Answer: b\nExplanation: Nucleic acid replication, that is DNA or RNA replication is easily blocked by antiviral compounds because nucleoside and nucleotide analogs are easily discovered antivirals.\n"
+    },
+    {
+        "id": 170,
+        "Question": "Why antiviral drugs cannot cure HIV?",
+        "Options": [
+            "a) They do not block viral replication",
+            "b) They cannot block viral translation",
+            "c) They cannot block viral transcription",
+            "d) They do not penetrate the cells"
+        ],
+        "Answer": "Answer: c\nExplanation: The current antiviral drugs are not able to block the viral transcription of mRNA. This is why HIV is not cured. If the drugs prevent transcription then, no protein will be formed and hence translation does not occur.\n"
+    },
+    {
+        "id": 171,
+        "Question": "Which of the following cannot be treated by antiviral drugs?",
+        "Options": [
+            "a) Tuberculosis",
+            "b) Smallpox",
+            "c) Hepatitis",
+            "d) Warts"
+        ],
+        "Answer": "Answer: a\nExplanation: Tuberculosis cannot be treated with antiviral drugs as tuberculosis is a bacterial disease. Smallpox, hepatitis, warts, etc. can be cured and treated with antiviral drugs.\n"
+    },
+    {
+        "id": 172,
+        "Question": "The poliovirus infection is spread through _____________",
+        "Options": [
+            "a) breastfeeding",
+            "b) fecal-oral route",
+            "c) placental route",
+            "d) sexual route"
+        ],
+        "Answer": "Answer: b\nExplanation: The poliovirus infection is spread through the fecal-oral route and the period of incubation is usually 1 – 2 weeks. The systemic symptoms include headache, fever, nausea, vomiting, myalgia.\n"
+    },
+    {
+        "id": 173,
+        "Question": "Which of the following complications occur during the infection of poliovirus?",
+        "Options": [
+            "a) Respiratory failure",
+            "b) Airways obstruction",
+            "c) Kidney failure",
+            "d) ANS involvement"
+        ],
+        "Answer": "Answer: c\nExplanation: The complications that occur during the infection of poliovirus are respiratory failure, obstruction of airways, and the involvement of the autonomic nervous system. Kidney failure does not occur due to poliovirus infection.\n"
+    },
+    {
+        "id": 174,
+        "Question": "Which of the following is not the laboratory diagnosis of poliovirus?",
+        "Options": [
+            "a) RNA in the fecal sample",
+            "b) IgM antibodies in sera",
+            "c) IgG antibodies in sera",
+            "d) IgA antibodies in sera"
+        ],
+        "Answer": "Answer: d\nExplanation: The laboratory diagnosis of poliovirus includes the demonstration of poliovirus in throat swab or the fecal sample collected in the acute phase of the disease, viral RNA in the fecal sample, and poliovirus IgM antibodies or IgG antibody rise in paired sera.\n"
+    },
+    {
+        "id": 175,
+        "Question": "Which of the following causes the paralysis of respiratory and pharyngeal muscles?",
+        "Options": [
+            "a) Bulbar poliomyelitis",
+            "b) Asthma",
+            "c) Polyradiculitis",
+            "d) COPD"
+        ],
+        "Answer": "Answer: a\nExplanation: Bulbar poliomyelitis occurs in about 10% of all patients with paralysis. This may occur as a mixed bulbospinal form and this localization may lead to the involvement of cranial nerves with paralysis of pharyngeal muscles and dysphagia, and respiratory muscles followed by dyspnea.\n"
+    },
+    {
+        "id": 176,
+        "Question": "Which of the following is called Guillain-Barre syndrome?",
+        "Options": [
+            "a) Asthma",
+            "b) Polyradiculitis",
+            "c) Heart failure",
+            "d) Paralysis"
+        ],
+        "Answer": "Answer: b\nExplanation: Polyradiculitis is also known as Guillain-Barre syndrome, where the pareses are ascending and symmetrical combined with a variety of sensory disturbances. The cerebrospinal fluid (CSF) shows a high protein content with no or only a slight increase in cell count.\n"
+    },
+    {
+        "id": 177,
+        "Question": "Which of the following occurs during the acute stages of poliovirus infection?",
+        "Options": [
+            "a) Encephalitis",
+            "b) Post-poliomyelitis syndrome",
+            "c) Asthma",
+            "d) Ischemic stroke"
+        ],
+        "Answer": "Answer: a\nExplanation: Encephalitis and myocarditis may occur during the acute stages of the poliovirus infection. A post-poliomyelitis syndrome is observed in some 25% of survivors of paralytic poliomyelitis. They may also develop new weakness, pain, and fatigue.\n"
+    },
+    {
+        "id": 178,
+        "Question": "The genome of poliovirus is _____________",
+        "Options": [
+            "a) ssDNA",
+            "b) ssRNA",
+            "c) dsRNA",
+            "d) dsDNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The poliovirus consists of single-stranded RNA of positive polarity (mRNA) within a protein shell (capsid) composed of 60 capsomeres. The capsid is built up of four proteins and the virion is naked and has a diameter of 28nm.\n"
+    },
+    {
+        "id": 179,
+        "Question": "Polioviruses are ______________",
+        "Options": [
+            "a) resistant to lipid solvents",
+            "b) resistant to protein solvents",
+            "c) unstable at pH values between 3 – 9",
+            "d) infectious for a shorter period in children"
+        ],
+        "Answer": "Answer: a\nExplanation: Polioviruses are resistant to lipid solvents and rather slowly inactivated at room temperature. They are stable at pH values between 3 – 9 and are infectious for a longer period in children than adults.\n"
+    },
+    {
+        "id": 180,
+        "Question": "Which of the following is the most widely used vaccine for the prevention of poliomyelitis?",
+        "Options": [
+            "a) OPV",
+            "b) MMR",
+            "c) COD",
+            "d) POR"
+        ],
+        "Answer": "Answer: a\nExplanation: OPV is the most widely used vaccine for the prevention of poliomyelitis. It induces intestinal immunity due to the production of secretory IgA. This is important for the inhibition of virus replication in the gut.\n"
+    },
+    {
+        "id": 181,
+        "Question": "The Coxsackie viruses were discovered in the late _____________",
+        "Options": [
+            "a) 1920s",
+            "b) 1940s",
+            "c) 1990s",
+            "d) 1950s"
+        ],
+        "Answer": "Answer: b\nExplanation: The Coxsackie viruses were discovered in the late 1940s as a result of intense efforts to develop a better system to propagate and study poliovirus. The non-human primates were the model system for poliovirus and poliomyelitis at this time.\n"
+    },
+    {
+        "id": 182,
+        "Question": "Which of the following induce polio-like paralysis in the monkey?",
+        "Options": [
+            "a) CVB5",
+            "b) CVA7",
+            "c) CVA23",
+            "d) CVB8"
+        ],
+        "Answer": "Answer: b\nExplanation: CVA7 can induce polio-like paralysis in monkeys. However, swine vesicular disease virus is closely related genetically and antigenically to CVB5. The infection of non-human primates often fails to induce clinical disease, but CVA7 can induce it in the monkeys.\n"
+    },
+    {
+        "id": 183,
+        "Question": "CVA9 uses ____________ as a host cell receptor.",
+        "Options": [
+            "a) αvβ3",
+            "b) CAR",
+            "c) ICAM-1",
+            "d) DAF"
+        ],
+        "Answer": "Answer: a\nExplanation: CVA9 uses integrin αvβ3 as a host cell receptor. Coxsackievirus-adenovirus receptor (CAR) and decay-accelerating factor (DAF) is used by CVB1-6 and intracellular adhesion molecule 1 (ICAM-1) is used by HEV-C coxsackie viruses.\n"
+    },
+    {
+        "id": 184,
+        "Question": "Which of the following is associated with acute hemorrhagic conjunctivitis?",
+        "Options": [
+            "a) CVA56",
+            "b) CVA50",
+            "c) CVA24",
+            "d) CVA20"
+        ],
+        "Answer": "Answer: c\nExplanation: CVA24 is mainly associated with acute hemorrhagic conjunctivitis. This disease is different from other enteroviral illness, having occurred in global pandemics since 1969. Enterovirus 70 is also associated with this disease.\n"
+    },
+    {
+        "id": 185,
+        "Question": "Which of the following is higher in patients than in controls in case of acute myocarditis?",
+        "Options": [
+            "a) IgA",
+            "b) IgG",
+            "c) IgM",
+            "d) IgD"
+        ],
+        "Answer": "Answer: c\nExplanation: It has been shown that CVB IgM in a group of patients is significantly higher than in controls. The RNA of enterovirus has also been detected in myocardial biopsy specimens from patients with myocarditis.\n"
+    },
+    {
+        "id": 186,
+        "Question": "Which of the following is called Bornholm disease?",
+        "Options": [
+            "a) Pericarditis",
+            "b) Pleurodynia",
+            "c) Herpangina",
+            "d) Rashes"
+        ],
+        "Answer": "Answer: b\nExplanation: Pleurodynia is also known as Bornholm disease in which a painful inflammation of the muscles mainly intercoastal or abdominal muscles, occur. The pain may be severe and resemble ischemic heart disease or acute abdomen.\n"
+    },
+    {
+        "id": 187,
+        "Question": "Which of these is mainly seen in children?",
+        "Options": [
+            "a) Mouth disease",
+            "b) Rashes",
+            "c) Herpangina",
+            "d) Hand disease"
+        ],
+        "Answer": "Answer: c\nExplanation: Herpangina is the illness that is seen mainly in children. There is a pain in swallowing and usually a slight fever of a few day duration. Differential diagnosis is herpes simplex, varicella, aphthous stomatitis.\n"
+    },
+    {
+        "id": 188,
+        "Question": "Which of the following is a disease caused by echovirus infection?",
+        "Options": [
+            "a) Neonatal meningitis",
+            "b) Rashes",
+            "c) Foot disease",
+            "d) Myocarditis"
+        ],
+        "Answer": "Answer: b\nExplanation: Rashes are seen frequently in echovirus infections and they are non-specific and rubelliform. It is accompanied by fever and pharyngitis and a rash is seen sometimes in the course of meningitis. The Coxsackie A virus infections also cause rashes.\n"
+    },
+    {
+        "id": 189,
+        "Question": "The echovirus possesses _____________ as their genome.",
+        "Options": [
+            "a) ssDNA",
+            "b) ssRNA",
+            "c) dsDNA",
+            "d) dsRNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The echovirus possesses single-stranded RNA as their genome of positive polarity which functions as mRNA. The RNA is surrounded by a protein shell (capsid) with icosahedral symmetry.\n"
+    },
+    {
+        "id": 190,
+        "Question": "Which of the following is the cause of a common cold?",
+        "Options": [
+            "a) Herpes virus",
+            "b) Rhinovirus",
+            "c) Echovirus",
+            "d) Coxsackievirus"
+        ],
+        "Answer": "Answer: b\nExplanation: The rhinoviruses are the viruses that cause common cold most frequently. All the age groups are affected and the infection is endemic with higher frequencies during autumn and spring in temperate climates.\n"
+    },
+    {
+        "id": 191,
+        "Question": "The rhinovirus cannot be isolated from ____________",
+        "Options": [
+            "a) nose",
+            "b) fecal",
+            "c) throat",
+            "d) sputum"
+        ],
+        "Answer": "Answer: b\nExplanation: The rhinovirus cannot be isolated from fecal as they are not present in fecal matter. They can be isolated from the nose, the throat, and the sputum. Special cell culture techniques are needed for virus isolation and are performed in very few laboratories.\n"
+    },
+    {
+        "id": 192,
+        "Question": "The rhinovirus contains _________ as their genome.",
+        "Options": [
+            "a) ssDNA",
+            "b) ssRNA",
+            "c) dsDNA",
+            "d) dsRNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The rhinovirus possesses single-stranded RNA as their genome with positive sense mRNA. This RNA molecule functions directly as a message, encoding a single open reading frame, flanked by untranslated regions (UTRs).\n"
+    },
+    {
+        "id": 193,
+        "Question": "The nucleotides of the 5’-UTR forms a _____________",
+        "Options": [
+            "a) root-like structure",
+            "b) stem-like structure",
+            "c) leaf-like structure",
+            "d) spiral structure"
+        ],
+        "Answer": "Answer: c\nExplanation: The nucleotides of the 5’-UTR forms a leaf-like structure that binds viral and hosts proteins forming a nucleoprotein complex required for viral RNA replication. The RNA molecule is directly translated from a type I IRES.\n"
+    },
+    {
+        "id": 194,
+        "Question": "The replication of rhinovirus takes place in __________",
+        "Options": [
+            "a) plasma membrane",
+            "b) cytoplasm",
+            "c) endoplasmic reticulum",
+            "d) golgi apparatus"
+        ],
+        "Answer": "Answer: b\nExplanation: The replication of rhinovirus takes place in the cytoplasm. Uncoating and release of the viral RNA into the cytoplasm occurs after acidification of the late endosome.\n"
+    },
+    {
+        "id": 195,
+        "Question": "Which of the following is the main portal for HRV entry into the body?",
+        "Options": [
+            "a) Nose",
+            "b) Throat",
+            "c) Sputum",
+            "d) Fecal"
+        ],
+        "Answer": "Answer: a\nExplanation: The nose is the main portal for human rhinovirus (HRV) entry into the body and the primary site of replication is the epithelial surface of the nasal mucosa. The signs of illness are limited to common cold-like symptoms.\n"
+    },
+    {
+        "id": 196,
+        "Question": "The group 2a viruses have additional ______________",
+        "Options": [
+            "a) envelope protein",
+            "b) nucleocapsid protein",
+            "c) structural protein",
+            "d) integral membrane glycoprotein"
+        ],
+        "Answer": "Answer: c\nExplanation: The group 2a viruses have an additional structural glycoprotein, the hemagglutinin-esterase protein (425 amino acids). However, this is not essential for replication in vitro and may affect tropism in vivo.\n"
+    },
+    {
+        "id": 197,
+        "Question": "Which of the following glycoprotein is the most abundant in virions?",
+        "Options": [
+            "a) S",
+            "b) M",
+            "c) N",
+            "d) E"
+        ],
+        "Answer": "Answer: b\nExplanation: The M glycoprotein is the most abundant protein in virions. Only a small part of M protein protrudes at the surface of the virus. A proportion of M molecules have four transmembrane spanning segments resulting in C-terminus also being exposed on the outer surface of the virus.\n"
+    },
+    {
+        "id": 198,
+        "Question": "The common sequence at the beginning of each gene in coronavirus is ____________",
+        "Options": [
+            "a) CUUAACAA",
+            "b) CCCUUUAA",
+            "c) UUCCAAUU",
+            "d) UCUAUAUA"
+        ],
+        "Answer": "Answer: a\nExplanation: The common sequence at the beginning of each gene in coronavirus is CUUAACAA. It is present at the beginning of each gene and is called a transcription regulatory sequence (TRS). The RNA synthesis is attenuated when the polymerase reaches the TRS sequence.\n"
+    },
+    {
+        "id": 199,
+        "Question": "Influenza virus belongs to the family _____________",
+        "Options": [
+            "a) Papoviridae",
+            "b) Orthomyxoviridae",
+            "c) Parvoviridae",
+            "d) Retroviridae"
+        ],
+        "Answer": "Answer: b\nExplanation: Influenza virus belongs to the family Orthomyxoviridae and the disease influenza is caused by the influenza virus. The symptoms include cough, sneezing, nasal congestion, fever, headache, etc.\n"
+    },
+    {
+        "id": 200,
+        "Question": "The variation of which of the following causes influenza despite vaccines available?",
+        "Options": [
+            "a) Hemagglutinin",
+            "b) Hyaluronidase",
+            "c) Pepsin",
+            "d) Elastase"
+        ],
+        "Answer": "Answer: a\nExplanation: The variation of the hemagglutinin (HA) and neuraminidase (NA) envelope proteins of virus causes influenza despite the vaccines like inactivated virus vaccines available. The variation allows the virus to escape neutralization.\n"
+    },
+    {
+        "id": 201,
+        "Question": "Influenza viruses of human are spread by _______________",
+        "Options": [
+            "a) saliva",
+            "b) sneezing",
+            "c) fecal water",
+            "d) sexual transmission"
+        ],
+        "Answer": "Answer: b\nExplanation: The influenza viruses of humans are spread or transmitted by aerosols that include sneezing. The replication of virus occurs in the upper and lower respiratory tract and reaches a peak after 2-3 days after infection. The influenza viruses of birds are spread by fecal contamination of water and also by aerosols.\n"
+    },
+    {
+        "id": 202,
+        "Question": "From which of the following the first influenza virus isolated?",
+        "Options": [
+            "a) Human",
+            "b) Cat",
+            "c) Pig",
+            "d) Dog"
+        ],
+        "Answer": "Answer: c\nExplanation: The first influenza virus was isolated from pigs in the year 1930. The first human influenza virus was isolated in 1933 and it was called influenza A virus whereas influenza B was isolated in 1940 and influenza C in 1946.\n"
+    },
+    {
+        "id": 203,
+        "Question": "Influenza B viruses infects only _______________",
+        "Options": [
+            "a) avian species",
+            "b) humans",
+            "c) horses",
+            "d) swine"
+        ],
+        "Answer": "Answer: b\nExplanation: Influenza B viruses appear to naturally infect only humans. Whereas influenza A viruses infect a wide variety of avian species, humans, horses and swine, and influenza C has been isolated mainly from humans and swine.\n"
+    },
+    {
+        "id": 204,
+        "Question": "Which of the following influenza virus contain seven RNA segments?",
+        "Options": [
+            "a) Influenza A",
+            "b) Influenza B",
+            "c) Influenza C",
+            "d) Influenza D"
+        ],
+        "Answer": "Answer: c\nExplanation: Influenza C virus contains seven segments of RNA whereas influenza A and B viruses contain eight distinct segments of RNA. Influenza A, B and C viruses possess similar proteins but each of the viruses has different distinct mechanisms for encoding proteins.\n"
+    },
+    {
+        "id": 205,
+        "Question": "Which of the following was the first parainfluenza virus isolated?",
+        "Options": [
+            "a) Sendai virus",
+            "b) PIV-1",
+            "c) Simian virus",
+            "d) PIV-4"
+        ],
+        "Answer": "Answer: a\nExplanation: Sendai virus was the first parainfluenza virus isolated and is a natural pathogen of mice and is antigenically similar to human PIV-1. It was previously known as the murine parainfluenza virus type 1or hemagglutinin virus of Japan (HVJ).\n"
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following protein mediates the fusion of virion and host-cell surface membranes?",
+        "Options": [
+            "a) M",
+            "b) S",
+            "c) F",
+            "d) HN"
+        ],
+        "Answer": "Answer: c\nExplanation: F protein is a surface glycoprotein that mediates the fusion of virion and host-cell surface membrane. F is expressed on the surface of infected cells and allows the extension of infection to uninfected cells.\n"
+    },
+    {
+        "id": 207,
+        "Question": "Which of the following protein initiates the process of infection?",
+        "Options": [
+            "a) HN",
+            "b) M",
+            "c) F",
+            "d) S"
+        ],
+        "Answer": "Answer: a\nExplanation: The hemagglutinin-neuraminidase (HN) glycoprotein initiates the process of infection which binds the virion to the sialic acid-containing receptor on the host cell surface. It also causes the enzymatic cleavage of sialic acid residues.\n"
+    },
+    {
+        "id": 208,
+        "Question": "Which of the following is the local symptom of mumps?",
+        "Options": [
+            "a) Swelling of pancreatic glands",
+            "b) Swelling of salivary glands",
+            "c) Swelling of testes",
+            "d) Swelling of adrenal glands"
+        ],
+        "Answer": "Answer: b\nExplanation: The mumps virus is a virus that causes the swelling of salivary glands and this results in the enlargement of glands due to parotitis. It also gives rise to the rashes on the skin.\n"
+    },
+    {
+        "id": 209,
+        "Question": "Who observed the infection of the CNS due to mumps virus?",
+        "Options": [
+            "a) Hippocrates",
+            "b) Hamilton",
+            "c) Johnson",
+            "d) Goodpasture"
+        ],
+        "Answer": "Answer: b\nExplanation: Hamilton in the year 1790, first noted some cases of infection of the central nervous system (CNS) and meninges due to mumps virus. Hippocrates noted the swelling of testes or orchitis as a common complication of mumps.\n"
+    },
+    {
+        "id": 210,
+        "Question": "The mumps virus belongs to the genus ______________",
+        "Options": [
+            "a) Aalivirus",
+            "b) Dinornavirus",
+            "c) Rubulavirus",
+            "d) Ebolavirus"
+        ],
+        "Answer": "Answer: c\nExplanation: The mumps virus belongs to the genera Rubulavirus and is classified under the Paramxyoviridae family. It contains a non-segmented negative-stranded RNA genome and has hemagglutinin and neuraminidase activity.\n"
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following is a canine parainfluenza virus?",
+        "Options": [
+            "a) SV40",
+            "b) SV2",
+            "c) SV5",
+            "d) SV10"
+        ],
+        "Answer": "Answer: c\nExplanation: Simian virus 5 (SV5) is also referred to as canine parainfluenza virus and it was first isolated from rhesus and cynomolgus monkey kidney-cell cultures. Thus, it is designated as a primate virus.\n"
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following does not inactivates or harms mumps virus?",
+        "Options": [
+            "a) Formalin",
+            "b) Heat",
+            "c) UV radiation",
+            "d) Water"
+        ],
+        "Answer": "Answer: d\nExplanation: The mumps virus virion is susceptible to heat and treatment with ultraviolet light. The virus gets inactivated by 0.2% formalin and the presence of the lipid bilayer confers sensitivity to both ether and chloroform.\n"
+    },
+    {
+        "id": 213,
+        "Question": "Which of the following protein has RdRp polymerase activity?",
+        "Options": [
+            "a) N",
+            "b) L",
+            "c) M",
+            "d) P"
+        ],
+        "Answer": "Answer: b\nExplanation: The Large protein (L) has got RdRp polymerase activity that is associated with ribonucleoprotein (RNP). It has many roles in capping, methylation, and polyadenylation. The size of protein on the SDS page is more than 200.\n"
+    },
+    {
+        "id": 214,
+        "Question": "Which of the following protein contains the cysteine-rich domain?",
+        "Options": [
+            "a) NS1",
+            "b) NS2",
+            "c) SH",
+            "d) HN"
+        ],
+        "Answer": "Answer: a\nExplanation: NS1 protein contains a cysteine-rich domain. It is a non-structural phosphorylated protein involved in metal binding. It leads to proteasomal degradation of STAT1 and targets STAT3 for ubiquitination. It is also known as non-structural V protein.\n"
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following is a very rare medical condition of mumps virus infection?",
+        "Options": [
+            "a) Swelling of salivary glands",
+            "b) Permanent deafness",
+            "c) Depression of sperm production",
+            "d) CMI response in the absence of humoral response"
+        ],
+        "Answer": "Answer: b\nExplanation: Permanent deafness is a very rare medical condition of mumps virus infection and the frequency of deafness is less than 3%. The swelling of salivary glands, depression of sperm production, CMI response in absence of humoral response are common or frequently occurring conditions due to mumps virus infection.\n"
+    },
+    {
+        "id": 216,
+        "Question": "Which of the following is a hydrophobic protein?",
+        "Options": [
+            "a) Matrix",
+            "b) Large",
+            "c) Non-structural W",
+            "d) Nucleocapsid"
+        ],
+        "Answer": "Answer: a\nExplanation: The matrix protein (M) is a hydrophobic protein that is associated with the inner side of the membrane. It plays a role in budding by interactions with N, HN, and F proteins. Non-structural W, large and nucleocapsid are phosphorylated proteins.\n"
+    },
+    {
+        "id": 217,
+        "Question": "The reinfection from respiratory syncytial virus is called _____________",
+        "Options": [
+            "a) ART",
+            "b) URTI",
+            "c) MST",
+            "d) RTV"
+        ],
+        "Answer": "Answer: b\nExplanation: The reinfection from the respiratory syncytial virus (RSV) is called upper respiratory tract infection (URTI). Among children and adults, the reinfections are common. It occurs during colder months and rainy season.\n"
+    },
+    {
+        "id": 218,
+        "Question": "The RSV virus belongs to the genus __________",
+        "Options": [
+            "a) Pneumovirus",
+            "b) Karamvirus",
+            "c) Lilyvirus",
+            "d) Macanavirus"
+        ],
+        "Answer": "Answer: a\nExplanation: The respiratory syncytial virus (RSV) belongs to the genera Pneumovirus. It is placed under the family Paramyxoviridae and subfamily Pneumovirinae. The RSV virus has no hemagglutinin or neuraminidase activity.\n"
+    },
+    {
+        "id": 219,
+        "Question": "The RSV virus contains ___________ genome.",
+        "Options": [
+            "a) ssDNA",
+            "b) ssRNA",
+            "c) dsDNA",
+            "d) dsRNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The RSV virus possesses single-stranded negative-strand RNA as their genome that has a length of about 15 kilobases. The replication of the virus takes place in the cytoplasm of the infected-cells and infectious virions are released by budding through the cell membrane.\n"
+    },
+    {
+        "id": 220,
+        "Question": "Which of the following receptor molecule is used by genus Morbilliviruses?",
+        "Options": [
+            "a) CD10",
+            "b) CD25",
+            "c) SLAM",
+            "d) ICAM"
+        ],
+        "Answer": "Answer: c\nExplanation: The signaling lymphocyte activation molecule (SLAM) is used by the viruses of genus Morbilliviruses. The measles virus, rinderpest virus, etc. all enter cells through SLAM. The cellular distribution of SLAM overlaps the sensitivity of different cell types to wild type MV infection.\n"
+    },
+    {
+        "id": 221,
+        "Question": "Which of the protein supports measle virus replication and transcription?",
+        "Options": [
+            "a) M",
+            "b) F",
+            "c) P",
+            "d) V"
+        ],
+        "Answer": "Answer: c\nExplanation: The P protein is a protein whose main function is to support the replication and transcription of the virus and it is the essential component of the polymerase. The protein is phosphorylated and contains high intrinsic disorder, facilitating interactions with multiple viral and cellular proteins.\n"
+    },
+    {
+        "id": 222,
+        "Question": "Which of the following protein counteract the innate response?",
+        "Options": [
+            "a) M",
+            "b) V",
+            "c) F",
+            "d) C"
+        ],
+        "Answer": "Answer: b\nExplanation: The V protein is a protein whose main function is to counteract the innate immune response. It interferes with intracellular signaling pathways supporting the interferon response and sustain the virus spread in the host immune response.\n"
+    },
+    {
+        "id": 223,
+        "Question": "Which of the following is the hallmark of MV infection?",
+        "Options": [
+            "a) Swelling of salivary glands",
+            "b) Depression of sperm production",
+            "c) Kidney failure",
+            "d) Multinucleated giant cells"
+        ],
+        "Answer": "Answer: d\nExplanation: The formation of multinucleated giant cells is the histopathological hallmark of measles virus infection. It is also known as syncytia formation. MV viruses infect endodermal, ectodermal, and mesenchymal origin and syncytial cells.\n"
+    },
+    {
+        "id": 224,
+        "Question": "Which of the following antibody initially responds to MV virus infection?",
+        "Options": [
+            "a) IgM",
+            "b) IgA",
+            "c) IgD",
+            "d) IgE"
+        ],
+        "Answer": "Answer: a\nExplanation: IgM antibody initially responds to MV virus infection, followed by type I CD4 and CD8+ T-cell responses, and followed by the IgG antibody. These responses are completely effective in controlling viral replication and resolution of the infectious process.\n"
+    },
+    {
+        "id": 225,
+        "Question": "Which of the following causes German measles?",
+        "Options": [
+            "a) HIV",
+            "b) Influenza",
+            "c) Corona",
+            "d) Rubella"
+        ],
+        "Answer": "Answer: d\nExplanation: The rubella virus (RUBV) causes German measles. It is a benign disease which is also known as rubella. This can result in profound birth defects if contracted in utero. RUBV is a major teratogen.\n"
+    },
+    {
+        "id": 226,
+        "Question": "Which of the following agent targets ligand on virion?",
+        "Options": [
+            "a) Protease inhibitor",
+            "b) Disoxaril",
+            "c) Tat inhibitor",
+            "d) Zidovudine"
+        ],
+        "Answer": "Answer: b\nExplanation: Disoxaril is an antiviral agent that targets the ligand on virion. It prevents the structural transition required for viral uncoating which results in inhibition of the reproduction of the virus.\n"
+    },
+    {
+        "id": 227,
+        "Question": "Who developed a prodrug that depends on a viral enzyme to convert into its active form?",
+        "Options": [
+            "a) Elion",
+            "b) Watson",
+            "c) Crick",
+            "d) Pasteur"
+        ],
+        "Answer": "Answer: a\nExplanation: Elion and his colleagues in the year 1977 developed a prodrug that depends on a viral enzyme to convert into its active form. It was a breakthrough in antiviral chemotherapy in 1977.\n"
+    },
+    {
+        "id": 228,
+        "Question": "The chemical name of acycloguanosine is ____________",
+        "Options": [
+            "a) 9-(2-hydroxyethoxymethyl) guanine",
+            "b) 9-(3-hydroxymethoxyethyl) guanine",
+            "c) 7-(2-hydroxymethoxymethyl) guanine",
+            "d) 7-(1-hydroxyethoxyethyl) guanine"
+        ],
+        "Answer": "Answer: a\nExplanation: The chemical name of acycloguanosine is 9-(2-hydroxyethoxymethyl) guanine and is commonly known as acyclovir. It is a guanine derivative with an acyclic side chain.\n"
+    },
+    {
+        "id": 229,
+        "Question": "Ribavirin was first synthesized in __________",
+        "Options": [
+            "a) 1988",
+            "b) 1970",
+            "c) 1978",
+            "d) 1972"
+        ],
+        "Answer": "Answer: d\nExplanation: Ribavirin was first synthesized in the year 1972 however, it has still not been licensed for general use in many countries. It is a nucleoside analog, 1-β-D-ribofuranosyl-1, 2, 3, 4-triazole-3-carboxamide that inhibits the growth of a wide spectrum of RNA and DNA viruses.\n"
+    },
+    {
+        "id": 230,
+        "Question": "Which of the following blocks the DNA polymerase of the herpes virus?",
+        "Options": [
+            "a) Trisodium phosphonoformate",
+            "b) Ganciclovir",
+            "c) Ribavirin",
+            "d) Acycloguanosine"
+        ],
+        "Answer": "Answer: a\nExplanation: Trisodium phosphonoformate blocks the DNA polymerase of the herpes virus as well as the hepatitis B virus. It also blocks the reverse transcriptase enzyme of HIV viruses by blocking the pyrophosphate binding site on the enzyme.\n"
+    },
+    {
+        "id": 231,
+        "Question": "Which of the following is the study of the distribution of disease in populations?",
+        "Options": [
+            "a) Hematology",
+            "b) Epidemiology",
+            "c) Pedology",
+            "d) Rheumatology"
+        ],
+        "Answer": "Answer: b\nExplanation: Epidemiology is the study of the distribution of disease in populations. It is the study of the determinants and dynamics. It is effective in clarifying the role of viruses in the etiology of the disease.\n"
+    },
+    {
+        "id": 232,
+        "Question": "The comparison of disease experienced in different population is expressed in the forms of __________",
+        "Options": [
+            "a) scale",
+            "b) intensity",
+            "c) rates",
+            "d) magnitude"
+        ],
+        "Answer": "Answer: c\nExplanation: The comparison of disease experienced in different populations is expressed in the forms of rates. The incidence rates and prevalence rates are two widely used rates and these rates may be affected by various attributes that distinguish one person from another.\n"
+    },
+    {
+        "id": 233,
+        "Question": "Which of the following rate is the measure of frequency over time?",
+        "Options": [
+            "a) Death",
+            "b) Attack",
+            "c) Birth",
+            "d) Prevalence"
+        ],
+        "Answer": "Answer: b\nExplanation: The attack rate is the measure of frequency over time and it is also known as incidence rate and is used especially for the acute disease of short duration. For example, monthly or annual incidence.\n"
+    },
+    {
+        "id": 234,
+        "Question": "Which of the following is the sudden occurrence of disease in a community?",
+        "Options": [
+            "a) Outbreak",
+            "b) Pandemic",
+            "c) Syndemic",
+            "d) Synergistic"
+        ],
+        "Answer": "Answer: a\nExplanation: An outbreak is the sudden occurrence of disease in a community. The community has never experienced the disease before or when the cases of that disease occur in numbers greater than expected in a defined area.\n"
+    },
+    {
+        "id": 235,
+        "Question": "Which term can be used for the meningococcal infection attack rate above 15 cases per 100,000 people for 2 consecutive weeks?",
+        "Options": [
+            "a) Epidemic",
+            "b) Pandemic",
+            "c) Syndemic",
+            "d) Endemic"
+        ],
+        "Answer": "Answer: a\nExplanation: An epidemic is a term used for the meningococcal infection attack rate above 15 cases per 100,000 people for 2 consecutive weeks. Epidemic usually the spreading of a disease among a large number of people in the same place for some time.\n"
+    },
+    {
+        "id": 236,
+        "Question": "Which of the following term is used for a disease found among a group of people?",
+        "Options": [
+            "a) Pandemic",
+            "b) Synergistic",
+            "c) Endemic",
+            "d) Syndemic"
+        ],
+        "Answer": "Answer: c\nExplanation: Endemic is the term used for a disease found among a group of people. For example, goiter. An infection is said to be endemic when the infection is constantly maintained at the baseline level in an area without external inputs.\n"
+    },
+    {
+        "id": 237,
+        "Question": "Which of the following occurs over a large area such as entire countries or continents?",
+        "Options": [
+            "a) Pandemic",
+            "b) Synergistic",
+            "c) Endemic",
+            "d) Syndemic"
+        ],
+        "Answer": "Answer: a\nExplanation: A pandemic is a term used for an infection that occurs over a large area such as entire countries or continents. It affects the larger proportion of the population and has the potential to spread to multiple countries in today’s ease of global transportation.\n"
+    },
+    {
+        "id": 238,
+        "Question": "Which of the following is the aggregation of two or more epidemics?",
+        "Options": [
+            "a) Endemics",
+            "b) Syndemic",
+            "c) Poly epidemic",
+            "d) Pandemic"
+        ],
+        "Answer": "Answer: b\nExplanation: The aggregation of two or more concurrent or sequential epidemics or disease clusters in a population with the biological interactions that exacerbate the prognosis and burden of disease is known as Syndemic or synergistic.\n"
+    },
+    {
+        "id": 239,
+        "Question": "Which of the following is used in public health operations and research?",
+        "Options": [
+            "a) Molecular epidemiology",
+            "b) Seroepidemiology",
+            "c) Ecoepidemiology",
+            "d) geoepidemiology"
+        ],
+        "Answer": "Answer: b\nExplanation: Seroepidemiology is extremely useful in public health operations and research. For example, serological surveys were used to determine the prevalence and geographic distribution of hepatitis B and C viruses.\n"
+    },
+    {
+        "id": 240,
+        "Question": "The Parvoviridae viruses contain ___________ as their genome.",
+        "Options": [
+            "a) dsDNA",
+            "b) ssDNA",
+            "c) dsRNA",
+            "d) ssRNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The Parvoviridae viruses contain single-stranded DNA of very limited coding potential as their genome with a simple icosahedral shell surrounding the genome. They are the smallest of all the human viruses.\n"
+    },
+    {
+        "id": 241,
+        "Question": "The replication of parvovirus genome occurs in ___________",
+        "Options": [
+            "a) nucleus",
+            "b) cytoplasm",
+            "c) golgi bodies",
+            "d) vacuoles"
+        ],
+        "Answer": "Answer: a\nExplanation: The replication of the parvovirus genome occurs in the nucleus of the cell. The conversion of DNA to RNA also occur there, that is, transcription and non-structural proteins also accumulate there.\n"
+    },
+    {
+        "id": 242,
+        "Question": "The parvovirus B19 belongs to the genus _____________",
+        "Options": [
+            "a) Erythrovirus",
+            "b) Ampulla virus",
+            "c) Babuvirus",
+            "d) Ebolavirus"
+        ],
+        "Answer": "Answer: a\nExplanation: The parvovirus B19 belongs to the genus Erythrovirus. It was originally isolated from the blood of healthy donors. It causes a range of distinct clinical syndromes such as chronic anemia in immunodeficiency syndromes.\n"
+    },
+    {
+        "id": 243,
+        "Question": "Which of the following is also known as “fifth disease”?",
+        "Options": [
+            "a) Arthritis",
+            "b) Aplastic crisis",
+            "c) Hydrops fetalis",
+            "d) Erythema infectiosum"
+        ],
+        "Answer": "Answer: d\nExplanation: Erythema infectiosum is also known as the “fifth disease” and it is the commonest clinical syndrome caused by parvovirus B19. It is a mild self-limited condition seen in normal children and adults.\n"
+    },
+    {
+        "id": 244,
+        "Question": "Which of the following viruses help dependovirus for replication?",
+        "Options": [
+            "a) Adenovirus",
+            "b) Rhinovirus",
+            "c) Reovirus",
+            "d) Influenza virus"
+        ],
+        "Answer": "Answer: a\nExplanation: Adenoviruses acts as a helper virus that helps in the replication of dependovirus. However, all the dependovirus does not require adenovirus for replication. The herpes virus may also act as a helper and some dependovirus may replicate even in the absence of helper viruses.\n"
+    },
+    {
+        "id": 245,
+        "Question": "The Papovaviridae consists of _______________ genome.",
+        "Options": [
+            "a) circular dsDNA",
+            "b) linear dsDNA",
+            "c) circular dsRNA",
+            "d) linear dsRNA"
+        ],
+        "Answer": "Answer: a\nExplanation: The family Papovaviridae consists of circular supercoiled double-stranded DNA as their genome. The family consists of two genera Papillomavirus and Polyomavirus, with papillomavirus having a larger genome and a larger virion.\n"
+    },
+    {
+        "id": 246,
+        "Question": "Which of the following virus infects most children before the age of 10?",
+        "Options": [
+            "a) JC polyomavirus",
+            "b) BK polyomavirus",
+            "c) Papillomavirus",
+            "d) Dependovirus"
+        ],
+        "Answer": "Answer: b\nExplanation: The BK polyomaviruses are the viruses that infect most children before the age of 10. It may sometimes be associated with mild upper respiratory symptoms and the genome may persist for life in the kidney without any ill effects.\n"
+    },
+    {
+        "id": 247,
+        "Question": "Which of the following is the demyelinating disease of the CNS?",
+        "Options": [
+            "a) PML",
+            "b) NET",
+            "c) LPB",
+            "d) MST"
+        ],
+        "Answer": "Answer: a\nExplanation: Progressive Multifocal Leukoencephalopathy (PML) is the rare subacute demyelinating disease of the central nervous system (CNS). It is seen as a complication of conditions such as Hodgkin’s disease.\n"
+    },
+    {
+        "id": 248,
+        "Question": "Which of the following has served as the gold standard for the identification of the HPV genome?",
+        "Options": [
+            "a) Southern Blot Hybridization",
+            "b) Northern Blot Hybridization",
+            "c) Eastern Blot Hybridization",
+            "d) Western Blot Hybridization"
+        ],
+        "Answer": "Answer: a\nExplanation: The Southern blot hybridization has served as the gold standard for the identification of human papillomavirus genome as HPV consists of double-stranded DNA as their genome. The advantage of the method is it offers high specificity and high sensitivity.\n"
+    },
+    {
+        "id": 249,
+        "Question": "The herpesvirus virion’s inner core is surrounded by ____________",
+        "Options": [
+            "a) amorphous legument",
+            "b) icosahedral capsid",
+            "c) envelope",
+            "d) spikes"
+        ],
+        "Answer": "Answer: b\nExplanation: The virion of herpes virus comprises of four concentric layers: an inner core that is surrounded by an icosahedral capsid, then an amorphous legument and finally an envelope.\n"
+    },
+    {
+        "id": 250,
+        "Question": "The herpes virus contains __________ genome.",
+        "Options": [
+            "a) linear dsDNA",
+            "b) circular dsDNA",
+            "c) linear ssDNA",
+            "d) circular ssDNA"
+        ],
+        "Answer": "Answer: a\nExplanation: The herpes virus possesses linear double-stranded DNA as its genome. The DNA genome is wound like a ball of wool and is associated with a protein core with the shape of the torus which appears to be suspended by fibrils anchored to the inner side of the surrounding capsid.\n"
+    },
+    {
+        "id": 251,
+        "Question": "Which of the following subfamily contains the Epstein-Barr virus?",
+        "Options": [
+            "a) Alphaherpesviridae",
+            "b) Betaherpesviridae",
+            "c) Gammaherpesviridae",
+            "d) Thetaherpesviridae"
+        ],
+        "Answer": "Answer: c\nExplanation: The subfamily Gammaherpesviridae contains the Epstein-Barr virus. It replicates in the lymphoid cells and may also be cytocidal for epithelial cells and the viral latency is observed in lymphoid tissue.\n"
+    },
+    {
+        "id": 252,
+        "Question": "Which of the following glycoprotein prevents the primary infection from the HSV?",
+        "Options": [
+            "a) gA",
+            "b) gB",
+            "c) gC",
+            "d) gE"
+        ],
+        "Answer": "Answer: b\nExplanation: The glycoprotein mainly gB and gD prevents the primary infection from the herpes simplex virus. The glycoproteins limit the spread of herpes simplex virus from epithelial cells to nerve endings.\n"
+    },
+    {
+        "id": 253,
+        "Question": "Which of the following glycoprotein forms the receptor for the Fc domain of IgG antibody?",
+        "Options": [
+            "a) gD",
+            "b) gB",
+            "c) gA",
+            "d) gE"
+        ],
+        "Answer": "Answer: d\nExplanation: The glycoprotein gE and gI form the receptor for the Fc domain of IgG antibody. This is found on the surface of both virions and infected cells. It can also protect from immunological attack or the bipolar bridging of the HSV antibody.\n"
+    },
+    {
+        "id": 254,
+        "Question": "The Epstein-Barr virus replicates in the epithelial cells of the _______________",
+        "Options": [
+            "a) pancreatic glands",
+            "b) salivary glands",
+            "c) skin",
+            "d) kidney"
+        ],
+        "Answer": "Answer: b\nExplanation: The Epstein-Barr virus replicates in the epithelial cells of the salivary glands. It especially occurs in the parotid, lysing them and releasing the infectious virions into saliva. The replication also occurs in the epithelial cells of the nasopharynx.\n"
+    },
+    {
+        "id": 255,
+        "Question": "Which of the following poxvirus causes Milker’s nodes?",
+        "Options": [
+            "a) Orthopoxvirus",
+            "b) Yatapoxvirus",
+            "c) Molluscpoxvirus",
+            "d) Parapoxvirus"
+        ],
+        "Answer": "Answer: d\nExplanation: The Parapoxvirus causes Milker’s nodes. It is a trivial localized nodular infection of hands that is acquired from cows. Sometimes it is also called cowpox although it is a different condition from cowpox.\n"
+    },
+    {
+        "id": 256,
+        "Question": "Which of the following disease is caused by Orthopoxvirus?",
+        "Options": [
+            "a) Yabapox",
+            "b) Tanapox",
+            "c) Monkeypox",
+            "d) Orf"
+        ],
+        "Answer": "Answer: c\nExplanation: The Orthopoxvirus causes diseases such as monkeypox, cowpox, smallpox, etc. It is a zoonotic disease and can spread to humans from a bite of an infected animal or direct contact with the animal. It can also spread from person to person.\n"
+    },
+    {
+        "id": 257,
+        "Question": "Which of the following virus is ether-sensitive?",
+        "Options": [
+            "a) Orthopoxvirus",
+            "b) Yatapoxvirus",
+            "c) Molluscpoxvirus",
+            "d) Parapoxvirus"
+        ],
+        "Answer": "Answer: d\nExplanation: Parapoxviruses are ether-sensitive viruses whereas Orthopoxviruses are ether-resistant viruses. Poxviruses are resistant to ambient temperature. It may survive in dried scales for many years.\n"
+    },
+    {
+        "id": 258,
+        "Question": "The infectivity of orthoreovirus can be increased by __________",
+        "Options": [
+            "a) increasing the temperature",
+            "b) increasing the exposure to proteolytic enzymes",
+            "c) increasing the pH",
+            "d) increasing the pressure"
+        ],
+        "Answer": "Answer: b\nExplanation: The infectivity of orthoreovirus can be increased by increasing the exposure to the proteolytic enzymes that are usually encountered in the gut. However, they are stable to heat and pH 3.\n"
+    },
+    {
+        "id": 259,
+        "Question": "The rotaviruses were discovered in ____________",
+        "Options": [
+            "a) India",
+            "b) Australia",
+            "c) Africa",
+            "d) UK"
+        ],
+        "Answer": "Answer: b\nExplanation: The rotaviruses were discovered in Australia in 1973. It was first discovered in duodenal biopsies, then in feces of children with gastroenteritis in Melbourne. The rotaviruses quickly became the commonest cause of gastroenteritis in infants and are responsible for millions of deaths each year.\n"
+    },
+    {
+        "id": 260,
+        "Question": "Which of the following is the common clinical feature of infection caused by rotavirus?",
+        "Options": [
+            "a) Asymptomatic infection",
+            "b) Leukemia",
+            "c) Pneumonia",
+            "d) Bronchitis"
+        ],
+        "Answer": "Answer: a\nExplanation: Asymptomatic infection is the common clinical features of infection caused by the rotavirus. It is common in older children and adults. Sometimes, death may also occur in well-nourished children, a however large number of people die in poorer tropical countries.\n"
+    },
+    {
+        "id": 261,
+        "Question": "The capsomers of Orbivirus are ___________",
+        "Options": [
+            "a) hairpin shaped",
+            "b) rectangular shaped",
+            "c) ring-shaped",
+            "d) triangular shaped"
+        ],
+        "Answer": "Answer: c\nExplanation: The capsomers of Orbivirus are ring-shaped or a large doughnut-shaped. The term Orbis means a ring or a circle and hence the virus gets its name as Orbivirus. It contains 10 molecules of double-stranded DNA as its genome.\n"
+    },
+    {
+        "id": 262,
+        "Question": "When was the first reovirus isolated?",
+        "Options": [
+            "a) 1944",
+            "b) 1951",
+            "c) 1955",
+            "d) 1961"
+        ],
+        "Answer": "Answer: b\nExplanation: The first reovirus was isolated in the year 1951. It was isolated from the feces of an Australian aboriginal child, by inoculation of infant mice. Reoviruses are one of the three serotypes of mammalian reoviruses belonging to the genus Orthoreovirus.\n"
+    },
+    {
+        "id": 263,
+        "Question": "The Puumala virus belongs to the genus _____________",
+        "Options": [
+            "a) Phlebovirus",
+            "b) Nairovirus",
+            "c) Bunyavirus",
+            "d) Hantavirus"
+        ],
+        "Answer": "Answer: d\nExplanation: The Puumala virus belongs to the genus Hantavirus of the family Bunyaviridae. It causes nephropathy in humans and may also develop a hemorrhagic fever with renal syndrome.\n"
+    },
+    {
+        "id": 264,
+        "Question": "Which of the following belongs to the Bunyavirus genera?",
+        "Options": [
+            "a) Oropouche",
+            "b) Rift Valley fever",
+            "c) Seoul",
+            "d) Belgrade"
+        ],
+        "Answer": "Answer: a\nExplanation: Oropouche viruses belong to the Bunyavirus genera. The virus mainly causes fever, arthralgia, myalgia, etc. it may also cause a rapid fever illness called Oropouche fever. The rift valley fever virus belongs to Phlebovirus genera whereas Seoul and Belgrade viruses belong to Hantavirus genera.\n"
+    },
+    {
+        "id": 265,
+        "Question": "Which of the following cannot detect the growth of Bunyavirus in cultured cells?",
+        "Options": [
+            "a) Immunofluorescence",
+            "b) Hemagglutination",
+            "c) ELISA",
+            "d) PCR"
+        ],
+        "Answer": "Answer: d\nExplanation: The growth of Bunyavirus in cultured cells can be detected by immunofluorescence, hemagglutination, ELISA or Enzyme-Linked Assay (EIA). The isolated virus is assigned to a particular serogroup by complement fixation test.\n"
+    },
+    {
+        "id": 266,
+        "Question": "Which of the following is used to screen the population of antibodies?",
+        "Options": [
+            "a) PCR",
+            "b) Serology",
+            "c) Agarose Gel Electrophoresis",
+            "d) Chromatography"
+        ],
+        "Answer": "Answer: b\nExplanation: Serology is often used to screen the population of antibodies and is also used to diagnose illness using paired sera or specific IgM assays. The complement fixation test, EIA, neutralization, and immunofluorescence can also be used for this purpose.\n"
+    },
+    {
+        "id": 267,
+        "Question": "The genome of picornavirus consists of _____________ protein linked to its 5’ end.",
+        "Options": [
+            "a) VPa",
+            "b) VPg",
+            "c) VPk",
+            "d) VPd"
+        ],
+        "Answer": "Answer: b\nExplanation: The genome of picornavirus consists of VPg protein linked covalently to its 5’ end. It consists of a single linear molecule of single-stranded RNA of positive polarity and polyadenylated at its 3’ end.\n"
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following viruses multiply in the nose?",
+        "Options": [
+            "a) Enterovirus",
+            "b) Hepatovirus",
+            "c) Rhinovirus",
+            "d) Reovirus"
+        ],
+        "Answer": "Answer: c\nExplanation: Rhinoviruses are the viruses of the family Picornaviridae that multiply in the nose. They are acid-labile and they also have a substantially greater buoyant density by cesium chloride equilibrium gradient centrifugation.\n"
+    },
+    {
+        "id": 269,
+        "Question": "The size of the genome of togavirus is _____________",
+        "Options": [
+            "a) 13 – 17 kb",
+            "b) 4 – 5 kb",
+            "c) 20 – 21 kb",
+            "d) 11 – 12 kb"
+        ],
+        "Answer": "Answer: d\nExplanation: The size of the genome of togavirus is 11 – 12 kilobases and it consists of a single linear molecule of single-stranded polarity that is infectious. It is capped at 5’ end and polyadenylated at 3’ end and is easily inactivated by disinfectants.\n"
+    },
+    {
+        "id": 270,
+        "Question": "Which of the following virus is spread by Anopheles funestus?",
+        "Options": [
+            "a) Chikungunya virus",
+            "b) Mayaro virus",
+            "c) O’nyong-nyong virus",
+            "d) Ross River virus"
+        ],
+        "Answer": "Answer: c\nExplanation: O’nyong-nyong virus is spread by Anopheles funestus and A gambiae. It is the only known human arboviral pathogen with anopheline mosquitoes as a vector. The vertebrate reservoir of the virus is unknown.\n"
+    },
+    {
+        "id": 271,
+        "Question": "Mayaro viruses are spread by _______________",
+        "Options": [
+            "a) Anopheles funestus",
+            "b) Anopheles gambiae",
+            "c) Aedes aegypti",
+            "d) Haemagogus"
+        ],
+        "Answer": "Answer: d\nExplanation: Mayaro viruses are spread by Haemagogus mosquitoes from a primate reservoir. It occurs in the forested region of Central and South America and causes a widespread human infection.\n"
+    },
+    {
+        "id": 272,
+        "Question": "The hepatitis C virus was discovered in __________",
+        "Options": [
+            "a) 1999",
+            "b) 1989",
+            "c) 1985",
+            "d) 1979"
+        ],
+        "Answer": "Answer: b\nExplanation: The hepatitis C virus was discovered in the year 1989 by a tour de force of molecular biology. Its virion has neither been visualized nor cultivated and it is the most common cause of posttransfusion hepatitis.\n"
+    },
+    {
+        "id": 273,
+        "Question": "The Flavivirus consists of ____________ as its genome.",
+        "Options": [
+            "a) ssDNA",
+            "b) dsDNA",
+            "c) dsRNA",
+            "d) ssRNA"
+        ],
+        "Answer": "Answer: d\nExplanation: The Flavivirus consists of single-stranded RNA as its genome. It is a single linear 11kb molecule of positive polarity. It is capped at 5’ end but not polyadenylated at 3’ end and hence, it is infectious.\n"
+    },
+    {
+        "id": 274,
+        "Question": "The proliferation of flavivirus is accompanied by the _____________",
+        "Options": [
+            "a) mitochondria",
+            "b) nucleus",
+            "c) endoplasmic reticulum",
+            "d) golgi body"
+        ],
+        "Answer": "Answer: c\nExplanation: The proliferation of flavivirus is accompanied by both smooth endoplasmic reticulum (SER) and rough endoplasmic reticulum (RER). The replication occurs in the cytoplasm and the incoming RNA directly serves as a messenger.\n"
+    },
+    {
+        "id": 275,
+        "Question": "In which of the following case the virus replicates in Kupffer cells?",
+        "Options": [
+            "a) Yellow fever",
+            "b) Dengue fever",
+            "c) Malaria fever",
+            "d) Sandfly fever"
+        ],
+        "Answer": "Answer: a\nExplanation: Yellow fever is a hemorrhagic fever in which the liver is the major target and the virus replicates in the Kupffer cells. This results in a decrease in the rate of formation of prothrombin and leads to jaundice.\n"
+    },
+    {
+        "id": 276,
+        "Question": "Which of the following virus is maintained in a Culex – bird cycle?",
+        "Options": [
+            "a) West Nile virus",
+            "b) Kunjin virus",
+            "c) Tick-borne virus",
+            "d) Dengue virus"
+        ],
+        "Answer": "Answer: a\nExplanation: The West Nile virus is maintained in a Culex – bird cycle. It is an endemic disease and causes illness like dengue and sometimes also causes encephalitis. It also infects ticks.\n"
+    },
+    {
+        "id": 277,
+        "Question": "The size of HCV genome is _____________",
+        "Options": [
+            "a) 10 kb",
+            "b) 10.5 kb",
+            "c) 9.5 kb",
+            "d) 9 kb"
+        ],
+        "Answer": "Answer: c\nExplanation: The size of the hepatitis C virus genome is 9.5 kilobases. It consists of single-stranded RNA of positive polarity. It encodes a polyprotein of about 3000 amino acids flanked by untranslated sequences.\n"
+    },
+    {
+        "id": 278,
+        "Question": "The filoviruses are classified as __________________ pathogens.",
+        "Options": [
+            "a) Biosafety level 4",
+            "b) Biosafety level 1",
+            "c) Biosafety level 3",
+            "d) Biosafety level 2"
+        ],
+        "Answer": "Answer: a\nExplanation: The filoviruses are classified as Biosafety level 4 pathogens. It must be handled only in maximum security laboratories. It can be isolated from blood and can also be grown well in Vero cells.\n"
+    },
+    {
+        "id": 279,
+        "Question": "Who described the first human retrovirus?",
+        "Options": [
+            "a) Peyton Rous",
+            "b) Bob Gallo",
+            "c) Temin",
+            "d) Baltimore"
+        ],
+        "Answer": "Answer: b\nExplanation: Bob Gallo and his colleagues in the year 1980 described the first human retroviruses which caused the adult T cell leukemia. Gallo was also instrumental in confirming and extending the discovery by Luc Montagnier.\n"
+    },
+    {
+        "id": 280,
+        "Question": "The virions of retrovirus are ___________",
+        "Options": [
+            "a) conical",
+            "b) rod-shaped",
+            "c) spherical",
+            "d) rhombical"
+        ],
+        "Answer": "Answer: c\nExplanation: The virions of retroviruses are spherical with 80 – 100 nm in diameter and have a unique three-layered structure. The structure is enclosed within a capsid and appears icosahedral.\n"
+    },
+    {
+        "id": 281,
+        "Question": "Which of the following gene activates the expression of all of its genes as well as certain cellular genes?",
+        "Options": [
+            "a) gag",
+            "b) pol",
+            "c) env",
+            "d) lax"
+        ],
+        "Answer": "Answer: d\nExplanation: Lax is the regulatory gene, present in HTLV-1, that transactivates the expression of all its genes as well as certain cellular genes. The HTLV-1 is the only human retrovirus that does not contain any oncogenes.\n"
+    },
+    {
+        "id": 282,
+        "Question": "Which of the following is the demyelination of the long motor neuron tracts in the spinal cord?",
+        "Options": [
+            "a) TSP",
+            "b) ATL",
+            "c) AIDS",
+            "d) Cancer"
+        ],
+        "Answer": "Answer: a\nExplanation: Tropical spastic paraparesis (TSP) is progressive demyelination of the long motor neuron tracts in the spinal cord. It is also known as HTLV-1 associated myelopathy that is mainly seen in 20 to 50-year-old women.\n"
+    },
+    {
+        "id": 283,
+        "Question": "Which of the following causes AIDS in rhesus monkeys?",
+        "Options": [
+            "a) HIV",
+            "b) Spumavirus",
+            "c) SIV",
+            "d) DIV"
+        ],
+        "Answer": "Answer: c\nExplanation: Simian Immunodeficiency Virus (SIV) causes AIDS in rhesus (Asian) monkeys. The SIV belongs to the lentivirus genera and may occasionally infect humans but there no indication of SIV causing disease in humans.\n"
+    },
+    {
+        "id": 284,
+        "Question": "The genome of Hepadnavirus is _______________",
+        "Options": [
+            "a) circular dsDNA",
+            "b) linear dsDNA",
+            "c) circular ssDNA",
+            "d) linear ssDNA"
+        ],
+        "Answer": "Answer: b\nExplanation: The Human Spumavirus is the exogenous retroviruses that do not contain oncogenes. They comprise a group of “foamy virus” that cause inapparent persistent infections but have not yet been proved to cause any disease.\n"
+    },
+    {
+        "id": 285,
+        "Question": "Which of the following is also known as Deltavirus?",
+        "Options": [
+            "a) Hepatitis B",
+            "b) Hepatitis A",
+            "c) Hepatitis C",
+            "d) Hepatitis D"
+        ],
+        "Answer": "Answer: a\nExplanation: The genome of Hepadnavirus is a circular double-stranded DNA of the size 3.2 kilobase pairs. It consists of plus and minus strands in which plus strand is incomplete and minus strand is complete but contains discontinuity (nicks) at a unique site.\n"
+    },
+    {
+        "id": 286,
+        "Question": "Who detected the novel antigen delta?",
+        "Options": [
+            "a) Rizzetto",
+            "b) Watson",
+            "c) Franklin",
+            "d) Crick"
+        ],
+        "Answer": "Answer: d\nExplanation: Hepatitis D is also known as Deltavirus and is unique among human viruses and some regard it as a subviral agent falling outside the definition of a virus. It consists of single-stranded RNA as its genome.\n"
+    },
+    {
+        "id": 287,
+        "Question": "The assembly of virion of papillomavirus occurs in the ___________",
+        "Options": [
+            "a) mitochondria",
+            "b) nucleus",
+            "c) cytoplasm",
+            "d) plasma membrane"
+        ],
+        "Answer": "Answer: b\nExplanation: The assembly of virion of papillomavirus occurs in the nucleus of the host cell. The viral genome migrates to the nucleus where transcription, DNA replication, and virion assembly occurs.\n"
+    },
+    {
+        "id": 288,
+        "Question": "Which of the following is the disease of the skin caused by papillomaviruses?",
+        "Options": [
+            "a) Flat wart",
+            "b) Epithelial hyperplasia",
+            "c) Oral papilloma",
+            "d) Genital malignancies"
+        ],
+        "Answer": "Answer: a\nExplanation: Flat wart is a skin disease caused by papillomaviruses and is mostly found in children and young adults. It is also known as juvenile warts. They disappear on their own and do not require any treatment.\n"
+    },
+    {
+        "id": 289,
+        "Question": "Which of the following is a genital tract infection?",
+        "Options": [
+            "a) Butcher’s wart",
+            "b) Epidermodysplasia verruciformis",
+            "c) Epithelial hyperplasia",
+            "d) Condyloma acuminatum"
+        ],
+        "Answer": "Answer: d\nExplanation: Condyloma acuminatum is a genital tract infection caused by papillomaviruses. It is caused by certain types of papillomavirus and is a sexually transmitted infection. It is also known as genital warts or anogenital warts.\n"
+    }
+]
