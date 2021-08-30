@@ -27,6 +27,11 @@ app.get("/api/:fname", async (req, res) => {
   res.json(json);
 });
 
+//default message to invalid route
+app.get("*", (req, res) => {
+  res.send("Invalid route \n use /api/titleName");
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
