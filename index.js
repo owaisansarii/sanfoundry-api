@@ -36,12 +36,6 @@ app.get("/api/:fname", async (req, res) => {
     total,
     result,
   });
-  // let json = await getJsonFile(fname).find()({}, { limit, skip });
-  // res.json({
-  //   page,
-  //   size,
-  //   data: json,
-  // });
 });
 
 //default message to invalid route
