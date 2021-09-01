@@ -19,17 +19,34 @@ app.use(
 );
 
 app.get("/api/:fname", async (req, res) => {
-  var fname = req.params.fname;
+  let { page, size } = req.query;
+  if (!page) page = 1;
+  if (!size) size = 10;
+  const limit = parseInt(size);
+  const skip = (page - 1) * size;
+
+  let fname = req.params.fname;
   fname = fname.replace(":", "");
   if (fname.includes("/")) fname = fname.replace("/", "-");
   console.log(fname);
-  let json = await getJsonFile(fname);
-  res.json(json);
+  const data = await getJsonFile(fname);
+  const total = data.length;
+  const result = data.slice(skip, skip + limit);
+  res.json({
+    total,
+    result,
+  });
+  // let json = await getJsonFile(fname).find()({}, { limit, skip });
+  // res.json({
+  //   page,
+  //   size,
+  //   data: json,
+  // });
 });
 
 //default message to invalid route
 app.get("*", (req, res) => {
-  res.send("Invalid route \n use /api/titleName");
+  res.send("Invalid route use /api/titleName");
 });
 
 app.listen(PORT, () => {
