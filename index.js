@@ -35,7 +35,7 @@ app.get("/api/:fname", async (req, res) => {
   if (all === "true") {
     res.json({
       total,
-      data,
+      result: data,
     });
   } else {
     res.json({
