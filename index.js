@@ -19,7 +19,7 @@ app.use(
 );
 
 app.get("/api/:fname", async (req, res) => {
-  let { page, size } = req.query;
+  let { page, size, all } = req.query;
   if (!page) page = 1;
   if (!size) size = 10;
   const limit = parseInt(size);
@@ -32,15 +32,22 @@ app.get("/api/:fname", async (req, res) => {
   const data = await getJsonFile(fname);
   const total = data.length;
   const result = data.slice(skip, skip + limit);
-  res.json({
-    total,
-    result,
-  });
+  if (all === "true") {
+    res.json({
+      total,
+      data,
+    });
+  } else {
+    res.json({
+      total,
+      result,
+    });
+  }
 });
 
 //default message to invalid route
 app.get("*", (req, res) => {
-  res.send("Invalid route use /api/titleName");
+  res.send("Invalid route, use /api/titleName");
 });
 
 app.listen(PORT, () => {
